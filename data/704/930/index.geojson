@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.566667,
+          43.516667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7049302",
+          "tgn:1003483",
+          "tgn:1000003",
+          "tgn:7003240",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008699"
+        ],
+        "id": 7049302,
+        "name:xx": "Certano, Torrente"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.283333,
+          43.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7049303",
+          "tgn:7003168",
+          "tgn:1000003",
+          "tgn:7009760",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7049303,
+        "name:xx": "Certano"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1,
+          44.916667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7049306",
+          "tgn:7003131",
+          "tgn:1000003",
+          "tgn:7008516",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7049306,
+        "name:xx": "Cerruti"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.95,
+          45.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7049307",
+          "tgn:7003150",
+          "tgn:1000003",
+          "tgn:7003237",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7049307,
+        "name:xx": "Cerro Maggiore"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6,
+          45.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7049308",
+          "tgn:1003478",
+          "tgn:1000003",
+          "tgn:7003120",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7049308,
+        "name:xx": "Cerro Lago Maggiore"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.983333,
+          41.583333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7049309",
+          "tgn:7003135",
+          "tgn:1000003",
+          "tgn:7003080",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7049309,
+        "name:xx": "Cerro Grosso"
+      }
+    }
+  ]
+}

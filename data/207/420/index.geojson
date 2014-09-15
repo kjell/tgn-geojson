@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5,
+          35.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2074201",
+          "tgn:1000001",
+          "tgn:2001474",
+          "tgn:7012149",
+          "tgn:7007709",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2074201,
+        "name:xx": "Connellys Springs"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2167,
+          35.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2074205",
+          "tgn:1000001",
+          "tgn:2001479",
+          "tgn:7012149",
+          "tgn:7007709",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2074205,
+        "name:xx": "Conover"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2167,
+          36.4333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2074208",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002728",
+          "tgn:7007709",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2074208,
+        "name:xx": "Conway"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4667,
+          35.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2074209",
+          "tgn:1000001",
+          "tgn:2001479",
+          "tgn:7012149",
+          "tgn:7007709",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2074209,
+        "name:xx": "Cooksville"
+      }
+    }
+  ]
+}

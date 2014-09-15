@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9667,
+          35.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001151",
+          "tgn:1000003",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387069",
+          "aat:300387064",
+          "aat:300387394"
+        ],
+        "id": 7001151,
+        "name:xx": "Melilla"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3,
+          35.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001152",
+          "tgn:1000003",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387069",
+          "aat:300387064",
+          "aat:300387394"
+        ],
+        "id": 7001152,
+        "name:xx": "Ceuta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5,
+          42.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001155",
+          "tgn:1000003",
+          "tgn:7002790",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000774"
+        ],
+        "id": 7001155,
+        "name:xx": "Navarra"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.25,
+          41.666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001158",
+          "tgn:1000003",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300387113"
+        ],
+        "id": 7001158,
+        "name:xx": "Castilla y León"
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9667,
+          38.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2010071",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:7014516",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2010071,
+        "name:xx": "Asti"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6333,
+          35.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2010072",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002863",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2010072,
+        "name:xx": "Atascadero"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1833,
+          37.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2010073",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002864",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2010073,
+        "name:xx": "Atherton"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.35,
+          37.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2010076",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002656",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2010076,
+        "name:xx": "Athlone"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1167,
+          37.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2010077",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002861",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2010077,
+        "name:xx": "Atlanta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6,
+          37.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2010079",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002656",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2010079,
+        "name:xx": "Atwater"
+      }
+    }
+  ]
+}

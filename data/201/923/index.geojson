@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35,
+          26.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2019230",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002870",
+          "tgn:7007240",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2019230,
+        "name:xx": "Englewood"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5167,
+          30.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2019236",
+          "tgn:1000001",
+          "tgn:2000265",
+          "tgn:7012149",
+          "tgn:7007240",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2019236,
+        "name:xx": "Enon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2667,
+          30.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2019238",
+          "tgn:1000001",
+          "tgn:2000265",
+          "tgn:7012149",
+          "tgn:7007240",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2019238,
+        "name:xx": "Ensley"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2667,
+          28.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2019239",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002977",
+          "tgn:7007240",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2019239,
+        "name:xx": "Enterprise"
+      }
+    }
+  ]
+}

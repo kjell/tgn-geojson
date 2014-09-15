@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.333333,
+          50.966667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7444375",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008134",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "West Grinstead",
+        "id": 7444375
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7,
+          51.033333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7444376",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008180",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "West Grimstead",
+        "id": 7444376
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.166667,
+          53.466667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7444377",
+          "tgn:7002445",
+          "tgn:7027477",
+          "tgn:1000003",
+          "tgn:7026570",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "name:en": "West Gorton",
+        "id": 7444377
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.35,
+          57.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7444379",
+          "tgn:7002444",
+          "tgn:1000003",
+          "tgn:7008094",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "West Gerinish",
+        "id": 7444379
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.216,
+          53.913
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1125000",
+          "tgn:1000003",
+          "tgn:7006657",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1125000,
+        "name:xx": "Islach"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5333,
+          47.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1125001",
+          "tgn:1000003",
+          "tgn:7012216",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1125001,
+        "name:xx": "Isole"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3333,
+          44.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1125003",
+          "tgn:1002300",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007564",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1125003,
+        "name:xx": "Israel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4333,
+          35.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1125006",
+          "tgn:7001242",
+          "tgn:7016752",
+          "tgn:1000782",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1125006,
+        "name:xx": "Isser, Oued"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.4,
+          35.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1125009",
+          "tgn:1000971",
+          "tgn:1000004",
+          "tgn:7000894",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1125009,
+        "name:xx": "Isumi-gawa"
+      }
+    }
+  ]
+}

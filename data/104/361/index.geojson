@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.55,
+          44.316667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1043610",
+          "tgn:7005126",
+          "tgn:1000003",
+          "tgn:7003120",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1043610,
+        "name:xx": "Boves"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.333333,
+          41.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1043612",
+          "tgn:1003455",
+          "tgn:1000003",
+          "tgn:7010380",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1043612,
+        "name:xx": "Bovino"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.133333,
+          45.616667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1043613",
+          "tgn:7003150",
+          "tgn:1000003",
+          "tgn:7003237",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1043613,
+        "name:xx": "Bovisio"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.116667,
+          45.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1043615",
+          "tgn:7003007",
+          "tgn:1000003",
+          "tgn:7002997",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1043615,
+        "name:xx": "Bovolone"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7,
+          40.816667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1043619",
+          "tgn:7003005",
+          "tgn:7003014",
+          "tgn:1000003",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1043619,
+        "name:xx": "Bracigliano"
+      }
+    }
+  ]
+}

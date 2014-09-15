@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.983333,
+          43.383333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7037900",
+          "tgn:1003429",
+          "tgn:1000003",
+          "tgn:7003240",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7037900,
+        "name:xx": "Valtreara"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.433333,
+          46.433333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7037903",
+          "tgn:1003478",
+          "tgn:1000003",
+          "tgn:7003120",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 7037903,
+        "name:xx": "Valtoggia, Lago di"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.666667,
+          45.716667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7037904",
+          "tgn:7005023",
+          "tgn:7005025",
+          "tgn:1000003",
+          "tgn:7003237",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 7037904,
+        "name:xx": "Valtesse"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.166667,
+          46.616667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7037906",
+          "tgn:1003440",
+          "tgn:1000003",
+          "tgn:7003124",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008699"
+        ],
+        "id": 7037906,
+        "name:xx": "Valsura, Rio"
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4167,
+          38.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2013420",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2013420,
+        "name:xx": "Pope Valley"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1333,
+          36.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2013421",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002956",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2013421,
+        "name:xx": "Poplar"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1667,
+          38.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2013424",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002298",
+          "tgn:7007157",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2013424,
+        "name:xx": "Port Costa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119,
+          36.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2013425",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002956",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389"
+        ],
+        "id": 2013425,
+        "name:xx": "Porterville"
+      }
+    }
+  ]
+}

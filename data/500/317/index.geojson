@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.359167,
+          45.648333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:5003173",
+          "tgn:7002996",
+          "tgn:1000003",
+          "tgn:7002997",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 5003173,
+        "name:xx": "Biancade"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.577778,
+          46.087778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:5003176",
+          "tgn:7002996",
+          "tgn:1000003",
+          "tgn:7002997",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 5003176,
+        "name:xx": "Costa"
+      }
+    }
+  ]
+}

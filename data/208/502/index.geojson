@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7833,
+          44.4333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2085020",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001717",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2085020,
+        "name:xx": "Liberty"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3,
+          44.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2085021",
+          "tgn:7013349",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2085021,
+        "name:xx": "Lime"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4,
+          42.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2085022",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001711",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2085022,
+        "name:xx": "Lincoln"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0333,
+          44.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2085023",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002599",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2085023,
+        "name:xx": "Lincoln Beach"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0167,
+          44.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2085024",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002599",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2085024,
+        "name:xx": "Lincoln City"
+      }
+    }
+  ]
+}

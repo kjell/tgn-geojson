@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.016667,
+          51.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4012021",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008145",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Waltham Cross",
+        "id": 4012021
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.433333,
+          51.383333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4012023",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008175",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Walton-on-Thames",
+        "id": 4012023
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.783333,
+          55.383333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4012027",
+          "tgn:7002444",
+          "tgn:7008074",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Wanlockhead",
+        "id": 4012027
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.85,
+          53.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4012029",
+          "tgn:7003616",
+          "tgn:1000003",
+          "tgn:7016845",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:nl": "Wanswerd",
+        "id": 4012029
+      }
+    }
+  ]
+}

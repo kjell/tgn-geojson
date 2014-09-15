@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8667,
+          42.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1120141",
+          "tgn:1000001",
+          "tgn:2001331",
+          "tgn:7012149",
+          "tgn:7007525",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 1120141,
+        "name:xx": "Merritt Reservoir"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25,
+          37.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1120142",
+          "tgn:1002138",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 1120142,
+        "name:xx": "Merritt, Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6,
+          41.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1120145",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 1120145,
+        "name:xx": "Mianus Reservoir"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9667,
+          30.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1120146",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007240",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 1120146,
+        "name:xx": "Miccosukee, Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8667,
+          39.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1120148",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1003004",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 1120148,
+        "name:xx": "Middle Fork Reservoir"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1167,
+          42.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1120149",
+          "tgn:1000001",
+          "tgn:1002665",
+          "tgn:7012149",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 1120149,
+        "name:xx": "Middle Reservoir"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9667,
+          35.8167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1129860",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007825",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1129860,
+        "name:xx": "Sequatchie"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9333,
+          1.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1129865",
+          "tgn:1000004",
+          "tgn:1000138",
+          "tgn:7000381",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1129865,
+        "name:xx": "Serangoon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.266667,
+          43.783333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1129867",
+          "tgn:7003166",
+          "tgn:1000003",
+          "tgn:7009760",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707",
+          "aat:300008699"
+        ],
+        "id": 1129867,
+        "name:xx": "Serchio"
+      }
+    }
+  ]
+}

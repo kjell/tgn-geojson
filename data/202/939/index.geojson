@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.95,
+          41.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2029394",
+          "tgn:1000001",
+          "tgn:7019013",
+          "tgn:7012149",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2029394,
+        "name:xx": "Oakbrook Terrace"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5,
+          38.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2029395",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002991",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2029395,
+        "name:xx": "Oakdale"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.95,
+          40.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2029397",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002655",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2029397,
+        "name:xx": "Oakford"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7333,
+          41.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2029398",
+          "tgn:1000001",
+          "tgn:7013649",
+          "tgn:7012149",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2029398,
+        "name:xx": "Oak Forest"
+      }
+    }
+  ]
+}

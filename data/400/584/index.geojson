@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9833,
+          48.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4005845",
+          "tgn:7027131",
+          "tgn:1000003",
+          "tgn:7011765",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4005845,
+        "name:xx": "Kraskovo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.05,
+          48.066667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4005847",
+          "tgn:7003692",
+          "tgn:1000003",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4005847,
+        "name:xx": "Kreenheinstetten"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5,
+          42.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4005849",
+          "tgn:7018759",
+          "tgn:1000003",
+          "tgn:7006413",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4005849,
+        "name:xx": "Kremikovtsi"
+      }
+    }
+  ]
+}

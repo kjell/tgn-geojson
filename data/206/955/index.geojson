@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9833,
+          42.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2069552",
+          "tgn:1000001",
+          "tgn:1002328",
+          "tgn:7012149",
+          "tgn:7007568",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2069552,
+        "name:xx": "Hamden"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4833,
+          42.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2069556",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002624",
+          "tgn:7007568",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2069556,
+        "name:xx": "Hamilton Center"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4,
+          43.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2069557",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7014287",
+          "tgn:7007568",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006610"
+        ],
+        "id": 2069557,
+        "name:xx": "Hamilton College"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1333,
+          42.3667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2069558",
+          "tgn:1000001",
+          "tgn:1002259",
+          "tgn:7012149",
+          "tgn:7007568",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2069558,
+        "name:xx": "Hamlet"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9167,
+          43.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2069559",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002681",
+          "tgn:7007568",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2069559,
+        "name:xx": "Hamlin"
+      }
+    }
+  ]
+}

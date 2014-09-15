@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3167,
+          35.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2066760",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001453",
+          "tgn:7007566",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2066760,
+        "name:xx": "Canoncito"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9833,
+          36.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2066766",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001449",
+          "tgn:7007566",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2066766,
+        "name:xx": "Canova"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7333,
+          34.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2066767",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007566",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2066767,
+        "name:xx": "Cantara"
+      }
+    }
+  ]
+}

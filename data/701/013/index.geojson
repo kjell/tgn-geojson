@@ -1,0 +1,189 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.083333,
+          40.783333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010130",
+          "tgn:7003013",
+          "tgn:7003005",
+          "tgn:1000003",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008372",
+          "aat:300164060",
+          "aat:300120599"
+        ],
+        "id": 7010130,
+        "name:xx": "Miseno"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5,
+          55.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010132",
+          "tgn:1000004",
+          "tgn:7011573",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7010132,
+        "name:xx": "Elektrostal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1167,
+          51.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010133",
+          "tgn:1000004",
+          "tgn:1003408",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300120599"
+        ],
+        "id": 7010133,
+        "name:xx": "Engels"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.7667,
+          40.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010135",
+          "tgn:7012251",
+          "tgn:1000004",
+          "tgn:7006661",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387223",
+          "aat:300008375"
+        ],
+        "name:en": "Fergana",
+        "id": 7010135
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.75,
+          48.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010136",
+          "tgn:1000003",
+          "tgn:7012067",
+          "tgn:7006660",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7010136,
+        "name:xx": "Frunze"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.2,
+          58.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010137",
+          "tgn:1000004",
+          "tgn:4005827",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7010137,
+        "name:xx": "Galich"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31,
+          52.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010138",
+          "tgn:7012187",
+          "tgn:1000003",
+          "tgn:7006657",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300005135",
+          "aat:300387220",
+          "aat:300387302",
+          "aat:300120599"
+        ],
+        "id": 7010138,
+        "name:xx": "Gomel"
+      }
+    }
+  ]
+}

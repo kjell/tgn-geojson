@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4,
+          -32.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1131850",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1131850,
+        "name:xx": "Wit-Keirivier"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.05,
+          52.933333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1131852",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707",
+          "aat:300008699"
+        ],
+        "name:en": "Witham",
+        "id": 1131852
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8167,
+          28.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1131853",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007240",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1131853,
+        "name:xx": "Withlacoochee"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.283,
+          -26.366
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1131855",
+          "tgn:7001242",
+          "tgn:7017576",
+          "tgn:1000193",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1131855,
+        "name:xx": "Withokspruit"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.745468,
+          52.445332
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1131856",
+          "tgn:1000003",
+          "tgn:7006366",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1131856,
+        "name:xx": "Wkra"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9,
+          52.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1131857",
+          "tgn:7002443",
+          "tgn:1000003",
+          "tgn:7029493",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707",
+          "aat:300008699"
+        ],
+        "name:en": "Wnion",
+        "id": 1131857
+      }
+    }
+  ]
+}

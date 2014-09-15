@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9167,
+          34.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2095323",
+          "tgn:1000001",
+          "tgn:2001736",
+          "tgn:7012149",
+          "tgn:7007712",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2095323,
+        "name:xx": "Beckhamville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8833,
+          33.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2095324",
+          "tgn:2001726",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007712",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2095324,
+        "name:xx": "Beech Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2833,
+          33.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2095327",
+          "tgn:1000001",
+          "tgn:2001746",
+          "tgn:7012149",
+          "tgn:7007712",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2095327,
+        "name:xx": "Belle Isle Gardens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3833,
+          34.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2095329",
+          "tgn:1000001",
+          "tgn:2001747",
+          "tgn:7012149",
+          "tgn:7007712",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2095329,
+        "name:xx": "Belle Meade"
+      }
+    }
+  ]
+}

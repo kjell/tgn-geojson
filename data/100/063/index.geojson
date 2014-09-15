@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          11
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000635",
+          "tgn:7001242",
+          "tgn:1000208",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300182722"
+        ],
+        "id": 1000635,
+        "name:xx": "Hauts-Bassins"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8333,
+          -9.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000637",
+          "tgn:1000002",
+          "tgn:1000056",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000772",
+          "aat:300236112"
+        ],
+        "id": 1000637,
+        "name:xx": "Huánuco"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75,
+          -13
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000638",
+          "tgn:1000002",
+          "tgn:1000056",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000772",
+          "aat:300236112"
+        ],
+        "id": 1000638,
+        "name:xx": "Huancavelica"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5833,
+          15.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000639",
+          "tgn:1000001",
+          "tgn:7005493",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008631",
+          "aat:300387064",
+          "aat:300000772"
+        ],
+        "id": 1000639,
+        "name:xx": "Huehuetenango"
+      }
+    }
+  ]
+}

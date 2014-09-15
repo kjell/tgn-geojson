@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8,
+          51.816667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7272040",
+          "tgn:1000003",
+          "tgn:7003632",
+          "tgn:7016845",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006163"
+        ],
+        "name:nl": "Stededijk, Polder",
+        "id": 7272040
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.766667,
+          52.266667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7272043",
+          "tgn:7003619",
+          "tgn:1000003",
+          "tgn:7016845",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "name:nl": "Staverden",
+        "id": 7272043
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.733333,
+          52.283333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7272044",
+          "tgn:7003619",
+          "tgn:1000003",
+          "tgn:7016845",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:nl": "Staverden",
+        "id": 7272044
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8,
+          52.233333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7272046",
+          "tgn:1000003",
+          "tgn:7006951",
+          "tgn:7016845",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006163"
+        ],
+        "name:nl": "Uithoornsche Polder",
+        "id": 7272046
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.65,
+          52.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7272049",
+          "tgn:7003616",
+          "tgn:1000003",
+          "tgn:7016845",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006163"
+        ],
+        "name:nl": "Uitheiingpolder",
+        "id": 7272049
+      }
+    }
+  ]
+}

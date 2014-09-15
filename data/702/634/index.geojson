@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.483333,
+          50.383333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7026341",
+          "tgn:1000003",
+          "tgn:7003682",
+          "tgn:1040204",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745",
+          "aat:300000810",
+          "aat:300008375"
+        ],
+        "id": 7026341,
+        "name:xx": "Kärlich"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3167,
+          43.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7026342",
+          "tgn:1000003",
+          "tgn:7002885",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810"
+        ],
+        "id": 7026342,
+        "name:xx": "Les Martys"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6833,
+          45.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7026343",
+          "tgn:1000003",
+          "tgn:7001095",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7026343,
+        "name:xx": "Les Martys"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1,
+          43.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7026346",
+          "tgn:1000003",
+          "tgn:7006669",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300387006"
+        ],
+        "id": 7026346,
+        "name:xx": "Blagotin"
+      }
+    }
+  ]
+}

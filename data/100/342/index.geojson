@@ -1,0 +1,129 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39,
+          56
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1003421",
+          "tgn:1000004",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300235107"
+        ],
+        "id": 1003421,
+        "name:xx": "Vladimirskaya Oblast'"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25,
+          51
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1003422",
+          "tgn:1000003",
+          "tgn:7006660",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300235107"
+        ],
+        "id": 1003422,
+        "name:xx": "Volyn"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40,
+          51
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1003424",
+          "tgn:1000004",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300235107"
+        ],
+        "id": 1003424,
+        "name:xx": "Voronezhskaya Oblast'"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7,
+          44.816667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1003428",
+          "tgn:1000003",
+          "tgn:7003120",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000774"
+        ],
+        "id": 1003428,
+        "name:xx": "Alessandria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.166667,
+          43.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1003429",
+          "tgn:1000003",
+          "tgn:7003240",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000774"
+        ],
+        "id": 1003429,
+        "name:xx": "Ancona"
+      }
+    }
+  ]
+}

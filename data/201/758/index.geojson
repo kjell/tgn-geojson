@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4333,
+          41.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017584",
+          "tgn:1002366",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007159",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2017584,
+        "name:xx": "West Redding"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.85,
+          41.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017585",
+          "tgn:1000001",
+          "tgn:1002461",
+          "tgn:7012149",
+          "tgn:7007159",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2017585,
+        "name:xx": "West Simsbury"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.35,
+          41.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017586",
+          "tgn:1000001",
+          "tgn:1002949",
+          "tgn:7012149",
+          "tgn:7007159",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2017586,
+        "name:xx": "West Stafford"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6833,
+          41.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017587",
+          "tgn:1000001",
+          "tgn:1002461",
+          "tgn:7012149",
+          "tgn:7007159",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2017587,
+        "name:xx": "West Suffield"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9,
+          41.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017588",
+          "tgn:1000001",
+          "tgn:1003028",
+          "tgn:7012149",
+          "tgn:7007159",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2017588,
+        "name:xx": "West Thompson"
+      }
+    }
+  ]
+}

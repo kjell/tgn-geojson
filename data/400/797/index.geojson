@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.445556,
+          51.029167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4007971",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7012032",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "North Cheriton",
+        "id": 4007971
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.566667,
+          53.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4007973",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7019057",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008372"
+        ],
+        "id": 4007973,
+        "name:xx": "North Dalton"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.95,
+          52.733333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4007975",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008160",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008372"
+        ],
+        "id": 4007975,
+        "name:xx": "North Elmham"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.433333,
+          51.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4007977",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008153",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "North Leigh",
+        "id": 4007977
+      }
+    }
+  ]
+}

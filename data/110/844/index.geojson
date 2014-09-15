@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5,
+          22.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1108442",
+          "tgn:7001242",
+          "tgn:1000968",
+          "tgn:1000156",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300259572"
+        ],
+        "id": 1108442,
+        "name:xx": "Korizo, Passe de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5333,
+          42.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1108443",
+          "tgn:1000004",
+          "tgn:7012215",
+          "tgn:7006653",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300259572"
+        ],
+        "id": 1108443,
+        "name:xx": "Krestovyy Pereval"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.2,
+          35.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1108444",
+          "tgn:7016674",
+          "tgn:1000004",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300259572"
+        ],
+        "id": 1108444,
+        "name:xx": "Kuroo-tōge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.033333,
+          40.783333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1108449",
+          "tgn:7003005",
+          "tgn:1000003",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300259572"
+        ],
+        "id": 1108449,
+        "name:xx": "Le Croci d'Acerno"
+      }
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.75,
+          -27.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109080",
+          "tgn:7001242",
+          "tgn:1000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1109080,
+        "name:xx": "Groot Karasberge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8833,
+          -72.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109082",
+          "tgn:1000007",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1109082,
+        "name:xx": "Grove Mountains"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.133,
+          19.583
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109084",
+          "tgn:1000001",
+          "tgn:7005560",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1109084,
+        "name:xx": "Guadalupe, Sierra de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.416667,
+          39.433333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109085",
+          "tgn:7002811",
+          "tgn:1000003",
+          "tgn:7003837",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831",
+          "aat:300008795"
+        ],
+        "id": 1109085,
+        "name:xx": "Guadalupe, Sierra de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1667,
+          10.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109087",
+          "tgn:1000001",
+          "tgn:7005364",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831"
+        ],
+        "id": 1109087,
+        "name:xx": "Guanacaste, Cordillera de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8333,
+          22.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109088",
+          "tgn:1001488",
+          "tgn:1000001",
+          "tgn:7004624",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831"
+        ],
+        "id": 1109088,
+        "name:xx": "Guaniguanico, Cordillera de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.146197,
+          42.281423
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109089",
+          "tgn:7002759",
+          "tgn:7008909",
+          "tgn:1000003",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831",
+          "aat:300008795"
+        ],
+        "id": 1109089,
+        "name:xx": "Guara, Sierra de"
+      }
+    }
+  ]
+}

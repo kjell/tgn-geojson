@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.45,
+          40.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2087520",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002779",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2087520,
+        "name:xx": "Couchtown"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0167,
+          41.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2087521",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002800",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2087521,
+        "name:xx": "Coudersport"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0667,
+          41
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2087522",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002520",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2087522,
+        "name:xx": "Coulter"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8,
+          40.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2087523",
+          "tgn:7013272",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2087523,
+        "name:xx": "Coulter"
+      }
+    }
+  ]
+}

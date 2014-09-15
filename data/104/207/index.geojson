@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.619722,
+          37.9625
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1042071",
+          "tgn:7002681",
+          "tgn:7001395",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389"
+        ],
+        "id": 1042071,
+        "name:xx": "Keratsínion"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.135833,
+          38.367778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1042072",
+          "tgn:7011161",
+          "tgn:7002674",
+          "tgn:1000003",
+          "tgn:7002670",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387220",
+          "aat:300008375",
+          "aat:300120599"
+        ],
+        "name:en": "Chios",
+        "id": 1042072
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.716667,
+          37.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1042073",
+          "tgn:7011369",
+          "tgn:7017076",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1042073,
+        "name:xx": "Khóra"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.666667,
+          38.016667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1042075",
+          "tgn:7002681",
+          "tgn:7001395",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1042075,
+        "name:xx": "Khaïdhárion"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8,
+          38
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1042079",
+          "tgn:7002681",
+          "tgn:7001395",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1042079,
+        "name:xx": "Kholargós"
+      }
+    }
+  ]
+}

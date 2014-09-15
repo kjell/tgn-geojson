@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3,
+          40.116667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7039730",
+          "tgn:1003489",
+          "tgn:7004610",
+          "tgn:1000003",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008699"
+        ],
+        "id": 7039730,
+        "name:xx": "Serrapotamo, Torrente"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.866667,
+          42.133333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7039731",
+          "tgn:7003137",
+          "tgn:1000003",
+          "tgn:7003080",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 7039731,
+        "name:xx": "Serrapopolo, Monte"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.333333,
+          39.283333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7039733",
+          "tgn:1003450",
+          "tgn:7007850",
+          "tgn:1000003",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7039733,
+        "name:xx": "Serra"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.75,
+          40.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7039734",
+          "tgn:1003442",
+          "tgn:1000003",
+          "tgn:7010380",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007783"
+        ],
+        "id": 7039734,
+        "name:xx": "Stazione Serranova"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.35,
+          40.183333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7039735",
+          "tgn:1003468",
+          "tgn:1000003",
+          "tgn:7010380",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7039735,
+        "name:xx": "Serrano"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.033333,
+          40.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7039737",
+          "tgn:7003005",
+          "tgn:7003014",
+          "tgn:1000003",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7039737,
+        "name:xx": "Serramezzana"
+      }
+    }
+  ]
+}

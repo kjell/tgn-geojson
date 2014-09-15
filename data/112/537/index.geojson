@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8333,
+          9.4333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1125372",
+          "tgn:7001242",
+          "tgn:1000155",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1125372,
+        "name:xx": "Kameur"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.793242,
+          51.085141
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1125373",
+          "tgn:1000003",
+          "tgn:7006366",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1125373,
+        "name:xx": "Kamienna"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.75,
+          25.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1125374",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1125374,
+        "name:xx": "Kamla"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8,
+          48.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1125377",
+          "tgn:7003025",
+          "tgn:1000003",
+          "tgn:1000062",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1125377,
+        "name:xx": "Kamp"
+      }
+    }
+  ]
+}

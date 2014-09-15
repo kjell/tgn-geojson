@@ -1,0 +1,156 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81,
+          36.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2110560",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002164",
+          "tgn:7007919",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2110560,
+        "name:xx": "Baywood"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5833,
+          37.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2110561",
+          "tgn:1000001",
+          "tgn:1002267",
+          "tgn:7012149",
+          "tgn:7007919",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2110561,
+        "name:xx": "Beach"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.75,
+          38.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2110564",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002368",
+          "tgn:7007919",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2110564,
+        "name:xx": "Bealeton"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9,
+          37.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2110567",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002181",
+          "tgn:7007919",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2110567,
+        "name:xx": "Beaumont"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.65,
+          37.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2110568",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002451",
+          "tgn:7007919",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2110568,
+        "name:xx": "Beaverdam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3,
+          37.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2110569",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002647",
+          "tgn:7007919",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2110569,
+        "name:xx": "Beaverlett"
+      }
+    }
+  ]
+}

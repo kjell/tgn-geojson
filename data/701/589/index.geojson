@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95,
+          40.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015890",
+          "tgn:7015822",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007567",
+          "tgn:7007568",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 7015890,
+        "name:xx": "Williamsburg"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9,
+          40.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015892",
+          "tgn:7022659",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007567",
+          "tgn:7007568",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 7015892,
+        "name:xx": "Woodside"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9833,
+          40.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015893",
+          "tgn:7022657",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007567",
+          "tgn:7007568",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 7015893,
+        "name:xx": "Chinatown"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4167,
+          45.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015894",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001722",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7015894,
+        "name:xx": "Lostine"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7667,
+          37.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015896",
+          "tgn:1000001",
+          "tgn:1007534",
+          "tgn:7012149",
+          "tgn:1002511",
+          "tgn:7007919",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300387218",
+          "aat:300000835",
+          "aat:300387016",
+          "aat:300387291"
+        ],
+        "id": 7015896,
+        "name:xx": "Jamestown"
+      }
+    }
+  ]
+}

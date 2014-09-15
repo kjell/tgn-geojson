@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1,
+          29.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2021352",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002631",
+          "tgn:7007240",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2021352,
+        "name:xx": "Sparr"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3167,
+          30.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2021353",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000289",
+          "tgn:7007240",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2021353,
+        "name:xx": "Spring Creek"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6,
+          30.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2021355",
+          "tgn:2000258",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007240",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2021355,
+        "name:xx": "Springfield"
+      }
+    }
+  ]
+}

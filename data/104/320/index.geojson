@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.066667,
+          39.133333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1043201",
+          "tgn:1003450",
+          "tgn:7007850",
+          "tgn:1000003",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1043201,
+        "name:xx": "Amantea"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.583333,
+          39.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1043205",
+          "tgn:1003450",
+          "tgn:7007850",
+          "tgn:1000003",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1043205,
+        "name:xx": "Amendolara"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.466667,
+          41.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1043206",
+          "tgn:7004595",
+          "tgn:7003005",
+          "tgn:1000003",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1043206,
+        "name:xx": "Amorosi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.794722,
+          46.413889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1043207",
+          "tgn:1003506",
+          "tgn:1000003",
+          "tgn:7002993",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1043207,
+        "name:xx": "Ampezzo"
+      }
+    }
+  ]
+}

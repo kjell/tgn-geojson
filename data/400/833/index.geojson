@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5167,
+          47.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4008330",
+          "tgn:7002870",
+          "tgn:1000003",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4008330,
+        "name:xx": "Ottmarsheim"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4,
+          48.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4008333",
+          "tgn:7002870",
+          "tgn:1000003",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4008333,
+        "name:xx": "Ottrott"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.066667,
+          52.133333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4008335",
+          "tgn:1000003",
+          "tgn:7003627",
+          "tgn:7016845",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:nl": "Oud-Zuilen",
+        "id": 4008335
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9,
+          52.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4008337",
+          "tgn:1000003",
+          "tgn:7006951",
+          "tgn:7016845",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:nl": "Ouderkerk",
+        "id": 4008337
+      }
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.762,
+          45.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031500",
+          "tgn:7002878",
+          "tgn:1000003",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Pauillac",
+        "id": 7031500
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.847,
+          50.216
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031502",
+          "tgn:1000003",
+          "tgn:7024127",
+          "tgn:7006366",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Ojców",
+        "id": 7031502
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.423,
+          45.052
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031503",
+          "tgn:1000003",
+          "tgn:7006669",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Opovo",
+        "id": 7031503
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.5,
+          -20.383
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031504",
+          "tgn:7006237",
+          "tgn:1000047",
+          "tgn:7002457",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300263063"
+        ],
+        "id": 7031504,
+        "name:xx": "Ouro Prêto"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.423,
+          59.359
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031506",
+          "tgn:7006633",
+          "tgn:1000003",
+          "tgn:7006540",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387222"
+        ],
+        "name:en": "Jõhvi",
+        "id": 7031506
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.321,
+          59.336
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031508",
+          "tgn:7006631",
+          "tgn:1000003",
+          "tgn:7006540",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Kehra",
+        "id": 7031508
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.525,
+          44.066
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031509",
+          "tgn:1000003",
+          "tgn:7002889",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7031509,
+        "name:xx": "Nègrepelisse"
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.1333,
+          -21.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1008001",
+          "tgn:7000528",
+          "tgn:7000529",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1008001,
+        "name:xx": "Malinoa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.1667,
+          -15.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1008003",
+          "tgn:7000535",
+          "tgn:1000225",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1008003,
+        "name:xx": "Malo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5833,
+          4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1008004",
+          "tgn:1000050",
+          "tgn:7005078",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1008004,
+        "name:xx": "Malpelo, Isla de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.948,
+          59.816
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1008006",
+          "tgn:1000004",
+          "tgn:7011572",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "name:en": "Malyy Tyuters, Ostrov",
+        "id": 1008006
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2833,
+          31.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1008009",
+          "tgn:1000004",
+          "tgn:7002081",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1008009,
+        "name:xx": "Man Shan"
+      }
+    }
+  ]
+}

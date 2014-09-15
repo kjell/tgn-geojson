@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6333,
+          39.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2065293",
+          "tgn:1002157",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2065293,
+        "name:xx": "McKee City"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3833,
+          41.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2065294",
+          "tgn:1000001",
+          "tgn:1002775",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2065294,
+        "name:xx": "Macopin"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3,
+          40.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2065298",
+          "tgn:1000001",
+          "tgn:1002666",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2065298,
+        "name:xx": "Madison Park"
+      }
+    }
+  ]
+}

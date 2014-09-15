@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25,
+          36.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001182",
+          "tgn:7001242",
+          "tgn:7016752",
+          "tgn:1000596",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7001182,
+        "name:xx": "Ténès"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.316,
+          30.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001183",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:1001091",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387007",
+          "aat:300000810",
+          "aat:300167671"
+        ],
+        "name:en": "Heliopolis",
+        "id": 7001183
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.25,
+          29.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001186",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:1001083",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300008372"
+        ],
+        "name:en": "Mīt Ruhaynah",
+        "id": 7001186
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.955266,
+          31.215645
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Alejandría",
+        "name:xx": "Al-Iskandarīyah",
+        "hierarchy": [
+          "tgn:7001188",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:1001079",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300005135",
+          "aat:300387320",
+          "aat:300387220",
+          "aat:300387249",
+          "aat:300387302",
+          "aat:300120599",
+          "aat:300387286"
+        ],
+        "name:fr": "Alexandria",
+        "name:it": "Alessandria",
+        "id": 7001188,
+        "name:es": "Alexandrie"
+      }
+    }
+  ]
+}

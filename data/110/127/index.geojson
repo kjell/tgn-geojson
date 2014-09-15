@@ -1,0 +1,201 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.05,
+          51.833333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101270",
+          "tgn:1000003",
+          "tgn:7003632",
+          "tgn:7016845",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006084",
+          "aat:300170882",
+          "aat:300235059"
+        ],
+        "name:nl": "Haringvlietdam",
+        "id": 1101270
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3167,
+          44.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101271",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7013154",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006084",
+          "aat:300235059"
+        ],
+        "id": 1101271,
+        "name:xx": "Iroqois Dam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8167,
+          6.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101273",
+          "tgn:7001242",
+          "tgn:1001455",
+          "tgn:1000153",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006084",
+          "aat:300235059"
+        ],
+        "id": 1101273,
+        "name:xx": "Mbakaou, Barrage de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9333,
+          -26.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101275",
+          "tgn:7001242",
+          "tgn:7017576",
+          "tgn:1000193",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000390"
+        ],
+        "id": 1101275,
+        "name:xx": "Consolidated Main Reef Mines"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9667,
+          -26.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101276",
+          "tgn:7001242",
+          "tgn:7017576",
+          "tgn:1000193",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000390"
+        ],
+        "id": 1101276,
+        "name:xx": "Crown Mines"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4833,
+          -26.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101277",
+          "tgn:7001242",
+          "tgn:7017576",
+          "tgn:1000193",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000390"
+        ],
+        "id": 1101277,
+        "name:xx": "Daggafontein Mines"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.85,
+          -26.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101278",
+          "tgn:7001242",
+          "tgn:7017576",
+          "tgn:1000193",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000390"
+        ],
+        "id": 1101278,
+        "name:xx": "Durban Roodepoort Deep Gold Mines"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9,
+          47.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101279",
+          "tgn:7003028",
+          "tgn:1000003",
+          "tgn:1000062",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000390"
+        ],
+        "id": 1101279,
+        "name:xx": "Erzberg"
+      }
+    }
+  ]
+}

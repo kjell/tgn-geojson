@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9667,
+          34.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2002410",
+          "tgn:7002659",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000041",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2002410,
+        "name:xx": "Alabama Fork"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1,
+          30.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2002411",
+          "tgn:7002659",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000048",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2002411,
+        "name:xx": "Alabama Port"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55,
+          34.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2002412",
+          "tgn:7002659",
+          "tgn:1000001",
+          "tgn:2000016",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2002412,
+        "name:xx": "Alabama Shores"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8,
+          33.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2002413",
+          "tgn:7002659",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000058",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2002413,
+        "name:xx": "Alabaster"
+      }
+    }
+  ]
+}

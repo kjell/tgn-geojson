@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.65,
+          59.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4004703",
+          "tgn:1000003",
+          "tgn:7003777",
+          "tgn:1000097",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4004703,
+        "name:xx": "Håbo-Tibble"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2833,
+          55.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4004704",
+          "tgn:7594005",
+          "tgn:1000003",
+          "tgn:1000066",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4004704,
+        "name:xx": "Høje Tåstrup"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.553,
+          59.887
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4004708",
+          "tgn:7003659",
+          "tgn:1000003",
+          "tgn:1000088",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387499"
+        ],
+        "id": 4004708,
+        "name:xx": "Høvikodden"
+      }
+    }
+  ]
+}

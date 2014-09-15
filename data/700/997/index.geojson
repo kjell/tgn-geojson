@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9833,
+          42.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7009975",
+          "tgn:7593865",
+          "tgn:1000003",
+          "tgn:7006413",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7009975,
+        "name:xx": "Velingrad"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9167,
+          43.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7009976",
+          "tgn:7593867",
+          "tgn:1000003",
+          "tgn:7006413",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7009976,
+        "name:xx": "Nikopol"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3,
+          42.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7009977",
+          "tgn:7018759",
+          "tgn:1000003",
+          "tgn:7006413",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387277",
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300005135",
+          "aat:300264742",
+          "aat:300387223",
+          "aat:300387302"
+        ],
+        "name:en": "Sofia",
+        "id": 7009977
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.816667,
+          40.433333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7009978",
+          "tgn:7010420",
+          "tgn:1000003",
+          "tgn:7002795",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7009978,
+        "name:xx": "Pozuelo de Alarcón"
+      }
+    }
+  ]
+}

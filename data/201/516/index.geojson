@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5167,
+          39.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2015162",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000210",
+          "tgn:7007158",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2015162,
+        "name:xx": "Avon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5,
+          39.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2015165",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000216",
+          "tgn:7007158",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2015165,
+        "name:xx": "Azure"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4667,
+          39.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2015166",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000238",
+          "tgn:7007158",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2015166,
+        "name:xx": "Bailey"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.2667,
+          39.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2015169",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000224",
+          "tgn:7007158",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2015169,
+        "name:xx": "Balltown"
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4,
+          45.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1108370",
+          "tgn:7005765",
+          "tgn:1000003",
+          "tgn:7003237",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300259572"
+        ],
+        "id": 1108370,
+        "name:xx": "Croce Domini, Passo di"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8333,
+          40.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1108371",
+          "tgn:1003489",
+          "tgn:7004610",
+          "tgn:1000003",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300259572"
+        ],
+        "id": 1108371,
+        "name:xx": "Croce dello Scrivano, Passo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.75,
+          49.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1108372",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300259572"
+        ],
+        "id": 1108372,
+        "name:xx": "Crowsnest Pass"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6167,
+          35.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1108373",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002863",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300259572"
+        ],
+        "id": 1108373,
+        "name:xx": "Cuesta Pass"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.25,
+          40.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1108375",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002126",
+          "tgn:7007827",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300259572"
+        ],
+        "id": 1108375,
+        "name:xx": "Daniels Pass"
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.833333,
+          29.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7522670",
+          "tgn:7001242",
+          "tgn:7001105",
+          "tgn:7016833",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "'Ezbet Maḥmûd",
+        "id": 7522670
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.85,
+          29.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7522671",
+          "tgn:7001242",
+          "tgn:7001105",
+          "tgn:7016833",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "'Ezbet Maasûr Ali Sulîman",
+        "id": 7522671
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.593681,
+          30.462274
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7522672",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:1001113",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7522672,
+        "name:xx": "Kafr Banī 'Alīm"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.215419,
+          27.237878
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7522673",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:1001114",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Al Aţāwlah wa Banī 'Ilayj",
+        "id": 7522673
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.25,
+          27.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7522676",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:1001114",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Banī Ţālib",
+        "id": 7522676
+      }
+    }
+  ]
+}

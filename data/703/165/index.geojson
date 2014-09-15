@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.965,
+          4.883
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031651",
+          "tgn:7014934",
+          "tgn:1000004",
+          "tgn:1000107",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Kampong Kota Batu",
+        "id": 7031651
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.999,
+          37.428
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031652",
+          "tgn:1000004",
+          "tgn:1001370",
+          "tgn:7000299",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7031652,
+        "name:xx": "Kwach'ōn"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5,
+          50.966667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031657",
+          "tgn:7018239",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7018236",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Elewijt",
+        "id": 7031657
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.881,
+          47.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031659",
+          "tgn:1000003",
+          "tgn:7003765",
+          "tgn:7011731",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Elgg",
+        "id": 7031659
+      }
+    }
+  ]
+}

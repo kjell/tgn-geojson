@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5333,
+          41.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1105622",
+          "tgn:1000001",
+          "tgn:1002664",
+          "tgn:7012149",
+          "tgn:7007159",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1105622,
+        "name:xx": "Meshomasic Mountain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.35,
+          57.183333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1105623",
+          "tgn:7002444",
+          "tgn:1000003",
+          "tgn:7008094",
+          "tgn:1009238",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "name:en": "Beinn Mhor",
+        "id": 1105623
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.3167,
+          34.2667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1105624",
+          "tgn:1000984",
+          "tgn:7000897",
+          "tgn:1000004",
+          "tgn:1007520",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1105624,
+        "name:xx": "Mi-sen"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5333,
+          32.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1105626",
+          "tgn:1000001",
+          "tgn:7006451",
+          "tgn:7012149",
+          "tgn:2000100",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1105626,
+        "name:xx": "Mica Mountain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.2667,
+          69.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1105628",
+          "tgn:7006450",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2124005",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1105628,
+        "name:xx": "Michelson, Mount"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3,
+          54.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1105629",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008127",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "name:en": "Mickle Fell",
+        "id": 1105629
+      }
+    }
+  ]
+}

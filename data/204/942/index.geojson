@@ -1,0 +1,183 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2667,
+          42.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2049421",
+          "tgn:1000001",
+          "tgn:1002665",
+          "tgn:7012149",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2049421,
+        "name:xx": "Billerica"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5333,
+          42.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2049422",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1003038",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2049422,
+        "name:xx": "Blackstone"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5,
+          42.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2049424",
+          "tgn:1000001",
+          "tgn:2049422",
+          "tgn:7012149",
+          "tgn:1003038",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2049424,
+        "name:xx": "East Blackstone"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5,
+          42.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2049425",
+          "tgn:1000001",
+          "tgn:2049422",
+          "tgn:7012149",
+          "tgn:1003038",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2049425,
+        "name:xx": "Millerville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9167,
+          42.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2049426",
+          "tgn:1000001",
+          "tgn:7019982",
+          "tgn:7012149",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2049426,
+        "name:xx": "Blandford"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2667,
+          42.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2049427",
+          "tgn:1000001",
+          "tgn:7013942",
+          "tgn:7012149",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2049427,
+        "name:xx": "Blissville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6,
+          42.4333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2049429",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1003038",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2049429,
+        "name:xx": "Bolton"
+      }
+    }
+  ]
+}

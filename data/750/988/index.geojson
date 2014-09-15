@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -176.25,
+          -44.266667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7509881",
+          "tgn:1009227",
+          "tgn:1000226",
+          "tgn:7016822",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132316"
+        ],
+        "name:en": "Waihere Bay",
+        "id": 7509881
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -176.25,
+          -44.283333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7509882",
+          "tgn:1009227",
+          "tgn:1000226",
+          "tgn:7016822",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008777"
+        ],
+        "name:en": "Waihere",
+        "id": 7509882
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.55,
+          -45.316667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7509884",
+          "tgn:1009227",
+          "tgn:1000226",
+          "tgn:7018437",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Waihemo",
+        "id": 7509884
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.966667,
+          -42.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7509885",
+          "tgn:1009227",
+          "tgn:1000226",
+          "tgn:1000006",
+          "tgn:7016850",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008699"
+        ],
+        "name:en": "Waiheke River",
+        "id": 7509885
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.166667,
+          -36.833333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7509888",
+          "tgn:7000508",
+          "tgn:1008380",
+          "tgn:1000226",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008713"
+        ],
+        "name:en": "Waiheke Channel",
+        "id": 7509888
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.633333,
+          -37.583333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7509889",
+          "tgn:1008380",
+          "tgn:1000226",
+          "tgn:7018426",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008699"
+        ],
+        "name:en": "Waihekau Stream",
+        "id": 7509889
+      }
+    }
+  ]
+}

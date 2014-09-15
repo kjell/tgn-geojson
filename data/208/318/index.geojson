@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5333,
+          34.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2083181",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001657",
+          "tgn:7007707",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2083181,
+        "name:xx": "Emet"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0167,
+          34.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2083182",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001691",
+          "tgn:7007707",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2083182,
+        "name:xx": "Empire City"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8667,
+          36.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2083184",
+          "tgn:1000001",
+          "tgn:2001646",
+          "tgn:7012149",
+          "tgn:7007707",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2083184,
+        "name:xx": "Enid"
+      }
+    }
+  ]
+}

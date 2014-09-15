@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1,
+          40.883333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1112470",
+          "tgn:7002844",
+          "tgn:7030216",
+          "tgn:1000003",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132315"
+        ],
+        "id": 1112470,
+        "name:xx": "San Jorge, Golfo de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.25,
+          -41.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1112471",
+          "tgn:7006477",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132315"
+        ],
+        "id": 1112471,
+        "name:xx": "San Matías, Golfo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2833,
+          8.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1112472",
+          "tgn:7005572",
+          "tgn:1000001",
+          "tgn:7005565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132315"
+        ],
+        "id": 1112472,
+        "name:xx": "San Miguel, Golfo de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8167,
+          10.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1112477",
+          "tgn:1001274",
+          "tgn:1000001",
+          "tgn:7005364",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132315"
+        ],
+        "id": 1112477,
+        "name:xx": "Santa Elena, Golfo"
+      }
+    }
+  ]
+}

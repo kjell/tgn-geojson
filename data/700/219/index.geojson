@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98,
+          22
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002190",
+          "tgn:1000004",
+          "tgn:1000108",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300235101",
+          "aat:300000776"
+        ],
+        "id": 7002190,
+        "name:xx": "Shan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.6833,
+          23.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002192",
+          "tgn:1000004",
+          "tgn:1002109",
+          "tgn:1000108",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7002192,
+        "name:xx": "Wuntho"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.2333,
+          18.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002193",
+          "tgn:7002161",
+          "tgn:1000004",
+          "tgn:1000108",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387272",
+          "aat:300008375",
+          "aat:300000833",
+          "aat:300386830"
+        ],
+        "id": 7002193,
+        "name:xx": "Prome"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6167,
+          38.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002197",
+          "tgn:1000004",
+          "tgn:1001390",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300264742",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300120599"
+        ],
+        "id": 7002197,
+        "name:xx": "Dalian"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.4,
+          40.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002198",
+          "tgn:1000004",
+          "tgn:1001390",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387302"
+        ],
+        "id": 7002198,
+        "name:xx": "Dandong"
+      }
+    }
+  ]
+}

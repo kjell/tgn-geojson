@@ -1,0 +1,178 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0333,
+          10.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1006892",
+          "tgn:1000004",
+          "tgn:1009955",
+          "tgn:1001481",
+          "tgn:1000135",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1006892,
+        "name:xx": "Cuyo Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7,
+          48.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1006893",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7014510",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1006893,
+        "name:xx": "Cypress Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33,
+          35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1006894",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300235115",
+          "aat:300008791",
+          "aat:300128207",
+          "aat:300387136"
+        ],
+        "name:en": "Cyprus",
+        "id": 1006894
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2833,
+          48.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1006895",
+          "tgn:7005735",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1006895,
+        "name:xx": "D'Arcy Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.866667,
+          -40.833333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1006896",
+          "tgn:1009227",
+          "tgn:1000226",
+          "tgn:7016729",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "name:en": "D'Urville Island",
+        "id": 1006896
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.22,
+          35.449167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1006897",
+          "tgn:7002690",
+          "tgn:7012056",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1006897,
+        "name:xx": "Día, Nísos"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9167,
+          25.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1006899",
+          "tgn:7000264",
+          "tgn:1000004",
+          "tgn:1000143",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1006899,
+        "name:xx": "Dās"
+      }
+    }
+  ]
+}

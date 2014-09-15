@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1667,
+          -12.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1130572",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1130572,
+        "name:xx": "Tambopata"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.683333,
+          52.716667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1130574",
+          "tgn:7002445",
+          "tgn:1003647",
+          "tgn:1000003",
+          "tgn:7026570",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707",
+          "aat:300008699"
+        ],
+        "name:en": "Tame",
+        "id": 1130574
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.896,
+          22.224
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1130575",
+          "tgn:1000001",
+          "tgn:7005560",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707",
+          "aat:300008699"
+        ],
+        "id": 1130575,
+        "name:xx": "Tamesí, Río"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6,
+          47.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1130578",
+          "tgn:1002065",
+          "tgn:1000004",
+          "tgn:7029379",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1130578,
+        "name:xx": "Tamirïn Gol"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.6,
+          -11.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1130579",
+          "tgn:7006260",
+          "tgn:7002454",
+          "tgn:1000047",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1130579,
+        "name:xx": "Tamitatoala"
+      }
+    }
+  ]
+}

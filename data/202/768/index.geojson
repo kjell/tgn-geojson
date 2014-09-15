@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.55,
+          39.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2027681",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002422",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2027681,
+        "name:xx": "Eldred"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6833,
+          40.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2027682",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000536",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2027682,
+        "name:xx": "Eleanor"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.75,
+          42.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2027683",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000532",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2027683,
+        "name:xx": "Eleroy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2667,
+          42.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2027684",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002531",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2027684,
+        "name:xx": "Elgin"
+      }
+    }
+  ]
+}

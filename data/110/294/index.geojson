@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.35,
+          22.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102941",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:1001977",
+          "tgn:7030776",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1102941,
+        "name:xx": "Maidan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.25,
+          -33.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102943",
+          "tgn:7000490",
+          "tgn:1000006",
+          "tgn:7001828",
+          "tgn:7001923",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1102943,
+        "name:xx": "Manly Warringah War Memorial Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7,
+          41.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102947",
+          "tgn:1000001",
+          "tgn:7013596",
+          "tgn:7013649",
+          "tgn:7012149",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1102947,
+        "name:xx": "Marquette Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7333,
+          34.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102948",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002608",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1102948,
+        "name:xx": "Marshall Canyon Regional Park"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.45,
+          27.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2020143",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002870",
+          "tgn:7007240",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2020143,
+        "name:xx": "Laurel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.45,
+          30.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2020144",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000281",
+          "tgn:7007240",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2020144,
+        "name:xx": "Laurel Hill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0667,
+          30.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2020148",
+          "tgn:2000259",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007240",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2020148,
+        "name:xx": "Lawtey"
+      }
+    }
+  ]
+}

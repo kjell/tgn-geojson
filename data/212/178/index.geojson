@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1167,
+          43.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2121780",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1003002",
+          "tgn:7007922",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2121780,
+        "name:xx": "Menomonee Falls"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9167,
+          44.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2121784",
+          "tgn:1000001",
+          "tgn:2002319",
+          "tgn:7012149",
+          "tgn:7007922",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2121784,
+        "name:xx": "Menomonie"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9833,
+          43.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2121788",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002766",
+          "tgn:7007922",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2121788,
+        "name:xx": "Mequon"
+      }
+    }
+  ]
+}

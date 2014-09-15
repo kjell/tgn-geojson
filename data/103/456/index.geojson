@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.95,
+          47
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1034560",
+          "tgn:1000003",
+          "tgn:7002892",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Mortagne-sur-Sèvre",
+        "id": 1034560
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6,
+          49.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1034563",
+          "tgn:1000003",
+          "tgn:7002890",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1034563,
+        "name:xx": "Mortefontaine"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7167,
+          46.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1034565",
+          "tgn:1000003",
+          "tgn:1000070",
+          "tgn:7002897",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1034565,
+        "name:xx": "Morzine"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9667,
+          43.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1034566",
+          "tgn:1000003",
+          "tgn:1000070",
+          "tgn:7002895",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1034566,
+        "name:xx": "Mouans-Sartoux"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8,
+          46.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1034567",
+          "tgn:1000003",
+          "tgn:7002881",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1034567,
+        "name:xx": "Mouchard"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3167,
+          46.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1034568",
+          "tgn:1000003",
+          "tgn:1000070",
+          "tgn:7002897",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1034568,
+        "name:xx": "Moulin-des-Ponts"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9667,
+          49.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1034569",
+          "tgn:1000003",
+          "tgn:7002882",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1034569,
+        "name:xx": "Moulineaux"
+      }
+    }
+  ]
+}

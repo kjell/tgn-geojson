@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5833,
+          36.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2114670",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002425",
+          "tgn:7007919",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2114670,
+        "name:xx": "Turners Crossroads"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1667,
+          38.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2114675",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002172",
+          "tgn:7007919",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2114675,
+        "name:xx": "Twymans Mill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9333,
+          37.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2114676",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002175",
+          "tgn:7007919",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2114676,
+        "name:xx": "Tye River"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1833,
+          38.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2114678",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7014160",
+          "tgn:7007919",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2114678,
+        "name:xx": "Tyler Park"
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9,
+          16.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1106120",
+          "tgn:1000004",
+          "tgn:7016720",
+          "tgn:1000135",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1106120,
+        "name:xx": "Pulog, Mount"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.6,
+          18.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1106121",
+          "tgn:7017439",
+          "tgn:1000001",
+          "tgn:7004643",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1106121,
+        "name:xx": "Punta, Cerro de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.633333,
+          -38.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1106122",
+          "tgn:1008380",
+          "tgn:7520093",
+          "tgn:1000226",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "name:en": "Pureora",
+        "id": 1106122
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.25,
+          53.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118350",
+          "tgn:7005735",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 1118350,
+        "name:xx": "Tatuk Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.85,
+          39.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118351",
+          "tgn:1002215",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 1118351,
+        "name:xx": "Taunton Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.916667,
+          -38.816667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118352",
+          "tgn:1008380",
+          "tgn:1000226",
+          "tgn:7018426",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "name:en": "Taupo, Lake",
+        "id": 1118352
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.4833,
+          61.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118357",
+          "tgn:7006450",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000086",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 1118357,
+        "name:xx": "Tazlina Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125,
+          55.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118359",
+          "tgn:7005735",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 1118359,
+        "name:xx": "Tchentlo Lake"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0667,
+          32.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001354",
+          "tgn:7000249",
+          "tgn:1000004",
+          "tgn:1000119",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387236",
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300120599"
+        ],
+        "name:en": "Acre",
+        "id": 7001354
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3667,
+          32.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001355",
+          "tgn:7000249",
+          "tgn:1000004",
+          "tgn:1000119",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7001355,
+        "name:xx": "Dabbūrīya"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2833,
+          32.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001358",
+          "tgn:7000249",
+          "tgn:1000004",
+          "tgn:1000119",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7001358,
+        "name:xx": "Yāfā"
+      }
+    }
+  ]
+}

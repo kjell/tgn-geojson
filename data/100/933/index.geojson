@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8833,
+          34.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1009331",
+          "tgn:1000004",
+          "tgn:1001007",
+          "tgn:7000896",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1009331,
+        "name:xx": "Tōshi-jima"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.0333,
+          12.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1009333",
+          "tgn:1000004",
+          "tgn:1001504",
+          "tgn:1000135",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1009333,
+        "name:xx": "Tablas Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -173.7167,
+          -15.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1009337",
+          "tgn:1010375",
+          "tgn:7000529",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1009337,
+        "name:xx": "Tafahi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2,
+          12.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1009338",
+          "tgn:1000004",
+          "tgn:1001462",
+          "tgn:1000135",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1009338,
+        "name:xx": "Tagapula Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2167,
+          10.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1009339",
+          "tgn:1000004",
+          "tgn:1009955",
+          "tgn:1001481",
+          "tgn:1000135",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1009339,
+        "name:xx": "Tagauayan Island"
+      }
+    }
+  ]
+}

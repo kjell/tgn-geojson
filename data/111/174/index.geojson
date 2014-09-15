@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3333,
+          46.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111740",
+          "tgn:7003029",
+          "tgn:1000003",
+          "tgn:1000062",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008761"
+        ],
+        "id": 1111740,
+        "name:xx": "Puster-tal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2667,
+          55.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111742",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008165",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008761"
+        ],
+        "id": 1111742,
+        "name:xx": "Redesdale"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          46.116667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111743",
+          "tgn:7003158",
+          "tgn:1000003",
+          "tgn:7003124",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008761"
+        ],
+        "id": 1111743,
+        "name:xx": "Rendena, Valle"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.916667,
+          62.433333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111747",
+          "tgn:7003647",
+          "tgn:1000003",
+          "tgn:1000088",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008761"
+        ],
+        "id": 1111747,
+        "name:xx": "Romsdalen"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7833,
+          53.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111749",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008154",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008761"
+        ],
+        "id": 1111749,
+        "name:xx": "Rossendale"
+      }
+    }
+  ]
+}

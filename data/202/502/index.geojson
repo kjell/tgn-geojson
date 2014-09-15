@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7833,
+          21.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2025021",
+          "tgn:1002483",
+          "tgn:7019080",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007249",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2025021,
+        "name:xx": "Kaneohe"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.9167,
+          19.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2025029",
+          "tgn:7023902",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007249",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2025029,
+        "name:xx": "Kaniahiku Village"
+      }
+    }
+  ]
+}

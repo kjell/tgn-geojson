@@ -1,0 +1,183 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          54
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "United Kingdom",
+        "hierarchy": [
+          "tgn:7008591",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "المم ىَة المخحدة بًرًطاه اَ ا عًظمى وآ رًٍيدا اضًما ةًَ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387053",
+          "aat:300387174",
+          "aat:300387189"
+        ],
+        "name:fr": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",
+        "name:ru": "Соединенное Королевство Великобритании и Северной Ирландии",
+        "name:zh": "大不列颠及北爱尔兰联合王国",
+        "id": 7008591,
+        "name:es": "Reino Unido de Gran Bretaña e Irlanda del Norte"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4,
+          40.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008592",
+          "tgn:7010420",
+          "tgn:1000003",
+          "tgn:7002795",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7008592,
+        "name:xx": "San Martín de Valdeiglesias"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3,
+          42.566667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008594",
+          "tgn:7002826",
+          "tgn:7001158",
+          "tgn:1000003",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7008594,
+        "name:xx": "San Miguel de Escalada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.866667,
+          42.333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008595",
+          "tgn:7002827",
+          "tgn:1000003",
+          "tgn:7002789",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7008595,
+        "name:xx": "San Millán de la Cogolla"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4167,
+          46.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008597",
+          "tgn:1000003",
+          "tgn:7002892",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7008597,
+        "name:xx": "Charroux"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.65,
+          46.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008598",
+          "tgn:1000003",
+          "tgn:7002892",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7008598,
+        "name:xx": "Chauvigny"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6667,
+          46.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008599",
+          "tgn:1000003",
+          "tgn:7002892",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7008599,
+        "name:xx": "Civaux"
+      }
+    }
+  ]
+}

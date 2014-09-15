@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6667,
+          52.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1117333",
+          "tgn:7005735",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 1117333,
+        "name:xx": "Mitchell Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9667,
+          44.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1117334",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7013154",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 1117334,
+        "name:xx": "Mitchell Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11,
+          60.666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1117337",
+          "tgn:1000003",
+          "tgn:1000088",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 1117337,
+        "name:xx": "Mjøsa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.15,
+          52
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1117338",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 1117338,
+        "name:xx": "Moar Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75,
+          55.8167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1117339",
+          "tgn:7005735",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 1117339,
+        "name:xx": "Moberly Lake"
+      }
+    }
+  ]
+}

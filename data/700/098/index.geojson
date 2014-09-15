@@ -1,0 +1,227 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.85,
+          17
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000980",
+          "tgn:7005194",
+          "tgn:1000004",
+          "tgn:7000965",
+          "tgn:1000142",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387223",
+          "aat:300387272"
+        ],
+        "id": 7000980,
+        "name:xx": "Sukhothai"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.75,
+          17.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000981",
+          "tgn:7005193",
+          "tgn:1000004",
+          "tgn:7000975",
+          "tgn:1000142",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387223",
+          "aat:300387270"
+        ],
+        "id": 7000981,
+        "name:xx": "Udon Thani"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6667,
+          18.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000982",
+          "tgn:7005194",
+          "tgn:1000004",
+          "tgn:1000142",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000774"
+        ],
+        "id": 7000982,
+        "name:xx": "Nan, Changwat"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5,
+          13.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000983",
+          "tgn:1001365",
+          "tgn:7005191",
+          "tgn:1000004",
+          "tgn:1000142",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387238",
+          "aat:300387298",
+          "aat:300387219",
+          "aat:300387512",
+          "aat:300387223",
+          "aat:300387272",
+          "aat:300008372",
+          "aat:300387270",
+          "aat:300120599"
+        ],
+        "name:en": "Bangkok",
+        "id": 7000983
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.091944,
+          29.251667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000984",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:1001142",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Abū Şīr al Malaq",
+        "id": 7000984
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7,
+          36.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000985",
+          "tgn:7001242",
+          "tgn:1002078",
+          "tgn:1000205",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300235115",
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300387220",
+          "aat:300008375",
+          "aat:300387285"
+        ],
+        "id": 7000985,
+        "name:xx": "El Kef"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0167,
+          35.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000986",
+          "tgn:1002088",
+          "tgn:7001242",
+          "tgn:1000205",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300387220"
+        ],
+        "id": 7000986,
+        "name:xx": "al-Qayrawān"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2167,
+          36.7167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000989",
+          "tgn:7001242",
+          "tgn:1002067",
+          "tgn:1000205",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387220",
+          "aat:300008375",
+          "aat:300387285"
+        ],
+        "id": 7000989,
+        "name:xx": "Béja"
+      }
+    }
+  ]
+}

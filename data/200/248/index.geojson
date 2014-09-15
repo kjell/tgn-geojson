@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3667,
+          31.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2002480",
+          "tgn:7002659",
+          "tgn:1000001",
+          "tgn:2000019",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2002480,
+        "name:xx": "Antioch"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8833,
+          31.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2002481",
+          "tgn:7002659",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000054",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2002481,
+        "name:xx": "Antioch"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1167,
+          31.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2002482",
+          "tgn:7002659",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000026",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2002482,
+        "name:xx": "Appleton"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4833,
+          34.8167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2002483",
+          "tgn:7002659",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000038",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2002483,
+        "name:xx": "Aqua Vista"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4833,
+          34.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2002485",
+          "tgn:7002659",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000047",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2002485,
+        "name:xx": "Arab"
+      }
+    }
+  ]
+}

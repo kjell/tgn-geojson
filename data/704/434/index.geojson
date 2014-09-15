@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.083333,
+          37.516667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7044340",
+          "tgn:1000003",
+          "tgn:1001651",
+          "tgn:7003122",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007783"
+        ],
+        "id": 7044340,
+        "name:xx": "Stazione Catania Borgo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.066667,
+          37.483333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7044341",
+          "tgn:1000003",
+          "tgn:1001651",
+          "tgn:7003122",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007783"
+        ],
+        "id": 7044341,
+        "name:xx": "Stazione Catania Acquicella"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.216667,
+          43.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7044346",
+          "tgn:1003429",
+          "tgn:1000003",
+          "tgn:7003240",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 7044346,
+        "name:xx": "Catafolle, Colle di"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.633333,
+          46.216667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7044347",
+          "tgn:1000003",
+          "tgn:7003152",
+          "tgn:7003237",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7044347,
+        "name:xx": "Cataeggio"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.983333,
+          42.533333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7044348",
+          "tgn:7003170",
+          "tgn:1000003",
+          "tgn:7003125",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 7044348,
+        "name:xx": "Catabio, Monte"
+      }
+    }
+  ]
+}

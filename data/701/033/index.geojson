@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8333,
+          55.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010330",
+          "tgn:1000004",
+          "tgn:7011573",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7010330,
+        "name:xx": "Zvenigorod"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.55,
+          42.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010332",
+          "tgn:1000003",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006075"
+        ],
+        "id": 7010332,
+        "name:xx": "Imperial de Aragón, Canal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8333,
+          41.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010334",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "name:pt": "Lima",
+        "id": 7010334,
+        "name:es": "Limia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8333,
+          47
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010335",
+          "tgn:7017324",
+          "tgn:1000003",
+          "tgn:7006656",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300264742",
+          "aat:300387302"
+        ],
+        "id": 7010335,
+        "name:xx": "Chişinău"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53,
+          40
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010336",
+          "tgn:7012224",
+          "tgn:1000004",
+          "tgn:7006659",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300387307",
+          "aat:300120599",
+          "aat:300387288"
+        ],
+        "name:en": "Turkmenbashi",
+        "id": 7010336
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5,
+          41.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010339",
+          "tgn:7011438",
+          "tgn:1000004",
+          "tgn:7006646",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Quba",
+        "id": 7010339
+      }
+    }
+  ]
+}

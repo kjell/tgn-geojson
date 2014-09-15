@@ -1,0 +1,235 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7167,
+          42.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2050550",
+          "tgn:1000001",
+          "tgn:7014423",
+          "tgn:7012149",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2050550,
+        "name:xx": "Scituate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7167,
+          42.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2050552",
+          "tgn:1000001",
+          "tgn:7014423",
+          "tgn:7012149",
+          "tgn:2050550",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2050552,
+        "name:xx": "First Cliff"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.75,
+          42.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2050553",
+          "tgn:1000001",
+          "tgn:7014423",
+          "tgn:7012149",
+          "tgn:2050550",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2050553,
+        "name:xx": "Greenbush"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7167,
+          42.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2050554",
+          "tgn:1000001",
+          "tgn:7014423",
+          "tgn:7012149",
+          "tgn:2050550",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2050554,
+        "name:xx": "Rivermoor"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7167,
+          42.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2050555",
+          "tgn:1000001",
+          "tgn:7014423",
+          "tgn:7012149",
+          "tgn:2050550",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2050555,
+        "name:xx": "Second Cliff"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4,
+          41.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2050556",
+          "tgn:1002165",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2050556,
+        "name:xx": "Scorton Shores"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7333,
+          42.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2050557",
+          "tgn:1000001",
+          "tgn:7013686",
+          "tgn:7012149",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2050557,
+        "name:xx": "Searsville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7,
+          42.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2050558",
+          "tgn:1000001",
+          "tgn:7014423",
+          "tgn:7012149",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2050558,
+        "name:xx": "Sea View"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3333,
+          41.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2050559",
+          "tgn:1002201",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2050559,
+        "name:xx": "Seekonk"
+      }
+    }
+  ]
+}

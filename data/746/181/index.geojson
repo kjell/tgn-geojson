@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.333333,
+          52.833333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7461811",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008174",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "High Offley",
+        "id": 7461811
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.083333,
+          54.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7461812",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008117",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "High Nibthwaite",
+        "id": 7461812
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.65,
+          53.366667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7461814",
+          "tgn:7002445",
+          "tgn:7019047",
+          "tgn:1000003",
+          "tgn:7029505",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "name:en": "High Neb",
+        "id": 7461814
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          57.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7461817",
+          "tgn:7002444",
+          "tgn:1000003",
+          "tgn:7008082",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387346"
+        ],
+        "name:en": "Highlands",
+        "id": 7461817
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8,
+          56.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7461819",
+          "tgn:7002444",
+          "tgn:1000003",
+          "tgn:7019152",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007783"
+        ],
+        "name:en": "Highlandman Station",
+        "id": 7461819
+      }
+    }
+  ]
+}

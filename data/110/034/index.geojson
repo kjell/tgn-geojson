@@ -1,0 +1,151 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7167,
+          51.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100341",
+          "tgn:1000003",
+          "tgn:7003687",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006891"
+        ],
+        "id": 1100341,
+        "name:xx": "Rudelsburg"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1333,
+          38.7167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100343",
+          "tgn:1000882",
+          "tgn:1000003",
+          "tgn:7010978",
+          "tgn:1000090",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006891"
+        ],
+        "name:pt": "São Jorge, Castelo de",
+        "id": 1100343
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1,
+          48.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100344",
+          "tgn:1000003",
+          "tgn:7002883",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006891"
+        ],
+        "id": 1100344,
+        "name:xx": "Saint-Germain-en-Laye, Château de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0167,
+          15.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100345",
+          "tgn:1000650",
+          "tgn:1000001",
+          "tgn:7005493",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006891"
+        ],
+        "id": 1100345,
+        "name:xx": "San Felipe, Castillo de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9667,
+          44.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100348",
+          "tgn:1000003",
+          "tgn:7003143",
+          "tgn:7003236",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006891"
+        ],
+        "id": 1100348,
+        "name:xx": "Sarzanello, Fortezza di"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3,
+          48.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100349",
+          "tgn:1000003",
+          "tgn:7002883",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006891"
+        ],
+        "id": 1100349,
+        "name:xx": "Sceaux, Château de"
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.45,
+          33.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2107200",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002024",
+          "tgn:7007826",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2107200,
+        "name:xx": "Rockford"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8,
+          33.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2107204",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002290",
+          "tgn:7007826",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2107204,
+        "name:xx": "Rockhill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7667,
+          30.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2107207",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002795",
+          "tgn:7007826",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2107207,
+        "name:xx": "Rock Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5667,
+          29.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2107208",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002291",
+          "tgn:7007826",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2107208,
+        "name:xx": "Rock Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3667,
+          31
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2107209",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002959",
+          "tgn:7007826",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2107209,
+        "name:xx": "Rockland"
+      }
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15,
+          42.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2049561",
+          "tgn:1000001",
+          "tgn:2049559",
+          "tgn:1002724",
+          "tgn:7012149",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2049561,
+        "name:xx": "Canton Junction"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.35,
+          42.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2049564",
+          "tgn:1000001",
+          "tgn:1002665",
+          "tgn:7012149",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2049564,
+        "name:xx": "Carlisle"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.75,
+          41.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2049565",
+          "tgn:1000001",
+          "tgn:7014423",
+          "tgn:7012149",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2049565,
+        "name:xx": "Carver"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6167,
+          41.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2049566",
+          "tgn:1002165",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2049566,
+        "name:xx": "Cataumet"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6167,
+          41.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2049568",
+          "tgn:2132500",
+          "tgn:1002165",
+          "tgn:1000001",
+          "tgn:2049566",
+          "tgn:7012149",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2049568,
+        "name:xx": "Amrita"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.55,
+          41.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2049569",
+          "tgn:1000001",
+          "tgn:7014423",
+          "tgn:7012149",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2049569,
+        "name:xx": "Cedarville"
+      }
+    }
+  ]
+}

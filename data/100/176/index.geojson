@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3,
+          20
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1001760",
+          "tgn:7001242",
+          "tgn:1000175",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300236112"
+        ],
+        "id": 1001760,
+        "name:xx": "Tombouctou, Région de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.666667,
+          37.833333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1001762",
+          "tgn:1000003",
+          "tgn:7003122",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000774"
+        ],
+        "id": 1001762,
+        "name:xx": "Trapani"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.6667,
+          17.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1001763",
+          "tgn:7001242",
+          "tgn:1000176",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300236112"
+        ],
+        "id": 1001763,
+        "name:xx": "Trarza"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3333,
+          -32.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1001768",
+          "tgn:1000049",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300236112"
+        ],
+        "id": 1001768,
+        "name:xx": "Valparaíso"
+      }
+    }
+  ]
+}

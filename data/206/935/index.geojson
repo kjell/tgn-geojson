@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8167,
+          42.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2069350",
+          "tgn:1002141",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007568",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2069350,
+        "name:xx": "Garwoods"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1667,
+          42.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2069351",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002944",
+          "tgn:7007568",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2069351,
+        "name:xx": "Gaskill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5667,
+          43.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2069352",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002718",
+          "tgn:7007568",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2069352,
+        "name:xx": "Gasport"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6833,
+          43.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2069353",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002681",
+          "tgn:7007568",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2069353,
+        "name:xx": "Gates"
+      }
+    }
+  ]
+}

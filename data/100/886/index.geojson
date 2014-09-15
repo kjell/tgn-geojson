@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.118428,
+          21.74448
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1008861",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:1001977",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "name:en": "Sāgar Island",
+        "id": 1008861
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3333,
+          20.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1008862",
+          "tgn:7001242",
+          "tgn:1001112",
+          "tgn:1000201",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1008862,
+        "name:xx": "Sāy, Jazīrat"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.5333,
+          25.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1008863",
+          "tgn:1000004",
+          "tgn:7000228",
+          "tgn:7000231",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1008863,
+        "name:xx": "Sīrrī, Jazīreh-ye"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9833,
+          40.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1008864",
+          "tgn:1001052",
+          "tgn:1000004",
+          "tgn:7018450",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1008864,
+        "name:xx": "Sivri Ada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.9167,
+          43.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1008867",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7005802",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1008867,
+        "name:xx": "Sable Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.9333,
+          -19.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1008868",
+          "tgn:1000223",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1008868,
+        "name:xx": "Sable, Île de"
+      }
+    }
+  ]
+}

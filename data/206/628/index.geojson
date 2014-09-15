@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0333,
+          40.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2066283",
+          "tgn:1000001",
+          "tgn:1002985",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2066283,
+        "name:xx": "Summerfield"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8667,
+          40.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2066286",
+          "tgn:1000001",
+          "tgn:1002493",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2066286,
+        "name:xx": "Sunnyside"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1333,
+          39.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2066287",
+          "tgn:1000001",
+          "tgn:1002738",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2066287,
+        "name:xx": "Sunrise Beach"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.15,
+          39.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2066289",
+          "tgn:1000001",
+          "tgn:1002738",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2066289,
+        "name:xx": "Surf City"
+      }
+    }
+  ]
+}

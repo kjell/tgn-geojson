@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.2667,
+          50.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114290",
+          "tgn:7005735",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008713"
+        ],
+        "id": 1114290,
+        "name:xx": "Tribune Channel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.5,
+          48.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114291",
+          "tgn:7005735",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008713"
+        ],
+        "id": 1114291,
+        "name:xx": "Trincomali Channel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.166667,
+          63.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114292",
+          "tgn:1000440",
+          "tgn:1000003",
+          "tgn:1000088",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008713"
+        ],
+        "id": 1114292,
+        "name:xx": "Trondheimsleia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8333,
+          44.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114298",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7013154",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008713"
+        ],
+        "id": 1114298,
+        "name:xx": "Upper Gap"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.5167,
+          -17.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114299",
+          "tgn:7000493",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008713"
+        ],
+        "id": 1114299,
+        "name:xx": "Vatu Ira Channel"
+      }
+    }
+  ]
+}

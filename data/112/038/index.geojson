@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.2667,
+          -23.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1120380",
+          "tgn:1001945",
+          "tgn:1000047",
+          "tgn:7002457",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 1120380,
+        "name:xx": "Rio Sorocaba, Reprêsa do"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5667,
+          53.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1120381",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008154",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 1120381,
+        "name:xx": "Rivington Reservoirs"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1333,
+          34.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1120385",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007712",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 1120385,
+        "name:xx": "Robinson, Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142,
+          -37.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1120386",
+          "tgn:7000490",
+          "tgn:1000006",
+          "tgn:7006238",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 1120386,
+        "name:xx": "Rocklands Reservoir"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6333,
+          39.3667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1120389",
+          "tgn:7016099",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007516",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 1120389,
+        "name:xx": "Roland, Lake"
+      }
+    }
+  ]
+}

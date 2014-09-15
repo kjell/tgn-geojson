@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.583333,
+          55.683333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4012651",
+          "tgn:7594005",
+          "tgn:1000003",
+          "tgn:1000066",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000874"
+        ],
+        "id": 4012651,
+        "name:xx": "Nyhavn"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.016667,
+          53.533333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4012654",
+          "tgn:7003692",
+          "tgn:1000003",
+          "tgn:7000084",
+          "tgn:7005174",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 4012654,
+        "name:xx": "Altstadt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9667,
+          50.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4012655",
+          "tgn:1000003",
+          "tgn:7024127",
+          "tgn:7006366",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4012655,
+        "name:xx": "Podgórze"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.95,
+          50.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4012656",
+          "tgn:1000003",
+          "tgn:7024127",
+          "tgn:7006366",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000874"
+        ],
+        "id": 4012656,
+        "name:xx": "Kazimierz"
+      }
+    }
+  ]
+}

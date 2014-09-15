@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9667,
+          49.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008342",
+          "tgn:1000003",
+          "tgn:7002880",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387238",
+          "aat:300387308",
+          "aat:300387330",
+          "aat:300008375",
+          "aat:300387281"
+        ],
+        "id": 7008342,
+        "name:xx": "Épernay"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3333,
+          47.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008343",
+          "tgn:1000003",
+          "tgn:7002880",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300387238",
+          "aat:300387330",
+          "aat:300008375"
+        ],
+        "id": 7008343,
+        "name:xx": "Langres"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8833,
+          49.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008344",
+          "tgn:1000003",
+          "tgn:7002880",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7008344,
+        "name:xx": "Damery"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.45,
+          48.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008345",
+          "tgn:1000003",
+          "tgn:7002880",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7008345,
+        "name:xx": "Lépine"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4333,
+          43.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008348",
+          "tgn:1000003",
+          "tgn:7002880",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7008348,
+        "name:xx": "Saint-Gilles"
+      }
+    }
+  ]
+}

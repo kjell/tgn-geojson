@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1,
+          51.466667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7466913",
+          "tgn:7002445",
+          "tgn:7018923",
+          "tgn:7011781",
+          "tgn:1000003",
+          "tgn:7008136",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000745"
+        ],
+        "name:en": "Brixton",
+        "id": 7466913
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.316667,
+          57.183333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7466917",
+          "tgn:7002444",
+          "tgn:1000003",
+          "tgn:7008082",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132316"
+        ],
+        "name:en": "Brittle, Loch",
+        "id": 7466917
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.283333,
+          57.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7466918",
+          "tgn:7002444",
+          "tgn:1000003",
+          "tgn:7008082",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008761"
+        ],
+        "name:en": "Brittle, Glen",
+        "id": 7466918
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.833333,
+          51.633333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7466919",
+          "tgn:7002443",
+          "tgn:1000003",
+          "tgn:7018974",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007783"
+        ],
+        "name:en": "Briton Ferry Road Station",
+        "id": 7466919
+      }
+    }
+  ]
+}

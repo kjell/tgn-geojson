@@ -1,0 +1,235 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5167,
+          9.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000480",
+          "tgn:7001242",
+          "tgn:1001535",
+          "tgn:7000489",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7000480,
+        "name:xx": "Debre Birhan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0833,
+          12.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000482",
+          "tgn:7001242",
+          "tgn:1001598",
+          "tgn:7000489",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387272",
+          "aat:300008375",
+          "aat:300387285",
+          "aat:300263063"
+        ],
+        "id": 7000482,
+        "name:xx": "Lalibela"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.55,
+          13.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000483",
+          "tgn:7001242",
+          "tgn:1001570",
+          "tgn:7000489",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387220",
+          "aat:300008375",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300387286"
+        ],
+        "id": 7000483,
+        "name:xx": "Mek'elē"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7,
+          9.033
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000485",
+          "tgn:7001242",
+          "tgn:1001535",
+          "tgn:7000489",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300005135",
+          "aat:300264742",
+          "aat:300387512",
+          "aat:300387220",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300387286"
+        ],
+        "id": 7000485,
+        "name:xx": "Ādīs Ābeba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9333,
+          14.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000486",
+          "tgn:7001242",
+          "tgn:1001570",
+          "tgn:7000489",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000835",
+          "aat:300008375"
+        ],
+        "id": 7000486,
+        "name:xx": "Ādwa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4667,
+          15.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000487",
+          "tgn:7001242",
+          "tgn:7017568",
+          "tgn:7001658",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300387220",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300120599",
+          "aat:300387291",
+          "aat:300387286"
+        ],
+        "id": 7000487,
+        "name:xx": "Mitsiwa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.85,
+          13.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000488",
+          "tgn:7001242",
+          "tgn:7017570",
+          "tgn:7001658",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 7000488,
+        "name:xx": "Ramlu"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39,
+          8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Ityop'iya",
+        "name:xx": "Ethiopia",
+        "hierarchy": [
+          "tgn:7000489",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "إث وَب اَ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128214",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387136"
+        ],
+        "name:fr": "Éthiopie",
+        "name:ru": "Эфиопия",
+        "name:zh": "埃塞俄比亚",
+        "id": 7000489,
+        "name:es": "Etiopía"
+      }
+    }
+  ]
+}

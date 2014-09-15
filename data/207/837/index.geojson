@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6667,
+          41.2667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2078370",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1003033",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2078370,
+        "name:xx": "Bays"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8167,
+          41.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2078371",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002357",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2078371,
+        "name:xx": "Bay View"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9167,
+          41.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2078372",
+          "tgn:1000001",
+          "tgn:1002313",
+          "tgn:7012149",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2078372,
+        "name:xx": "Bay Village"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5667,
+          40.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2078376",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002917",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2078376,
+        "name:xx": "Beach City"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5,
+          41.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2078377",
+          "tgn:1000001",
+          "tgn:1002313",
+          "tgn:7012149",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2078377,
+        "name:xx": "Beachwood"
+      }
+    }
+  ]
+}

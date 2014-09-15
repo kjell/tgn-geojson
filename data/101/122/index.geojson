@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.25,
+          37.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011220",
+          "tgn:7001242",
+          "tgn:1002070",
+          "tgn:1000205",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011220,
+        "name:xx": "Serrat, Cap"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6833,
+          34.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011225",
+          "tgn:1001111",
+          "tgn:1000004",
+          "tgn:1000126",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011225,
+        "name:xx": "Shaqʻah, Ra's ash-"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.28,
+          17.928
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011226",
+          "tgn:1000004",
+          "tgn:7016493",
+          "tgn:1000131",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011226,
+        "name:xx": "Ra's Sharbithā"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4167,
+          74.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011227",
+          "tgn:1006952",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:1010229",
+          "tgn:7024197",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011227,
+        "name:xx": "Sherard, Cape"
+      }
+    }
+  ]
+}

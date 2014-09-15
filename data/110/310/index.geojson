@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4167,
+          -34.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103101",
+          "tgn:7006287",
+          "tgn:7006477",
+          "tgn:7593303",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1103101,
+        "name:xx": "Tercero de Febrero, Parque"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6,
+          51.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103102",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7026243",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1103102,
+        "name:xx": "The Home Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35,
+          52.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103103",
+          "tgn:7003712",
+          "tgn:1005101",
+          "tgn:7069166",
+          "tgn:7003670",
+          "tgn:1000003",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1103103,
+        "name:xx": "Tiergarten"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4333,
+          34.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103108",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002608",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1103108,
+        "name:xx": "Van Nuys-Sherman Oaks War Memorial Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1,
+          48.8167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103109",
+          "tgn:1000003",
+          "tgn:7002883",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187",
+          "aat:300263063"
+        ],
+        "id": 1103109,
+        "name:xx": "Versailles, Parc de"
+      }
+    }
+  ]
+}

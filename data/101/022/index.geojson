@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.0833,
+          14.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010220",
+          "tgn:1000004",
+          "tgn:1001496",
+          "tgn:1000135",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386853"
+        ],
+        "id": 1010220,
+        "name:xx": "Polillo Islands"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.75,
+          -35.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010223",
+          "tgn:1008380",
+          "tgn:7000507",
+          "tgn:1000226",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791",
+          "aat:300386853"
+        ],
+        "name:en": "Poor Knights Islands",
+        "id": 1010223
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.1333,
+          -71.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010224",
+          "tgn:1000007",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386853"
+        ],
+        "id": 1010224,
+        "name:xx": "Possession Islands"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.4,
+          59.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010227",
+          "tgn:7006450",
+          "tgn:1000001",
+          "tgn:7019698",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386853"
+        ],
+        "id": 1010227,
+        "name:xx": "Pye Islands"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132,
+          53.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010228",
+          "tgn:7005735",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386853"
+        ],
+        "id": 1010228,
+        "name:xx": "Queen Charlotte Islands"
+      }
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5167,
+          45.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1015521",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7005804",
+          "tgn:1008205",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1015521,
+        "name:xx": "Montréal-Est"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6167,
+          45.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1015522",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7005804",
+          "tgn:1008205",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1015522,
+        "name:xx": "Montréal-Nord"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.65,
+          45.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1015523",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7005804",
+          "tgn:1008205",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1015523,
+        "name:xx": "Montréal-Ouest"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9667,
+          45.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1015524",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7005804",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1015524,
+        "name:xx": "Namur"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.8333,
+          50.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1015526",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7005804",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1015526,
+        "name:xx": "Natashquan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.3667,
+          48
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1015527",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7005804",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1015527,
+        "name:xx": "New-Carlisle"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.8667,
+          48.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1015528",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7005804",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1015528,
+        "name:xx": "New-Richmond"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7667,
+          48.2667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1015529",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7005804",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1015529,
+        "name:xx": "Newport"
+      }
+    }
+  ]
+}

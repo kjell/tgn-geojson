@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.983333,
+          43.316667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7039881",
+          "tgn:7003168",
+          "tgn:1000003",
+          "tgn:7009760",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008699"
+        ],
+        "id": 7039881,
+        "name:xx": "Sellate, Torrente"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.733333,
+          44.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7039883",
+          "tgn:7005126",
+          "tgn:1000003",
+          "tgn:7003120",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7039883,
+        "name:xx": "Sella della Turra"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.983333,
+          42.833333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7039885",
+          "tgn:7003170",
+          "tgn:1000003",
+          "tgn:7003125",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 7039885,
+        "name:xx": "Sella, Monte"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8,
+          46.516667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7039886",
+          "tgn:1003440",
+          "tgn:1000003",
+          "tgn:7003124",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 7039886,
+        "name:xx": "Sella, Gruppo di"
+      }
+    }
+  ]
+}

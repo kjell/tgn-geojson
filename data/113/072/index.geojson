@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.433,
+          43.866
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1130720",
+          "tgn:1000003",
+          "tgn:1000091",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1130720,
+        "name:xx": "Teleorman"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1333,
+          14.7167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1130721",
+          "tgn:1000715",
+          "tgn:1000001",
+          "tgn:7005554",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1130721,
+        "name:xx": "Telica"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.0333,
+          54.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1130722",
+          "tgn:7005735",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1130722,
+        "name:xx": "Telkwa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1,
+          36.833333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1130723",
+          "tgn:1000003",
+          "tgn:7003122",
+          "tgn:1001753",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707",
+          "aat:300008699"
+        ],
+        "id": 1130723,
+        "name:xx": "Tellaro"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.683333,
+          18.783333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1130725",
+          "tgn:1000001",
+          "tgn:7005590",
+          "tgn:7005560",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707",
+          "aat:300008699"
+        ],
+        "id": 1130725,
+        "name:xx": "Temascaltepec, Río"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4333,
+          -26.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1130726",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1130726,
+        "name:xx": "Tembe, Rio"
+      }
+    }
+  ]
+}

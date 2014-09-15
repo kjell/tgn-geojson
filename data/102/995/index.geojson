@@ -1,0 +1,136 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.766667,
+          53.016667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1029953",
+          "tgn:7002445",
+          "tgn:7008114",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008372",
+          "aat:300387285"
+        ],
+        "id": 1029953,
+        "name:ang": "Depenbech"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2,
+          53.416667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1029954",
+          "tgn:7019049",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7029505",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 1029954,
+        "name:xx": "Maltby",
+        "name:ang": "Maltebi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3,
+          52.133333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1029956",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:5000227",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Malvern Link",
+        "id": 1029956
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1,
+          53.366667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1029957",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008157",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008372"
+        ],
+        "name:en": "Manby",
+        "id": 1029957
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.183333,
+          52.483333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1029959",
+          "tgn:7002445",
+          "tgn:7011980",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Manea",
+        "id": 1029959
+      }
+    }
+  ]
+}

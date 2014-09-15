@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1167,
+          40.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2064290",
+          "tgn:1000001",
+          "tgn:7014090",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2064290,
+        "name:xx": "Carmerville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4667,
+          39.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2064292",
+          "tgn:1000001",
+          "tgn:7014449",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2064292,
+        "name:xx": "Carneys Point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2167,
+          40.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2064297",
+          "tgn:1000001",
+          "tgn:1002666",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2064297,
+        "name:xx": "Carteret"
+      }
+    }
+  ]
+}

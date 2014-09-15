@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.066667,
+          42.983333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4007430",
+          "tgn:1003460",
+          "tgn:1000003",
+          "tgn:7009760",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4007430,
+        "name:xx": "Montemassi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.05,
+          43.916667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4007432",
+          "tgn:7024741",
+          "tgn:1000003",
+          "tgn:7009760",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4007432,
+        "name:xx": "Montemurlo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.933333,
+          43.666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4007436",
+          "tgn:7003163",
+          "tgn:1000003",
+          "tgn:7009760",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4007436,
+        "name:xx": "Monterappoli"
+      }
+    }
+  ]
+}

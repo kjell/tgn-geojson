@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9833,
+          34.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2057102",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001158",
+          "tgn:7007522",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2057102,
+        "name:xx": "North Haven"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3667,
+          34.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2057105",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001157",
+          "tgn:7007522",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2057105,
+        "name:xx": "Tunica North"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9167,
+          34.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2057107",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001155",
+          "tgn:7007522",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2057107,
+        "name:xx": "Norton"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05,
+          32.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2057108",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001165",
+          "tgn:7007522",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2057108,
+        "name:xx": "Noxapater"
+      }
+    }
+  ]
+}

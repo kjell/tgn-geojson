@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.816667,
+          50.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7253061",
+          "tgn:7003461",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7018236",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7253061,
+        "name:xx": "Sint-Martens-Voeren"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.168903,
+          50.81188
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7253065",
+          "tgn:7018239",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7018236",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7253065,
+        "name:xx": "Sint-Martens-Lennik"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.606014,
+          51.012012
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7253067",
+          "tgn:7003457",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7018236",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7253067,
+        "name:xx": "Sint-Martens-Leerne"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.63779,
+          51.014587
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7253069",
+          "tgn:7003457",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7018236",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7253069,
+        "name:xx": "Sint-Martens-Latem"
+      }
+    }
+  ]
+}

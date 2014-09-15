@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.285909,
+          30.07708
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Cairo",
+        "name:xx": "Al-Qāhirah",
+        "hierarchy": [
+          "tgn:7001215",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:1001091",
+          "tgn:7029392"
+        ],
+        "name:de": "Kairo",
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300264742",
+          "aat:300387512",
+          "aat:300387284",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300387286"
+        ],
+        "name:fr": "Le Caire",
+        "id": 7001215
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.805871,
+          27.775756
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001218",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:1001088",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810"
+        ],
+        "id": 7001218,
+        "name:xx": "Al Ashmūnayn"
+      }
+    }
+  ]
+}

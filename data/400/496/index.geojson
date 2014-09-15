@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9167,
+          46.3667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4004960",
+          "tgn:1000336",
+          "tgn:1000003",
+          "tgn:1000091",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4004960,
+        "name:xx": "Herești"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.7,
+          59.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4004967",
+          "tgn:7593551",
+          "tgn:1000001",
+          "tgn:7024573",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4004967,
+        "name:xx": "Ikigait"
+      }
+    }
+  ]
+}

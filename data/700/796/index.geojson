@@ -1,0 +1,271 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82577,
+          50.469923
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7007960",
+          "tgn:7003466",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:4012014",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387223",
+          "aat:300387235",
+          "aat:300387220",
+          "aat:300387270",
+          "aat:300387302"
+        ],
+        "name:fr": "Namur",
+        "id": 7007960
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.933333,
+          50.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7007961",
+          "tgn:7007877",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:4012014",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387223",
+          "aat:300387220"
+        ],
+        "name:fr": "Mons",
+        "id": 7007961
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.206388,
+          50.744968
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7007962",
+          "tgn:7007877",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:4012014",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375",
+          "aat:300387302"
+        ],
+        "name:fr": "Mouscron",
+        "id": 7007962
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.02657,
+          50.827763
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7007963",
+          "tgn:7003457",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7018236",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7007963,
+        "name:xx": "Ninove"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.333333,
+          50.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7007964",
+          "tgn:7018238",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:4012014",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7007964,
+        "name:xx": "Nivelles"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.751345,
+          51.130076
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7007965",
+          "tgn:7003458",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7018236",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7007965,
+        "name:xx": "Nieuwpoort"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4,
+          52.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7007966",
+          "tgn:1000003",
+          "tgn:7024120",
+          "tgn:7006366",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7007966,
+        "name:xx": "Czerwieńsk"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.911854,
+          51.223392
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Ostend",
+        "name:nl": "Oostende",
+        "hierarchy": [
+          "tgn:7007967",
+          "tgn:7003458",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7018236",
+          "tgn:7029392"
+        ],
+        "name:de": "Ostende",
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300000547",
+          "aat:300120599"
+        ],
+        "name:fr": "Ostende",
+        "id": 7007967
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.798259,
+          50.952611
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7007968",
+          "tgn:7003457",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7018236",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7007968,
+        "name:xx": "Oosterzele"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35,
+          50.666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7007969",
+          "tgn:7018238",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:4012014",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7007969,
+        "name:xx": "Ophain-Bois-Seigneur-Isaac"
+      }
+    }
+  ]
+}

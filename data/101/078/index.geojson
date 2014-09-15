@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0167,
+          16.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010781",
+          "tgn:1000573",
+          "tgn:1000001",
+          "tgn:7005554",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1010781,
+        "name:xx": "Honduras, Cabo de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5667,
+          61.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010782",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7005804",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1010782,
+        "name:xx": "Hopes Advance, Cap"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.4667,
+          66.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010783",
+          "tgn:7594021",
+          "tgn:1000003",
+          "tgn:1000077",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1010783,
+        "name:xx": "Horn"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7333,
+          45.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010786",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7013154",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1010786,
+        "name:xx": "Hurd, Cape"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.8667,
+          70.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010787",
+          "tgn:7006450",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2124005",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1010787,
+        "name:xx": "Icy Cape"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.45,
+          -11.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000670",
+          "tgn:1000002",
+          "tgn:1000056",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000772",
+          "aat:300236112"
+        ],
+        "id": 1000670,
+        "name:xx": "Lima"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75,
+          -5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000675",
+          "tgn:1000002",
+          "tgn:1000056",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000772",
+          "aat:300236112"
+        ],
+        "id": 1000675,
+        "name:xx": "Loreto"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3333,
+          35.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000679",
+          "tgn:7001242",
+          "tgn:7016752",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000772"
+        ],
+        "id": 1000679,
+        "name:xx": "M'Sila"
+      }
+    }
+  ]
+}

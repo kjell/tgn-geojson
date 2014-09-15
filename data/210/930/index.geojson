@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4667,
+          39.4333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109301",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002114",
+          "tgn:7007827",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2109301,
+        "name:xx": "Strong"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6333,
+          39.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109303",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002114",
+          "tgn:7007827",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2109303,
+        "name:xx": "Sugarville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9333,
+          37.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109304",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002111",
+          "tgn:7007827",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2109304,
+        "name:xx": "Summit"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.1167,
+          38.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109305",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002119",
+          "tgn:7007827",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2109305,
+        "name:xx": "Summit Point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3833,
+          39.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109306",
+          "tgn:1000001",
+          "tgn:2002104",
+          "tgn:7012149",
+          "tgn:7007827",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2109306,
+        "name:xx": "Sunnyside"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0167,
+          41.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109307",
+          "tgn:1000001",
+          "tgn:2002106",
+          "tgn:7012149",
+          "tgn:7007827",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2109307,
+        "name:xx": "Sunset"
+      }
+    }
+  ]
+}

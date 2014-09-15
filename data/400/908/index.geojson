@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9333,
+          49.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4009081",
+          "tgn:7011506",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4009081,
+        "name:xx": "Radomyšl"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.05,
+          56.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4009082",
+          "tgn:1000004",
+          "tgn:7011573",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 4009082,
+        "name:xx": "Radonež"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.55,
+          52
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4009084",
+          "tgn:1000003",
+          "tgn:7024122",
+          "tgn:7006366",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4009084,
+        "name:xx": "Radziejowice"
+      }
+    }
+  ]
+}

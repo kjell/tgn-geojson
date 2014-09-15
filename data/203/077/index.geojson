@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7833,
+          39.2667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2030770",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002620",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2030770,
+        "name:xx": "Womac"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1333,
+          42.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2030777",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000514",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2030777,
+        "name:xx": "Woodbine"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90,
+          39.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2030778",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002620",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2030778,
+        "name:xx": "Woodburn"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3,
+          39.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2030779",
+          "tgn:1000001",
+          "tgn:2000502",
+          "tgn:7012149",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2030779,
+        "name:xx": "Woodbury"
+      }
+    }
+  ]
+}

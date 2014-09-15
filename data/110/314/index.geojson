@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0167,
+          -37.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103143",
+          "tgn:7000490",
+          "tgn:1000006",
+          "tgn:7006238",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1103143,
+        "name:xx": "Yarra Bend Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4167,
+          31.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103145",
+          "tgn:1000004",
+          "tgn:1000958",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1103145,
+        "name:xx": "Zhongshan Park"
+      }
+    }
+  ]
+}

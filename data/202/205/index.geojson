@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4833,
+          30.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2022056",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7013517",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2022056,
+        "name:xx": "Attapulgus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4833,
+          34.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2022058",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000369",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2022058,
+        "name:xx": "Attica"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8167,
+          34
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2022059",
+          "tgn:1000001",
+          "tgn:2000298",
+          "tgn:7012149",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2022059,
+        "name:xx": "Auburn"
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8833,
+          35.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017461",
+          "tgn:1002064",
+          "tgn:1000004",
+          "tgn:1000140",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7017461,
+        "name:xx": "Ar-Ruṣāfah"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.4167,
+          27.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017464",
+          "tgn:1000004",
+          "tgn:7000228",
+          "tgn:7000231",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791",
+          "aat:300387285",
+          "aat:300387286"
+        ],
+        "id": 7017464,
+        "name:xx": "Hormoz, Jazīreh-ye"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.233226,
+          41.950589
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017465",
+          "tgn:7002820",
+          "tgn:7030216",
+          "tgn:1000003",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 7017465,
+        "name:xx": "Bagur, Cabo de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7,
+          39.216667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017467",
+          "tgn:7002807",
+          "tgn:1000003",
+          "tgn:7003837",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7017467,
+        "name:xx": "Alburquerque"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.783333,
+          43.966667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003141",
+          "tgn:1000003",
+          "tgn:7003236",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000774"
+        ],
+        "id": 7003141,
+        "name:xx": "Imperia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.066667,
+          44.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003142",
+          "tgn:1000003",
+          "tgn:7003236",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000774"
+        ],
+        "id": 7003142,
+        "name:xx": "Genova"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7,
+          44.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003143",
+          "tgn:1000003",
+          "tgn:7003236",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000774"
+        ],
+        "id": 7003143,
+        "name:xx": "La Spezia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.266667,
+          44.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003144",
+          "tgn:1000003",
+          "tgn:7003236",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000774"
+        ],
+        "id": 7003144,
+        "name:xx": "Savona"
+      }
+    }
+  ]
+}

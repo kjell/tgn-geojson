@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8667,
+          50.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4011882",
+          "tgn:1003530",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4011882,
+        "name:xx": "Vinec"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.75,
+          46.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4011883",
+          "tgn:1000336",
+          "tgn:1000003",
+          "tgn:1000091",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4011883,
+        "name:xx": "Vingard"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5,
+          60.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4011884",
+          "tgn:7003646",
+          "tgn:1000003",
+          "tgn:1000088",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4011884,
+        "name:xx": "Vinje"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.033333,
+          51.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4011886",
+          "tgn:1000003",
+          "tgn:7003677",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4011886,
+        "name:xx": "Vinsebeck"
+      }
+    }
+  ]
+}

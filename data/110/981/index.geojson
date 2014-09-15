@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5333,
+          -30.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109811",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1109811,
+        "name:xx": "Witberge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3333,
+          -71.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109814",
+          "tgn:1000007",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1109814,
+        "name:xx": "Wohlthat Mountains"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.25,
+          59.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109815",
+          "tgn:7006450",
+          "tgn:1000001",
+          "tgn:2000071",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1109815,
+        "name:xx": "Wood River Mountains"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.5,
+          61.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109816",
+          "tgn:7006450",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000086",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1109816,
+        "name:xx": "Wrangell Mountains"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2,
+          27.433
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109817",
+          "tgn:1000004",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831"
+        ],
+        "id": 1109817,
+        "name:xx": "Wugong Shan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104,
+          28
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109818",
+          "tgn:1000004",
+          "tgn:7018118",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1109818,
+        "name:xx": "Wulian Feng"
+      }
+    }
+  ]
+}

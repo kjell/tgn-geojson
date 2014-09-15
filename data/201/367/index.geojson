@@ -1,0 +1,156 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1167,
+          36.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2013670",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002956",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2013670,
+        "name:xx": "Rocky Hill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25,
+          38.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2013671",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002298",
+          "tgn:7007157",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2013671,
+        "name:xx": "Rodeo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25,
+          38.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2013673",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2013671",
+          "tgn:1002298",
+          "tgn:7007157",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2013673,
+        "name:xx": "Bayo Vista"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2333,
+          38.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2013674",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002298",
+          "tgn:7007157",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2013674,
+        "name:xx": "Oleum"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2333,
+          38.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2013675",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002298",
+          "tgn:7007157",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2013675,
+        "name:xx": "Selby"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2333,
+          38.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2013676",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002298",
+          "tgn:7007157",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2013676,
+        "name:xx": "Tormey"
+      }
+    }
+  ]
+}

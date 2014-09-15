@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3667,
+          33.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002861",
+          "tgn:1001084",
+          "tgn:1000004",
+          "tgn:1000126",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387235",
+          "aat:300387220",
+          "aat:300120599",
+          "aat:300387286"
+        ],
+        "name:en": "Sidon",
+        "id": 7002861
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1833,
+          33.2667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002862",
+          "tgn:1001084",
+          "tgn:1000004",
+          "tgn:1000126",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387236",
+          "aat:300008347",
+          "aat:300387264",
+          "aat:300387218",
+          "aat:300020645",
+          "aat:300387512",
+          "aat:300008375",
+          "aat:300263063"
+        ],
+        "name:en": "Tyre",
+        "id": 7002862
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3333,
+          46.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002864",
+          "tgn:1000003",
+          "tgn:1000070",
+          "tgn:7002897",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000772"
+        ],
+        "id": 7002864,
+        "name:xx": "Ain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5,
+          49.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002865",
+          "tgn:1000003",
+          "tgn:7002890",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000772"
+        ],
+        "id": 7002865,
+        "name:xx": "Aisne"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0333,
+          46.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002866",
+          "tgn:7002871",
+          "tgn:1000003",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000772"
+        ],
+        "id": 7002866,
+        "name:xx": "Allier"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5,
+          44.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002869",
+          "tgn:1000003",
+          "tgn:1000070",
+          "tgn:7002895",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000772"
+        ],
+        "id": 7002869,
+        "name:xx": "Hautes-Alpes"
+      }
+    }
+  ]
+}

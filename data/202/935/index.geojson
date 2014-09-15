@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7667,
+          42.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2029352",
+          "tgn:1000001",
+          "tgn:7013649",
+          "tgn:7012149",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2029352,
+        "name:xx": "Northfield"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8667,
+          42.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2029353",
+          "tgn:1000001",
+          "tgn:7013649",
+          "tgn:7012149",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2029353,
+        "name:xx": "Northfield Woods"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.05,
+          41.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2029354",
+          "tgn:1000001",
+          "tgn:7019013",
+          "tgn:7012149",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2029354,
+        "name:xx": "North Glen Ellyn"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5333,
+          40.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2029355",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000521",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2029355,
+        "name:xx": "North Hampton"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4667,
+          41.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2029356",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000520",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2029356,
+        "name:xx": "North Henderson"
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.7333,
+          46.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2117174",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002554",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387324"
+        ],
+        "id": 2117174,
+        "name:xx": "Yakima Indian Reservation"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3667,
+          45.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2117175",
+          "tgn:1000001",
+          "tgn:1002305",
+          "tgn:7012149",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2117175,
+        "name:xx": "Yale"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2,
+          47.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2117176",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7018871",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2117176,
+        "name:xx": "Yarrow Point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.95,
+          46.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2117177",
+          "tgn:2002240",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2117177,
+        "name:xx": "Yellepit"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6,
+          46.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2117178",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002942",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2117178,
+        "name:xx": "Yelm"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8333,
+          46.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2117179",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002251",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2117179,
+        "name:xx": "Zangar Junction"
+      }
+    }
+  ]
+}

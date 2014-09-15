@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.116667,
+          52.066667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7449732",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:5000227",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Eckington",
+        "id": 7449732
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.466667,
+          55.516667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7449733",
+          "tgn:7002444",
+          "tgn:1000003",
+          "tgn:7008072",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Eckford",
+        "id": 7449733
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.916667,
+          58.866667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7449736",
+          "tgn:7002444",
+          "tgn:1000003",
+          "tgn:7009907",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132316"
+        ],
+        "name:en": "Echnaloch Bay",
+        "id": 7449736
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.316667,
+          54.483333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7449737",
+          "tgn:7002448",
+          "tgn:1000003",
+          "tgn:7019206",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Ecclesville",
+        "id": 7449737
+      }
+    }
+  ]
+}

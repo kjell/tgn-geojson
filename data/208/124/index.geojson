@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8833,
+          40.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2081240",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002606",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2081240,
+        "name:xx": "Orchard Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4833,
+          41.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2081242",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002611",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2081242,
+        "name:xx": "Oregon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0833,
+          39.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2081249",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002987",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2081249,
+        "name:xx": "Oregonia"
+      }
+    }
+  ]
+}

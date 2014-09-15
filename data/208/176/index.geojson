@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45,
+          40.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2081765",
+          "tgn:1002159",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2081765,
+        "name:xx": "Sandy Beach"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2833,
+          38.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2081766",
+          "tgn:1002136",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2081766,
+        "name:xx": "Sandy Springs"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3667,
+          40.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2081767",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002958",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2081767,
+        "name:xx": "Sandyville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0833,
+          39.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2081768",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002386",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2081768,
+        "name:xx": "San Margherita"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9833,
+          40.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2081769",
+          "tgn:1002159",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2081769,
+        "name:xx": "Santa Fe"
+      }
+    }
+  ]
+}

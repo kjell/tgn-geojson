@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.9667,
+          68.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6004280",
+          "tgn:1000004",
+          "tgn:7011528",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 6004280,
+        "name:xx": "Nizhnekolymsk"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.233,
+          -10.916
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6004284",
+          "tgn:7001242",
+          "tgn:1001542",
+          "tgn:7000726",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 6004284,
+        "name:xx": "Nkope"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5833,
+          18.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6004288",
+          "tgn:7005358",
+          "tgn:7005346",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387007",
+          "aat:300000810",
+          "aat:300000833"
+        ],
+        "id": 6004288,
+        "name:xx": "Nohmul"
+      }
+    }
+  ]
+}

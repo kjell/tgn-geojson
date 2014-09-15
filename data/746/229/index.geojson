@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1,
+          51.683333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7462293",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008168",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Little Milton",
+        "id": 7462293
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.633333,
+          55.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7462294",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008165",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007783"
+        ],
+        "name:en": "Littlemill Station",
+        "id": 7462294
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.985278,
+          51.72
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7462295",
+          "tgn:7002443",
+          "tgn:1000003",
+          "tgn:5000560",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Little Mill",
+        "id": 7462295
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.333333,
+          52.066667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7462299",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:5000227",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Little Malvern",
+        "id": 7462299
+      }
+    }
+  ]
+}

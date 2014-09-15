@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.666667,
+          37.916667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002741",
+          "tgn:7017076",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000772",
+          "aat:300387131"
+        ],
+        "name:en": "Corinth",
+        "id": 7002741
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5833,
+          37.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002743",
+          "tgn:7017076",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000772",
+          "aat:300387131"
+        ],
+        "id": 7002743,
+        "name:xx": "Ilía"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5833,
+          37
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002745",
+          "tgn:7017076",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000772",
+          "aat:300387131"
+        ],
+        "name:en": "Laconia",
+        "id": 7002745
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.75,
+          39.333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002748",
+          "tgn:7001399",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000772",
+          "aat:300387131"
+        ],
+        "id": 7002748,
+        "name:xx": "Kardhítsa"
+      }
+    }
+  ]
+}

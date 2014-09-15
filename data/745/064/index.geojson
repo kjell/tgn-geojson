@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.833333,
+          54.716667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7450640",
+          "tgn:7002448",
+          "tgn:7019204",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "name:en": "Fea, Lough",
+        "id": 7450640
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.216667,
+          57.366667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7450644",
+          "tgn:7002444",
+          "tgn:1000003",
+          "tgn:7008082",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300004792"
+        ],
+        "name:en": "Dunlichity Lodge",
+        "id": 7450644
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.586667,
+          51.1625
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7450648",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7012032",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008798"
+        ],
+        "name:en": "Dunkery Beacon",
+        "id": 7450648
+      }
+    }
+  ]
+}

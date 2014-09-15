@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4333,
+          35.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6000910",
+          "tgn:1002075",
+          "tgn:1000004",
+          "tgn:1000140",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 6000910,
+        "name:xx": "Bugrus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1833,
+          50.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6000919",
+          "tgn:1000003",
+          "tgn:7001097",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000835",
+          "aat:300000833"
+        ],
+        "id": 6000919,
+        "name:xx": "Bouvines"
+      }
+    }
+  ]
+}

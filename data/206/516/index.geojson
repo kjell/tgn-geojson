@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9333,
+          40.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2065161",
+          "tgn:1000001",
+          "tgn:1002493",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2065161,
+        "name:xx": "Lambertville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0333,
+          39.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2065162",
+          "tgn:1002227",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2065162,
+        "name:xx": "Lambs Terrace"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7167,
+          40.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2065163",
+          "tgn:1000001",
+          "tgn:1002903",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2065163,
+        "name:xx": "Lamington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.65,
+          40.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2065164",
+          "tgn:1000001",
+          "tgn:1002695",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2065164,
+        "name:xx": "Landing"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2167,
+          40.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2065168",
+          "tgn:1000001",
+          "tgn:7014090",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2065168,
+        "name:xx": "Land of Pines"
+      }
+    }
+  ]
+}

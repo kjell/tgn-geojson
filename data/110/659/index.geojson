@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9,
+          47.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1106593",
+          "tgn:1000001",
+          "tgn:1002260",
+          "tgn:7012149",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1106593,
+        "name:xx": "Stuart, Mount"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1,
+          47.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1106594",
+          "tgn:7003027",
+          "tgn:1000003",
+          "tgn:1000062",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1106594,
+        "name:xx": "Stubner Kogel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7833,
+          47.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1106595",
+          "tgn:7003028",
+          "tgn:1000003",
+          "tgn:1000062",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1106595,
+        "name:xx": "Stuhleck"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.666667,
+          43.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1106598",
+          "tgn:7003170",
+          "tgn:1000003",
+          "tgn:7003125",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1106598,
+        "name:xx": "Subasio, Monte"
+      }
+    }
+  ]
+}

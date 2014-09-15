@@ -1,0 +1,178 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56,
+          -13
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006260",
+          "tgn:7002454",
+          "tgn:1000047",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008631",
+          "aat:300387064",
+          "aat:300000776"
+        ],
+        "id": 7006260,
+        "name:xx": "Mato Grosso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0333,
+          50.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006261",
+          "tgn:7003531",
+          "tgn:1000003",
+          "tgn:7003514",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 7006261,
+        "name:xx": "Buurgplaatz"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50,
+          -27
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006262",
+          "tgn:1000047",
+          "tgn:7002458",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008631",
+          "aat:300387064",
+          "aat:300387305",
+          "aat:300000776"
+        ],
+        "id": 7006262,
+        "name:xx": "Santa Catarina"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8833,
+          64.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006264",
+          "tgn:7594016",
+          "tgn:1000003",
+          "tgn:1000077",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7006264,
+        "name:xx": "Kópavogur"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.25,
+          63.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006266",
+          "tgn:7594019",
+          "tgn:1000003",
+          "tgn:1000077",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7006266,
+        "name:xx": "Vestmannaeyjar"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16,
+          66
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006267",
+          "tgn:1000003",
+          "tgn:1000077",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300387173"
+        ],
+        "id": 7006267,
+        "name:xx": "Norður-Þingeyjarsýsla"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.85,
+          64.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006269",
+          "tgn:1000003",
+          "tgn:1000077",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300387173"
+        ],
+        "id": 7006269,
+        "name:xx": "Kjósarsýsla"
+      }
+    }
+  ]
+}

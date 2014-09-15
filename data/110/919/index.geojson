@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.4167,
+          38.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109190",
+          "tgn:7011627",
+          "tgn:1000004",
+          "tgn:7014835",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831"
+        ],
+        "id": 1109190,
+        "name:xx": "Karateginskiy chrebet"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.5833,
+          40.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109194",
+          "tgn:7016655",
+          "tgn:1000004",
+          "tgn:7018455",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1109194,
+        "name:xx": "Kargapazari Daglari"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3333,
+          47.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109196",
+          "tgn:7003029",
+          "tgn:1000003",
+          "tgn:1000062",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1109196,
+        "name:xx": "Karwendel Gebirge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.9333,
+          34.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109197",
+          "tgn:1000004",
+          "tgn:1001012",
+          "tgn:7000896",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1109197,
+        "name:xx": "Kasagi-sanchi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.9,
+          8.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109198",
+          "tgn:1000004",
+          "tgn:1001161",
+          "tgn:1000135",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1109198,
+        "name:xx": "Katanglad Mountains"
+      }
+    }
+  ]
+}

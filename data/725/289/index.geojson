@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3,
+          50.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7252891",
+          "tgn:7003461",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7018236",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7252891,
+        "name:xx": "Sint-Lambrechts-Herk"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.157263,
+          50.802975
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7252893",
+          "tgn:7003457",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7018236",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7252893,
+        "name:xx": "Sint-Kwintens-Lennik"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.816255,
+          51.155777
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7252895",
+          "tgn:7003457",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7018236",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7252895,
+        "name:xx": "Sint-Kruis-Winkel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.698298,
+          50.834493
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7252899",
+          "tgn:7003457",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7018236",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7252899,
+        "name:xx": "Sint-Kornelis-Horebeke"
+      }
+    }
+  ]
+}

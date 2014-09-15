@@ -1,0 +1,118 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35,
+          50.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030303",
+          "tgn:7018239",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7018236",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7030303,
+        "name:xx": "Sint-Joost-ten-Node"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.766,
+          14.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030304",
+          "tgn:1000739",
+          "tgn:1000001",
+          "tgn:7005493",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300008389",
+          "aat:300387000",
+          "aat:300000833"
+        ],
+        "id": 7030304,
+        "name:xx": "Takalik Abaj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.933,
+          16
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030306",
+          "tgn:1000727",
+          "tgn:1000001",
+          "tgn:7005493",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387256",
+          "aat:300017826",
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300387512",
+          "aat:300387272"
+        ],
+        "id": 7030306,
+        "name:xx": "Cancuén"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.346,
+          17.282
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030307",
+          "tgn:1000727",
+          "tgn:1000001",
+          "tgn:7005493",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300017826",
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300008401",
+          "aat:300167671",
+          "aat:300387272"
+        ],
+        "id": 7030307,
+        "name:xx": "Cival"
+      }
+    }
+  ]
+}

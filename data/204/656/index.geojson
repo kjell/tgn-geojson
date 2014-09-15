@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9667,
+          39.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2046560",
+          "tgn:2000934",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007516",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2046560,
+        "name:xx": "Charlestown"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9667,
+          39.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2046561",
+          "tgn:1002247",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007516",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387247"
+        ],
+        "id": 2046561,
+        "name:xx": "Charlestown Manor Beach"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4167,
+          39.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2046562",
+          "tgn:1000001",
+          "tgn:7016101",
+          "tgn:7012149",
+          "tgn:7007516",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2046562,
+        "name:xx": "Charlesville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8833,
+          39.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2046567",
+          "tgn:1000001",
+          "tgn:7016106",
+          "tgn:7012149",
+          "tgn:7007516",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2046567,
+        "name:xx": "Charlton"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.15,
+          39
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2046568",
+          "tgn:1000001",
+          "tgn:7016104",
+          "tgn:7012149",
+          "tgn:7007516",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2046568,
+        "name:xx": "Charred Oak Estates"
+      }
+    }
+  ]
+}

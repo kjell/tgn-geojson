@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5,
+          28.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111003",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:7016722",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008805"
+        ],
+        "name:en": "Rohilkhand Plains",
+        "id": 1111003
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5,
+          25.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111006",
+          "tgn:1000004",
+          "tgn:1001842",
+          "tgn:7000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008805"
+        ],
+        "id": 1111006,
+        "name:xx": "South Bihar Plains"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8333,
+          50.3667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111007",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7012077",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008805"
+        ],
+        "id": 1111007,
+        "name:xx": "South Hams"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6167,
+          33.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111008",
+          "tgn:7000249",
+          "tgn:1000004",
+          "tgn:1000119",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386845"
+        ],
+        "id": 1111008,
+        "name:xx": "H̲ula, ʻEmeq"
+      }
+    }
+  ]
+}

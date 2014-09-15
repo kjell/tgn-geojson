@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2333,
+          -33.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102738",
+          "tgn:7000490",
+          "tgn:1000006",
+          "tgn:7001828",
+          "tgn:7001923",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1102738,
+        "name:xx": "Centennial Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95,
+          40.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102739",
+          "tgn:7022657",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007567",
+          "tgn:7007568",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1102739,
+        "name:xx": "Central Park"
+      }
+    }
+  ]
+}

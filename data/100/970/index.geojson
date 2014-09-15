@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6,
+          27.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1009702",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002790",
+          "tgn:7007240",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1009702,
+        "name:xx": "Weedon Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76,
+          44.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1009708",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002518",
+          "tgn:7007568",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1009708,
+        "name:xx": "Wellesley Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.666667,
+          -49.333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1009709",
+          "tgn:1001702",
+          "tgn:1000049",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1009709,
+        "name:xx": "Wellington, Isla"
+      }
+    }
+  ]
+}

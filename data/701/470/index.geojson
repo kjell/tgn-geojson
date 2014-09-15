@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.85,
+          44.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7014701",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002361",
+          "tgn:7007922",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7014701,
+        "name:xx": "Fremont"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7667,
+          44.2667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7014702",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002361",
+          "tgn:7007922",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7014702,
+        "name:xx": "Readfield"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2833,
+          35.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7014705",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001509",
+          "tgn:7007709",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000835",
+          "aat:300008372"
+        ],
+        "id": 7014705,
+        "name:xx": "Bentonville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4333,
+          34.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7014708",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:7023900",
+          "tgn:1002608",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 7014708,
+        "name:xx": "Van Nuys"
+      }
+    }
+  ]
+}

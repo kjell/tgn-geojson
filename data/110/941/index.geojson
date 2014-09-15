@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6333,
+          48.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109411",
+          "tgn:1000003",
+          "tgn:7012216",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1109411,
+        "name:xx": "Noires, Montagnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.666,
+          15.666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109413",
+          "tgn:1000001",
+          "tgn:7005554",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831"
+        ],
+        "id": 1109413,
+        "name:xx": "Nombre de Dios, Cordillera"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.366667,
+          49.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109416",
+          "tgn:1000003",
+          "tgn:7003682",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831",
+          "aat:300008795"
+        ],
+        "id": 1109416,
+        "name:xx": "Nordpfälzer Bergland"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99,
+          27
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109418",
+          "tgn:1000004",
+          "tgn:7018118",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1109418,
+        "name:xx": "Nu Shan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.333,
+          36.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109419",
+          "tgn:1001287",
+          "tgn:7018452",
+          "tgn:1000004",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831"
+        ],
+        "id": 1109419,
+        "name:xx": "Nur Dağları"
+      }
+    }
+  ]
+}

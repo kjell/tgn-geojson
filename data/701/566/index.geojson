@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3333,
+          35.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015661",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7015666",
+          "tgn:7007825",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7015661,
+        "name:xx": "Lyles"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3333,
+          35.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015662",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7015666",
+          "tgn:7007825",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7015662,
+        "name:xx": "Wrigley"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65,
+          45.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015663",
+          "tgn:1003430",
+          "tgn:1000003",
+          "tgn:7003126",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7015663,
+        "name:xx": "Saint-Vincent"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.516667,
+          37.233333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015665",
+          "tgn:1000003",
+          "tgn:1001651",
+          "tgn:7003122",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7015665,
+        "name:xx": "Caltagirone"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4833,
+          35.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015666",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007825",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000771"
+        ],
+        "id": 7015666,
+        "name:xx": "Hickman"
+      }
+    }
+  ]
+}

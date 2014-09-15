@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5,
+          38.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6004565",
+          "tgn:1001219",
+          "tgn:1000004",
+          "tgn:7018451",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 6004565,
+        "name:xx": "Paşalar"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.179,
+          30.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6004566",
+          "tgn:1000004",
+          "tgn:7001282",
+          "tgn:7000231",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300387218",
+          "aat:300000835"
+        ],
+        "id": 6004566,
+        "name:xx": "Pasargadae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.020879,
+          50.900428
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6004568",
+          "tgn:7003458",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7018236",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 6004568,
+        "name:xx": "Passendale"
+      }
+    }
+  ]
+}

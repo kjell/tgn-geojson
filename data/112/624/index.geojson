@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1,
+          37.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1126242",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007523",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1126242,
+        "name:xx": "Little Sac"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2667,
+          33.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1126243",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007712",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1126243,
+        "name:xx": "Little Salkehatchie"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.25,
+          44.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1126244",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007250",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1126244,
+        "name:xx": "Little Salmon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.15,
+          43.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1126245",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002758",
+          "tgn:7007568",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1126245,
+        "name:xx": "Little Salmon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2167,
+          38.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1126248",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007255",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1126248,
+        "name:xx": "Little Sandy"
+      }
+    }
+  ]
+}

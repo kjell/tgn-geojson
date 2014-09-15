@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8667,
+          42.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2122312",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002672",
+          "tgn:7007922",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2122312,
+        "name:xx": "Saint Francis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4833,
+          45.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2122314",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002359",
+          "tgn:7007922",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2122314,
+        "name:xx": "Saint Germain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          44.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2122315",
+          "tgn:1000001",
+          "tgn:2002312",
+          "tgn:7012149",
+          "tgn:7007922",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2122315,
+        "name:xx": "Saint John"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0333,
+          43.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2122317",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002331",
+          "tgn:7007922",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2122317,
+        "name:xx": "Saint Joseph"
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85,
+          42.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2052325",
+          "tgn:1000001",
+          "tgn:2000957",
+          "tgn:7012149",
+          "tgn:7007520",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2052325,
+        "name:xx": "Kalamo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86,
+          44.3667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2052326",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000974",
+          "tgn:7007520",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2052326,
+        "name:xx": "Kaleva"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1667,
+          44.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2052327",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000968",
+          "tgn:7007520",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2052327,
+        "name:xx": "Kalkaska"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7833,
+          44.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2052328",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000961",
+          "tgn:7007520",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2052328,
+        "name:xx": "Karlin"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9333,
+          43.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2052329",
+          "tgn:2000948",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007520",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2052329,
+        "name:xx": "Kawkawlin"
+      }
+    }
+  ]
+}

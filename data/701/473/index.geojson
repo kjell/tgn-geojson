@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.75,
+          54.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7014731",
+          "tgn:1003391",
+          "tgn:1000003",
+          "tgn:7006657",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680",
+          "aat:300000835"
+        ],
+        "id": 7014731,
+        "name:xx": "Naroč', ozero"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0833,
+          38.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7014736",
+          "tgn:1002933",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 7014736,
+        "name:xx": "Henlopen, Cape"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.05,
+          38.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7014737",
+          "tgn:1002933",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300185707"
+        ],
+        "id": 7014737,
+        "name:xx": "Indian River Inlet"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5667,
+          39.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7014738",
+          "tgn:7014201",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008416",
+          "aat:300008389",
+          "aat:300387221",
+          "aat:300387302"
+        ],
+        "id": 7014738,
+        "name:xx": "New Castle"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5667,
+          39.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7014739",
+          "tgn:7014201",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7014739,
+        "name:xx": "Port Penn"
+      }
+    }
+  ]
+}

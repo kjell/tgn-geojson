@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.66,
+          40.963
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024070",
+          "tgn:1000004",
+          "tgn:7024036",
+          "tgn:7006651",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Dsegh",
+        "id": 7024070
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5167,
+          2.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024073",
+          "tgn:7001242",
+          "tgn:1000912",
+          "tgn:1000206",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300015683",
+          "aat:300008347",
+          "aat:300391489"
+        ],
+        "id": 7024073,
+        "name:xx": "Magosi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26,
+          60.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024075",
+          "tgn:1000003",
+          "tgn:1000069",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387179",
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "id": 7024075,
+        "name:xx": "Etelä-Suomen Lääni"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28,
+          62.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024076",
+          "tgn:1000003",
+          "tgn:1000069",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387179",
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "id": 7024076,
+        "name:xx": "Itä-Suomen Lääni"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24,
+          62
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024077",
+          "tgn:1000003",
+          "tgn:1000069",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "id": 7024077,
+        "name:xx": "Länsi-Suomen Lääni"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3333,
+          44.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024078",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 7024078,
+        "name:xx": "Champlain, Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56,
+          32
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024079",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387178"
+        ],
+        "id": 7024079,
+        "name:xx": "Persia"
+      }
+    }
+  ]
+}

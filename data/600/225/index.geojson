@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3833,
+          25.3667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6002253",
+          "tgn:7000684",
+          "tgn:1000004",
+          "tgn:1111881",
+          "tgn:1000137",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000401"
+        ],
+        "id": 6002253,
+        "name:xx": "Ghawar"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.158541,
+          30.225276
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6002259",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:7001335",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300259572"
+        ],
+        "id": 6002259,
+        "name:xx": "Jadī, Mamarr al"
+      }
+    }
+  ]
+}

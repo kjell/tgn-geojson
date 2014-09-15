@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4167,
+          40.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1125454",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1125454,
+        "name:xx": "Kasansaj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8167,
+          58.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1125455",
+          "tgn:7006636",
+          "tgn:1000003",
+          "tgn:7006540",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "name:en": "Kasari Jõgi",
+        "id": 1125455
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.1167,
+          35.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1125456",
+          "tgn:1000004",
+          "tgn:7016768",
+          "tgn:7000231",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1125456,
+        "name:xx": "Kashaf"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.9167,
+          61.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1125459",
+          "tgn:7006450",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000087",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1125459,
+        "name:xx": "Kashunuk"
+      }
+    }
+  ]
+}

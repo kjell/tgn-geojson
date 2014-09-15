@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1333,
+          41.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2091960",
+          "tgn:1000001",
+          "tgn:1002278",
+          "tgn:7012149",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2091960,
+        "name:xx": "Piper"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7667,
+          40.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2091964",
+          "tgn:7013272",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2091964,
+        "name:xx": "Pitcairn"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5167,
+          40.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2091965",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002876",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2091965,
+        "name:xx": "Pitman"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0167,
+          39.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2091966",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001724",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2091966,
+        "name:xx": "Pitt Gas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2667,
+          41.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2091967",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002945",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2091967,
+        "name:xx": "Pitts"
+      }
+    }
+  ]
+}

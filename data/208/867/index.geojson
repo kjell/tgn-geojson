@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2167,
+          41.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2088670",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7016020",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2088670,
+        "name:xx": "Gardeau"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.35,
+          40.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2088671",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7013867",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2088671,
+        "name:xx": "Garden Hills"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0333,
+          41.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2088673",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002613",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2088673,
+        "name:xx": "Garden View"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1,
+          40.3667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2088677",
+          "tgn:1000001",
+          "tgn:1002213",
+          "tgn:7012149",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2088677,
+        "name:xx": "Gardenville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2,
+          40
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2088679",
+          "tgn:1002137",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2088679,
+        "name:xx": "Gardners"
+      }
+    }
+  ]
+}

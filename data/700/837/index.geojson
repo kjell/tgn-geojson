@@ -1,0 +1,142 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6167,
+          43.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008370",
+          "tgn:1000003",
+          "tgn:7002885",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300387330",
+          "aat:300008375",
+          "aat:300020533"
+        ],
+        "name:fr": "Beaucaire",
+        "id": 7008370
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35,
+          43.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008371",
+          "tgn:1000003",
+          "tgn:7002885",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300387218",
+          "aat:300387225",
+          "aat:300008389",
+          "aat:300387512",
+          "aat:300387302",
+          "aat:300387286"
+        ],
+        "name:fr": "Nîmes",
+        "id": 7008371
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.65,
+          44.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008372",
+          "tgn:1000003",
+          "tgn:7002885",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7008372,
+        "name:xx": "Pont-Saint-Esprit"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4167,
+          44.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008374",
+          "tgn:1000003",
+          "tgn:7002885",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300008396",
+          "aat:300387330",
+          "aat:300387235",
+          "aat:300008375"
+        ],
+        "id": 7008374,
+        "name:xx": "Uzès"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.083047,
+          42.306353
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008379",
+          "tgn:7002820",
+          "tgn:7030216",
+          "tgn:1000003",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7008379,
+        "name:xx": "Pedret"
+      }
+    }
+  ]
+}

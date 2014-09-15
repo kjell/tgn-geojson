@@ -1,0 +1,224 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          52.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110900",
+          "tgn:7002445",
+          "tgn:7011980",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008805"
+        ],
+        "name:en": "Bedford Level",
+        "id": 1110900
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25,
+          47.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110901",
+          "tgn:1000003",
+          "tgn:7002877",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008805"
+        ],
+        "id": 1110901,
+        "name:xx": "Champagne Berrichonne"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3167,
+          32.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110902",
+          "tgn:7000249",
+          "tgn:1000004",
+          "tgn:1000119",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008805"
+        ],
+        "id": 1110902,
+        "name:xx": "Bet Netofa, Biqʻat"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7833,
+          35.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110904",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002863",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008805"
+        ],
+        "id": 1110904,
+        "name:xx": "Carrizo Plain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4,
+          -45.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110905",
+          "tgn:7006477",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008805"
+        ],
+        "id": 1110905,
+        "name:xx": "Castillo, Pampa del"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.85,
+          37.416667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110906",
+          "tgn:1000003",
+          "tgn:7003122",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008805"
+        ],
+        "id": 1110906,
+        "name:xx": "Catania, Piana di"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6667,
+          53.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110907",
+          "tgn:7002445",
+          "tgn:7008114",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008805"
+        ],
+        "id": 1110907,
+        "name:xx": "Chesire Plain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.75,
+          21.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110908",
+          "tgn:1000004",
+          "tgn:7031781",
+          "tgn:7000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387346",
+          "aat:300008805"
+        ],
+        "name:en": "Chhattīsgarh Region",
+        "id": 1110908
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14,
+          41.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110909",
+          "tgn:7009084",
+          "tgn:1000003",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008805"
+        ],
+        "id": 1110909,
+        "name:xx": "Cinquemiglia, Piano delle"
+      }
+    }
+  ]
+}

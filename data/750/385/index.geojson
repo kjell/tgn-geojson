@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.503333,
+          22.933889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7503850",
+          "tgn:7001004",
+          "tgn:1000004",
+          "tgn:1000141",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006495"
+        ],
+        "id": 7503850,
+        "name:xx": "Yuantan Guoxiao"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.542,
+          53.32
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7503851",
+          "tgn:7002445",
+          "tgn:7019047",
+          "tgn:1000003",
+          "tgn:7029505",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008703",
+          "aat:300008699"
+        ],
+        "name:en": "Totley Brook",
+        "id": 7503851
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.369,
+          52.142
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7503853",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008178",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Farnborough",
+        "id": 7503853
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.511,
+          23.497
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7503854",
+          "tgn:7468018",
+          "tgn:1000004",
+          "tgn:1000141",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7503854,
+        "name:xx": "Xialiaozi"
+      }
+    }
+  ]
+}

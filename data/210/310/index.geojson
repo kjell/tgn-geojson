@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3333,
+          33.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2103107",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001968",
+          "tgn:7007826",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2103107,
+        "name:xx": "Canyon Valley"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5167,
+          29.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2103108",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001961",
+          "tgn:7007826",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2103108,
+        "name:xx": "Canyon View Acres"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5167,
+          29.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2103109",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002401",
+          "tgn:7007826",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2103109,
+        "name:xx": "Caplen"
+      }
+    }
+  ]
+}

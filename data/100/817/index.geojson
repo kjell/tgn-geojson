@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.8,
+          55.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1008171",
+          "tgn:7006450",
+          "tgn:1000001",
+          "tgn:7030517",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1008171,
+        "name:xx": "Mitrofania Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5833,
+          34.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1008174",
+          "tgn:7000895",
+          "tgn:1000004",
+          "tgn:1001031",
+          "tgn:1010054",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1008174,
+        "name:xx": "Miyake-jima"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5,
+          42.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1008177",
+          "tgn:7017310",
+          "tgn:1000003",
+          "tgn:7006663",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1008177,
+        "name:xx": "Mljet"
+      }
+    }
+  ]
+}

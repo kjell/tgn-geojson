@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5,
+          47
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016870",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386832"
+        ],
+        "name:en": "Carpathian Mountains",
+        "id": 7016870,
+        "name:de": "Karpaten"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.95,
+          45.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016872",
+          "tgn:1000003",
+          "tgn:7015085",
+          "tgn:7006670",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000835",
+          "aat:300132339"
+        ],
+        "id": 7016872,
+        "name:xx": "Kras"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1,
+          42.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Pyrenees",
+        "hierarchy": [
+          "tgn:7016876",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:de": "Pyrenäen",
+        "placetype": [
+          "aat:300386831"
+        ],
+        "name:fr": "Pyrénées",
+        "name:la": "Pyrenaei Montes",
+        "id": 7016876,
+        "name:es": "Pirineos"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5,
+          51.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016878",
+          "tgn:1000003",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 7016878,
+        "name:xx": "Harz"
+      }
+    }
+  ]
+}

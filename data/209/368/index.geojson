@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.05,
+          40.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2093681",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7013867",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2093681,
+        "name:xx": "Terre Hill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2667,
+          41.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2093682",
+          "tgn:1000001",
+          "tgn:1002194",
+          "tgn:7012149",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2093682,
+        "name:xx": "Terrytown"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5667,
+          40.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2093683",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002732",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2093683,
+        "name:xx": "Uniontown"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1,
+          39.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2093686",
+          "tgn:1002137",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2093686,
+        "name:xx": "The Pines"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0833,
+          40.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2093689",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002995",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2093689,
+        "name:xx": "Thomas"
+      }
+    }
+  ]
+}

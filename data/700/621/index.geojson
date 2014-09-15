@@ -1,0 +1,179 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158,
+          -20
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Cook Islands",
+        "hierarchy": [
+          "tgn:7006213",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "name:de": "Cook-Inseln",
+        "placetype": [
+          "aat:300387054",
+          "aat:300237188",
+          "aat:300387347",
+          "aat:300387176",
+          "aat:300235119"
+        ],
+        "name:fr": "Cook, Îles",
+        "id": 7006213,
+        "name:es": "Islas Cook"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.9167,
+          -30
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006214",
+          "tgn:1000226",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300386853",
+          "aat:300235118"
+        ],
+        "id": 7006214,
+        "name:xx": "Kermadec Islands"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.5,
+          -9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006215",
+          "tgn:1000216",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386853"
+        ],
+        "name:fr": "Marquises, Îles",
+        "id": 7006215
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1667,
+          27
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006216",
+          "tgn:1000004",
+          "tgn:7000894",
+          "tgn:1001032",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386853"
+        ],
+        "id": 7006216,
+        "name:xx": "Ogasawara-gunto"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.25,
+          -11
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006217",
+          "tgn:1001406",
+          "tgn:1000233",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386853"
+        ],
+        "id": 7006217,
+        "name:xx": "Santa Cruz Islands"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150,
+          -17
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006218",
+          "tgn:1000216",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386853"
+        ],
+        "id": 7006218,
+        "name:xx": "Société, Îles de la"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -177,
+          -14
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006219",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387054",
+          "aat:300387176",
+          "aat:300387120",
+          "aat:300235119"
+        ],
+        "name:en": "Wallis and Futuna Islands",
+        "id": 7006219
+      }
+    }
+  ]
+}

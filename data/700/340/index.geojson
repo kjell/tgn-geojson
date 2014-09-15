@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.299562,
+          55.756186
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003401",
+          "tgn:7594006",
+          "tgn:1000003",
+          "tgn:1000066",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 7003401,
+        "name:xx": "Endelave"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8833,
+          55.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003403",
+          "tgn:7594006",
+          "tgn:1000003",
+          "tgn:1000066",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387273",
+          "aat:300008347",
+          "aat:300387238",
+          "aat:300387512",
+          "aat:300008375",
+          "aat:300387285"
+        ],
+        "name:en": "Horsens",
+        "id": 7003403,
+        "name:da": "Horsens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4333,
+          55.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003404",
+          "tgn:1000003",
+          "tgn:7594009",
+          "tgn:1000066",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7003404,
+        "name:xx": "Jelling"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5,
+          55.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003405",
+          "tgn:1000003",
+          "tgn:7594009",
+          "tgn:1000066",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000835",
+          "aat:300387232",
+          "aat:300008389",
+          "aat:300387511",
+          "aat:300387512",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300387288"
+        ],
+        "name:en": "Kolding",
+        "id": 7003405,
+        "name:da": "Kolding"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4167,
+          55.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003408",
+          "tgn:1000003",
+          "tgn:1000066",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387179",
+          "aat:300387064",
+          "aat:300000771"
+        ],
+        "id": 7003408,
+        "name:xx": "Fyn"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6667,
+          55.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003409",
+          "tgn:1000003",
+          "tgn:7594009",
+          "tgn:1000066",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7003409,
+        "name:xx": "Kerteminde"
+      }
+    }
+  ]
+}

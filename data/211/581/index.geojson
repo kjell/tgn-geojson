@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.3833,
+          47.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2115810",
+          "tgn:1000001",
+          "tgn:1002271",
+          "tgn:7012149",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2115810,
+        "name:xx": "Forks"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7167,
+          48.2667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2115818",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002899",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2115818,
+        "name:xx": "Fortson"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.55,
+          47.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2115819",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002785",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2115819,
+        "name:xx": "Fort Steilacoom"
+      }
+    }
+  ]
+}

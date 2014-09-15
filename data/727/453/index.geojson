@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.116667,
+          52.933333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7274534",
+          "tgn:1000003",
+          "tgn:7006951",
+          "tgn:7016845",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000401"
+        ],
+        "name:nl": "Helder Veld",
+        "id": 7274534
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.183333,
+          52.866667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7274535",
+          "tgn:1000003",
+          "tgn:7006951",
+          "tgn:7016845",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000401"
+        ],
+        "name:nl": "Helm Veld",
+        "id": 7274535
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.766667,
+          52.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7274536",
+          "tgn:1000003",
+          "tgn:7003632",
+          "tgn:7016845",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000401"
+        ],
+        "name:nl": "Rijn Veld",
+        "id": 7274536
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.983333,
+          51.916667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7274537",
+          "tgn:1000003",
+          "tgn:7003632",
+          "tgn:7016845",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387036"
+        ],
+        "name:nl": "Bollen",
+        "id": 7274537
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.966667,
+          51.883333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7274538",
+          "tgn:1000003",
+          "tgn:7003632",
+          "tgn:7016845",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132350"
+        ],
+        "name:nl": "Ribben",
+        "id": 7274538
+      }
+    }
+  ]
+}

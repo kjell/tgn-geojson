@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3167,
+          33.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016475",
+          "tgn:1000001",
+          "tgn:7006451",
+          "tgn:7012149",
+          "tgn:2000097",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387247"
+        ],
+        "id": 7016475,
+        "name:xx": "El Mirage"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.2667,
+          -3.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016478",
+          "tgn:1001150",
+          "tgn:1000004",
+          "tgn:1000116",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387223",
+          "aat:300120599",
+          "aat:300387286"
+        ],
+        "id": 7016478,
+        "name:xx": "Bengkulu"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97,
+          4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016479",
+          "tgn:1000004",
+          "tgn:1000116",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300387080",
+          "aat:300235106"
+        ],
+        "id": 7016479,
+        "name:xx": "Aceh"
+      }
+    }
+  ]
+}

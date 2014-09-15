@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2333,
+          53.4333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1005940",
+          "tgn:7002445",
+          "tgn:7010477",
+          "tgn:7027477",
+          "tgn:1000003",
+          "tgn:7026570",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 1005940,
+        "name:xx": "Withington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.333333,
+          52.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1005941",
+          "tgn:7003712",
+          "tgn:1005422",
+          "tgn:7003670",
+          "tgn:1000003",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745",
+          "aat:300387340"
+        ],
+        "id": 1005941,
+        "name:xx": "Wittenau"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2167,
+          43.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1005942",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7013284",
+          "tgn:7013154",
+          "tgn:7013251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 1005942,
+        "name:xx": "Woburn"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1167,
+          51.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1005943",
+          "tgn:7002445",
+          "tgn:7018917",
+          "tgn:1000003",
+          "tgn:7008136",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000745",
+          "aat:300387220"
+        ],
+        "name:en": "Wood Green",
+        "id": 1005943
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0333,
+          51.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1005944",
+          "tgn:7002445",
+          "tgn:7018927",
+          "tgn:1000003",
+          "tgn:7008136",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 1005944,
+        "name:xx": "Woodford"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0667,
+          51.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1005945",
+          "tgn:7002445",
+          "tgn:7018927",
+          "tgn:1000003",
+          "tgn:7008136",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 1005945,
+        "name:xx": "Woodford Bridge"
+      }
+    }
+  ]
+}

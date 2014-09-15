@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.566667,
+          41.533333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008850",
+          "tgn:1003444",
+          "tgn:1000003",
+          "tgn:7003241",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7008850,
+        "name:xx": "Baranello"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.766667,
+          43
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008851",
+          "tgn:1003432",
+          "tgn:1000003",
+          "tgn:7003240",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7008851,
+        "name:xx": "Ripatransone"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.662384,
+          51.072307
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Furnes",
+        "name:nl": "Veurne",
+        "hierarchy": [
+          "tgn:7008852",
+          "tgn:7003458",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7018236",
+          "tgn:7029392"
+        ],
+        "name:de": "Veurne",
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:fr": "Furnes",
+        "id": 7008852
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.637722,
+          51.116418
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008853",
+          "tgn:7003458",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7018236",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7008853,
+        "name:xx": "Koksijde"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2667,
+          44.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008854",
+          "tgn:1000003",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 7008854,
+        "name:it": "Reno"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3667,
+          50.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008856",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006075"
+        ],
+        "id": 7008856,
+        "name:xx": "Willebroek, Kanaal van"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4333,
+          51.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008858",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 7008858,
+        "name:xx": "Senne"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0833,
+          50.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008859",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 7008859,
+        "name:xx": "Velp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.894,
+          37.098
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4003722",
+          "tgn:1000852",
+          "tgn:1000003",
+          "tgn:1000090",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4003722,
+        "name:xx": "Estói"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.862043,
+          42.728197
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4003726",
+          "tgn:7007088",
+          "tgn:1000003",
+          "tgn:7009604",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4003726,
+        "name:xx": "Estavillo"
+      }
+    }
+  ]
+}

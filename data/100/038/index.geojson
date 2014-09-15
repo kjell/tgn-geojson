@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.6667,
+          6.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000381",
+          "tgn:7001242",
+          "tgn:1000171",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000771"
+        ],
+        "id": 1000381,
+        "name:xx": "Grand Bassa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.8333,
+          7.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000382",
+          "tgn:7001242",
+          "tgn:1000171",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000771"
+        ],
+        "id": 1000382,
+        "name:xx": "Grand Cape Mount"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0833,
+          5.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000383",
+          "tgn:7001242",
+          "tgn:1000171",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000771"
+        ],
+        "id": 1000383,
+        "name:xx": "Grand Gedeh"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.416,
+          47.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000385",
+          "tgn:1000003",
+          "tgn:7006278",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000771"
+        ],
+        "id": 1000385,
+        "name:xx": "Hajdú-Bihar"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4167,
+          46.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000387",
+          "tgn:1000003",
+          "tgn:1000091",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000771"
+        ],
+        "id": 1000387,
+        "name:xx": "Harghita"
+      }
+    }
+  ]
+}

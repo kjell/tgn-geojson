@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5667,
+          38.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2031160",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000550",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2031160,
+        "name:xx": "Branchville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.15,
+          38.7167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2031162",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002938",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2031162,
+        "name:xx": "Braytown"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1167,
+          39.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2031163",
+          "tgn:1000001",
+          "tgn:2000540",
+          "tgn:7012149",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2031163,
+        "name:xx": "Brazil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0167,
+          38.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2031165",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002457",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2031165,
+        "name:xx": "Breckenridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.75,
+          40.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2031169",
+          "tgn:1000001",
+          "tgn:1002236",
+          "tgn:7012149",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2031169,
+        "name:xx": "Breezy Point"
+      }
+    }
+  ]
+}

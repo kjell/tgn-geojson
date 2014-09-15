@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3,
+          35.183333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:5001931",
+          "tgn:7002692",
+          "tgn:7012056",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300167671",
+          "aat:300008777"
+        ],
+        "id": 5001931,
+        "name:xx": "Petsofas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.95,
+          37.733333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:5001934",
+          "tgn:7002681",
+          "tgn:7001395",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 5001934,
+        "name:xx": "Anávissos"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.583333,
+          38.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:5001938",
+          "tgn:7011330",
+          "tgn:7002674",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7012054",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 5001938,
+        "name:xx": "Pyli"
+      }
+    }
+  ]
+}

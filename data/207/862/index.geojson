@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6833,
+          41.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2078622",
+          "tgn:1000001",
+          "tgn:1002313",
+          "tgn:7012149",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2078622,
+        "name:xx": "Brooklyn Heights"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8,
+          41.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2078623",
+          "tgn:1000001",
+          "tgn:1002313",
+          "tgn:7012149",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2078623,
+        "name:xx": "Brook Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.75,
+          40.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2078627",
+          "tgn:1002175",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2078627,
+        "name:xx": "Brookside"
+      }
+    }
+  ]
+}

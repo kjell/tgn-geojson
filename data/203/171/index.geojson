@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9667,
+          38.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2031710",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002457",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2031710,
+        "name:xx": "Elizabeth"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8,
+          39.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2031711",
+          "tgn:1002167",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2031711,
+        "name:xx": "Elizabethtown"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3667,
+          40.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2031712",
+          "tgn:1000001",
+          "tgn:1002188",
+          "tgn:7012149",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2031712,
+        "name:xx": "Elizaville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9667,
+          41.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2031713",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002353",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300387270"
+        ],
+        "id": 2031713,
+        "name:xx": "Elkhart"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.25,
+          39.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2031719",
+          "tgn:1000001",
+          "tgn:1002209",
+          "tgn:7012149",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2031719,
+        "name:xx": "Elkinsville"
+      }
+    }
+  ]
+}

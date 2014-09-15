@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8,
+          51.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4000520",
+          "tgn:7003461",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:7018236",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387273",
+          "aat:300008347",
+          "aat:300008372"
+        ],
+        "id": 4000520,
+        "name:xx": "Alden Eik"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.95,
+          51.083333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4000524",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008153",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008372"
+        ],
+        "name:en": "Aldington",
+        "id": 4000524
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.65,
+          53.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4000525",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008118",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4000525,
+        "name:xx": "Aldwark"
+      }
+    }
+  ]
+}

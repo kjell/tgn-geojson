@@ -1,0 +1,217 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.8,
+          -46.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001860",
+          "tgn:1009227",
+          "tgn:1000226",
+          "tgn:7018437",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707",
+          "aat:300008699"
+        ],
+        "id": 7001860,
+        "name:xx": "Clutha"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2667,
+          36
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001861",
+          "tgn:1000004",
+          "tgn:7018053",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7001861,
+        "name:xx": "Guyuan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.604167,
+          -45.8125
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001863",
+          "tgn:1009227",
+          "tgn:1000226",
+          "tgn:7018437",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Port Chalmers",
+        "id": 7001863
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.083333,
+          -37.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001864",
+          "tgn:1008380",
+          "tgn:1000226",
+          "tgn:7018426",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Rotowaro",
+        "id": 7001864
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.116667,
+          -35.266667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001865",
+          "tgn:1008380",
+          "tgn:7000507",
+          "tgn:1000226",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387219",
+          "aat:300000778",
+          "aat:300120599"
+        ],
+        "name:en": "Russell",
+        "id": 7001865
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171,
+          -44
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001866",
+          "tgn:1009227",
+          "tgn:1000226",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300236112",
+          "aat:300387173"
+        ],
+        "name:en": "Canterbury",
+        "id": 7001866
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1333,
+          -35.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001867",
+          "tgn:7000490",
+          "tgn:1001989",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387266",
+          "aat:300387219",
+          "aat:300005135",
+          "aat:300264742",
+          "aat:300387220"
+        ],
+        "id": 7001867,
+        "name:xx": "Canberra"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1167,
+          -41.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001869",
+          "tgn:7000490",
+          "tgn:1000006",
+          "tgn:7001992",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387234",
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387316"
+        ],
+        "id": 7001869,
+        "name:xx": "Launceston"
+      }
+    }
+  ]
+}

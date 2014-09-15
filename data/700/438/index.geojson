@@ -1,0 +1,150 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7833,
+          55.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004383",
+          "tgn:1000003",
+          "tgn:7594009",
+          "tgn:1000066",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7004383,
+        "name:xx": "Skærbæk"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1333,
+          29.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004384",
+          "tgn:1000004",
+          "tgn:1000124",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300235093"
+        ],
+        "id": 7004384,
+        "name:xx": "al-Aḥmadī"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.6667,
+          29.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004385",
+          "tgn:1000004",
+          "tgn:1000124",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300235093"
+        ],
+        "id": 7004385,
+        "name:xx": "al-Jahrā'"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9833,
+          29.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004386",
+          "tgn:1000004",
+          "tgn:1000124",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300235093"
+        ],
+        "id": 7004386,
+        "name:xx": "Capital"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48,
+          29.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004387",
+          "tgn:7004388",
+          "tgn:1000004",
+          "tgn:1000124",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387220"
+        ],
+        "id": 7004387,
+        "name:xx": "Ḥawallī"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48,
+          29.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004388",
+          "tgn:1000004",
+          "tgn:1000124",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300235093"
+        ],
+        "id": 7004388,
+        "name:xx": "Ḥawallī"
+      }
+    }
+  ]
+}

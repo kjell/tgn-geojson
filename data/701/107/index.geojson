@@ -1,0 +1,192 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.666667,
+          40.666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011070",
+          "tgn:7011170",
+          "tgn:7002715",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300019275",
+          "aat:300019267",
+          "aat:300008791"
+        ],
+        "id": 7011070,
+        "name:xx": "Thásos"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.533333,
+          38.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011072",
+          "tgn:7002684",
+          "tgn:7001395",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000835",
+          "aat:300259572"
+        ],
+        "id": 7011072,
+        "name:xx": "Thermopílai"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8,
+          37.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011074",
+          "tgn:7002739",
+          "tgn:7017076",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300263063"
+        ],
+        "id": 7011074,
+        "name:xx": "Tírins"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.483333,
+          52.616667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011075",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7012034",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Broseley",
+        "id": 7011075
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.033333,
+          52.883333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011076",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7012034",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Gobowen",
+        "id": 7011076
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.723889,
+          40.77
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011078",
+          "tgn:7011170",
+          "tgn:7002715",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7011070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671"
+        ],
+        "id": 7011078,
+        "name:xx": "Thásos"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5,
+          52.633333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011079",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7026533",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387264",
+          "aat:300387220",
+          "aat:300008375"
+        ],
+        "name:en": "Telford",
+        "id": 7011079
+      }
+    }
+  ]
+}

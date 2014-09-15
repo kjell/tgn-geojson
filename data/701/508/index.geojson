@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.95,
+          42.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015082",
+          "tgn:1000001",
+          "tgn:7014423",
+          "tgn:7012149",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387016"
+        ],
+        "id": 7015082,
+        "name:xx": "East Bridgewater"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5833,
+          42.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015083",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1003038",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387016"
+        ],
+        "id": 7015083,
+        "name:xx": "Harvard"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9,
+          42.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015084",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1003038",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387016"
+        ],
+        "id": 7015084,
+        "name:xx": "Westminster"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1333,
+          42.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015086",
+          "tgn:1000001",
+          "tgn:1002665",
+          "tgn:7012149",
+          "tgn:7007517",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008688"
+        ],
+        "id": 7015086,
+        "name:xx": "Fresh Pond"
+      }
+    }
+  ]
+}

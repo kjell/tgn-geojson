@@ -1,0 +1,214 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05,
+          51.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011800",
+          "tgn:7002445",
+          "tgn:7018924",
+          "tgn:7011781",
+          "tgn:1000003",
+          "tgn:7008136",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000745"
+        ],
+        "name:en": "Deptford",
+        "id": 7011800
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1833,
+          51.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011801",
+          "tgn:7002445",
+          "tgn:7018919",
+          "tgn:1000003",
+          "tgn:7008136",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 7011801,
+        "name:xx": "Gidea Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3167,
+          51.4333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011803",
+          "tgn:7002445",
+          "tgn:7018928",
+          "tgn:1000003",
+          "tgn:7008136",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 7011803,
+        "name:xx": "Ham"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0333,
+          51.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011804",
+          "tgn:7002445",
+          "tgn:7018927",
+          "tgn:1000003",
+          "tgn:7008136",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745",
+          "aat:300008375"
+        ],
+        "id": 7011804,
+        "name:xx": "Wanstead"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0667,
+          51.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011805",
+          "tgn:7002445",
+          "tgn:7018915",
+          "tgn:7011781",
+          "tgn:1000003",
+          "tgn:7008136",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000745",
+          "aat:300387220"
+        ],
+        "name:en": "Woolwich",
+        "id": 7011805
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8167,
+          50.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011806",
+          "tgn:7593920",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7011806,
+        "name:xx": "Teplice"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.15,
+          50.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011808",
+          "tgn:7593920",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387268"
+        ],
+        "id": 7011808,
+        "name:xx": "Terezín"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4,
+          49.3667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011809",
+          "tgn:1003523",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7011809,
+        "name:xx": "Tišnov"
+      }
+    }
+  ]
+}

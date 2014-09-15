@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9,
+          40.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2016545",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007158",
+          "tgn:2000253",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2016545,
+        "name:xx": "Windsor"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107,
+          39.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2016546",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007158",
+          "tgn:2000240",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2016546,
+        "name:xx": "Wingo"
+      }
+    }
+  ]
+}

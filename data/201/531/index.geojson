@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6167,
+          37.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2015310",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007158",
+          "tgn:2000242",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2015310,
+        "name:xx": "Cedarwood"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1,
+          37.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2015311",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007158",
+          "tgn:2000246",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2015311,
+        "name:xx": "Center"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5,
+          39.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2015312",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000215",
+          "tgn:7007158",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2015312,
+        "name:xx": "Central City"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3667,
+          37.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2015313",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000203",
+          "tgn:7007158",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2015313,
+        "name:xx": "Chama"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5,
+          38.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2015318",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000236",
+          "tgn:7007158",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2015318,
+        "name:xx": "Cheraw"
+      }
+    }
+  ]
+}

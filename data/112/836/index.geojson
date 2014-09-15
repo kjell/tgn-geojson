@@ -1,0 +1,153 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.5,
+          28.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1128363",
+          "tgn:1000004",
+          "tgn:1001490",
+          "tgn:1000133",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1128363,
+        "name:xx": "Panjnad River"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.733333,
+          20.933333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1128364",
+          "tgn:1000001",
+          "tgn:7005599",
+          "tgn:7005560",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707",
+          "aat:300008699"
+        ],
+        "id": 1128364,
+        "name:xx": "Pantepec, Río"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.066667,
+          19
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1128365",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:1001895",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707",
+          "aat:300008699"
+        ],
+        "name:en": "Panvel River",
+        "id": 1128365
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.339,
+          8.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1128366",
+          "tgn:1001829",
+          "tgn:1000002",
+          "tgn:1000059",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1128366,
+        "name:xx": "Pao, Río"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5833,
+          -1.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1128368",
+          "tgn:1001826",
+          "tgn:1000047",
+          "tgn:7002456",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1128368,
+        "name:xx": "Papagaio"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.983333,
+          20.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1128369",
+          "tgn:7005585",
+          "tgn:1000001",
+          "tgn:7005560",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707",
+          "aat:300008699"
+        ],
+        "id": 1128369,
+        "name:xx": "Papagayo, Laguna"
+      }
+    }
+  ]
+}

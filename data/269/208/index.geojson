@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0333,
+          35.2667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2692080",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266640"
+        ],
+        "id": 2692080,
+        "name:xx": "State Ridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8833,
+          41.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2692081",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002955",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2692081,
+        "name:xx": "State Road"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0833,
+          41.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2692082",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008699"
+        ],
+        "id": 2692082,
+        "name:xx": "State Road Branch"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1667,
+          43.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2692083",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002331",
+          "tgn:7007922",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008761"
+        ],
+        "id": 2692083,
+        "name:xx": "State Road Coulee"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1,
+          38.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2692086",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002591",
+          "tgn:7007255",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008699"
+        ],
+        "id": 2692086,
+        "name:xx": "State Road Fork"
+      }
+    }
+  ]
+}

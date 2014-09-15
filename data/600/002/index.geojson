@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.186006,
+          28.899552
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6000026",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:7001336",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 6000026,
+        "name:xx": "Abū Rudays"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5,
+          26.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6000027",
+          "tgn:7000684",
+          "tgn:1000004",
+          "tgn:1111881",
+          "tgn:1000137",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000401"
+        ],
+        "id": 6000027,
+        "name:xx": "Abu Sa'Fah"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.833,
+          48.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6000029",
+          "tgn:7003669",
+          "tgn:1000003",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671"
+        ],
+        "name:la": "Abusina",
+        "id": 6000029
+      }
+    }
+  ]
+}

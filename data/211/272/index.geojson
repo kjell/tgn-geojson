@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.15,
+          37.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2112720",
+          "tgn:2002142",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007919",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2112720,
+        "name:xx": "Lofton"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.75,
+          38.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2112721",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002912",
+          "tgn:7007919",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2112721,
+        "name:xx": "Logan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2,
+          36.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2112723",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002173",
+          "tgn:7007919",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2112723,
+        "name:xx": "Lombardy Grove"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1833,
+          38.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2112727",
+          "tgn:2002142",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007919",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2112727,
+        "name:xx": "Lone Fountain"
+      }
+    }
+  ]
+}

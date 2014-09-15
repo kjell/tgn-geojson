@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.9167,
+          -23.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010131",
+          "tgn:1001942",
+          "tgn:1000047",
+          "tgn:7002457",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1010131,
+        "name:xx": "Maricás, Ilhas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.4333,
+          -27.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010132",
+          "tgn:1000216",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386853"
+        ],
+        "name:fr": "Marotiri, Îles",
+        "name:en": "Marotiri Islands",
+        "id": 1010132
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1,
+          24.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010133",
+          "tgn:1000001",
+          "tgn:7021534",
+          "tgn:7012149",
+          "tgn:1002676",
+          "tgn:7007240",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386853"
+        ],
+        "id": 1010133,
+        "name:xx": "Marquesas Keys"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.85,
+          -20.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010137",
+          "tgn:7006389",
+          "tgn:1000047",
+          "tgn:7002457",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386853"
+        ],
+        "id": 1010137,
+        "name:xx": "Martin Vaz, Ilhas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57,
+          -21
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010139",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386853"
+        ],
+        "id": 1010139,
+        "name:xx": "Mascarene Islands"
+      }
+    }
+  ]
+}

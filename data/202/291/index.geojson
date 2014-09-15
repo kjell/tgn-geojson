@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3667,
+          33.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2022910",
+          "tgn:1000001",
+          "tgn:2000322",
+          "tgn:7012149",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2022910,
+        "name:xx": "Forest Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9333,
+          33.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2022913",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000393",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2022913,
+        "name:xx": "Forsyth"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9667,
+          32.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2022914",
+          "tgn:1000001",
+          "tgn:2000317",
+          "tgn:7012149",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2022914,
+        "name:xx": "Fort Benning"
+      }
+    }
+  ]
+}

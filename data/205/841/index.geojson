@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5167,
+          39.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2058410",
+          "tgn:1000001",
+          "tgn:2001180",
+          "tgn:7012149",
+          "tgn:7007523",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2058410,
+        "name:xx": "Coloma"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9833,
+          40.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2058411",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002555",
+          "tgn:7007523",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2058411,
+        "name:xx": "Colony"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8833,
+          38.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2058417",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001210",
+          "tgn:7007523",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2058417,
+        "name:xx": "Columbus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4333,
+          37.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2058418",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001246",
+          "tgn:7007523",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2058418,
+        "name:xx": "Commerce"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4167,
+          37.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2058419",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001211",
+          "tgn:7007523",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2058419,
+        "name:xx": "Competition"
+      }
+    }
+  ]
+}

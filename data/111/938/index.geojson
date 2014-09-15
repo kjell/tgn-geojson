@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6167,
+          37.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1119383",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:7014475",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 1119383,
+        "name:xx": "Anderson Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.8167,
+          36.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1119385",
+          "tgn:1000004",
+          "tgn:1001372",
+          "tgn:7000299",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 1119385,
+        "name:xx": "Andong-chŏsuji"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.583333,
+          53.683333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1119386",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008154",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "name:en": "Anglezarke Reservoir",
+        "id": 1119386
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4333,
+          43.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1119387",
+          "tgn:1000001",
+          "tgn:2001793",
+          "tgn:7012149",
+          "tgn:7007713",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 1119387,
+        "name:xx": "Angostura Reservoir"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.666667,
+          16.166667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1119388",
+          "tgn:7005580",
+          "tgn:1000001",
+          "tgn:7005560",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 1119388,
+        "name:xx": "Angostura, Presa de la"
+      }
+    }
+  ]
+}

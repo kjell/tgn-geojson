@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.166667,
+          -37.633333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7511011",
+          "tgn:1008380",
+          "tgn:1000226",
+          "tgn:7018426",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008713"
+        ],
+        "name:en": "Tauranga Entrance",
+        "id": 7511011
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.45,
+          -41.766667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7511012",
+          "tgn:1009227",
+          "tgn:1000226",
+          "tgn:1000006",
+          "tgn:7016850",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132316"
+        ],
+        "name:en": "Tauranga Bay",
+        "id": 7511012
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7,
+          -39.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7511015",
+          "tgn:1008380",
+          "tgn:1000226",
+          "tgn:7016827",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "name:en": "Taurakawa",
+        "id": 7511015
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.583333,
+          -40.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7511016",
+          "tgn:7016670",
+          "tgn:1008380",
+          "tgn:1000226",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008699"
+        ],
+        "name:en": "Taurakaitai Stream",
+        "id": 7511016
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.666667,
+          -39.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7511017",
+          "tgn:1008380",
+          "tgn:7520093",
+          "tgn:1000226",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "name:en": "Tauporae",
+        "id": 7511017
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.966667,
+          -40.783333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7511018",
+          "tgn:1009227",
+          "tgn:1000226",
+          "tgn:7520095",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008777"
+        ],
+        "name:en": "Taupo Hill",
+        "id": 7511018
+      }
+    }
+  ]
+}

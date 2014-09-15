@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5167,
+          32.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2103683",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002315",
+          "tgn:7007826",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2103683,
+        "name:xx": "Dalrock"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5833,
+          33.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2103684",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002244",
+          "tgn:7007826",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2103684,
+        "name:xx": "Dalton"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.15,
+          32.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2103686",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002939",
+          "tgn:7007826",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2103686,
+        "name:xx": "Dalworthington Gardens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7333,
+          29.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2103689",
+          "tgn:1000001",
+          "tgn:1002198",
+          "tgn:7012149",
+          "tgn:7007826",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2103689,
+        "name:xx": "Damon"
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2833,
+          15.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114850",
+          "tgn:1000617",
+          "tgn:1000001",
+          "tgn:7005554",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008679"
+        ],
+        "id": 1114850,
+        "name:xx": "Tilbalakan, Laguna"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.4333,
+          18.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114851",
+          "tgn:7017437",
+          "tgn:1000001",
+          "tgn:7004643",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008679"
+        ],
+        "id": 1114851,
+        "name:xx": "Tortuguero, Laguna"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.716667,
+          16.766667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114852",
+          "tgn:7005585",
+          "tgn:1000001",
+          "tgn:7005560",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008679"
+        ],
+        "id": 1114852,
+        "name:xx": "Tres Palos, Laguna"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.816,
+          7.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114853",
+          "tgn:7018508",
+          "tgn:1010363",
+          "tgn:1000220",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386968",
+          "aat:300008679"
+        ],
+        "id": 1114853,
+        "name:xx": "Truk Lagoon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.316667,
+          45.416667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114859",
+          "tgn:7003006",
+          "tgn:1000003",
+          "tgn:7002997",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008679"
+        ],
+        "id": 1114859,
+        "name:xx": "Laguna Veneta"
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1,
+          63.266667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118300",
+          "tgn:7594394",
+          "tgn:1000003",
+          "tgn:1000069",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 1118300,
+        "name:xx": "Syväri"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8833,
+          35.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118307",
+          "tgn:7000897",
+          "tgn:1001036",
+          "tgn:1000004",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 1118307,
+        "name:xx": "Tōgō-ike"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8333,
+          42.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118308",
+          "tgn:1000985",
+          "tgn:7016529",
+          "tgn:7016531",
+          "tgn:1000004",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 1118308,
+        "name:xx": "Tōya-ko"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121,
+          14
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118309",
+          "tgn:1000004",
+          "tgn:1001147",
+          "tgn:1000135",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 1118309,
+        "name:xx": "Taal, Lake"
+      }
+    }
+  ]
+}

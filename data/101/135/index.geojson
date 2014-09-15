@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.833333,
+          38.616667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011356",
+          "tgn:7007850",
+          "tgn:7024842",
+          "tgn:1000003",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011356,
+        "name:xx": "Vaticano, Capo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8833,
+          10.3667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011357",
+          "tgn:1001274",
+          "tgn:1000001",
+          "tgn:7005364",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011357,
+        "name:xx": "Velas, Cabo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.4833,
+          10.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011358",
+          "tgn:7000788",
+          "tgn:7001242",
+          "tgn:1000167",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011358,
+        "name:xx": "Verga, Cap"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.55,
+          14.7167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011359",
+          "tgn:1001658",
+          "tgn:7001242",
+          "tgn:1000189",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011359,
+        "name:xx": "Vert, Cap"
+      }
+    }
+  ]
+}

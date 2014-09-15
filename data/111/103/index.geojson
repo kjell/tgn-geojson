@@ -1,0 +1,169 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89,
+          23
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111031",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008760",
+          "aat:300387346"
+        ],
+        "id": 1111031,
+        "name:xx": "Ganges Delta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.4167,
+          68.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111033",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:1000296",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008760"
+        ],
+        "id": 1111033,
+        "name:xx": "Mackenzie Delta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          4.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111035",
+          "tgn:7001242",
+          "tgn:1000182",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008760"
+        ],
+        "id": 1111035,
+        "name:xx": "Niger Delta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.75,
+          -18.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111036",
+          "tgn:7001242",
+          "tgn:1000905",
+          "tgn:1000150",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008760"
+        ],
+        "id": 1111036,
+        "name:xx": "Okavango Delta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5,
+          9.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111037",
+          "tgn:1001994",
+          "tgn:1000002",
+          "tgn:1000059",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008760"
+        ],
+        "id": 1111037,
+        "name:xx": "Orinoco, Delta del"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.05,
+          31.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111038",
+          "tgn:1000004",
+          "tgn:1000121",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132350"
+        ],
+        "id": 1111038,
+        "name:xx": "Ḥafīra, Qāʻ al-"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1833,
+          32.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111039",
+          "tgn:1000004",
+          "tgn:1000121",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132350"
+        ],
+        "id": 1111039,
+        "name:xx": "Abū Qarḍī, Qāʻ"
+      }
+    }
+  ]
+}

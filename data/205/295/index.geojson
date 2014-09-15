@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8833,
+          42.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2052950",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002967",
+          "tgn:7007520",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2052950,
+        "name:xx": "Paw Paw"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2667,
+          42.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2052953",
+          "tgn:1000001",
+          "tgn:1002182",
+          "tgn:7012149",
+          "tgn:7007520",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2052953,
+        "name:xx": "Paw Paw Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6,
+          45.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2052956",
+          "tgn:2000944",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007520",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2052956,
+        "name:xx": "Paxton"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1333,
+          46.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2052957",
+          "tgn:1000001",
+          "tgn:2000952",
+          "tgn:7012149",
+          "tgn:7007520",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2052957,
+        "name:xx": "Payment"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1,
+          46.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2052958",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000986",
+          "tgn:7007520",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2052958,
+        "name:xx": "Paynesville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8833,
+          44.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2052959",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000970",
+          "tgn:7007520",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2052959,
+        "name:xx": "Peacock"
+      }
+    }
+  ]
+}

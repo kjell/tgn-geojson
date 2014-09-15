@@ -1,0 +1,154 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28,
+          54
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1003391",
+          "tgn:1000003",
+          "tgn:7006657",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "name:be": "Minskaya Voblasts'",
+        "id": 1003391,
+        "name:ru": "Minskaya Oblast'"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5,
+          41.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1003394",
+          "tgn:1000004",
+          "tgn:7006655",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "id": 1003394,
+        "name:xx": "Naryn"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30,
+          47.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1003396",
+          "tgn:1000003",
+          "tgn:7006660",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300235107"
+        ],
+        "id": 1003396,
+        "name:xx": "Odessa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38,
+          52
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1003397",
+          "tgn:1000004",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300235107"
+        ],
+        "name:en": "Orel",
+        "id": 1003397,
+        "name:xx": "Oryol"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54,
+          52
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1003398",
+          "tgn:1000004",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300235107"
+        ],
+        "id": 1003398,
+        "name:xx": "Orenburgskaya Oblast'"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5,
+          53
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1003399",
+          "tgn:1000004",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300235107"
+        ],
+        "id": 1003399,
+        "name:xx": "Penzenskaya Oblast'"
+      }
+    }
+  ]
+}

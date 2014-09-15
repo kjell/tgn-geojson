@@ -1,0 +1,238 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8167,
+          21.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003870",
+          "tgn:7000679",
+          "tgn:7003866",
+          "tgn:1000004",
+          "tgn:1000137",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300387223",
+          "aat:300387272"
+        ],
+        "name:en": "Mecca",
+        "id": 7003870
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.833333,
+          37.666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003872",
+          "tgn:1000003",
+          "tgn:1001651",
+          "tgn:7003122",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7003872,
+        "name:xx": "Adrano"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3667,
+          41.3667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003873",
+          "tgn:7003011",
+          "tgn:7003005",
+          "tgn:1000003",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7003873,
+        "name:xx": "Piedimonte Matese"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.95,
+          37.883333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003874",
+          "tgn:1000003",
+          "tgn:1001651",
+          "tgn:7003122",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7003874,
+        "name:xx": "Randazzo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1667,
+          15.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003875",
+          "tgn:1000004",
+          "tgn:1000137",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300236112"
+        ],
+        "name:en": "Southern",
+        "id": 7003875
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3333,
+          31.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003876",
+          "tgn:7000674",
+          "tgn:1000004",
+          "tgn:7003877",
+          "tgn:1000137",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7003876,
+        "name:xx": "Al-Qurayyat"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38,
+          29
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003877",
+          "tgn:1000004",
+          "tgn:1000137",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300236112"
+        ],
+        "name:en": "Northern",
+        "id": 7003877
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7667,
+          24.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003878",
+          "tgn:7000680",
+          "tgn:1000004",
+          "tgn:7003879",
+          "tgn:1000137",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300264742",
+          "aat:300387512",
+          "aat:300387272",
+          "aat:300387270"
+        ],
+        "name:en": "Riyadh",
+        "id": 7003878
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44,
+          26.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003879",
+          "tgn:1000004",
+          "tgn:1000137",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300236112"
+        ],
+        "name:en": "Central",
+        "id": 7003879
+      }
+    }
+  ]
+}

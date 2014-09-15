@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1167,
+          51.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100492",
+          "tgn:7002445",
+          "tgn:7018934",
+          "tgn:7011781",
+          "tgn:1000003",
+          "tgn:7008136",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300005993"
+        ],
+        "id": 1100492,
+        "name:xx": "Parliament, Houses of"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05,
+          38.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100494",
+          "tgn:7015769",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007919",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300005993"
+        ],
+        "id": 1100494,
+        "name:xx": "Pentagon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2,
+          28.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100498",
+          "tgn:1000004",
+          "tgn:7000201",
+          "tgn:7000198",
+          "tgn:7001534",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300005993"
+        ],
+        "id": 1100498,
+        "name:xx": "Rashtrapati Bhawan"
+      }
+    }
+  ]
+}

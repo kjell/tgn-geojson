@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5,
+          41.166667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7033062",
+          "tgn:7002842",
+          "tgn:7001158",
+          "tgn:1000003",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300008372"
+        ],
+        "id": 7033062,
+        "name:xx": "Ambrona"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.666,
+          39.666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7033063",
+          "tgn:7002752",
+          "tgn:7001399",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387007",
+          "aat:300000810",
+          "aat:300048808",
+          "aat:300008746"
+        ],
+        "name:en": "Theopetra Cave",
+        "id": 7033063
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.95,
+          51.216667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7033064",
+          "tgn:1000003",
+          "tgn:7003677",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375",
+          "aat:300387291"
+        ],
+        "id": 7033064,
+        "name:xx": "Neandertal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.523,
+          16.457
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7033066",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:1001882",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300019258",
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671"
+        ],
+        "id": 7033066,
+        "name:xx": "Hunsgi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.094,
+          18.405
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7033068",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:1001895",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387277",
+          "aat:300018870",
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300391432",
+          "aat:300008372",
+          "aat:300387006",
+          "aat:300391431"
+        ],
+        "id": 7033068,
+        "name:xx": "Inamgaon"
+      }
+    }
+  ]
+}

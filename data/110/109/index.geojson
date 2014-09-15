@@ -1,0 +1,151 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8333,
+          33.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101090",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002748",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006084"
+        ],
+        "id": 1101090,
+        "name:xx": "Carbon Canyon Dam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2,
+          45.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101091",
+          "tgn:1000003",
+          "tgn:7001095",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006084"
+        ],
+        "id": 1101091,
+        "name:xx": "Chastang, Barrage de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1667,
+          -19.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101092",
+          "tgn:7001242",
+          "tgn:1000891",
+          "tgn:1000180",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006084"
+        ],
+        "id": 1101092,
+        "name:xx": "Oliveira Salazar, Barragem"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6333,
+          39.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101093",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002817",
+          "tgn:7007523",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006084"
+        ],
+        "id": 1101093,
+        "name:xx": "Clarence Cannon Dam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1667,
+          39.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101096",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007516",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006084"
+        ],
+        "id": 1101096,
+        "name:xx": "Conowingo Dam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7333,
+          50.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101099",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7005804",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006084"
+        ],
+        "id": 1101099,
+        "name:xx": "Daniel Johnson Dam"
+      }
+    }
+  ]
+}

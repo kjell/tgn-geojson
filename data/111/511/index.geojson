@@ -1,0 +1,147 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108,
+          68.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115110",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7024197",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266559"
+        ],
+        "id": 1115110,
+        "name:xx": "Dease Strait"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25,
+          67
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115112",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266559"
+        ],
+        "id": 1115112,
+        "name:xx": "Denmark Strait"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2,
+          54.266667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115113",
+          "tgn:1000003",
+          "tgn:7000094",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266559"
+        ],
+        "id": 1115113,
+        "name:xx": "Der Bodden"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.95,
+          12.183333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115114",
+          "tgn:1009838",
+          "tgn:7000204",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266559"
+        ],
+        "name:en": "Diligent Strait",
+        "id": 1115114
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142,
+          73
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115115",
+          "tgn:1000004",
+          "tgn:7011528",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266559"
+        ],
+        "id": 1115115,
+        "name:xx": "Dmitriya Lapteva, Proliv"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115,
+          69
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115116",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:1000296",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266559"
+        ],
+        "id": 1115116,
+        "name:xx": "Dolphin and Union Strait"
+      }
+    }
+  ]
+}

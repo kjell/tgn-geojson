@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.783333,
+          42.483333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032461",
+          "tgn:7003139",
+          "tgn:1000003",
+          "tgn:7003080",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7032461,
+        "name:it": "Tessennano"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.433333,
+          42.166667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032463",
+          "tgn:7003138",
+          "tgn:1000003",
+          "tgn:7003080",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387330"
+        ],
+        "id": 7032463,
+        "name:it": "Magliano Romano"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0166,
+          65.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032467",
+          "tgn:1000003",
+          "tgn:7003774",
+          "tgn:1000097",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300263063"
+        ],
+        "name:en": "Gammelstaden",
+        "id": 7032467
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.883333,
+          21.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032469",
+          "tgn:1000001",
+          "tgn:7005592",
+          "tgn:7005560",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300048808",
+          "aat:300007699",
+          "aat:300008746",
+          "aat:300387006"
+        ],
+        "id": 7032469,
+        "name:xx": "Coxcatlán"
+      }
+    }
+  ]
+}

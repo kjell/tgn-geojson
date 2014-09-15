@@ -1,0 +1,224 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.666667,
+          52.683333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012150",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7012034",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Atcham",
+        "id": 7012150
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4,
+          51.283333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012151",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008153",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008372"
+        ],
+        "name:en": "Addington",
+        "id": 7012151
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6333,
+          57.7167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012153",
+          "tgn:7012152",
+          "tgn:1000003",
+          "tgn:7006541",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386846"
+        ],
+        "id": 7012153,
+        "name:xx": "Kolkas rags"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24,
+          57
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012154",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 7012154,
+        "name:xx": "Daugava"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0833,
+          57.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Irbe Strait",
+        "name:lv": "Irbes jūras šaurums",
+        "hierarchy": [
+          "tgn:7012155",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266559"
+        ],
+        "name:et": "Kura Kurk",
+        "id": 7012155
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1333,
+          51.3667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012156",
+          "tgn:7002445",
+          "tgn:7018930",
+          "tgn:1000003",
+          "tgn:7008136",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 7012156,
+        "name:xx": "Beddington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5,
+          52.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012157",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008160",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387346"
+        ],
+        "id": 7012157,
+        "name:xx": "Norfolk Broads"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5,
+          53.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012158",
+          "tgn:1000003",
+          "tgn:7006657",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "name:be": "Hrodzyenskaya Voblasts'",
+        "id": 7012158,
+        "name:ru": "Grodnenskaya Oblast'"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.9167,
+          35.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012159",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 7012159,
+        "name:xx": "Murgab"
+      }
+    }
+  ]
+}

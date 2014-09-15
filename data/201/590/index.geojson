@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2167,
+          40.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2015903",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000226",
+          "tgn:7007158",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2015903,
+        "name:xx": "Livermore"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9333,
+          37.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2015904",
+          "tgn:1000001",
+          "tgn:2000202",
+          "tgn:7012149",
+          "tgn:7007158",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2015904,
+        "name:xx": "Lobatos"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7,
+          40.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2015906",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000235",
+          "tgn:7007158",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2015906,
+        "name:xx": "Lodi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8,
+          39.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2015908",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000230",
+          "tgn:7007158",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2015908,
+        "name:xx": "Loma"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7833,
+          37.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2015909",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000225",
+          "tgn:7007158",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2015909,
+        "name:xx": "Loma Linda"
+      }
+    }
+  ]
+}

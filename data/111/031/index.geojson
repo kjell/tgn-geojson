@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13,
+          -18
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110310",
+          "tgn:7001242",
+          "tgn:7030587",
+          "tgn:1000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300236112",
+          "aat:300132339"
+        ],
+        "id": 1110310,
+        "name:xx": "Kaokoveld"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20,
+          -20
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110311",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132339"
+        ],
+        "id": 1110311,
+        "name:xx": "Kaukau Veld"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5,
+          24.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110312",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:1001894",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132339"
+        ],
+        "id": 1110312,
+        "name:xx": "Khichīwāra Plateau"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.5,
+          34.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110313",
+          "tgn:7016674",
+          "tgn:1000004",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132339"
+        ],
+        "id": 1110313,
+        "name:xx": "Kibi-kōgen"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5,
+          6.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110317",
+          "tgn:7001242",
+          "tgn:1000166",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132339"
+        ],
+        "id": 1110317,
+        "name:xx": "Kwahu Plateau"
+      }
+    }
+  ]
+}

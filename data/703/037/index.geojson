@@ -1,0 +1,188 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4167,
+          35.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030370",
+          "tgn:1000003",
+          "tgn:7005729",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386854"
+        ],
+        "name:en": "Malta",
+        "id": 7030370
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5,
+          18.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030371",
+          "tgn:1000001",
+          "tgn:7005556",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "name:en": "Jamaica",
+        "id": 7030371
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9667,
+          13.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030372",
+          "tgn:1000001",
+          "tgn:7004772",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "name:en": "Saint Lucia",
+        "id": 7030372
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5333,
+          13.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030373",
+          "tgn:7004770",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "name:en": "Barbados",
+        "id": 7030373
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.100098,
+          36.985003
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030376",
+          "tgn:1002056",
+          "tgn:1000004",
+          "tgn:1000140",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300008545",
+          "aat:300008389",
+          "aat:300008057"
+        ],
+        "id": 7030376,
+        "name:xx": "Tell Fekheriyeh"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4833,
+          15.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030377",
+          "tgn:1000639",
+          "tgn:1000001",
+          "tgn:7005493",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300017826",
+          "aat:300008347",
+          "aat:300387007",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300018863",
+          "aat:300387512",
+          "aat:300008057",
+          "aat:300235096"
+        ],
+        "id": 7030377,
+        "name:xx": "Zaculeu"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.833333,
+          54.883333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030379",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008127",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387007",
+          "aat:300387238",
+          "aat:300006909"
+        ],
+        "name:en": "Ebchester",
+        "id": 7030379
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4833,
+          51.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100320",
+          "tgn:1000003",
+          "tgn:7003677",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006891"
+        ],
+        "id": 1100320,
+        "name:xx": "Myllendonk, Schloss"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29,
+          61.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100323",
+          "tgn:7594381",
+          "tgn:1000003",
+          "tgn:1000069",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006891"
+        ],
+        "id": 1100323,
+        "name:xx": "Olavinlinna"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9333,
+          51.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100326",
+          "tgn:7002443",
+          "tgn:1000003",
+          "tgn:7018993",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006891"
+        ],
+        "id": 1100326,
+        "name:xx": "Pembroke Castle"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.65,
+          51.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100328",
+          "tgn:1000003",
+          "tgn:7003677",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006891"
+        ],
+        "id": 1100328,
+        "name:xx": "Pesch, Schloss"
+      }
+    }
+  ]
+}

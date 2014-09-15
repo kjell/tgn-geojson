@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.95,
+          36.483
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6000412",
+          "tgn:1000004",
+          "tgn:1000118",
+          "tgn:1001441",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300167671",
+          "aat:300008545"
+        ],
+        "id": 6000412,
+        "name:xx": "Tell Arpachiyah"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.533,
+          41.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6000413",
+          "tgn:1003455",
+          "tgn:1000003",
+          "tgn:7010380",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671"
+        ],
+        "id": 6000413,
+        "name:xx": "Arpi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.4333,
+          35.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6000415",
+          "tgn:1001115",
+          "tgn:1000004",
+          "tgn:1000118",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300167671",
+          "aat:300387286"
+        ],
+        "id": 6000415,
+        "name:xx": "Arrapkha"
+      }
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9833,
+          45.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7007290",
+          "tgn:1000003",
+          "tgn:7004723",
+          "tgn:7011731",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7007290,
+        "name:xx": "Mendrisio"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9167,
+          46.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7007292",
+          "tgn:1000003",
+          "tgn:7003751",
+          "tgn:7011731",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387220",
+          "aat:300008375"
+        ],
+        "name:en": "Neuchatel",
+        "id": 7007292
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.25,
+          46.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7007294",
+          "tgn:1000003",
+          "tgn:7003754",
+          "tgn:7011731",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387220",
+          "aat:300008375"
+        ],
+        "id": 7007294,
+        "name:xx": "Sarnen"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5333,
+          47.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7007295",
+          "tgn:1000003",
+          "tgn:7003758",
+          "tgn:7011731",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387220",
+          "aat:300008375"
+        ],
+        "id": 7007295,
+        "name:xx": "Solothurn"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4,
+          46.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7007297",
+          "tgn:1000003",
+          "tgn:7003763",
+          "tgn:7011731",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7007297,
+        "name:xx": "Aubonne"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.05,
+          46.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7007298",
+          "tgn:1000003",
+          "tgn:7003763",
+          "tgn:7011731",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7007298,
+        "name:xx": "Avenches"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.65,
+          46.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7007299",
+          "tgn:1000003",
+          "tgn:7003763",
+          "tgn:7011731",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300387235",
+          "aat:300387220",
+          "aat:300387270",
+          "aat:300387296"
+        ],
+        "id": 7007299,
+        "name:xx": "Lausanne"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.842,
+          18.592
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593540",
+          "tgn:7593368",
+          "tgn:1000001",
+          "tgn:7005388",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7593540,
+        "name:xx": "La Victoria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.985,
+          19.584
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593542",
+          "tgn:7005424",
+          "tgn:1000001",
+          "tgn:7005388",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7593542,
+        "name:xx": "Esperanza"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.783,
+          32.293
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593549",
+          "tgn:7032026",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300265612"
+        ],
+        "id": 7593549,
+        "name:xx": "Hamilton"
+      }
+    }
+  ]
+}

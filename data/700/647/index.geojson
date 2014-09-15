@@ -1,0 +1,230 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5,
+          49.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Bohemia",
+        "hierarchy": [
+          "tgn:7006470",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "name:cs": "Čechy",
+        "placetype": [
+          "aat:300387346",
+          "aat:300235096"
+        ],
+        "name:fr": "Bohême",
+        "id": 7006470
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5167,
+          55.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006471",
+          "tgn:7006491",
+          "tgn:1000003",
+          "tgn:7006541",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387222",
+          "aat:300264742",
+          "aat:300387270",
+          "aat:300387302"
+        ],
+        "id": 7006471,
+        "name:xx": "Daugavpils"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.25,
+          57.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006472",
+          "tgn:7006490",
+          "tgn:1000003",
+          "tgn:7006541",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387222"
+        ],
+        "id": 7006472,
+        "name:xx": "Cēsis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6667,
+          56.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006473",
+          "tgn:7006495",
+          "tgn:1000003",
+          "tgn:7006541",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387277",
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387222",
+          "aat:300387308",
+          "aat:300387316"
+        ],
+        "id": 7006473,
+        "name:xx": "Jelgava"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0167,
+          56.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006474",
+          "tgn:7006498",
+          "tgn:1000003",
+          "tgn:7006541",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387222",
+          "aat:300264742",
+          "aat:300387249",
+          "aat:300387302",
+          "aat:300120599"
+        ],
+        "id": 7006474,
+        "name:xx": "Liepāja"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5167,
+          57.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006475",
+          "tgn:1000003",
+          "tgn:7006513",
+          "tgn:7006541",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387222",
+          "aat:300387249",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300120599"
+        ],
+        "id": 7006475,
+        "name:xx": "Ventspils"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64,
+          -34
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Argentina",
+        "name:nl": "Argentinië",
+        "hierarchy": [
+          "tgn:7006477",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "name:ar": "الأرج خٌين",
+        "name:de": "Argentinien",
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300055522"
+        ],
+        "name:fr": "L'Argentine",
+        "name:ru": "Аргентина",
+        "name:zh": "阿根廷",
+        "id": 7006477,
+        "name:es": "Argentina"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57,
+          -35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006478",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266571"
+        ],
+        "id": 7006478,
+        "name:xx": "Plata, Río de la"
+      }
+    }
+  ]
+}

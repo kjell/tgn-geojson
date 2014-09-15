@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6,
+          41.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011030",
+          "tgn:1000003",
+          "tgn:7594273",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011030,
+        "name:xx": "Parata, la"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6667,
+          75.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011031",
+          "tgn:1006952",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:1010229",
+          "tgn:7024197",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011031,
+        "name:xx": "Parker, Cape"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.4,
+          70.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011032",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:1000296",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011032,
+        "name:xx": "Parry, Cape"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.485,
+          -0.368
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011033",
+          "tgn:1001411",
+          "tgn:7002560",
+          "tgn:1000051",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011033,
+        "name:xx": "Pasado, Cabo"
+      }
+    }
+  ]
+}

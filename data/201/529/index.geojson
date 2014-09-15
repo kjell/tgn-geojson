@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1,
+          37.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2015296",
+          "tgn:1000001",
+          "tgn:2000202",
+          "tgn:7012149",
+          "tgn:7007158",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2015296,
+        "name:xx": "Capulin"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.2,
+          39.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2015297",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000214",
+          "tgn:7007158",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2015297,
+        "name:xx": "Carbondale"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.3,
+          39.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2015298",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000214",
+          "tgn:7007158",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2015298,
+        "name:xx": "Cardiff"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5833,
+          39.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017740",
+          "tgn:7014201",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2017740,
+        "name:xx": "Chelsea Estates"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7,
+          39.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017741",
+          "tgn:7014201",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2017741,
+        "name:xx": "Chestnut Hill Estates"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45,
+          38.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017744",
+          "tgn:1002933",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2017744,
+        "name:xx": "Chestnut Knoll"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5833,
+          39.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017749",
+          "tgn:1002538",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2017749,
+        "name:xx": "Cheswold"
+      }
+    }
+  ]
+}

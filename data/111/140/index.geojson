@@ -1,0 +1,151 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6333,
+          44.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111400",
+          "tgn:1000004",
+          "tgn:1003555",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1111400,
+        "name:xx": "Gor'kaya Balka"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1333,
+          51.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111401",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008767"
+        ],
+        "id": 1111401,
+        "name:xx": "Goring Gap"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2,
+          47.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111404",
+          "tgn:7003027",
+          "tgn:1000003",
+          "tgn:1000062",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008767"
+        ],
+        "id": 1111404,
+        "name:xx": "Liechtensteinklamm"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.05,
+          53.083333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111405",
+          "tgn:7002443",
+          "tgn:1000003",
+          "tgn:7029493",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008767",
+          "aat:300259572"
+        ],
+        "name:en": "Llanberis, Pass of",
+        "id": 1111405
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3833,
+          49.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111406",
+          "tgn:7003533",
+          "tgn:1000003",
+          "tgn:7003514",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008767"
+        ],
+        "id": 1111406,
+        "name:xx": "Loup, Gorge du"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.25,
+          39
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111407",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008767"
+        ],
+        "id": 1111407,
+        "name:xx": "Mather Gorge"
+      }
+    }
+  ]
+}

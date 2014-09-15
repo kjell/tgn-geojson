@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3833,
+          33.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2007212",
+          "tgn:1000001",
+          "tgn:7006451",
+          "tgn:7012149",
+          "tgn:2000104",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2007212,
+        "name:xx": "Poston"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8333,
+          33.2667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2007213",
+          "tgn:1000001",
+          "tgn:7006451",
+          "tgn:7012149",
+          "tgn:2000097",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2007213,
+        "name:xx": "Pozo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4667,
+          34.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2007214",
+          "tgn:1000001",
+          "tgn:7006451",
+          "tgn:7012149",
+          "tgn:2000103",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2007214,
+        "name:xx": "Prescott"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3,
+          34.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2007219",
+          "tgn:1000001",
+          "tgn:7006451",
+          "tgn:7012149",
+          "tgn:2000103",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2007219,
+        "name:xx": "Prescott Valley"
+      }
+    }
+  ]
+}

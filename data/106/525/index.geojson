@@ -1,0 +1,150 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5833,
+          46.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1065251",
+          "tgn:1000003",
+          "tgn:7015138",
+          "tgn:7006670",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387222",
+          "aat:300008375"
+        ],
+        "id": 1065251,
+        "name:xx": "Slovenska Bistrica"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.55,
+          45.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1065252",
+          "tgn:7017295",
+          "tgn:1000003",
+          "tgn:7006663",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1065252,
+        "name:xx": "Slunj"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21,
+          44.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1065254",
+          "tgn:1000003",
+          "tgn:7006669",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1065254,
+        "name:xx": "Smederevska"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6667,
+          46.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1065255",
+          "tgn:1000003",
+          "tgn:7015085",
+          "tgn:7006670",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1065255,
+        "name:xx": "Soča"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6333,
+          45.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1065256",
+          "tgn:1000003",
+          "tgn:7015085",
+          "tgn:7006670",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1065256,
+        "name:xx": "Sodražica"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6833,
+          46.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1065257",
+          "tgn:1000003",
+          "tgn:7015085",
+          "tgn:7006670",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1065257,
+        "name:xx": "Solčava"
+      }
+    }
+  ]
+}

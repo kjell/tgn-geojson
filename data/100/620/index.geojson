@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4667,
+          45.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1006201",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7005804",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1006201,
+        "name:xx": "Aigle, Île à l'"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0833,
+          67.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1006204",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7024197",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1006204,
+        "name:xx": "Air Force Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3333,
+          53
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1006208",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:1000296",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1006208,
+        "name:xx": "Akimiski Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0833,
+          60.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1006209",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:1000296",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1006209,
+        "name:xx": "Akpatok Island"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6476,
+          48.6305
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6002081",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001277",
+          "tgn:7007524",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300167671",
+          "aat:300006909",
+          "aat:300387250"
+        ],
+        "id": 6002081,
+        "name:xx": "Fort Piegan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8333,
+          35.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6002083",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001885",
+          "tgn:7007825",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000835",
+          "aat:300006909",
+          "aat:300000833"
+        ],
+        "id": 6002083,
+        "name:xx": "Fort Pillow"
+      }
+    }
+  ]
+}

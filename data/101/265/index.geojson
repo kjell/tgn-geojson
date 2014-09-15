@@ -1,0 +1,183 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73,
+          -73.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1012650",
+          "tgn:1000007",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008734"
+        ],
+        "id": 1012650,
+        "name:xx": "English Coast"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.5,
+          -68.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1012653",
+          "tgn:1000007",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008734"
+        ],
+        "id": 1012653,
+        "name:xx": "George V Coast"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.75,
+          5.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1012654",
+          "tgn:7001242",
+          "tgn:1000166",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008734"
+        ],
+        "name:en": "Gold Coast",
+        "id": 1012654
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9,
+          5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1012655",
+          "tgn:7001242",
+          "tgn:1000171",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008734"
+        ],
+        "id": 1012655,
+        "name:xx": "Grain Coast"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131,
+          -74.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1012656",
+          "tgn:1000007",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008734"
+        ],
+        "id": 1012656,
+        "name:xx": "Hobbs Coast"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76,
+          -69.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1012657",
+          "tgn:1000007",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008734"
+        ],
+        "id": 1012657,
+        "name:xx": "Ingrid Christensen Coast"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58,
+          -67.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1012658",
+          "tgn:1000007",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008734"
+        ],
+        "id": 1012658,
+        "name:xx": "Kemp Coast"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105,
+          -66.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1012659",
+          "tgn:1000007",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008734"
+        ],
+        "id": 1012659,
+        "name:xx": "Knox Coast"
+      }
+    }
+  ]
+}

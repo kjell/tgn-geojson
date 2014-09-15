@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123,
+          45.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2084722",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002636",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2084722,
+        "name:xx": "Fairfield"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.7833,
+          45.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2084725",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002943",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2084725,
+        "name:xx": "Fairview"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0667,
+          43.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2084726",
+          "tgn:1000001",
+          "tgn:2001702",
+          "tgn:7012149",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2084726,
+        "name:xx": "Fairview"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4167,
+          45.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2084727",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002699",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2084727,
+        "name:xx": "Fairview"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75,
+          42.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2084728",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001714",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2084728,
+        "name:xx": "Falcon Heights"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8167,
+          43.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2084729",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001716",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2084729,
+        "name:xx": "Fall Creek"
+      }
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65,
+          18.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115050",
+          "tgn:1000001",
+          "tgn:7005118",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266558"
+        ],
+        "id": 1115050,
+        "name:xx": "Southwest Road"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1167,
+          54.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115051",
+          "tgn:1000003",
+          "tgn:7000094",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266558"
+        ],
+        "id": 1115051,
+        "name:xx": "Strelasund"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6667,
+          55.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "The Sound",
+        "hierarchy": [
+          "tgn:1115053",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:da": "Øresund",
+        "placetype": [
+          "aat:300266558"
+        ],
+        "name:sv": "Öresund",
+        "id": 1115053
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.95,
+          -45.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115054",
+          "tgn:1009227",
+          "tgn:1000226",
+          "tgn:7016822",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266558"
+        ],
+        "name:en": "Thompson Sound",
+        "id": 1115054
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.25,
+          55.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115055",
+          "tgn:7003502",
+          "tgn:7003478",
+          "tgn:1000003",
+          "tgn:1000078",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266558"
+        ],
+        "id": 1115055,
+        "name:xx": "Tory Sound"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.3833,
+          18.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115057",
+          "tgn:1000001",
+          "tgn:7004643",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266558"
+        ],
+        "id": 1115057,
+        "name:xx": "Vieques, Sonda de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.6,
+          54
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115059",
+          "tgn:7005735",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:1010228",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266558"
+        ],
+        "id": 1115059,
+        "name:xx": "Virago Sound"
+      }
+    }
+  ]
+}

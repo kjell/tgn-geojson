@@ -1,0 +1,207 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1167,
+          41.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018950",
+          "tgn:1000001",
+          "tgn:1002320",
+          "tgn:7012149",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006075"
+        ],
+        "id": 7018950,
+        "name:xx": "Garrett City Ditch"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5667,
+          39.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018951",
+          "tgn:1000001",
+          "tgn:1002325",
+          "tgn:7012149",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7018951,
+        "name:xx": "Letts Corner"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9,
+          38.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018952",
+          "tgn:1000001",
+          "tgn:7013619",
+          "tgn:7012149",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 7018952,
+        "name:xx": "Izaak Walton Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8333,
+          41.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018955",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002353",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 7018955,
+        "name:xx": "Goshen Pond"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3,
+          51.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018956",
+          "tgn:7002443",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300387071"
+        ],
+        "id": 7018956,
+        "name:xx": "Newport"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3,
+          51.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018957",
+          "tgn:7002443",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300387071"
+        ],
+        "id": 7018957,
+        "name:xx": "Torfaen"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1667,
+          51.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018958",
+          "tgn:7002443",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300387145",
+          "aat:300387071"
+        ],
+        "name:en": "Blaenau Gwent",
+        "id": 7018958
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.25,
+          51.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018959",
+          "tgn:7002443",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300387145",
+          "aat:300387071"
+        ],
+        "name:en": "Caerphilly",
+        "id": 7018959
+      }
+    }
+  ]
+}

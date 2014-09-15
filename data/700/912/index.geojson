@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.566667,
+          42.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7009120",
+          "tgn:7002826",
+          "tgn:7001158",
+          "tgn:1000003",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300387223"
+        ],
+        "id": 7009120,
+        "name:xx": "León"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.983333,
+          55.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7009121",
+          "tgn:7002444",
+          "tgn:1000003",
+          "tgn:7019100",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Airdrie",
+        "id": 7009121
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.616667,
+          55.883333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7009122",
+          "tgn:7002444",
+          "tgn:1000003",
+          "tgn:7019092",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Kilmacolm",
+        "id": 7009122
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.85,
+          55.833333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7009123",
+          "tgn:7002444",
+          "tgn:1000003",
+          "tgn:7019100",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Shotts",
+        "id": 7009123
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3,
+          47.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7009125",
+          "tgn:1000003",
+          "tgn:7002700",
+          "tgn:1000091",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008416",
+          "aat:300008389"
+        ],
+        "id": 7009125,
+        "name:xx": "Suceava"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.733,
+          45.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7009128",
+          "tgn:1000003",
+          "tgn:1000091",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 7009128,
+        "name:xx": "Moldoveanu"
+      }
+    }
+  ]
+}

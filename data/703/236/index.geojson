@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.016667,
+          42.216667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032363",
+          "tgn:7003139",
+          "tgn:5002440",
+          "tgn:1000003",
+          "tgn:7003080",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7032363,
+        "name:it": "Civitella Cesi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.678,
+          37.103
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032365",
+          "tgn:1001262",
+          "tgn:1000004",
+          "tgn:7018456",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300387218",
+          "aat:300019652",
+          "aat:300019279"
+        ],
+        "id": 7032365,
+        "name:xx": "Zincirli"
+      }
+    }
+  ]
+}

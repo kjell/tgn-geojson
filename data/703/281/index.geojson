@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.355,
+          27.666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032812",
+          "tgn:1000004",
+          "tgn:1000132",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300263063",
+          "aat:300008761"
+        ],
+        "id": 7032812,
+        "name:xx": "Kathmandu Valley"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.288,
+          27.483
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032815",
+          "tgn:7001428",
+          "tgn:1000004",
+          "tgn:7001418",
+          "tgn:1000132",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300263063"
+        ],
+        "id": 7032815,
+        "name:xx": "Rummin-dei"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.321,
+          -20.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032818",
+          "tgn:7000714",
+          "tgn:7001242",
+          "tgn:1000177",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 7032818,
+        "name:xx": "Le Morne Brabant"
+      }
+    }
+  ]
+}

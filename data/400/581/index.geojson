@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.95,
+          50.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4005811",
+          "tgn:7593916",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4005811,
+        "name:xx": "Kopřivná"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2667,
+          50.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4005814",
+          "tgn:1003530",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4005814,
+        "name:xx": "Kopidlno"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.55,
+          32.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4005817",
+          "tgn:7000249",
+          "tgn:1000004",
+          "tgn:1000119",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000833"
+        ],
+        "id": 4005817,
+        "name:xx": "Korazim"
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.583,
+          49.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1003523",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300236112"
+        ],
+        "name:cs": "Jihomoravský",
+        "id": 1003523
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          50.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1003527",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387179",
+          "aat:300387064",
+          "aat:300236112"
+        ],
+        "name:en": "Severocesky Kraj",
+        "name:cs": "Severočeský",
+        "id": 1003527
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6667,
+          49.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1003528",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387179",
+          "aat:300387064",
+          "aat:300236112"
+        ],
+        "name:en": "Severomoravský",
+        "name:cs": "Severomoravský",
+        "id": 1003528
+      }
+    }
+  ]
+}

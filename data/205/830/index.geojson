@@ -1,0 +1,156 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7333,
+          40.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2058300",
+          "tgn:2001168",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007523",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2058300,
+        "name:xx": "Cawood"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1667,
+          38.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2058301",
+          "tgn:1000001",
+          "tgn:1002223",
+          "tgn:7012149",
+          "tgn:7007523",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2058301,
+        "name:xx": "Cedar City"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6667,
+          37.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2058305",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001258",
+          "tgn:7007523",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2058305,
+        "name:xx": "Cedar Gap"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6333,
+          38.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2058306",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002517",
+          "tgn:7007523",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2058306,
+        "name:xx": "Cedar Hill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.65,
+          38.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2058307",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002517",
+          "tgn:7007523",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 2058307,
+        "name:xx": "Cedar Hill Lakes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.35,
+          38.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2058308",
+          "tgn:1000001",
+          "tgn:1002190",
+          "tgn:7012149",
+          "tgn:7007523",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 2058308,
+        "name:xx": "Cedar Lake"
+      }
+    }
+  ]
+}

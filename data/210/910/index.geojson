@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.45,
+          39.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109101",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002120",
+          "tgn:7007827",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2109101,
+        "name:xx": "Mount Pleasant"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9833,
+          38.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109102",
+          "tgn:2002101",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007827",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2109102,
+        "name:xx": "Murdock"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8833,
+          40.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109103",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002118",
+          "tgn:7007827",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2109103,
+        "name:xx": "Murray"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.05,
+          40.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109109",
+          "tgn:1000001",
+          "tgn:2002107",
+          "tgn:7012149",
+          "tgn:7007827",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2109109,
+        "name:xx": "Myton"
+      }
+    }
+  ]
+}

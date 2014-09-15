@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4667,
+          51.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101035",
+          "tgn:7008653",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007836"
+        ],
+        "id": 1101035,
+        "name:xx": "Severn Bridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8333,
+          54.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101037",
+          "tgn:7594008",
+          "tgn:1000003",
+          "tgn:1000066",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007836"
+        ],
+        "id": 1101037,
+        "name:xx": "Storstrømsbroen"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2,
+          -33.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101039",
+          "tgn:7000490",
+          "tgn:1000006",
+          "tgn:7001828",
+          "tgn:7001923",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007836"
+        ],
+        "id": 1101039,
+        "name:xx": "Sydney Harbour Bridge"
+      }
+    }
+  ]
+}

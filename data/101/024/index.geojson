@@ -1,0 +1,150 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.416667,
+          -52.166667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010240",
+          "tgn:1001702",
+          "tgn:1000049",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1010240,
+        "name:xx": "Reina Adelaida, Archipiélago"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5,
+          19
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010242",
+          "tgn:7016644",
+          "tgn:1000001",
+          "tgn:7005560",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791",
+          "aat:300386853"
+        ],
+        "id": 1010242,
+        "name:xx": "Revillagigedo, Islas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.1333,
+          -40.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010243",
+          "tgn:1001160",
+          "tgn:7006477",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386853"
+        ],
+        "id": 1010243,
+        "name:xx": "Riachos, Islas de los"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -179.8667,
+          -16.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010245",
+          "tgn:1000914",
+          "tgn:7000493",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386853"
+        ],
+        "id": 1010245,
+        "name:xx": "Ringgold Isles"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.1333,
+          -14.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010246",
+          "tgn:1000216",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386853"
+        ],
+        "name:en": "King George Islands",
+        "id": 1010246
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.6667,
+          15.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010247",
+          "tgn:1006597",
+          "tgn:7001635",
+          "tgn:7001242",
+          "tgn:7001632",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386852"
+        ],
+        "id": 1010247,
+        "name:xx": "Rombo, Ilhéus do"
+      }
+    }
+  ]
+}

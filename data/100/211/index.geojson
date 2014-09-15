@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5,
+          4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1002110",
+          "tgn:1000053",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000759",
+          "aat:300387064"
+        ],
+        "id": 1002110,
+        "name:xx": "Saint-Laurent du Maroni"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.75,
+          12.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1002111",
+          "tgn:1000050",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000772"
+        ],
+        "id": 1002111,
+        "name:xx": "Providencia y Santa Catalina, Departamento de Archipiélago de San Andrés"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3333,
+          34.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1002115",
+          "tgn:7001242",
+          "tgn:1000205",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300235093"
+        ],
+        "id": 1002115,
+        "name:xx": "Ṣafāqis, Wilāyat"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.25,
+          35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1002117",
+          "tgn:7001242",
+          "tgn:1000205",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300235093"
+        ],
+        "id": 1002117,
+        "name:xx": "Sīdī Bū Zayd, Wilāyat"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3333,
+          36
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1002118",
+          "tgn:7001242",
+          "tgn:1000205",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300235093"
+        ],
+        "id": 1002118,
+        "name:xx": "Silyānah, Wilāyat"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5,
+          35.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1002119",
+          "tgn:7001242",
+          "tgn:1000205",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300235093"
+        ],
+        "id": 1002119,
+        "name:xx": "Sūsah, Wilāyat"
+      }
+    }
+  ]
+}

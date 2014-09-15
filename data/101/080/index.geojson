@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6333,
+          36.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010801",
+          "tgn:1000987",
+          "tgn:1000004",
+          "tgn:7000894",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1010801,
+        "name:xx": "Iso-zaki"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.795513,
+          28.787083
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010802",
+          "tgn:7001242",
+          "tgn:7001311",
+          "tgn:7016833",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850",
+          "aat:300386846"
+        ],
+        "name:en": "Issaran, Râs",
+        "id": 1010802
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.3,
+          -41
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010804",
+          "tgn:1009227",
+          "tgn:1000226",
+          "tgn:7016729",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "name:en": "Jackson, Cape",
+        "id": 1010804
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4167,
+          74.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1010807",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:1000296",
+          "tgn:7024247",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1010807,
+        "name:xx": "James Ross, Cape"
+      }
+    }
+  ]
+}

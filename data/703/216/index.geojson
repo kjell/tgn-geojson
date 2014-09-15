@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.647,
+          18.253
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032160",
+          "tgn:1000004",
+          "tgn:7016493",
+          "tgn:1000131",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000810",
+          "aat:300263063"
+        ],
+        "id": 7032160,
+        "name:xx": "Land of Frankincense"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.156,
+          29.594
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032161",
+          "tgn:7005581",
+          "tgn:1000001",
+          "tgn:7005560",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387007",
+          "aat:300000810",
+          "aat:300048808",
+          "aat:300167671"
+        ],
+        "id": 7032161,
+        "name:xx": "Cuarenta Casas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.733333,
+          17.016667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032164",
+          "tgn:1000001",
+          "tgn:7005591",
+          "tgn:7005560",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7032164,
+        "name:xx": "Santa Cruz Xoxocotlán"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.533333,
+          43.916667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032167",
+          "tgn:7024843",
+          "tgn:1000003",
+          "tgn:7008516",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7032167,
+        "name:xx": "Montescudo"
+      }
+    }
+  ]
+}

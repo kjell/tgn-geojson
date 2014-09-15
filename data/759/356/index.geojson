@@ -1,0 +1,246 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.333,
+          18.416
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593560",
+          "tgn:1000001",
+          "tgn:7005502",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000772"
+        ],
+        "id": 7593560,
+        "name:xx": "Nippes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.088,
+          18.441
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593561",
+          "tgn:7593560",
+          "tgn:1000001",
+          "tgn:7005502",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387225",
+          "aat:300008389"
+        ],
+        "id": 7593561,
+        "name:xx": "Miragoâne"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.506,
+          18.055
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593562",
+          "tgn:7593560",
+          "tgn:1000001",
+          "tgn:7005502",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7593562,
+        "name:xx": "Petit Trou de Nippes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.383,
+          18.383
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593563",
+          "tgn:7593560",
+          "tgn:1000001",
+          "tgn:7005502",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7593563,
+        "name:xx": "Dimini"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.35,
+          18.497
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593564",
+          "tgn:7593560",
+          "tgn:1000001",
+          "tgn:7005502",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7593564,
+        "name:xx": "Anse-á-Veau"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.616,
+          18.533
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593565",
+          "tgn:7593560",
+          "tgn:1000001",
+          "tgn:7005502",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132316"
+        ],
+        "id": 7593565,
+        "name:xx": "Baradères, Baie des"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1,
+          18.466
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593566",
+          "tgn:7593560",
+          "tgn:1000001",
+          "tgn:7005502",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132316"
+        ],
+        "id": 7593566,
+        "name:xx": "Miragoâne, Baie de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05,
+          18.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593567",
+          "tgn:1000001",
+          "tgn:7005502",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "name:fr": "Miragoâne, Étang de",
+        "id": 7593567
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7,
+          19.416
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593568",
+          "tgn:7005509",
+          "tgn:1000001",
+          "tgn:7005502",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132316"
+        ],
+        "id": 7593568,
+        "name:xx": "Grammont, Baie"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.74,
+          19.431
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593569",
+          "tgn:7005509",
+          "tgn:1000001",
+          "tgn:7005502",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132316"
+        ],
+        "id": 7593569,
+        "name:xx": "Gonaïves, Baie des"
+      }
+    }
+  ]
+}

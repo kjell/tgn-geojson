@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5167,
+          46.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4007668",
+          "tgn:1000370",
+          "tgn:1000003",
+          "tgn:7006278",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4007668,
+        "name:xx": "Nagyhörcsökpuszta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4,
+          45.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4007669",
+          "tgn:7006349",
+          "tgn:1000003",
+          "tgn:7006278",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4007669,
+        "name:xx": "Nagyharsány"
+      }
+    }
+  ]
+}

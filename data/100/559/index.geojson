@@ -1,0 +1,233 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6667,
+          35.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1005590",
+          "tgn:1000004",
+          "tgn:7000894",
+          "tgn:1001032",
+          "tgn:7004472",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 1005590,
+        "name:xx": "Setagaya"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.161,
+          38.741
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1005591",
+          "tgn:1000882",
+          "tgn:1000003",
+          "tgn:1000090",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000745"
+        ],
+        "id": 1005591,
+        "name:xx": "Sete Rios"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1,
+          51.566667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1005593",
+          "tgn:7002445",
+          "tgn:7018927",
+          "tgn:1000003",
+          "tgn:7008136",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "name:en": "Seven Kings",
+        "id": 1005593
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85,
+          19
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1005594",
+          "tgn:1000004",
+          "tgn:7001518",
+          "tgn:7000198",
+          "tgn:1001895",
+          "tgn:1008931",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "name:en": "Sewri",
+        "id": 1005594
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5167,
+          35.4333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1005595",
+          "tgn:7016696",
+          "tgn:1000004",
+          "tgn:7000894",
+          "tgn:7004836",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 1005595,
+        "name:xx": "Seya"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2833,
+          38.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1005596",
+          "tgn:1000003",
+          "tgn:7003928",
+          "tgn:7003122",
+          "tgn:1001732",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387336"
+        ],
+        "id": 1005596,
+        "name:xx": "Sferracavallo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3,
+          28.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1005597",
+          "tgn:1000004",
+          "tgn:7000201",
+          "tgn:7000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 1005597,
+        "name:xx": "Shāhdara"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.15,
+          28.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1005598",
+          "tgn:1000004",
+          "tgn:7000201",
+          "tgn:7000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000745"
+        ],
+        "name:en": "Shakūrpur",
+        "id": 1005598
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2833,
+          28.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1005599",
+          "tgn:1000004",
+          "tgn:7000201",
+          "tgn:7000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 1005599,
+        "name:xx": "Shakarpur Khās"
+      }
+    }
+  ]
+}

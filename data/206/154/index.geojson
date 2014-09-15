@@ -1,0 +1,156 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2,
+          47.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2061540",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001284",
+          "tgn:7007524",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2061540,
+        "name:xx": "Milford Colony"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2833,
+          47.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2061541",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001309",
+          "tgn:7007524",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2061541,
+        "name:xx": "Miller Colony"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.2167,
+          45.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2061542",
+          "tgn:1000001",
+          "tgn:2001265",
+          "tgn:7012149",
+          "tgn:7007524",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2061542,
+        "name:xx": "Mill Iron"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.8667,
+          46.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2061543",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001291",
+          "tgn:7007524",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2061543,
+        "name:xx": "Milltown"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9,
+          45.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2061544",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001293",
+          "tgn:7007524",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2061544,
+        "name:xx": "Miner"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.45,
+          45.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2061545",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001293",
+          "tgn:7007524",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2061545,
+        "name:xx": "Mission"
+      }
+    }
+  ]
+}

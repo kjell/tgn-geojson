@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.8333,
+          64
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110080",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:1000296",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831"
+        ],
+        "id": 1110080,
+        "name:xx": "McConnell Range"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5,
+          41.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110084",
+          "tgn:1000004",
+          "tgn:7006653",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831"
+        ],
+        "id": 1110084,
+        "name:xx": "Miskhet'is K'edi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6667,
+          41.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110086",
+          "tgn:1000004",
+          "tgn:1003394",
+          "tgn:7006655",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831"
+        ],
+        "id": 1110086,
+        "name:xx": "Moldotau, Khrebet"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.55,
+          38.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110088",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007526",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831"
+        ],
+        "id": 1110088,
+        "name:xx": "Monitor Range"
+      }
+    }
+  ]
+}

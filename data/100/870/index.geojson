@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.866667,
+          -33.633333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1008701",
+          "tgn:1001768",
+          "tgn:1000049",
+          "tgn:1000002",
+          "tgn:1010061",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1008701,
+        "name:xx": "Róbinson Crusoe, Isla"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.2333,
+          10.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1008705",
+          "tgn:1000004",
+          "tgn:1000109",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1008705,
+        "name:xx": "Rŭng, Kaôh"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.45,
+          18.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1008707",
+          "tgn:1001069",
+          "tgn:7001242",
+          "tgn:1000201",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1008707,
+        "name:xx": "Rīḥ, Jazīrat ar-"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.066667,
+          57.383333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1008709",
+          "tgn:7002444",
+          "tgn:1000003",
+          "tgn:7008082",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "name:en": "Raasay, Island of",
+        "id": 1008709
+      }
+    }
+  ]
+}

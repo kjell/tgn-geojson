@@ -1,0 +1,99 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54,
+          47
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110964",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008805"
+        ],
+        "id": 1110964,
+        "name:xx": "Prikaspiyskaya Nizmennost'"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.5,
+          25.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110965",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:7016722",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008805"
+        ],
+        "id": 1110965,
+        "name:xx": "Purabiya Plain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.833,
+          -8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110967",
+          "tgn:1000002",
+          "tgn:1000056",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008805"
+        ],
+        "id": 1110967,
+        "name:xx": "Pampa del Sacramento"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.833333,
+          51.216667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110968",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008180",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008805"
+        ],
+        "name:en": "Salisbury Plain",
+        "id": 1110968
+      }
+    }
+  ]
+}

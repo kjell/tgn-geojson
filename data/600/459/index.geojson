@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.2833,
+          -9.7167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6004591",
+          "tgn:7006252",
+          "tgn:1000047",
+          "tgn:7002455",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389"
+        ],
+        "id": 6004591,
+        "name:xx": "Pedra Furada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.66,
+          37.169
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6004593",
+          "tgn:1000852",
+          "tgn:1000003",
+          "tgn:1000090",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375",
+          "aat:300387005"
+        ],
+        "id": 6004593,
+        "name:xx": "Pedra Branca"
+      }
+    }
+  ]
+}

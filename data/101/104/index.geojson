@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.383333,
+          39.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011040",
+          "tgn:1001641",
+          "tgn:1000003",
+          "tgn:7003121",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011040,
+        "name:xx": "Pecora, Capo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8833,
+          62.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011043",
+          "tgn:1006819",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7024197",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011043,
+        "name:xx": "Pembroke, Cape"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.716667,
+          42.166667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011045",
+          "tgn:7009084",
+          "tgn:7003000",
+          "tgn:1000003",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011045,
+        "name:xx": "Penna, Punta della"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.550278,
+          37.953611
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011047",
+          "tgn:7002681",
+          "tgn:7001395",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7011052",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011047,
+        "name:xx": "Peraní, Ákra"
+      }
+    }
+  ]
+}

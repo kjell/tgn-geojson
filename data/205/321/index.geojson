@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55,
+          43.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2053210",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002406",
+          "tgn:7007520",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2053210,
+        "name:xx": "Russellville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9333,
+          44.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2053211",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000982",
+          "tgn:7007520",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2053211,
+        "name:xx": "Rust"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7333,
+          43.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2053212",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000964",
+          "tgn:7007520",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2053212,
+        "name:xx": "Ruth"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3667,
+          43.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2053213",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000992",
+          "tgn:7007520",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2053213,
+        "name:xx": "Ryan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6833,
+          45.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2053214",
+          "tgn:1000001",
+          "tgn:2000955",
+          "tgn:7012149",
+          "tgn:7007520",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2053214,
+        "name:xx": "Sac Bay"
+      }
+    }
+  ]
+}

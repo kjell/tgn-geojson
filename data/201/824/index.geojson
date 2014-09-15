@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5667,
+          39.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2018242",
+          "tgn:1002538",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2018242,
+        "name:xx": "Viola"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4667,
+          38.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2018244",
+          "tgn:1002933",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2018244,
+        "name:xx": "Ward"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0833,
+          38.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2018245",
+          "tgn:1002933",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2018245,
+        "name:xx": "Washington Heights"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5167,
+          39.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2018248",
+          "tgn:7014201",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2018248,
+        "name:xx": "Welshire"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1667,
+          38.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2018249",
+          "tgn:1002933",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2018249,
+        "name:xx": "West Beach"
+      }
+    }
+  ]
+}

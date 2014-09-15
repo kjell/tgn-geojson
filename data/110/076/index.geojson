@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3667,
+          22.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100763",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:1001977",
+          "tgn:7030776",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300005768"
+        ],
+        "id": 1100763,
+        "name:xx": "Birla Museum"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1333,
+          51.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100764",
+          "tgn:7026576",
+          "tgn:7002445",
+          "tgn:7011781",
+          "tgn:1000003",
+          "tgn:7008136",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300005768"
+        ],
+        "id": 1100764,
+        "name:xx": "British Museum"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1333,
+          38.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100768",
+          "tgn:1000882",
+          "tgn:1000003",
+          "tgn:7010978",
+          "tgn:1000090",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300005768"
+        ],
+        "id": 1100768,
+        "name:xx": "Calouste Gulbenkian, Museu"
+      }
+    }
+  ]
+}

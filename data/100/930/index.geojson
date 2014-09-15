@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25,
+          37.7167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1009300",
+          "tgn:1001301",
+          "tgn:1000004",
+          "tgn:1000122",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1009300,
+        "name:xx": "Sunwi-do"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.6167,
+          63.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1009303",
+          "tgn:7594019",
+          "tgn:1000003",
+          "tgn:1000077",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1009303,
+        "name:xx": "Surtsey"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3,
+          44.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1009304",
+          "tgn:7017299",
+          "tgn:1000003",
+          "tgn:7006663",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1009304,
+        "name:xx": "Susak, Otok"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.898,
+          59.336
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1009306",
+          "tgn:7006631",
+          "tgn:1000003",
+          "tgn:7006540",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "name:en": "Suur-Pakri Saar",
+        "id": 1009306
+      }
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.25,
+          52.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011560",
+          "tgn:1003373",
+          "tgn:1000004",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300005135",
+          "aat:300264742",
+          "aat:300387302",
+          "aat:300387312"
+        ],
+        "id": 7011560,
+        "name:xx": "Irkutsk"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104,
+          53.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011561",
+          "tgn:1000004",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300387080"
+        ],
+        "id": 7011561,
+        "name:xx": "Ust'-Ordynskiy Buryatskiy Avtonomnyy Okrug"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.433333,
+          51.333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011562",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008153",
+          "tgn:7008591",
+          "tgn:1009430",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375",
+          "aat:300120599",
+          "aat:300387286"
+        ],
+        "name:en": "Ramsgate",
+        "id": 7011562
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41,
+          57
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011563",
+          "tgn:1000004",
+          "tgn:7011566",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300264742",
+          "aat:300387220",
+          "aat:300387302"
+        ],
+        "id": 7011563,
+        "name:xx": "Ivanovo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.15,
+          47.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011564",
+          "tgn:1000004",
+          "tgn:1003405",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7011564,
+        "name:xx": "Kalinin"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5,
+          51.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011567",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008153",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008372"
+        ],
+        "name:en": "Cliffe",
+        "id": 7011567
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.983333,
+          50.916667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011568",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008153",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850",
+          "aat:300386846"
+        ],
+        "name:en": "Dungeness",
+        "id": 7011568
+      }
+    }
+  ]
+}

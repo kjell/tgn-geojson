@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6833,
+          -28.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001673",
+          "tgn:7001242",
+          "tgn:7030585",
+          "tgn:1000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7001673,
+        "name:xx": "Warmbad"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5833,
+          23.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001674",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707",
+          "aat:300386998"
+        ],
+        "name:en": "Ganges, River",
+        "id": 7001674
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.75,
+          -20.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001675",
+          "tgn:7001242",
+          "tgn:1000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387179",
+          "aat:300387064",
+          "aat:300387081"
+        ],
+        "id": 7001675,
+        "name:xx": "Hereroland Oos"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79,
+          33
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001679",
+          "tgn:1000004",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300387142"
+        ],
+        "id": 7001679,
+        "name:xx": "area disputed by China and India"
+      }
+    }
+  ]
+}

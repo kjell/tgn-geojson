@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.0833,
+          26.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1119022",
+          "tgn:7001242",
+          "tgn:1000179",
+          "tgn:1000200",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132351",
+          "aat:300387087"
+        ],
+        "id": 1119022,
+        "name:xx": "Sebjet Aridal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6333,
+          42.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1119029",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001715",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387087"
+        ],
+        "id": 1119029,
+        "name:xx": "Bluejoint Lake"
+      }
+    }
+  ]
+}

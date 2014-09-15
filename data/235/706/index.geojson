@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1333,
+          37.2667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2357060",
+          "tgn:1000001",
+          "tgn:2001418",
+          "tgn:7012149",
+          "tgn:7007526",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008761"
+        ],
+        "id": 2357060,
+        "name:xx": "Gothic Canyon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8167,
+          43.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2357064",
+          "tgn:1000001",
+          "tgn:7020939",
+          "tgn:7012149",
+          "tgn:7007922",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 2357064,
+        "name:xx": "Gothic Mill Pond"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107,
+          38.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2357065",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000217",
+          "tgn:7007158",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008798"
+        ],
+        "id": 2357065,
+        "name:xx": "Gothic Mountain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4667,
+          47.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2357066",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002899",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008798"
+        ],
+        "id": 2357066,
+        "name:xx": "Gothic Peak"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.85,
+          44.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2357068",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001461",
+          "tgn:7007568",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008798"
+        ],
+        "id": 2357068,
+        "name:xx": "Gothics"
+      }
+    }
+  ]
+}

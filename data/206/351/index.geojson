@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.45,
+          43.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2063510",
+          "tgn:1000001",
+          "tgn:2001425",
+          "tgn:7012149",
+          "tgn:7007564",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2063510,
+        "name:xx": "Hooksett"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6667,
+          43.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2063511",
+          "tgn:1000001",
+          "tgn:2001425",
+          "tgn:7012149",
+          "tgn:7007564",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2063511,
+        "name:xx": "Hopkinton"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4333,
+          42.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2063513",
+          "tgn:1000001",
+          "tgn:1002480",
+          "tgn:7012149",
+          "tgn:7007564",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2063513,
+        "name:xx": "Hudson"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1333,
+          44.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2063516",
+          "tgn:2001423",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007564",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2063516,
+        "name:xx": "Intervale"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1667,
+          44.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2063519",
+          "tgn:2001423",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007564",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2063519,
+        "name:xx": "Jackson"
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31,
+          4.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7441552",
+          "tgn:7001242",
+          "tgn:7441551",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000776"
+        ],
+        "id": 7441552,
+        "name:xx": "Central Equatoria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30,
+          6.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7441555",
+          "tgn:7001242",
+          "tgn:7441551",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000776"
+        ],
+        "id": 7441555,
+        "name:xx": "Lakes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27,
+          8.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7441556",
+          "tgn:7001242",
+          "tgn:7441551",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000776"
+        ],
+        "id": 7441556,
+        "name:xx": "Northern Bahr El Ghazal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.85,
+          8.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7441557",
+          "tgn:7001242",
+          "tgn:7441551",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000776"
+        ],
+        "id": 7441557,
+        "name:xx": "Unity"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.85,
+          8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7441559",
+          "tgn:7001242",
+          "tgn:7441551",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000776"
+        ],
+        "id": 7441559,
+        "name:xx": "Warrap"
+      }
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3,
+          6.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016570",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008734"
+        ],
+        "id": 7016570,
+        "name:xx": "Slave Coast"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.7833,
+          13.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016571",
+          "tgn:7001242",
+          "tgn:1000165",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 7016571,
+        "name:xx": "Saint Mary, Cape"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.75,
+          -5.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016572",
+          "tgn:7001242",
+          "tgn:1000203",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300236112"
+        ],
+        "id": 7016572,
+        "name:xx": "Tabora"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0833,
+          -5.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016573",
+          "tgn:7001242",
+          "tgn:1001756",
+          "tgn:1000203",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387220",
+          "aat:300120599"
+        ],
+        "id": 7016573,
+        "name:xx": "Tanga"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.65,
+          -4.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016574",
+          "tgn:7001242",
+          "tgn:1001689",
+          "tgn:1000203",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7016574,
+        "name:xx": "Ujiji"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.25,
+          34.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016576",
+          "tgn:7001242",
+          "tgn:7016752",
+          "tgn:1000782",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300387225",
+          "aat:300008375"
+        ],
+        "id": 7016576,
+        "name:xx": "Tilimsen"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1667,
+          8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Togo",
+        "hierarchy": [
+          "tgn:7016577",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "ثوغو",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387136",
+          "aat:300235119",
+          "aat:300135982"
+        ],
+        "name:fr": "Togo",
+        "name:ru": "Того",
+        "name:zh": "多哥",
+        "id": 7016577,
+        "name:es": "Togo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3667,
+          -15.3667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016578",
+          "tgn:7001242",
+          "tgn:1001542",
+          "tgn:7000726",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387219",
+          "aat:300008375"
+        ],
+        "id": 7016578,
+        "name:xx": "Zomba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.25,
+          35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016579",
+          "tgn:7000895",
+          "tgn:1000004",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300235099"
+        ],
+        "id": 7016579,
+        "name:xx": "Aichi-ken"
+      }
+    }
+  ]
+}

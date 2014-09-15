@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7167,
+          40.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2032502",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002978",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2032502,
+        "name:xx": "La Fontaine"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4167,
+          41.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2032503",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002565",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2032503,
+        "name:xx": "Lagrange"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7167,
+          40.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2032504",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002978",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2032504,
+        "name:xx": "Lagro"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.45,
+          41.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2032507",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002396",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2032507,
+        "name:xx": "Lake Bruce"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5167,
+          40.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2032508",
+          "tgn:1000001",
+          "tgn:1002242",
+          "tgn:7012149",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2032508,
+        "name:xx": "Lake Cicott"
+      }
+    }
+  ]
+}

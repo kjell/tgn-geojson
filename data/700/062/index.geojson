@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.85,
+          -5.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000620",
+          "tgn:1001143",
+          "tgn:7001242",
+          "tgn:1000159",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387223",
+          "aat:300008375",
+          "aat:300120599"
+        ],
+        "id": 7000620,
+        "name:xx": "Kikwit"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5833,
+          -4.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000621",
+          "tgn:7001242",
+          "tgn:1001345",
+          "tgn:1000159",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375",
+          "aat:300120599"
+        ],
+        "id": 7000621,
+        "name:xx": "Ilebo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1667,
+          32.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000623",
+          "tgn:7001242",
+          "tgn:1000172",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "name:en": "Tripoli",
+        "id": 7000623
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0833,
+          -6.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000624",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 7000624,
+        "name:xx": "Luembe"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4333,
+          -5.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000625",
+          "tgn:7001242",
+          "tgn:1001345",
+          "tgn:1000159",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387512",
+          "aat:300387220"
+        ],
+        "id": 7000625,
+        "name:xx": "Kananga"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3,
+          -4.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000628",
+          "tgn:7001242",
+          "tgn:1001359",
+          "tgn:1000159",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300387512",
+          "aat:300387284",
+          "aat:300387270",
+          "aat:300120599"
+        ],
+        "id": 7000628,
+        "name:xx": "Kinshasa"
+      }
+    }
+  ]
+}

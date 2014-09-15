@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5833,
+          35.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024370",
+          "tgn:1000004",
+          "tgn:7016672",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008767"
+        ],
+        "id": 7024370,
+        "name:xx": "Long Men"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5,
+          35.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024372",
+          "tgn:1000004",
+          "tgn:7016672",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7024372,
+        "name:xx": "Longmen"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4167,
+          38.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024377",
+          "tgn:1001410",
+          "tgn:1000004",
+          "tgn:7018451",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "name:en": "Mount Nemrut",
+        "id": 7024377
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.25,
+          38.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024378",
+          "tgn:1001410",
+          "tgn:1000004",
+          "tgn:7024377",
+          "tgn:7018451",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000810",
+          "aat:300005866",
+          "aat:300008057"
+        ],
+        "name:en": "Nemrut Monument",
+        "id": 7024378
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5833,
+          37.7167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024379",
+          "tgn:1001117",
+          "tgn:1000004",
+          "tgn:7018451",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7024379,
+        "name:xx": "Karadut"
+      }
+    }
+  ]
+}

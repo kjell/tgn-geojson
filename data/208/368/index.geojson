@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7167,
+          36.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2083680",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001698",
+          "tgn:7007707",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2083680,
+        "name:xx": "Noel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.15,
+          34.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2083681",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001686",
+          "tgn:7007707",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2083681,
+        "name:xx": "Nolia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2333,
+          34.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2083682",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001654",
+          "tgn:7007707",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2083682,
+        "name:xx": "Non"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9833,
+          34.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2083683",
+          "tgn:1000001",
+          "tgn:2001648",
+          "tgn:7012149",
+          "tgn:7007707",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2083683,
+        "name:xx": "Norge"
+      }
+    }
+  ]
+}

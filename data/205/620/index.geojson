@@ -1,0 +1,139 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.55,
+          31.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2056200",
+          "tgn:1000001",
+          "tgn:2001101",
+          "tgn:7012149",
+          "tgn:7007522",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008416"
+        ],
+        "id": 2056200,
+        "name:xx": "Collins"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8333,
+          32.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2056201",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001123",
+          "tgn:7007522",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2056201,
+        "name:xx": "Collinsville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4,
+          33.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2056202",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001127",
+          "tgn:7007522",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2056202,
+        "name:xx": "Colony Town"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8333,
+          31.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2056203",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001131",
+          "tgn:7007522",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008416"
+        ],
+        "id": 2056203,
+        "name:xx": "Columbia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4167,
+          33.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2056204",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001129",
+          "tgn:7007522",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387277",
+          "aat:300008347",
+          "aat:300008416",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300264742",
+          "aat:300387221"
+        ],
+        "id": 2056204,
+        "name:xx": "Columbus"
+      }
+    }
+  ]
+}

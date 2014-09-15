@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.85,
+          38.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2118120",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002291",
+          "tgn:7013961",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2118120,
+        "name:xx": "Elkins Junction"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3333,
+          38.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2118122",
+          "tgn:1000001",
+          "tgn:2002261",
+          "tgn:7012149",
+          "tgn:7013961",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2118122,
+        "name:xx": "Elkridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5333,
+          37.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2118124",
+          "tgn:1000001",
+          "tgn:2002255",
+          "tgn:7012149",
+          "tgn:7013961",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2118124,
+        "name:xx": "Elk Run Junction"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4667,
+          38.4333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2118125",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002270",
+          "tgn:7013961",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2118125,
+        "name:xx": "Elkview"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80,
+          38.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2118128",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002291",
+          "tgn:7013961",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2118128,
+        "name:xx": "Elkwater"
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.5,
+          -20
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000561",
+          "tgn:7002636",
+          "tgn:1000002",
+          "tgn:1000055",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387179",
+          "aat:300387145",
+          "aat:300000772"
+        ],
+        "id": 1000561,
+        "name:xx": "Chaco"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9167,
+          14.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000565",
+          "tgn:1000001",
+          "tgn:7005493",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008631",
+          "aat:300387064",
+          "aat:300000772"
+        ],
+        "id": 1000565,
+        "name:xx": "Chimaltenango"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0833,
+          12.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000566",
+          "tgn:1000001",
+          "tgn:7005562",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000772"
+        ],
+        "id": 1000566,
+        "name:xx": "Chinandega"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4167,
+          14.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000567",
+          "tgn:1000001",
+          "tgn:7005493",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008631",
+          "aat:300387064",
+          "aat:300000772"
+        ],
+        "id": 1000567,
+        "name:xx": "Chiquimula"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0833,
+          13.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000569",
+          "tgn:1000001",
+          "tgn:7005554",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000772"
+        ],
+        "id": 1000569,
+        "name:xx": "Choluteca"
+      }
+    }
+  ]
+}

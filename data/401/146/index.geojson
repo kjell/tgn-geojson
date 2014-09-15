@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.648333,
+          51.496389
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4011460",
+          "tgn:7002443",
+          "tgn:1000003",
+          "tgn:7018966",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Tythegston",
+        "id": 4011460
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.916667,
+          51.833333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4011461",
+          "tgn:7003619",
+          "tgn:1000003",
+          "tgn:7016845",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:nl": "Ubbergen",
+        "id": 4011461
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2167,
+          42.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4011463",
+          "tgn:1000004",
+          "tgn:7012215",
+          "tgn:7006653",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 4011463,
+        "name:xx": "Ubisi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.666667,
+          50.933333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4011467",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008129",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Udimore",
+        "id": 4011467
+      }
+    }
+  ]
+}

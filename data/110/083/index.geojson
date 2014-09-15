@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1833,
+          51.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100833",
+          "tgn:7002445",
+          "tgn:1004847",
+          "tgn:7011781",
+          "tgn:1000003",
+          "tgn:7008136",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300005768"
+        ],
+        "id": 1100833,
+        "name:xx": "South Kensington Museum"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1333,
+          51.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100837",
+          "tgn:7002445",
+          "tgn:7018934",
+          "tgn:7011781",
+          "tgn:1000003",
+          "tgn:7008136",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300005768"
+        ],
+        "id": 1100837,
+        "name:xx": "Tate Gallery"
+      }
+    }
+  ]
+}

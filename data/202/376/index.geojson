@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7167,
+          33.3667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2023760",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000440",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2023760,
+        "name:xx": "Norris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4833,
+          32.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2023761",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000344",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2023761,
+        "name:xx": "Norristown"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3333,
+          33.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2023763",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2124023",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2023763,
+        "name:xx": "North Atlanta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4833,
+          34.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2023768",
+          "tgn:1000001",
+          "tgn:2000319",
+          "tgn:7012149",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2023768,
+        "name:xx": "North Canton"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3,
+          33.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2023769",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2124023",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2023769,
+        "name:xx": "North Decatur"
+      }
+    }
+  ]
+}

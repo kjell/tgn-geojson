@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.677,
+          0.633
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031940",
+          "tgn:7593757",
+          "tgn:7001242",
+          "tgn:1000169",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "name:en": "Kamnarok, Lake",
+        "id": 7031940
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.745,
+          -1.416
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031941",
+          "tgn:7001242",
+          "tgn:7593789",
+          "tgn:1000169",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008178",
+          "aat:300008181"
+        ],
+        "name:en": "Masai Mara National Reserve",
+        "id": 7031941
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.593,
+          -0.833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031942",
+          "tgn:7001242",
+          "tgn:7593762",
+          "tgn:1000169",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008805"
+        ],
+        "id": 7031942,
+        "name:xx": "Mwea Plains"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.898,
+          0.266
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031944",
+          "tgn:7001242",
+          "tgn:7593767",
+          "tgn:1000169",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008865",
+          "aat:300008863"
+        ],
+        "name:en": "Kakamega Forest",
+        "id": 7031944
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.542,
+          0.666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031945",
+          "tgn:7001242",
+          "tgn:7593793",
+          "tgn:1000169",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008178",
+          "aat:300008181"
+        ],
+        "id": 7031945,
+        "name:xx": "Samburu Game Reserve"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.711,
+          -18.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031947",
+          "tgn:7001242",
+          "tgn:7030582",
+          "tgn:1000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Mahango",
+        "id": 7031947
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.593,
+          -27.666
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031948",
+          "tgn:7001242",
+          "tgn:7030585",
+          "tgn:1000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008763"
+        ],
+        "name:en": "Visrivier Canyon",
+        "id": 7031948
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.491,
+          -27.916
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031949",
+          "tgn:7001242",
+          "tgn:7030585",
+          "tgn:1000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008697"
+        ],
+        "name:en": "Ai-Ais Hot Springs",
+        "id": 7031949
+      }
+    }
+  ]
+}

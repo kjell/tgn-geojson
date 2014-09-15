@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95,
+          38.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102825",
+          "tgn:7013962",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7015717",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1102825,
+        "name:xx": "Fort Dupont Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77,
+          38.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102826",
+          "tgn:7013962",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7015717",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1102826,
+        "name:xx": "Fort Totten Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1833,
+          39.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102827",
+          "tgn:1000956",
+          "tgn:1000004",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1102827,
+        "name:xx": "Fragrant Hills Park"
+      }
+    }
+  ]
+}

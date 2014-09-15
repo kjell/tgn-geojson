@@ -1,0 +1,180 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.25,
+          41.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2564170",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002682",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 2564170,
+        "name:xx": "PA-463 Reservoir"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.95,
+          40.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2564171",
+          "tgn:1000001",
+          "tgn:7013387",
+          "tgn:7012149",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 2564171,
+        "name:xx": "PA-477 Reservoir"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3167,
+          39.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2564172",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002120",
+          "tgn:7007827",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008699"
+        ],
+        "id": 2564172,
+        "name:xx": "PC Fork"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8333,
+          33.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2564176",
+          "tgn:1000001",
+          "tgn:2001429",
+          "tgn:7012149",
+          "tgn:7007566",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 2564176,
+        "name:xx": "PDQ Tank"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1,
+          35.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2564177",
+          "tgn:1000001",
+          "tgn:7006451",
+          "tgn:2000092",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 2564177,
+        "name:xx": "PG Tank"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5667,
+          42.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2564178",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002376",
+          "tgn:7007923",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000390"
+        ],
+        "id": 2564178,
+        "name:xx": "PIKL Coal Mine"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.4,
+          47.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2564179",
+          "tgn:1000001",
+          "tgn:1002271",
+          "tgn:7012149",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 2564179,
+        "name:xx": "PJ Lake"
+      }
+    }
+  ]
+}

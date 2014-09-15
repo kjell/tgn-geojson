@@ -1,0 +1,232 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6667,
+          48.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103490",
+          "tgn:7003026",
+          "tgn:1000003",
+          "tgn:1000062",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132451"
+        ],
+        "id": 1103490,
+        "name:xx": "Sauwald"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.683333,
+          51.383333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103491",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008180",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008863",
+          "aat:300132451"
+        ],
+        "name:en": "Savernake Forest",
+        "id": 1103491
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6,
+          51.383333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103492",
+          "tgn:1000003",
+          "tgn:7003677",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008863",
+          "aat:300132451"
+        ],
+        "id": 1103492,
+        "name:xx": "Schälker Heide"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.916667,
+          49.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103493",
+          "tgn:1000003",
+          "tgn:7003682",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008863",
+          "aat:300132451"
+        ],
+        "id": 1103493,
+        "name:xx": "Schwarzwälder Hochwald"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68,
+          -5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103494",
+          "tgn:1001826",
+          "tgn:1000047",
+          "tgn:7002456",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132451"
+        ],
+        "id": 1103494,
+        "name:xx": "Selvas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.083333,
+          53.166667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103495",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008167",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008863",
+          "aat:300132451"
+        ],
+        "name:en": "Sherwood Forest",
+        "id": 1103495
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.183333,
+          52.583333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103497",
+          "tgn:7003712",
+          "tgn:7003670",
+          "tgn:1000003",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008863",
+          "aat:300132451"
+        ],
+        "id": 1103497,
+        "name:xx": "Spandau, Berliner Forst"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1667,
+          54.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103498",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008127",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132451"
+        ],
+        "id": 1103498,
+        "name:xx": "Stainmore Forest"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.233333,
+          52.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103499",
+          "tgn:7000096",
+          "tgn:1000003",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008863",
+          "aat:300132451"
+        ],
+        "id": 1103499,
+        "name:xx": "Stolper Heide"
+      }
+    }
+  ]
+}

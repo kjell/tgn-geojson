@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9,
+          38.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2048647",
+          "tgn:1000001",
+          "tgn:2124001",
+          "tgn:7012149",
+          "tgn:7007516",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2048647,
+        "name:xx": "Seat Pleasant"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9333,
+          38.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2048648",
+          "tgn:1002338",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007516",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2048648,
+        "name:xx": "Secretary"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6833,
+          39.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2048649",
+          "tgn:1000001",
+          "tgn:7016106",
+          "tgn:7012149",
+          "tgn:7007516",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2048649,
+        "name:xx": "Security"
+      }
+    }
+  ]
+}

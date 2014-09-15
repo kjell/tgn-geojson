@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5833,
+          29.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1119070",
+          "tgn:7001242",
+          "tgn:7000604",
+          "tgn:1000172",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387087"
+        ],
+        "id": 1119070,
+        "name:xx": "Ghuzzayil, Sabkhat"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6833,
+          40.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1119074",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007526",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387087"
+        ],
+        "id": 1119074,
+        "name:xx": "Goshute Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7833,
+          37.2667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1119076",
+          "tgn:1000001",
+          "tgn:2001416",
+          "tgn:7012149",
+          "tgn:7007526",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387087"
+        ],
+        "id": 1119076,
+        "name:xx": "Groom Lake"
+      }
+    }
+  ]
+}

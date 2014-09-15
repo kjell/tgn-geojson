@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6167,
+          45.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1124680",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001710",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1124680,
+        "name:xx": "Hood"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8833,
+          67.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1124681",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7024197",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 1124681,
+        "name:xx": "Hood"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2,
+          52.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1124684",
+          "tgn:7003614",
+          "tgn:1000003",
+          "tgn:7016845",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006075",
+          "aat:300008707"
+        ],
+        "name:nl": "Hoogeveense Vaart",
+        "id": 1124684
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.03,
+          21.832
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1124685",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:1001977",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707",
+          "aat:300008699"
+        ],
+        "name:en": "Hugli River",
+        "id": 1124685
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8667,
+          47.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000872",
+          "tgn:1000004",
+          "tgn:7593851",
+          "tgn:7029379",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387066",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300387284",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300387296"
+        ],
+        "id": 7000872,
+        "name:xx": "Ulaanbaatar"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.483333,
+          41.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000874",
+          "tgn:7003138",
+          "tgn:1000003",
+          "tgn:7003080",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300019258",
+          "aat:300008347",
+          "aat:300387264",
+          "aat:300000810",
+          "aat:300008389",
+          "aat:300019267",
+          "aat:300387219",
+          "aat:300005135",
+          "aat:300387512",
+          "aat:300387223",
+          "aat:300387220",
+          "aat:300020471",
+          "aat:300387272",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300387291"
+        ],
+        "name:en": "Rome",
+        "id": 7000874
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1,
+          42.416667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000875",
+          "tgn:7003139",
+          "tgn:1000003",
+          "tgn:7003080",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387277",
+          "aat:300008347",
+          "aat:300379766",
+          "aat:300008389",
+          "aat:300387223",
+          "aat:300020471",
+          "aat:300020533",
+          "aat:300387291"
+        ],
+        "id": 7000875,
+        "name:it": "Viterbo"
+      }
+    }
+  ]
+}

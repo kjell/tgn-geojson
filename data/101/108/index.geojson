@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2833,
+          28.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011080",
+          "tgn:7594174",
+          "tgn:1000004",
+          "tgn:1000124",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011080,
+        "name:xx": "Qulayʻah, Ra's al-"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0667,
+          46.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011081",
+          "tgn:7005685",
+          "tgn:7005807",
+          "tgn:1000001",
+          "tgn:7005801",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011081,
+        "name:xx": "Race, Cape"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.916667,
+          15.116667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011084",
+          "tgn:1000004",
+          "tgn:7018318",
+          "tgn:7000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "name:en": "Ramas, Cape",
+        "id": 1011084
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.486,
+          38.71
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011086",
+          "tgn:1000882",
+          "tgn:1000003",
+          "tgn:1000090",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011086,
+        "name:xx": "Raso, Cabo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.516667,
+          38.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011087",
+          "tgn:1000003",
+          "tgn:7003122",
+          "tgn:7003157",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011087,
+        "name:xx": "Rasocolmo, Capo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.3167,
+          47.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011088",
+          "tgn:7005685",
+          "tgn:7005807",
+          "tgn:1000001",
+          "tgn:7005801",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011088,
+        "name:xx": "Ray, Cape"
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.0667,
+          38.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002400",
+          "tgn:1001127",
+          "tgn:1000004",
+          "tgn:7018455",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387223"
+        ],
+        "id": 7002400,
+        "name:xx": "Bitlis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6167,
+          40.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002401",
+          "tgn:1001045",
+          "tgn:1000004",
+          "tgn:7018454",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7002401,
+        "name:xx": "Boğazkale"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.85,
+          32.555556
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002403",
+          "tgn:1000004",
+          "tgn:1002085",
+          "tgn:1000121",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387277",
+          "aat:300008347",
+          "aat:300019275",
+          "aat:300264742",
+          "aat:300387220",
+          "aat:300008375",
+          "aat:300387302"
+        ],
+        "id": 7002403,
+        "name:xx": "Irbid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8833,
+          32.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002404",
+          "tgn:1000004",
+          "tgn:7029447",
+          "tgn:1000121",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300107688",
+          "aat:300020533"
+        ],
+        "id": 7002404,
+        "name:xx": "Gerasa"
+      }
+    }
+  ]
+}

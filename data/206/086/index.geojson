@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2,
+          37.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2060867",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001240",
+          "tgn:7007523",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2060867,
+        "name:xx": "Weingarten"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.55,
+          36.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2060868",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001223",
+          "tgn:7007523",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2060868,
+        "name:xx": "Wela Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.65,
+          38.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2060869",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7016166",
+          "tgn:7007523",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2060869,
+        "name:xx": "Weldon"
+      }
+    }
+  ]
+}

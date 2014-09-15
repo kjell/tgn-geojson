@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8,
+          39.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:pt": "Portugal",
+        "name:en": "Portugal",
+        "hierarchy": [
+          "tgn:1000090",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "ابًرثغال",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300000771",
+          "aat:300235096"
+        ],
+        "name:fr": "Portugal",
+        "name:ru": "Португалия",
+        "name:zh": "葡萄牙",
+        "id": 1000090,
+        "name:es": "Portugal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25,
+          46
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:pt": "Romênia",
+        "name:en": "Romania",
+        "name:nl": "Roemenië",
+        "hierarchy": [
+          "tgn:1000091",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "روماه اَ",
+        "name:de": "Rumänien",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300055529",
+          "aat:300000774"
+        ],
+        "name:fr": "Roumanie",
+        "name:ro": "România",
+        "name:ru": "Румыния",
+        "name:zh": "罗马尼亚",
+        "id": 1000091,
+        "name:es": "Rumania"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80,
+          60
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000094",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300025950"
+        ],
+        "name:en": "Commonwealth of Independent States",
+        "id": 1000094
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4,
+          40
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:pt": "Espanha",
+        "name:en": "Spain",
+        "name:nl": "Spanje",
+        "hierarchy": [
+          "tgn:1000095",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "إس باهاَ",
+        "name:de": "Spanien",
+        "placetype": [
+          "aat:300387054",
+          "aat:300387347",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387053",
+          "aat:300387174",
+          "aat:300387189",
+          "aat:300055529"
+        ],
+        "name:fr": "Espagne",
+        "name:la": "Hispana",
+        "name:ru": "Испания",
+        "name:zh": "西班牙",
+        "id": 1000095,
+        "name:es": "España"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15,
+          62
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Sweden",
+        "hierarchy": [
+          "tgn:1000097",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "اسًو دً",
+        "name:de": "Schweden",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387189",
+          "aat:300235096"
+        ],
+        "name:fr": "Suède",
+        "name:it": "Svezia",
+        "name:ru": "Швеция",
+        "name:sv": "Sverige",
+        "name:zh": "瑞典",
+        "id": 1000097,
+        "name:es": "Suecia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5667,
+          39.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2036660",
+          "tgn:1000001",
+          "tgn:2000702",
+          "tgn:7012149",
+          "tgn:7007254",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2036660,
+        "name:xx": "Larkinburg"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0833,
+          38.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2036661",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000732",
+          "tgn:7007254",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2036661,
+        "name:xx": "Larned"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.15,
+          38.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2036662",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000732",
+          "tgn:7007254",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006676"
+        ],
+        "id": 2036662,
+        "name:xx": "Larned State Hospital"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6333,
+          37.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2036663",
+          "tgn:1000001",
+          "tgn:2000667",
+          "tgn:7012149",
+          "tgn:7007254",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2036663,
+        "name:xx": "Latham"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8333,
+          38.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2036664",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000723",
+          "tgn:7007254",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2036664,
+        "name:xx": "Latimer"
+      }
+    }
+  ]
+}

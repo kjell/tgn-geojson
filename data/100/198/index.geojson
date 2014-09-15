@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.75,
+          10.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1001982",
+          "tgn:1000002",
+          "tgn:1000059",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008631",
+          "aat:300387064",
+          "aat:300387305",
+          "aat:300000776"
+        ],
+        "id": 1001982,
+        "name:xx": "Yaracuy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1667,
+          10
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1001985",
+          "tgn:1000002",
+          "tgn:1000059",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008631",
+          "aat:300387064",
+          "aat:300387302",
+          "aat:300000776"
+        ],
+        "id": 1001985,
+        "name:xx": "Zulia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52,
+          1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1001986",
+          "tgn:1000047",
+          "tgn:7002456",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008869",
+          "aat:300387064",
+          "aat:300000776",
+          "aat:300135982"
+        ],
+        "id": 1001986,
+        "name:xx": "Amapá"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66,
+          3.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1001987",
+          "tgn:1000002",
+          "tgn:1000059",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008631",
+          "aat:300387064",
+          "aat:300387123",
+          "aat:300000776"
+        ],
+        "id": 1001987,
+        "name:xx": "Amazonas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149,
+          -35.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1001989",
+          "tgn:7000490",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300135982"
+        ],
+        "id": 1001989,
+        "name:xx": "Australian Capital Territory"
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.716667,
+          30.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7521110",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:1001113",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007783"
+        ],
+        "id": 7521110,
+        "name:xx": "Al Maḩjar"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.083333,
+          27.333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7521111",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:1001114",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008777"
+        ],
+        "name:en": "Al Mahdūmah",
+        "id": 7521111
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.031938,
+          30.909662
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7521112",
+          "tgn:7001242",
+          "tgn:1001075",
+          "tgn:7016833",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Al Mahdīyah",
+        "id": 7521112
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.830002,
+          26.276384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7521113",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:7001334",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Al Maḩāsinah",
+        "id": 7521113
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.693538,
+          26.515279
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7521115",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:7000124",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Al Maḩāmidah",
+        "id": 7521115
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.779101,
+          25.136003
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7521116",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:7000122",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Al Maḩāmīd",
+        "id": 7521116
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30,
+          25.216667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7521119",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:7001334",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300005926"
+        ],
+        "name:en": "Al Maghribī",
+        "id": 7521119
+      }
+    }
+  ]
+}

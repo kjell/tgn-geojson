@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9,
+          36.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2101151",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001892",
+          "tgn:7007825",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2101151,
+        "name:xx": "Pumpkintown"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5333,
+          36.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2101153",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001865",
+          "tgn:7007825",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2101153,
+        "name:xx": "Puncheon Camp"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5167,
+          35.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2101155",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7022544",
+          "tgn:7007825",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2101155,
+        "name:xx": "Purdy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3333,
+          36.4333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2101156",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001876",
+          "tgn:7007825",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2101156,
+        "name:xx": "Puryear"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3833,
+          36.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2101157",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001902",
+          "tgn:7007825",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2101157,
+        "name:xx": "Push"
+      }
+    }
+  ]
+}

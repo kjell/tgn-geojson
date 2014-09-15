@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.3333,
+          34.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1119100",
+          "tgn:1000004",
+          "tgn:1002054",
+          "tgn:1000140",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387087"
+        ],
+        "id": 1119100,
+        "name:xx": "Mūḥ, Sabkhat"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.65,
+          35.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1119107",
+          "tgn:1002064",
+          "tgn:1000004",
+          "tgn:1000140",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387087"
+        ],
+        "id": 1119107,
+        "name:xx": "Marāghah, Sabkhat al"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3,
+          29.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1119108",
+          "tgn:7000360",
+          "tgn:1000004",
+          "tgn:1000133",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387087"
+        ],
+        "id": 1119108,
+        "name:xx": "Marav Lake"
+      }
+    }
+  ]
+}

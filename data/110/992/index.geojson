@@ -1,0 +1,150 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110,
+          52
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109920",
+          "tgn:1000004",
+          "tgn:7011500",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831"
+        ],
+        "id": 1109920,
+        "name:xx": "Khudanskiy Khrebet"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8925,
+          23.181111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109921",
+          "tgn:1000004",
+          "tgn:1009319",
+          "tgn:1000141",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831",
+          "aat:300008795"
+        ],
+        "id": 1109921,
+        "name:xx": "Chung-yang Shan-mo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.25,
+          53.183333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109924",
+          "tgn:7002443",
+          "tgn:5000555",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831",
+          "aat:300008795"
+        ],
+        "name:en": "Clwydian Range",
+        "id": 1109924
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121,
+          40
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109925",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831"
+        ],
+        "id": 1109925,
+        "name:xx": "Coast Ranges"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.3333,
+          -84.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109927",
+          "tgn:1000007",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831"
+        ],
+        "id": 1109927,
+        "name:xx": "Commonwealth Range"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.666667,
+          -37
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109929",
+          "tgn:1008380",
+          "tgn:1000226",
+          "tgn:7018426",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831",
+          "aat:300008795"
+        ],
+        "name:en": "Coromandel Range",
+        "id": 1109929
+      }
+    }
+  ]
+}

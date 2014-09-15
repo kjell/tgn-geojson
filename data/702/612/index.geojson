@@ -1,0 +1,214 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.15,
+          51.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7026120",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008131",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008372"
+        ],
+        "id": 7026120,
+        "name:ang": "Clachintuna"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.133333,
+          51.816667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7026121",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008131",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008372"
+        ],
+        "name:en": "Little Clacton",
+        "id": 7026121
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.133333,
+          51.966667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7026122",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008131",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008372"
+        ],
+        "id": 7026122,
+        "name:ang": "Clauelinga"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8,
+          19.216667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7026123",
+          "tgn:1000001",
+          "tgn:1001893",
+          "tgn:7005560",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7026123,
+        "name:xx": "Tlalmanalco de Velázquez"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.2,
+          46.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7026124",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7005802",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008706"
+        ],
+        "id": 7026124,
+        "name:xx": "Wentworth Creek"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.55,
+          45.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7026125",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7005802",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7026125,
+        "name:xx": "Wentworth Centre"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2167,
+          31.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7026128",
+          "tgn:1000004",
+          "tgn:1000953",
+          "tgn:1000119",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387007",
+          "aat:300000810",
+          "aat:300008527",
+          "aat:300000833"
+        ],
+        "id": 7026128,
+        "name:xx": "Ramat Raẖel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.85,
+          31.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7026129",
+          "tgn:1000004",
+          "tgn:1000953",
+          "tgn:1000119",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387007",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300008389",
+          "aat:300387238",
+          "aat:300387302"
+        ],
+        "id": 7026129,
+        "name:xx": "Tel Miqne"
+      }
+    }
+  ]
+}

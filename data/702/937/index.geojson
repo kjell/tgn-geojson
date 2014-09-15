@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85,
+          45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7029370",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 7029370,
+        "name:xx": "Great Lakes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.525,
+          29.467
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7029371",
+          "tgn:1000004",
+          "tgn:7001282",
+          "tgn:7000231",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300387238",
+          "aat:300008375"
+        ],
+        "name:en": "Abivard",
+        "id": 7029371
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5,
+          47
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7029372",
+          "tgn:1000003",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387178",
+          "aat:300235088",
+          "aat:300235096"
+        ],
+        "name:en": "Burgundy",
+        "id": 7029372
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105,
+          46
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Mongolia",
+        "name:xx": "Mongol",
+        "hierarchy": [
+          "tgn:7029379",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "م غٌو اًَ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300235096"
+        ],
+        "name:fr": "Mongolie",
+        "name:ru": "Монголия",
+        "name:mn": "Монгол",
+        "name:zh": "蒙古",
+        "id": 7029379,
+        "name:es": "Mongolia"
+      }
+    }
+  ]
+}

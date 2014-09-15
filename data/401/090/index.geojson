@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.25,
+          56.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4010905",
+          "tgn:7003770",
+          "tgn:7003769",
+          "tgn:1000003",
+          "tgn:1000097",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4010905,
+        "name:xx": "Sundre"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.987778,
+          60.146944
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4010906",
+          "tgn:1000003",
+          "tgn:7594395",
+          "tgn:1000069",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006888",
+          "aat:300387291"
+        ],
+        "id": 4010906,
+        "name:xx": "Suomenlinna"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766667,
+          45.083333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4010907",
+          "tgn:7003154",
+          "tgn:1000003",
+          "tgn:7003120",
+          "tgn:1000080",
+          "tgn:7005688",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387336"
+        ],
+        "id": 4010907,
+        "name:xx": "Superga"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.95,
+          47.883333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4010909",
+          "tgn:7003669",
+          "tgn:1000003",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4010909,
+        "name:xx": "Surheim"
+      }
+    }
+  ]
+}

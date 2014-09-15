@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2,
+          34.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114464",
+          "tgn:7016675",
+          "tgn:1000004",
+          "tgn:7000896",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008678"
+        ],
+        "id": 1114464,
+        "name:xx": "Kōbe-kō"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.216667,
+          -36.416667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114465",
+          "tgn:1008380",
+          "tgn:1000226",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008678"
+        ],
+        "name:en": "Kaipara Harbour",
+        "id": 1114465
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7833,
+          35.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114467",
+          "tgn:7016696",
+          "tgn:1000004",
+          "tgn:7000894",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008678"
+        ],
+        "id": 1114467,
+        "name:xx": "Kawasaki-kō"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.833333,
+          -38.083333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114468",
+          "tgn:1008380",
+          "tgn:1000226",
+          "tgn:7018426",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008678"
+        ],
+        "name:en": "Kawhia Harbour",
+        "id": 1114468
+      }
+    }
+  ]
+}

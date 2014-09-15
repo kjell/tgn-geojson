@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.8333,
+          50.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114690",
+          "tgn:7005735",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300185707"
+        ],
+        "id": 1114690,
+        "name:xx": "Toba Inlet"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9833,
+          47.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114691",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300185707"
+        ],
+        "id": 1114691,
+        "name:xx": "Totten Inlet"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7,
+          39.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114692",
+          "tgn:1002232",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300185707"
+        ],
+        "id": 1114692,
+        "name:xx": "Townsends Inlet"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.7833,
+          60.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114695",
+          "tgn:7006450",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300185707"
+        ],
+        "id": 1114695,
+        "name:xx": "Turnagain Arm"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4333,
+          5.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114699",
+          "tgn:1000484",
+          "tgn:7001242",
+          "tgn:1000168",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008679"
+        ],
+        "id": 1114699,
+        "name:xx": "Ébrié, Lagune"
+      }
+    }
+  ]
+}

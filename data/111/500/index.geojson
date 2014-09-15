@@ -1,0 +1,150 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0833,
+          44.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115000",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7013154",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266558"
+        ],
+        "id": 1115000,
+        "name:xx": "Melville Sound"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.5833,
+          52.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115001",
+          "tgn:7005735",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266558"
+        ],
+        "id": 1115001,
+        "name:xx": "Milbanke Sound"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.783333,
+          -44.583333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115002",
+          "tgn:1009227",
+          "tgn:1000226",
+          "tgn:7016822",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266558"
+        ],
+        "name:en": "Milford Sound",
+        "id": 1115002
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5833,
+          57.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115004",
+          "tgn:7002444",
+          "tgn:1000003",
+          "tgn:7008094",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266558"
+        ],
+        "name:en": "Monach, Sound of",
+        "id": 1115004
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8333,
+          56.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115005",
+          "tgn:7002444",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266558"
+        ],
+        "name:en": "Mull, Sound of",
+        "id": 1115005
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.1667,
+          -8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115009",
+          "tgn:1000233",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266558"
+        ],
+        "id": 1115009,
+        "name:xx": "New Georgia Sound"
+      }
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75,
+          -7.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003700",
+          "tgn:1000004",
+          "tgn:1001323",
+          "tgn:1000116",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300264742",
+          "aat:300387512",
+          "aat:300387223",
+          "aat:300387302",
+          "aat:300387286"
+        ],
+        "id": 7003700,
+        "name:xx": "Surabaya"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4,
+          -7.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003701",
+          "tgn:1000004",
+          "tgn:1000116",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300387080"
+        ],
+        "id": 7003701,
+        "name:xx": "Yogyakarta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126,
+          -8.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:pt": "Timor-Leste",
+        "name:en": "Timor-Leste",
+        "hierarchy": [
+          "tgn:7003703",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "حيمور-ضًُ تي",
+        "placetype": [
+          "aat:300387054",
+          "aat:300387064",
+          "aat:300128207",
+          "aat:300387101",
+          "aat:300000774"
+        ],
+        "name:fr": "Timor-Leste",
+        "name:tet": "Timor Lorosa'e",
+        "name:ru": "Тимор-Лешти",
+        "name:zh": "东帝汶",
+        "id": 7003703,
+        "name:es": "Timor-Leste"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9667,
+          14.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003706",
+          "tgn:1000004",
+          "tgn:7000373",
+          "tgn:1000135",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300264742",
+          "aat:300387512",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300120599",
+          "aat:300387286"
+        ],
+        "id": 7003706,
+        "name:xx": "Manila"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.4833,
+          11.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003707",
+          "tgn:1000004",
+          "tgn:1001388",
+          "tgn:1000135",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7003707,
+        "name:xx": "Leyte"
+      }
+    }
+  ]
+}

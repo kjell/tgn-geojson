@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9333,
+          31.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:5003223",
+          "tgn:1002055",
+          "tgn:1000004",
+          "tgn:1000121",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300167671"
+        ],
+        "id": 5003223,
+        "name:xx": "Khuraybat as Sūq"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.761,
+          31.005
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:5003224",
+          "tgn:1002058",
+          "tgn:1000004",
+          "tgn:1000121",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 5003224,
+        "name:xx": "Dhāt Ra's"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9,
+          34.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:5003225",
+          "tgn:1001317",
+          "tgn:1000004",
+          "tgn:1000126",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 5003225,
+        "name:xx": "Afqa"
+      }
+    }
+  ]
+}

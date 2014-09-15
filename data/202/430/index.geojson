@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3167,
+          31.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2024300",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000386",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2024300,
+        "name:xx": "Shellman Bluff"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5333,
+          32.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2024304",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000415",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2024304,
+        "name:xx": "Sheppards"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82,
+          33.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2024306",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000412",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2024306,
+        "name:xx": "Neco"
+      }
+    }
+  ]
+}

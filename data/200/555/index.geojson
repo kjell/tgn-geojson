@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5333,
+          33.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2005551",
+          "tgn:7002659",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2005546",
+          "tgn:2000062",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006676"
+        ],
+        "id": 2005551,
+        "name:xx": "Bryce Hospital"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5,
+          33.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2005553",
+          "tgn:7002659",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2005546",
+          "tgn:2000062",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387331"
+        ],
+        "id": 2005553,
+        "name:xx": "Circlewood"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6333,
+          33.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2005554",
+          "tgn:7002659",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2005546",
+          "tgn:2000062",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387331"
+        ],
+        "id": 2005554,
+        "name:xx": "Cloverdale"
+      }
+    }
+  ]
+}

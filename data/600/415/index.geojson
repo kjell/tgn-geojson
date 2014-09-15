@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.040208,
+          50.767557
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6004152",
+          "tgn:7003460",
+          "tgn:1000003",
+          "tgn:1000063",
+          "tgn:4012014",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008372"
+        ],
+        "id": 6004152,
+        "name:xx": "Neerwinden"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.715,
+          33.378
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6004159",
+          "tgn:1000004",
+          "tgn:1001130",
+          "tgn:1000118",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300073723"
+        ],
+        "id": 6004159,
+        "name:xx": "Nehardea"
+      }
+    }
+  ]
+}

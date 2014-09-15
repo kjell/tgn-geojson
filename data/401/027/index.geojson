@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3,
+          20.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4010272",
+          "tgn:7001242",
+          "tgn:1001112",
+          "tgn:1000201",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000833"
+        ],
+        "id": 4010272,
+        "name:xx": "Seddenga Temple"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.65,
+          54.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4010277",
+          "tgn:1000003",
+          "tgn:7003688",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4010277,
+        "name:xx": "Seedorf"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6,
+          46.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:4010279",
+          "tgn:1000003",
+          "tgn:7003761",
+          "tgn:7011731",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 4010279,
+        "name:xx": "Seelisberg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2,
+          39.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2032343",
+          "tgn:1000001",
+          "tgn:7012924",
+          "tgn:7012149",
+          "tgn:1002633",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2032343,
+        "name:xx": "Sunshine Gardens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3,
+          39.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2032345",
+          "tgn:1000001",
+          "tgn:7012924",
+          "tgn:7012149",
+          "tgn:1002633",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2032345,
+        "name:xx": "Traders Point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86,
+          39.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2032349",
+          "tgn:1000001",
+          "tgn:7012924",
+          "tgn:7012149",
+          "tgn:1002633",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2032349,
+        "name:xx": "Wanamaker"
+      }
+    }
+  ]
+}

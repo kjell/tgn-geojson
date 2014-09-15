@@ -1,0 +1,195 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.583333,
+          42.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008400",
+          "tgn:7002826",
+          "tgn:7001158",
+          "tgn:1000003",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7008400,
+        "name:xx": "Ponferrada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.633333,
+          42.433333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008401",
+          "tgn:7002834",
+          "tgn:1000003",
+          "tgn:7002786",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387223",
+          "aat:300120599"
+        ],
+        "id": 7008401,
+        "name:xx": "Pontevedra"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.95,
+          52.166667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008402",
+          "tgn:7002443",
+          "tgn:7017242",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7008402,
+        "name:xx": "Llanddewi Brefi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.45,
+          40.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008405",
+          "tgn:7003013",
+          "tgn:7003005",
+          "tgn:1000003",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300008375",
+          "aat:300263063"
+        ],
+        "id": 7008405,
+        "name:it": "Torre Annunziata"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7,
+          41.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008406",
+          "tgn:7003138",
+          "tgn:1000003",
+          "tgn:7003080",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671"
+        ],
+        "id": 7008406,
+        "name:xx": "Tuscolo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.966667,
+          51.633333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008407",
+          "tgn:7002443",
+          "tgn:1000003",
+          "tgn:7018973",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008416",
+          "aat:300008389",
+          "aat:300387512",
+          "aat:300387305",
+          "aat:300387220",
+          "aat:300387302",
+          "aat:300120599"
+        ],
+        "name:en": "Swansea",
+        "id": 7008407
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.209444,
+          51.538889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008409",
+          "tgn:7002443",
+          "tgn:1000003",
+          "tgn:7018973",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386846"
+        ],
+        "name:en": "Port-Eynon Point",
+        "id": 7008409
+      }
+    }
+  ]
+}

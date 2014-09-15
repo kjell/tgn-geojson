@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4167,
+          48.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100212",
+          "tgn:1000003",
+          "tgn:7002883",
+          "tgn:1000070",
+          "tgn:7008038",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266755"
+        ],
+        "id": 1100212,
+        "name:xx": "Père-Lachaise, Cimetière du"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3833,
+          48.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100213",
+          "tgn:1000003",
+          "tgn:7002883",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266755"
+        ],
+        "id": 1100213,
+        "name:xx": "Parisien de Pantin, Cimetière"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0667,
+          -33.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100214",
+          "tgn:7000490",
+          "tgn:1000006",
+          "tgn:7001828",
+          "tgn:7001923",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266755"
+        ],
+        "id": 1100214,
+        "name:xx": "Rookwood Cemetery"
+      }
+    }
+  ]
+}

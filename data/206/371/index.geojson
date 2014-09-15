@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0667,
+          43.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2063710",
+          "tgn:1000001",
+          "tgn:2001424",
+          "tgn:7012149",
+          "tgn:7007564",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2063710,
+        "name:xx": "Piermont"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72,
+          44.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2063711",
+          "tgn:1000001",
+          "tgn:2001424",
+          "tgn:7012149",
+          "tgn:7007564",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2063711,
+        "name:xx": "Pike"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5,
+          42.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2063712",
+          "tgn:1000001",
+          "tgn:1002480",
+          "tgn:7012149",
+          "tgn:7007564",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2063712,
+        "name:xx": "Pinardville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3833,
+          45.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2063718",
+          "tgn:1002300",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007564",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2063718,
+        "name:xx": "Pittsburg"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3167,
+          43.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2063719",
+          "tgn:1000001",
+          "tgn:2001425",
+          "tgn:7012149",
+          "tgn:7007564",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2063719,
+        "name:xx": "Pittsfield"
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174.9167,
+          -21.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1007061",
+          "tgn:7018442",
+          "tgn:7000529",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1007061,
+        "name:xx": "'Eua"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174.9833,
+          -21.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1007062",
+          "tgn:7000528",
+          "tgn:7000529",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1007062,
+        "name:xx": "Eua Iki"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8333,
+          63.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1007063",
+          "tgn:7024077",
+          "tgn:1000003",
+          "tgn:1000069",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1007063,
+        "name:xx": "Eugmo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.3667,
+          -22.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1007064",
+          "tgn:7001242",
+          "tgn:7031796",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387054",
+          "aat:300387064",
+          "aat:300008791",
+          "aat:300235118"
+        ],
+        "name:en": "Europa Island",
+        "id": 1007064
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144,
+          75.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1007069",
+          "tgn:1009833",
+          "tgn:1000004",
+          "tgn:1010187",
+          "tgn:7011528",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 1007069,
+        "name:xx": "Faddeyevskiy, Ostrov"
+      }
+    }
+  ]
+}

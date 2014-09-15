@@ -1,0 +1,154 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.45,
+          41
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110650",
+          "tgn:1000001",
+          "tgn:1002695",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266640"
+        ],
+        "id": 1110650,
+        "name:xx": "Copperas Mountain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9333,
+          42.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110652",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7014318",
+          "tgn:7007568",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266640"
+        ],
+        "id": 1110652,
+        "name:xx": "Crumhorn Mountain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5,
+          51.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110653",
+          "tgn:1000003",
+          "tgn:7003689",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266640"
+        ],
+        "id": 1110653,
+        "name:xx": "Dün"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.65,
+          39.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110654",
+          "tgn:1000001",
+          "tgn:1002221",
+          "tgn:7012149",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266640"
+        ],
+        "id": 1110654,
+        "name:xx": "Dividing Ridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9167,
+          39.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110657",
+          "tgn:1000001",
+          "tgn:1002324",
+          "tgn:7012149",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266640"
+        ],
+        "id": 1110657,
+        "name:xx": "Ebenezer Ridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1667,
+          38
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110659",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002298",
+          "tgn:7007157",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266640"
+        ],
+        "id": 1110659,
+        "name:xx": "Franklin Ridge"
+      }
+    }
+  ]
+}

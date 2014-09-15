@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3333,
+          1.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1001952",
+          "tgn:7000316",
+          "tgn:1000004",
+          "tgn:1000128",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000776"
+        ],
+        "id": 1001952,
+        "name:xx": "Sarawak"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.5,
+          -10.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1001955",
+          "tgn:1000047",
+          "tgn:7002455",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008631",
+          "aat:300008869",
+          "aat:300387064",
+          "aat:300000776"
+        ],
+        "id": 1001955,
+        "name:xx": "Sergipe"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88,
+          27
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1001957",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000776"
+        ],
+        "id": 1001957,
+        "name:xx": "Sikkim"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5,
+          12.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1001959",
+          "tgn:7001242",
+          "tgn:1000182",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000776"
+        ],
+        "name:en": "Sokoto",
+        "id": 1001959
+      }
+    }
+  ]
+}

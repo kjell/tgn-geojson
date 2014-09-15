@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.35,
+          19.245833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6001062",
+          "tgn:1000001",
+          "tgn:7005598",
+          "tgn:7005560",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387007",
+          "aat:300000810",
+          "aat:300005734",
+          "aat:300167671"
+        ],
+        "id": 6001062,
+        "name:xx": "Cacaxtla"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.916667,
+          25.083333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6001064",
+          "tgn:1000004",
+          "tgn:1001832",
+          "tgn:7000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387178",
+          "aat:300387145",
+          "aat:300387081"
+        ],
+        "id": 6001064,
+        "name:xx": "Cachar"
+      }
+    }
+  ]
+}

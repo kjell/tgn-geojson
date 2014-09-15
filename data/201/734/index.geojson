@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7,
+          42.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017344",
+          "tgn:1000001",
+          "tgn:1002461",
+          "tgn:7012149",
+          "tgn:7007159",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2017344,
+        "name:xx": "Rising Corner"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.85,
+          41.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017345",
+          "tgn:1000001",
+          "tgn:1002461",
+          "tgn:7012149",
+          "tgn:7007159",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2017345,
+        "name:xx": "River Glen"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1667,
+          41.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017346",
+          "tgn:1000001",
+          "tgn:1002712",
+          "tgn:7012149",
+          "tgn:7007159",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2017346,
+        "name:xx": "Riverside"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2333,
+          41.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017348",
+          "tgn:1002366",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007159",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2017348,
+        "name:xx": "Riverside"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0167,
+          41.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017349",
+          "tgn:1000001",
+          "tgn:1002601",
+          "tgn:7012149",
+          "tgn:7007159",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2017349,
+        "name:xx": "Riverton"
+      }
+    }
+  ]
+}

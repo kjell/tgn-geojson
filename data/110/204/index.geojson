@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.25,
+          43.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102043",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000510"
+        ],
+        "id": 1102043,
+        "name:xx": "Oregon Dunes National Recreation Area"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7333,
+          34.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102045",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002608",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000510"
+        ],
+        "id": 1102045,
+        "name:xx": "Santa Monica Mountains National Recreation Area"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2833,
+          38.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102047",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7013961",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000510"
+        ],
+        "id": 1102047,
+        "name:xx": "Spruce Knob-Seneca Rocks National Recreation Area"
+      }
+    }
+  ]
+}

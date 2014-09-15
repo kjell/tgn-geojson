@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0333,
+          34.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2024554",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000446",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2024554,
+        "name:xx": "Tunnel Hill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6333,
+          33.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2024555",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000329",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2024555,
+        "name:xx": "Turin"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4167,
+          34.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2024556",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000359",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2024556,
+        "name:xx": "Turnerville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4167,
+          32.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2024557",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000342",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2024557,
+        "name:xx": "Tusculum"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.15,
+          32.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2024558",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000344",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2024558,
+        "name:xx": "Twin City"
+      }
+    }
+  ]
+}

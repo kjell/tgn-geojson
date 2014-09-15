@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152,
+          5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Federated States of Micronesia",
+        "hierarchy": [
+          "tgn:1000220",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "name:ar": "م ىِروهيزيا",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300235120"
+        ],
+        "name:fr": "Micronésie",
+        "name:ru": "Микронезии",
+        "name:zh": "密克罗尼西亚",
+        "id": 1000220,
+        "name:es": "Micronesia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.5,
+          -21.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000223",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387054",
+          "aat:300387176",
+          "aat:300387318",
+          "aat:300387120"
+        ],
+        "name:en": "New Caledonia",
+        "id": 1000223
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167,
+          -16
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Vanuatu",
+        "hierarchy": [
+          "tgn:1000225",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "name:ar": "فاهواثو",
+        "placetype": [
+          "aat:300387054",
+          "aat:300387062",
+          "aat:300387347",
+          "aat:300235116",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Vanuatu",
+        "name:bi": "Vanuatu",
+        "name:ru": "Вануату",
+        "name:zh": "瓦努阿图",
+        "id": 1000225
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174,
+          -42
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "New Zealand",
+        "hierarchy": [
+          "tgn:1000226",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "name:zh": "新西兰",
+        "name:ar": "ه وَز يًَدا",
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300387347",
+          "aat:300128207",
+          "aat:300387053",
+          "aat:300387174"
+        ],
+        "name:fr": "Nouvelle-Zélande",
+        "name:ru": "Новая Зеландия",
+        "name:mi": "Aotearoa",
+        "id": 1000226,
+        "name:es": "Nueva Zelandia"
+      }
+    }
+  ]
+}

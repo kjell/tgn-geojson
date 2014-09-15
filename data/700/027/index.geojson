@@ -1,0 +1,180 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5167,
+          25.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000270",
+          "tgn:1000004",
+          "tgn:1000143",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300235104",
+          "aat:300235105"
+        ],
+        "name:en": "Ajman",
+        "id": 7000270
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0833,
+          39.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000272",
+          "tgn:1000004",
+          "tgn:7000893",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300235099"
+        ],
+        "id": 7000272,
+        "name:xx": "Akita"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.75,
+          40.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000273",
+          "tgn:1000004",
+          "tgn:7000893",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300235099"
+        ],
+        "id": 7000273,
+        "name:xx": "Aomori"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.25,
+          38.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000274",
+          "tgn:1000004",
+          "tgn:7000893",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300235099"
+        ],
+        "id": 7000274,
+        "name:xx": "Yamagata-ken"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.4167,
+          31.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000275",
+          "tgn:1000004",
+          "tgn:7000901",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300235099"
+        ],
+        "id": 7000275,
+        "name:xx": "Miyazaki"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9167,
+          32.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000276",
+          "tgn:1000004",
+          "tgn:7000901",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300235099"
+        ],
+        "id": 7000276,
+        "name:xx": "Nagasaki"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136,
+          35.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000277",
+          "tgn:1000004",
+          "tgn:7000896",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300235099"
+        ],
+        "id": 7000277,
+        "name:xx": "Shiga"
+      }
+    }
+  ]
+}

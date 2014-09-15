@@ -1,0 +1,186 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8667,
+          48.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011943",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "name:fr": "Plechý",
+        "id": 7011943,
+        "name:de": "Plöckenstein"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.283333,
+          51.666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011944",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008168",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387273",
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "name:en": "Abingdon",
+        "id": 7011944
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.633333,
+          51.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011945",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008168",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "name:en": "Burford",
+        "id": 7011945
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5,
+          49
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011946",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "name:cs": "Malše",
+        "id": 7011946,
+        "name:de": "Maltsch"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.383333,
+          51.766667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011947",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008168",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387273",
+          "aat:300019276",
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300021024",
+          "aat:300387004",
+          "aat:300008375"
+        ],
+        "name:en": "Eynsham",
+        "id": 7011947
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.283333,
+          51.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011948",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008168",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008372"
+        ],
+        "name:en": "Harwell",
+        "id": 7011948
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9,
+          51.533333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011949",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008168",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7011949,
+        "name:xx": "Henley-on-Thames"
+      }
+    }
+  ]
+}

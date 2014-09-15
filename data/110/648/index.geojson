@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5833,
+          30.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1106480",
+          "tgn:7001242",
+          "tgn:1000179",
+          "tgn:7593686",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1106480,
+        "name:xx": "Siroua Jbel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.615,
+          43.693
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1106482",
+          "tgn:7018870",
+          "tgn:1000003",
+          "tgn:7006664",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008798"
+        ],
+        "id": 1106482,
+        "name:xx": "Sjenište"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.116667,
+          54.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1106488",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008117",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "name:en": "Skiddaw",
+        "id": 1106488
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9,
+          50.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1106489",
+          "tgn:7005735",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 1106489,
+        "name:xx": "Skihist Mountain"
+      }
+    }
+  ]
+}

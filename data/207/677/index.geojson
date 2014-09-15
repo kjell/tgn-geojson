@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2667,
+          35.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2076770",
+          "tgn:1000001",
+          "tgn:2001479",
+          "tgn:7012149",
+          "tgn:7007709",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2076770,
+        "name:xx": "Startown"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8667,
+          36.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2076771",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001542",
+          "tgn:7007709",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2076771,
+        "name:xx": "State Road"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8833,
+          35.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2076772",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001507",
+          "tgn:7007709",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2076772,
+        "name:xx": "Statesville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9167,
+          35.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2076778",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001507",
+          "tgn:7007709",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2076778,
+        "name:xx": "Statesville West"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35,
+          35.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2076779",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001530",
+          "tgn:7007709",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2076779,
+        "name:xx": "Staton"
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1,
+          36.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2041730",
+          "tgn:1000001",
+          "tgn:2000783",
+          "tgn:7012149",
+          "tgn:7007255",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2041730,
+        "name:xx": "Upchurch"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2667,
+          38.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2041734",
+          "tgn:1000001",
+          "tgn:1002240",
+          "tgn:7012149",
+          "tgn:7007255",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2041734,
+        "name:xx": "Upper Tygart"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8833,
+          37.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2041735",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000796",
+          "tgn:7007255",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2041735,
+        "name:xx": "Upton"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8333,
+          37.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2041738",
+          "tgn:1000001",
+          "tgn:2000782",
+          "tgn:7012149",
+          "tgn:7007255",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2041738,
+        "name:xx": "Urban"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1,
+          37.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2041739",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000786",
+          "tgn:7007255",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2041739,
+        "name:xx": "Utica"
+      }
+    }
+  ]
+}

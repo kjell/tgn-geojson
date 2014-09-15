@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.683,
+          32.783
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032936",
+          "tgn:1000004",
+          "tgn:1001130",
+          "tgn:1000118",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300107732",
+          "aat:300019828"
+        ],
+        "id": 7032936,
+        "name:xx": "Tell Uqair"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.305,
+          35.333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032937",
+          "tgn:1001115",
+          "tgn:1000004",
+          "tgn:1000118",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387007",
+          "aat:300167671"
+        ],
+        "id": 7032937,
+        "name:xx": "Nuzi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.389,
+          32.857
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032938",
+          "tgn:1000004",
+          "tgn:1001228",
+          "tgn:7000231",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7032938,
+        "name:xx": "Mughan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.108,
+          33.201
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032939",
+          "tgn:7001242",
+          "tgn:1000179",
+          "tgn:7593679",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387323"
+        ],
+        "id": 7032939,
+        "name:xx": "Zaïane"
+      }
+    }
+  ]
+}

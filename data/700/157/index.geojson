@@ -1,0 +1,188 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.719338,
+          28.971551
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001570",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:7016722",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Meerut",
+        "id": 7001570
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.833333,
+          10.766667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001571",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:7001797",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7001571,
+        "name:xx": "Nagappattinam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.833333,
+          15.483333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001573",
+          "tgn:1000004",
+          "tgn:7018318",
+          "tgn:7000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387264",
+          "aat:300387218",
+          "aat:300387220",
+          "aat:300008375",
+          "aat:300120599",
+          "aat:300387286"
+        ],
+        "name:en": "Panaji",
+        "id": 7001573
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.969492,
+          29.39005
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001574",
+          "tgn:1000004",
+          "tgn:1001871",
+          "tgn:7000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Pānīpat",
+        "id": 7001574
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.119356,
+          25.60222
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001575",
+          "tgn:1000004",
+          "tgn:1001842",
+          "tgn:7000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300387220",
+          "aat:300387221"
+        ],
+        "name:en": "Patna",
+        "id": 7001575
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.247029,
+          23.780057
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001576",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:1001977",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7001576,
+        "name:xx": "Plassey"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.83,
+          11.93
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001579",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:1002000",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300387220",
+          "aat:300000547",
+          "aat:300008375",
+          "aat:300120599"
+        ],
+        "id": 7001579,
+        "name:xx": "Puducherry"
+      }
+    }
+  ]
+}

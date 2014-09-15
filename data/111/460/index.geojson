@@ -1,0 +1,129 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9667,
+          41.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114603",
+          "tgn:1001052",
+          "tgn:1000004",
+          "tgn:7018450",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132316",
+          "aat:300185707"
+        ],
+        "id": 1114603,
+        "name:xx": "Haliç"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5,
+          54
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114604",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7005801",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300185707"
+        ],
+        "id": 1114604,
+        "name:xx": "Hamilton Inlet"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123,
+          47.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114605",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002645",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300185707"
+        ],
+        "id": 1114605,
+        "name:xx": "Hammersley Inlet"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9833,
+          47.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114607",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300185707"
+        ],
+        "id": 1114607,
+        "name:xx": "Hood Canal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.95,
+          66.8167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114608",
+          "tgn:7006450",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2124014",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300185707"
+        ],
+        "id": 1114608,
+        "name:xx": "Hotham Inlet"
+      }
+    }
+  ]
+}

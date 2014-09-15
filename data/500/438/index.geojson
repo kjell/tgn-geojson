@@ -1,0 +1,144 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.816,
+          37.033
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:5004380",
+          "tgn:1001061",
+          "tgn:7018452",
+          "tgn:1000004",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300167671",
+          "aat:300387655"
+        ],
+        "id": 5004380,
+        "name:xx": "Augusta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.131834,
+          37.158056
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:5004381",
+          "tgn:7018452",
+          "tgn:7593735",
+          "tgn:1000004",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300008389",
+          "aat:300020072",
+          "aat:300008372"
+        ],
+        "id": 5004381,
+        "name:xx": "Kırmıtlı"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.922,
+          36.124
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:5004382",
+          "tgn:1001287",
+          "tgn:7018452",
+          "tgn:1000004",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300020101",
+          "aat:300020533"
+        ],
+        "id": 5004382,
+        "name:xx": "Seleucia Pieria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.141,
+          38.108
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:5004383",
+          "tgn:1001053",
+          "tgn:1000004",
+          "tgn:7018451",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671"
+        ],
+        "id": 5004383,
+        "name:xx": "Colophon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.429,
+          37.595
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:5004385",
+          "tgn:1001117",
+          "tgn:1000004",
+          "tgn:7018451",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300167671",
+          "aat:300008389"
+        ],
+        "id": 5004385,
+        "name:xx": "Myous"
+      }
+    }
+  ]
+}

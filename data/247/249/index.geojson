@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4667,
+          38.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2472496",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002984",
+          "tgn:7007523",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008699"
+        ],
+        "id": 2472496,
+        "name:xx": "Loutre Slough"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5667,
+          38.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2472497",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002687",
+          "tgn:7007523",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 2472497,
+        "name:xx": "Loutre Valley Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.75,
+          29.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2472498",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000897",
+          "tgn:7007256",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008699"
+        ],
+        "id": 2472498,
+        "name:xx": "Loutre, Bayou la"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9667,
+          31.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2472499",
+          "tgn:7002659",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000048",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 2472499,
+        "name:xx": "Louts Lake"
+      }
+    }
+  ]
+}

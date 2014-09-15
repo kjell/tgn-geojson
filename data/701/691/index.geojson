@@ -1,0 +1,202 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.19436,
+          12.248089
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016912",
+          "tgn:1000004",
+          "tgn:7001055",
+          "tgn:1000145",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387223",
+          "aat:300387272",
+          "aat:300120599",
+          "aat:300386830"
+        ],
+        "id": 7016912,
+        "name:xx": "Nha Trang"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.988581,
+          11.564315
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016913",
+          "tgn:1000004",
+          "tgn:7001066",
+          "tgn:1000145",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387272",
+          "aat:300386830"
+        ],
+        "id": 7016913,
+        "name:xx": "Phan Rang-Tháp Chàm"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.0667,
+          10.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016914",
+          "tgn:1000004",
+          "tgn:1000145",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "id": 7016914,
+        "name:xx": "Vung Tau-Con Dao"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3333,
+          -21.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016915",
+          "tgn:7000490",
+          "tgn:1000006",
+          "tgn:7001834",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008189"
+        ],
+        "id": 7016915,
+        "name:xx": "Millstream Chichester National Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.5,
+          -41.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016916",
+          "tgn:7000490",
+          "tgn:1000006",
+          "tgn:7001992",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7016916,
+        "name:xx": "Campbell Town"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.703358,
+          47.231289
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016917",
+          "tgn:1000003",
+          "tgn:7011731",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 7016917,
+        "name:xx": "Zürichsee"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          63
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016918",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008694"
+        ],
+        "name:en": "Norwegian Sea",
+        "id": 7016918,
+        "name:es": "Noruega, Mar de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8333,
+          28.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016919",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386832"
+        ],
+        "name:en": "Himalayas",
+        "id": 7016919,
+        "name:ne": "Himalaya"
+      }
+    }
+  ]
+}

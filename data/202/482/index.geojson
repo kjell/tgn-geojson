@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.3,
+          22.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2024822",
+          "tgn:1007657",
+          "tgn:1002534",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007249",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2024822,
+        "name:xx": "Anahola"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.9167,
+          19.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2024827",
+          "tgn:7023902",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007249",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2024827,
+        "name:xx": "Captain Cook"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9833,
+          21.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2024829",
+          "tgn:1002483",
+          "tgn:7019080",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007249",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2024829,
+        "name:xx": "Crestview"
+      }
+    }
+  ]
+}

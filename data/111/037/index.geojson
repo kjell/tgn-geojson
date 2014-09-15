@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64,
+          51
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110370",
+          "tgn:1000004",
+          "tgn:7014786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132339"
+        ],
+        "id": 1110370,
+        "name:xx": "Turgayskaya Stolovaya Strana"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56,
+          43
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110372",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132339"
+        ],
+        "id": 1110372,
+        "name:xx": "Plato Ustyurt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3667,
+          44
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110373",
+          "tgn:1000003",
+          "tgn:1000070",
+          "tgn:7002895",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132339"
+        ],
+        "id": 1110373,
+        "name:xx": "Vaucluse, Plateau de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5167,
+          54
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110375",
+          "tgn:1000004",
+          "tgn:7011500",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132339"
+        ],
+        "id": 1110375,
+        "name:xx": "Vitimskoye Ploskogorye"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.1667,
+          19.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110378",
+          "tgn:1000004",
+          "tgn:1000125",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132339"
+        ],
+        "id": 1110378,
+        "name:xx": "Xiangkhoang, Plateau de"
+      }
+    }
+  ]
+}

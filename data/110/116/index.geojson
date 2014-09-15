@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4833,
+          32.8167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101160",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006084"
+        ],
+        "id": 1101160,
+        "name:xx": "Laguna Dam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.95,
+          33.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101161",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002331",
+          "tgn:7007826",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006084"
+        ],
+        "id": 1101161,
+        "name:xx": "Lewisville Dam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3,
+          48.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101162",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001286",
+          "tgn:7007524",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006084"
+        ],
+        "id": 1101162,
+        "name:xx": "Libby Dam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1167,
+          38.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101163",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006084"
+        ],
+        "id": 1101163,
+        "name:xx": "Little Falls Dam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5333,
+          39.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101164",
+          "tgn:7016099",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007516",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006084"
+        ],
+        "id": 1101164,
+        "name:xx": "Loch Raven Dam"
+      }
+    }
+  ]
+}

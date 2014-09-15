@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9,
+          37.3667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2037843",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000798",
+          "tgn:7007255",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2037843,
+        "name:xx": "Bonnieville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35,
+          37.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2037844",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000831",
+          "tgn:7007255",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2037844,
+        "name:xx": "Bonny"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2333,
+          37.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2037845",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000836",
+          "tgn:7007255",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2037845,
+        "name:xx": "Bonnyman"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3,
+          37.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2037849",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000849",
+          "tgn:7007255",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2037849,
+        "name:xx": "Booker"
+      }
+    }
+  ]
+}

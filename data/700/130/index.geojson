@@ -1,0 +1,144 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.781,
+          37.401
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001300",
+          "tgn:1000004",
+          "tgn:7018456",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "id": 7001300,
+        "name:xx": "Mardin"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.25,
+          53.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001304",
+          "tgn:7001199",
+          "tgn:1000003",
+          "tgn:1000078",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387179",
+          "aat:300387198",
+          "aat:300000778"
+        ],
+        "id": 7001304,
+        "name:xx": "Dublin"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.25,
+          35.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001305",
+          "tgn:7001242",
+          "tgn:1000523",
+          "tgn:7016752",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387277",
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008372"
+        ],
+        "id": 7001305,
+        "name:xx": "Tazoult Lambèse"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.25,
+          53.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001306",
+          "tgn:7593747",
+          "tgn:7001199",
+          "tgn:1000003",
+          "tgn:1000078",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300387512",
+          "aat:300387302",
+          "aat:300387286"
+        ],
+        "name:en": "Dublin",
+        "id": 7001306
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.666667,
+          30.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001309",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:7001312",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387273",
+          "aat:300008347",
+          "aat:300008686",
+          "aat:300008057",
+          "aat:300000248",
+          "aat:300008459",
+          "aat:300263063"
+        ],
+        "name:en": "Abū Mīnā",
+        "id": 7001309
+      }
+    }
+  ]
+}

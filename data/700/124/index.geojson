@@ -1,0 +1,182 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5833,
+          30.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001241",
+          "tgn:7001242",
+          "tgn:1001075",
+          "tgn:7016833",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810"
+        ],
+        "id": 7001241,
+        "name:xx": "Naucratis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9,
+          29
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001243",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132339"
+        ],
+        "id": 7001243,
+        "name:xx": "Tinrhert, Hamada de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.05,
+          36.8167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001244",
+          "tgn:7001242",
+          "tgn:1000524",
+          "tgn:7016752",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387225",
+          "aat:300008375",
+          "aat:300120599"
+        ],
+        "id": 7001244,
+        "name:xx": "Bejaïa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1333,
+          36
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001245",
+          "tgn:7001242",
+          "tgn:7016752",
+          "tgn:1000693",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 7001245,
+        "name:xx": "Chélif"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6333,
+          35.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001246",
+          "tgn:7001242",
+          "tgn:7016752",
+          "tgn:1000798",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387225",
+          "aat:300008389",
+          "aat:300387512",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300120599"
+        ],
+        "id": 7001246,
+        "name:xx": "Oran"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.966335,
+          28.537399
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001247",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:7001336",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386998",
+          "aat:300008795"
+        ],
+        "name:en": "Mūsá, Jabal",
+        "id": 7001247
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5,
+          23
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001248",
+          "tgn:7001242",
+          "tgn:7016752",
+          "tgn:1000775",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795"
+        ],
+        "id": 7001248,
+        "name:xx": "Ahaggar"
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73,
+          40
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012212",
+          "tgn:1000004",
+          "tgn:7006655",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "id": 7012212,
+        "name:xx": "Osh"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.6667,
+          44
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012214",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 7012214,
+        "name:xx": "Talas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3,
+          48
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012216",
+          "tgn:1000003",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300236112"
+        ],
+        "name:en": "Brittany",
+        "id": 7012216
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41,
+          43.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012217",
+          "tgn:1000004",
+          "tgn:7006653",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300237188",
+          "aat:300387064",
+          "aat:300387107",
+          "aat:300387110",
+          "aat:300235119",
+          "aat:300235096"
+        ],
+        "id": 7012217,
+        "name:xx": "Abkhazia"
+      }
+    }
+  ]
+}

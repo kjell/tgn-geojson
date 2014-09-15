@@ -1,0 +1,180 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.0333,
+          48
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7023921",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001609",
+          "tgn:7007705",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300167671",
+          "aat:300006909",
+          "aat:300387250",
+          "aat:300387286"
+        ],
+        "id": 7023921,
+        "name:xx": "Fort Union"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5,
+          34.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7023923",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:7023900",
+          "tgn:1002608",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 7023923,
+        "name:xx": "North Hills"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.22,
+          16.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7023924",
+          "tgn:7023929",
+          "tgn:1000001",
+          "tgn:7004786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7023924,
+        "name:xx": "Salem"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.2,
+          16.783
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7023925",
+          "tgn:7023929",
+          "tgn:1000001",
+          "tgn:7004786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7023925,
+        "name:xx": "Cudjoe Head"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.166,
+          16.716
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7023926",
+          "tgn:1000001",
+          "tgn:7004786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132325"
+        ],
+        "id": 7023926,
+        "name:xx": "Soufriére Hills"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.2,
+          16.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7023927",
+          "tgn:1000001",
+          "tgn:7004786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300387092"
+        ],
+        "id": 7023927,
+        "name:xx": "Saint Anthony"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.2,
+          16.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7023928",
+          "tgn:1000001",
+          "tgn:7004786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300387092"
+        ],
+        "id": 7023928,
+        "name:xx": "Saint Georges"
+      }
+    }
+  ]
+}

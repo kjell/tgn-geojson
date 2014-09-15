@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.9167,
+          37.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002210",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 7002210,
+        "name:xx": "Atrek"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.0833,
+          25.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002211",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008734"
+        ],
+        "id": 7002211,
+        "name:xx": "Makran Coast"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.25,
+          19
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002212",
+          "tgn:1000004",
+          "tgn:1000108",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300237188",
+          "aat:300387064",
+          "aat:300235096",
+          "aat:300000776"
+        ],
+        "id": 7002212,
+        "name:xx": "Arakan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99,
+          12
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002213",
+          "tgn:1000004",
+          "tgn:1000108",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300237188",
+          "aat:300387064",
+          "aat:300387142",
+          "aat:300235096",
+          "aat:300387082"
+        ],
+        "id": 7002213,
+        "name:xx": "Tanintharyi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9833,
+          42.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002217",
+          "tgn:1001285",
+          "tgn:1000004",
+          "tgn:1000122",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7002217,
+        "name:xx": "Onsong"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.2833,
+          40.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002219",
+          "tgn:1000004",
+          "tgn:1001390",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387302",
+          "aat:300120599",
+          "aat:300387286"
+        ],
+        "id": 7002219,
+        "name:xx": "Yingkou"
+      }
+    }
+  ]
+}

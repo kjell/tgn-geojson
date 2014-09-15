@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3,
+          44.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2045066",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000931",
+          "tgn:7007515",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2045066,
+        "name:xx": "Liberty"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1,
+          47.2667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2045067",
+          "tgn:2000919",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007515",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2045067,
+        "name:xx": "Lille"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7833,
+          43.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2045068",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000933",
+          "tgn:7007515",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2045068,
+        "name:xx": "Limerick"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7833,
+          43.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2045069",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000933",
+          "tgn:7007515",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2045069,
+        "name:xx": "Limerick Mills"
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1333,
+          6.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1090620",
+          "tgn:7001242",
+          "tgn:1000383",
+          "tgn:1000171",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387220",
+          "aat:300008375"
+        ],
+        "id": 1090620,
+        "name:xx": "Zwedru"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2333,
+          27.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1090625",
+          "tgn:7001242",
+          "tgn:7000608",
+          "tgn:1000172",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1090625,
+        "name:xx": "Adrī"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2333,
+          30.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1090626",
+          "tgn:7001242",
+          "tgn:7000604",
+          "tgn:1000172",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1090626,
+        "name:xx": "Ajdābiyā"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0167,
+          32.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1090627",
+          "tgn:7001242",
+          "tgn:7000623",
+          "tgn:1000172",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1090627,
+        "name:xx": "Al ʻAzīzīyah"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5667,
+          25.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1090629",
+          "tgn:7001242",
+          "tgn:7000613",
+          "tgn:1000172",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1090629,
+        "name:xx": "Al ʻUwaynāt"
+      }
+    }
+  ]
+}

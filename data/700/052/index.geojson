@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9833,
+          20.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000521",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387091"
+        ],
+        "id": 7000521,
+        "name:xx": "Atoui"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.366667,
+          43.133333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000526",
+          "tgn:7003170",
+          "tgn:1000003",
+          "tgn:7003125",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387277",
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300387218",
+          "aat:300387315",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300005135",
+          "aat:300387223",
+          "aat:300387220",
+          "aat:300387296"
+        ],
+        "name:fr": "Pérouse",
+        "name:en": "Perugia",
+        "id": 7000526
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.1667,
+          -21.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000528",
+          "tgn:7000529",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300386853",
+          "aat:300387081"
+        ],
+        "id": 7000528,
+        "name:xx": "Tongatapu"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175,
+          -20
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Tonga",
+        "hierarchy": [
+          "tgn:7000529",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "name:ar": "ثوهغا",
+        "placetype": [
+          "aat:300387054",
+          "aat:300387062",
+          "aat:300387347",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387189",
+          "aat:300235119",
+          "aat:300235096"
+        ],
+        "name:fr": "Tonga",
+        "name:to": "Tonga",
+        "name:ru": "Тонга",
+        "name:zh": "汤加",
+        "id": 7000529,
+        "name:es": "Tonga"
+      }
+    }
+  ]
+}

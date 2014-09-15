@@ -1,0 +1,156 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9833,
+          38.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2036940",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000713",
+          "tgn:7007254",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2036940,
+        "name:xx": "Parker"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.65,
+          38.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2036941",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000723",
+          "tgn:7007254",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2036941,
+        "name:xx": "Parkerville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2,
+          39.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2036942",
+          "tgn:2000662",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007254",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2036942,
+        "name:xx": "Parnell"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.25,
+          37.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2036943",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000709",
+          "tgn:7007254",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2036943,
+        "name:xx": "Parsons"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0833,
+          37.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2036948",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000737",
+          "tgn:7007254",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2036948,
+        "name:xx": "Partridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65,
+          37.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2036949",
+          "tgn:1000001",
+          "tgn:2000699",
+          "tgn:7012149",
+          "tgn:7007254",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2036949,
+        "name:xx": "Patterson"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.90944,
+          24.20916
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7490761",
+          "tgn:1000004",
+          "tgn:1000141",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387179"
+        ],
+        "id": 7490761,
+        "name:xx": "Taizhong Xian"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.685713,
+          24.136956
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7490762",
+          "tgn:1000004",
+          "tgn:7001009",
+          "tgn:1000141",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007783"
+        ],
+        "id": 7490762,
+        "name:xx": "Taizhong Chezhan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.066667,
+          24.416667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7490765",
+          "tgn:7487020",
+          "tgn:1000004",
+          "tgn:1000141",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387173"
+        ],
+        "id": 7490765,
+        "name:xx": "Tai'an Xiang"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.748333,
+          24.3225
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7490766",
+          "tgn:7487020",
+          "tgn:1000004",
+          "tgn:1000141",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007783"
+        ],
+        "id": 7490766,
+        "name:xx": "Tai'an Chezhan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.906344,
+          24.446884
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7490767",
+          "tgn:7487020",
+          "tgn:1000004",
+          "tgn:1000141",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7490767,
+        "name:xx": "Tai'an"
+      }
+    }
+  ]
+}

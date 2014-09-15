@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3,
+          40.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109031",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002123",
+          "tgn:7007827",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2109031,
+        "name:xx": "Lofgreen"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5,
+          37.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109036",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002113",
+          "tgn:7007827",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2109036,
+        "name:xx": "Long Valley Junction"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9333,
+          40.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109037",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002123",
+          "tgn:7007827",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2109037,
+        "name:xx": "Low"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9,
+          41.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109038",
+          "tgn:1000001",
+          "tgn:2002102",
+          "tgn:7012149",
+          "tgn:7007827",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2109038,
+        "name:xx": "Lucin"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4167,
+          38
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109039",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002111",
+          "tgn:7007827",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2109039,
+        "name:xx": "Lund"
+      }
+    }
+  ]
+}

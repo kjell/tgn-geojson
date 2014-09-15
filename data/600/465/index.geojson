@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5333,
+          39.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6004655",
+          "tgn:1001242",
+          "tgn:1000004",
+          "tgn:7018453",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387272",
+          "aat:300000833"
+        ],
+        "id": 6004655,
+        "name:xx": "Pessinus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.742222,
+          39.6675
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6004659",
+          "tgn:7002716",
+          "tgn:7002715",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386972",
+          "aat:300000810",
+          "aat:300048808",
+          "aat:300391483",
+          "aat:300387247"
+        ],
+        "name:en": "Petralona Cavern",
+        "id": 6004659
+      }
+    }
+  ]
+}

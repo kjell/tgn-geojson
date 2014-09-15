@@ -1,0 +1,211 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1,
+          52.666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008160",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387277",
+          "aat:300019258",
+          "aat:300019264",
+          "aat:300387064",
+          "aat:300019267",
+          "aat:300387145",
+          "aat:300000771",
+          "aat:300387302"
+        ],
+        "name:en": "Norfolk",
+        "id": 7008160
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5667,
+          44.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008161",
+          "tgn:7002878",
+          "tgn:1000003",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387236",
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300387225",
+          "aat:300008389",
+          "aat:300387512",
+          "aat:300387302",
+          "aat:300120599"
+        ],
+        "id": 7008161,
+        "name:xx": "Bordeaux"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7333,
+          45.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008163",
+          "tgn:7002878",
+          "tgn:1000003",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300387218",
+          "aat:300387225",
+          "aat:300387512",
+          "aat:300008375",
+          "aat:300387270",
+          "aat:300387302"
+        ],
+        "id": 7008163,
+        "name:xx": "Périgueux"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2,
+          55.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008165",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008631",
+          "aat:300387064",
+          "aat:300387145",
+          "aat:300000771",
+          "aat:300387302"
+        ],
+        "name:en": "Northumberland",
+        "id": 7008165
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5,
+          54.166667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008166",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008631",
+          "aat:300387064",
+          "aat:300000771"
+        ],
+        "name:en": "North Yorkshire",
+        "id": 7008166
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1,
+          53.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008167",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008631",
+          "aat:300387064",
+          "aat:300387145",
+          "aat:300387305",
+          "aat:300000771",
+          "aat:300387302"
+        ],
+        "name:en": "Nottinghamshire",
+        "id": 7008167
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1667,
+          51.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7008168",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008631",
+          "aat:300019258",
+          "aat:300021024",
+          "aat:300019267",
+          "aat:300387145",
+          "aat:300000771",
+          "aat:300387302"
+        ],
+        "id": 7008168,
+        "name:xx": "Oxfordshire"
+      }
+    }
+  ]
+}

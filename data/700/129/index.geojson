@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.833,
+          41.166
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001290",
+          "tgn:1000004",
+          "tgn:7018454",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "id": 7001290,
+        "name:xx": "Artvin"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7333,
+          31.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001292",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:1001335",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387007",
+          "aat:300167671",
+          "aat:300387220",
+          "aat:300379515"
+        ],
+        "name:en": "Buto",
+        "id": 7001292
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.683,
+          25.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001297",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:7000123",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387007",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300263063"
+        ],
+        "name:en": "Thebes",
+        "id": 7001297
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5,
+          39.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001298",
+          "tgn:1000004",
+          "tgn:7018451",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "id": 7001298,
+        "name:xx": "Kütahya"
+      }
+    }
+  ]
+}

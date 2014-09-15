@@ -1,0 +1,162 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.866667,
+          54.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010160",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008117",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Greystoke",
+        "id": 7010160
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.116667,
+          54.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010161",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008117",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Keswick",
+        "id": 7010161
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.733333,
+          54.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010165",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008117",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300006909"
+        ],
+        "name:en": "Penrith",
+        "id": 7010165
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2667,
+          54.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010166",
+          "tgn:1000004",
+          "tgn:1003377",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387220",
+          "aat:300387302"
+        ],
+        "id": 7010166,
+        "name:xx": "Kaluga"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1167,
+          49.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010167",
+          "tgn:1000004",
+          "tgn:7011459",
+          "tgn:7014786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300264742",
+          "aat:300387305",
+          "aat:300387220",
+          "aat:300387302"
+        ],
+        "id": 7010167,
+        "name:xx": "Karaganda"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.0167,
+          45.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010168",
+          "tgn:1000004",
+          "tgn:1003384",
+          "tgn:7014786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7010168,
+        "name:xx": "Kazalinsk"
+      }
+    }
+  ]
+}

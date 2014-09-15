@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0667,
+          26.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2018701",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002768",
+          "tgn:7007240",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2018701,
+        "name:xx": "Boynton Beach"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0833,
+          26.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2018704",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002768",
+          "tgn:7007240",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300247594"
+        ],
+        "id": 2018704,
+        "name:xx": "Boynton Beach Mall"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5667,
+          27.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2018706",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002628",
+          "tgn:7007240",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2018706,
+        "name:xx": "Bradenton"
+      }
+    }
+  ]
+}

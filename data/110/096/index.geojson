@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0667,
+          39.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100960",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007836"
+        ],
+        "id": 1100960,
+        "name:xx": "Betsy Ross Bridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9167,
+          43
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100962",
+          "tgn:1000001",
+          "tgn:7593927",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007836"
+        ],
+        "id": 1100962,
+        "name:xx": "Blue Water Bridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1167,
+          -34
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100966",
+          "tgn:7000490",
+          "tgn:1000006",
+          "tgn:7001828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007836"
+        ],
+        "id": 1100966,
+        "name:xx": "Captain Cook Bridge"
+      }
+    }
+  ]
+}

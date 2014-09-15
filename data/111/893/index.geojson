@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9167,
+          48.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118933",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007705",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266556"
+        ],
+        "id": 1118933,
+        "name:xx": "Devils Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7333,
+          40.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118935",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:2000184",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266556"
+        ],
+        "id": 1118935,
+        "name:xx": "Eagle Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.75,
+          54.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118936",
+          "tgn:1000004",
+          "tgn:6004412",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266556"
+        ],
+        "id": 1118936,
+        "name:xx": "Ebeyty, Ozero"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9167,
+          44.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118937",
+          "tgn:1000004",
+          "tgn:7001745",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266556"
+        ],
+        "id": 1118937,
+        "name:xx": "Ebinur Hu"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5833,
+          49.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118938",
+          "tgn:1000004",
+          "tgn:7013207",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266556"
+        ],
+        "id": 1118938,
+        "name:xx": "El'ton, Ozero"
+      }
+    }
+  ]
+}

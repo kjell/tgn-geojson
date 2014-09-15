@@ -1,0 +1,219 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.1667,
+          50.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012920",
+          "tgn:7011450",
+          "tgn:1000004",
+          "tgn:7014786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387220",
+          "aat:300387302"
+        ],
+        "id": 7012920,
+        "name:xx": "Aqtobe"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5,
+          51.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012921",
+          "tgn:7012935",
+          "tgn:1000004",
+          "tgn:7014786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300264742",
+          "aat:300387220",
+          "aat:300387270"
+        ],
+        "name:en": "Akmola",
+        "id": 7012921
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.6667,
+          52.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012922",
+          "tgn:1000004",
+          "tgn:7014786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300235107"
+        ],
+        "id": 7012922,
+        "name:xx": "Kustanay"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.5,
+          51
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012923",
+          "tgn:1000004",
+          "tgn:7014786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008761"
+        ],
+        "id": 7012923,
+        "name:xx": "Turgajskaja ložbina"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.15,
+          39.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012924",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002633",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387277",
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300005135",
+          "aat:300264742",
+          "aat:300387221",
+          "aat:300387284",
+          "aat:300387270",
+          "aat:300387293"
+        ],
+        "id": 7012924,
+        "name:xx": "Indianapolis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.3333,
+          50
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012925",
+          "tgn:1000004",
+          "tgn:7014786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300235107"
+        ],
+        "id": 7012925,
+        "name:xx": "Turgay"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.35,
+          48.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012926",
+          "tgn:7003692",
+          "tgn:1000003",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7012926,
+        "name:xx": "Neresheim"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3,
+          48.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012928",
+          "tgn:7003692",
+          "tgn:1000003",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387277",
+          "aat:300008347",
+          "aat:300387239",
+          "aat:300008389",
+          "aat:300387308"
+        ],
+        "name:en": "Esslingen",
+        "id": 7012928,
+        "name:de": "Esslingen"
+      }
+    }
+  ]
+}

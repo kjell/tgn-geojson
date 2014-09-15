@@ -1,0 +1,129 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0333,
+          40.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102130",
+          "tgn:1007854",
+          "tgn:1000001",
+          "tgn:1002489",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1102130,
+        "name:xx": "Statue of Liberty National Monument"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0167,
+          34.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102135",
+          "tgn:1000001",
+          "tgn:7006451",
+          "tgn:7012149",
+          "tgn:2000103",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1102135,
+        "name:xx": "Tuzigoot National Monument"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5,
+          -32.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102136",
+          "tgn:7001242",
+          "tgn:7017583",
+          "tgn:1000193",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006958"
+        ],
+        "id": 1102136,
+        "name:xx": "Valley of Desolation National Monument"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1667,
+          47.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102137",
+          "tgn:7002870",
+          "tgn:1000003",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006958"
+        ],
+        "id": 1102137,
+        "name:xx": "Vieil Armand"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5,
+          35.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102138",
+          "tgn:1000001",
+          "tgn:7006451",
+          "tgn:2000092",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1102138,
+        "name:xx": "Walnut Canyon National Monument"
+      }
+    }
+  ]
+}

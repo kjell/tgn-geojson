@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.0833,
+          12.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110270",
+          "tgn:1000004",
+          "tgn:1000145",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132339"
+        ],
+        "id": 1110270,
+        "name:xx": "Cao Nguyen Dar Lac"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5,
+          23.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110274",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132339"
+        ],
+        "id": 1110274,
+        "name:xx": "Chotanāgpur Plateau"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6333,
+          44.4333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110278",
+          "tgn:1000003",
+          "tgn:7002889",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132339"
+        ],
+        "id": 1110278,
+        "name:xx": "Comtal, Causse du"
+      }
+    }
+  ]
+}

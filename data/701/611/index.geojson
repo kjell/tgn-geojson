@@ -1,0 +1,144 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6667,
+          39.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016110",
+          "tgn:7013352",
+          "tgn:7021987",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007516",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 7016110,
+        "name:xx": "Mount Washington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6333,
+          39.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016111",
+          "tgn:7013352",
+          "tgn:7021987",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007516",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 7016111,
+        "name:xx": "Roland Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7,
+          25.116
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016112",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:7001334",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300008057"
+        ],
+        "name:en": "Al Kawm al Aḩmar",
+        "id": 7016112
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.4167,
+          58.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016116",
+          "tgn:7006450",
+          "tgn:1000001",
+          "tgn:2124089",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387277",
+          "aat:300008347",
+          "aat:300387264",
+          "aat:300387218",
+          "aat:300387304",
+          "aat:300264742",
+          "aat:300387221",
+          "aat:300008375",
+          "aat:300387283",
+          "aat:300387270",
+          "aat:300387291"
+        ],
+        "id": 7016116,
+        "name:xx": "Juneau"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9167,
+          30.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016119",
+          "tgn:2000856",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007256",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 7016119,
+        "name:xx": "Burnside"
+      }
+    }
+  ]
+}

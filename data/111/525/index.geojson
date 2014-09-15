@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7,
+          1.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115252",
+          "tgn:1000004",
+          "tgn:7000381",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266559"
+        ],
+        "id": 1115252,
+        "name:xx": "Sembilan, Selat"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3333,
+          37.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115255",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266559"
+        ],
+        "id": 1115255,
+        "name:xx": "Sicily, Strait of"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.75,
+          68.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115256",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7024197",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266559"
+        ],
+        "id": 1115256,
+        "name:xx": "Simpson Strait"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104,
+          1.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1115257",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266559"
+        ],
+        "id": 1115257,
+        "name:xx": "Singapore Strait"
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7833,
+          35.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002280",
+          "tgn:1002059",
+          "tgn:1000004",
+          "tgn:1000140",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387277",
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300264742",
+          "aat:300387220",
+          "aat:300120599",
+          "aat:300387286"
+        ],
+        "id": 7002280,
+        "name:xx": "Al Lādhiqīyah"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.55,
+          33.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002281",
+          "tgn:1000004",
+          "tgn:7593756",
+          "tgn:1000140",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7002281,
+        "name:xx": "Maʻlūlā"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.265,
+          34.966944
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002282",
+          "tgn:7016612",
+          "tgn:1000004",
+          "tgn:1001485",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300019946",
+          "aat:300008375"
+        ],
+        "name:en": "Begram",
+        "id": 7002282,
+        "name:xx": "Bagrām"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.5,
+          34.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002284",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 7002284,
+        "name:xx": "Kunar"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.6833,
+          31.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002288",
+          "tgn:7016612",
+          "tgn:1000004",
+          "tgn:1001291",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7002288,
+        "name:xx": "Yakchāl"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.1667,
+          30.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002289",
+          "tgn:7016612",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008916"
+        ],
+        "id": 7002289,
+        "name:xx": "Margow, Dasht-e"
+      }
+    }
+  ]
+}

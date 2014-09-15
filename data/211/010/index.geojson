@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4,
+          44.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2110103",
+          "tgn:1000001",
+          "tgn:1002753",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2110103,
+        "name:xx": "Troy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4833,
+          43.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2110104",
+          "tgn:1000001",
+          "tgn:2002134",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2110104,
+        "name:xx": "Tunbridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9333,
+          44.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2110107",
+          "tgn:1000001",
+          "tgn:2002132",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2110107,
+        "name:xx": "Underhill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9,
+          44.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2110108",
+          "tgn:1000001",
+          "tgn:2002132",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2110108,
+        "name:xx": "Underhill Center"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.25,
+          43.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2110109",
+          "tgn:1000001",
+          "tgn:2002134",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2110109,
+        "name:xx": "Union Village"
+      }
+    }
+  ]
+}

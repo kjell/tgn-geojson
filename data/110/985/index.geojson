@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.1167,
+          45.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109853",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831"
+        ],
+        "id": 1109853,
+        "name:xx": "Absaroka Range"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.45,
+          -39
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109855",
+          "tgn:1008380",
+          "tgn:1000226",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831",
+          "aat:300008795"
+        ],
+        "name:en": "Ahimanawa Range",
+        "id": 1109855
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76,
+          20.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109856",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:1001895",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008777",
+          "aat:300386831"
+        ],
+        "name:en": "Ajanta Range",
+        "id": 1109856
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.25,
+          41.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109857",
+          "tgn:1000004",
+          "tgn:7006655",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831"
+        ],
+        "id": 1109857,
+        "name:xx": "Akšijrak, chrebet"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.1667,
+          35.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1109858",
+          "tgn:7000895",
+          "tgn:1000004",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831"
+        ],
+        "id": 1109858,
+        "name:xx": "Akaishi-sammyaku"
+      }
+    }
+  ]
+}

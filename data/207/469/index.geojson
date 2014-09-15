@@ -1,0 +1,183 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3333,
+          35.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2074691",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001486",
+          "tgn:7007709",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2074691,
+        "name:xx": "Fort Barnwell"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9833,
+          35.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2074693",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001487",
+          "tgn:7007709",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386994"
+        ],
+        "id": 2074693,
+        "name:xx": "Fort Bragg"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9667,
+          35.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2074694",
+          "tgn:1000001",
+          "tgn:2074693",
+          "tgn:7012149",
+          "tgn:2001487",
+          "tgn:7007709",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387200"
+        ],
+        "id": 2074694,
+        "name:xx": "Fort Junction"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0167,
+          33.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2074695",
+          "tgn:1000001",
+          "tgn:2001472",
+          "tgn:7012149",
+          "tgn:7007709",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2074695,
+        "name:xx": "Fort Caswell"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.05,
+          35.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2074696",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001545",
+          "tgn:7007709",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2074696,
+        "name:xx": "Fort Landing"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.75,
+          36.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2074698",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001551",
+          "tgn:7007709",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2074698,
+        "name:xx": "Foscoe"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6,
+          35.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2074699",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001516",
+          "tgn:7007709",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2074699,
+        "name:xx": "Foster Creek"
+      }
+    }
+  ]
+}

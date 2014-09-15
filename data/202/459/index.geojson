@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4,
+          31.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2024590",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7013517",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2024590,
+        "name:xx": "Vada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2667,
+          30.8167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2024591",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000383",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387277",
+          "aat:300008347",
+          "aat:300008416",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300387275",
+          "aat:300264742",
+          "aat:300387291",
+          "aat:300387286"
+        ],
+        "id": 2024591,
+        "name:xx": "Valdosta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0333,
+          33.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2024594",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000412",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2024594,
+        "name:xx": "Valley Forge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.35,
+          34.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2024597",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000437",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2024597,
+        "name:xx": "Valley View"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4833,
+          24.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111191",
+          "tgn:7001242",
+          "tgn:7016752",
+          "tgn:1000775",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387091"
+        ],
+        "id": 1111191,
+        "name:xx": "Jedane, Oued ti-n-"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9,
+          -11.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111192",
+          "tgn:1000670",
+          "tgn:1000002",
+          "tgn:1000056",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387091"
+        ],
+        "id": 1111192,
+        "name:xx": "Jicamarca, Quebrada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.3667,
+          25.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111194",
+          "tgn:1000004",
+          "tgn:1000137",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387091"
+        ],
+        "id": 1111194,
+        "name:xx": "Jizl, Wādī al-"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.05,
+          24.4333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111198",
+          "tgn:7001242",
+          "tgn:7001311",
+          "tgn:7016833",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300379998"
+        ],
+        "name:en": "Kharīţ, Wādī al",
+        "id": 1111198
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.05,
+          26.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111199",
+          "tgn:7001242",
+          "tgn:1000179",
+          "tgn:1000200",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387091"
+        ],
+        "id": 1111199,
+        "name:xx": "Khatt, Oued al"
+      }
+    }
+  ]
+}

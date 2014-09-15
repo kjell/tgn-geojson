@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175,
+          66
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1012690",
+          "tgn:6001445",
+          "tgn:1000004",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008804"
+        ],
+        "id": 1012690,
+        "name:xx": "Chukotskiy Poluostrov"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8333,
+          68.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1012693",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7024197",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008804"
+        ],
+        "id": 1012693,
+        "name:xx": "Adelaide Peninsula"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4667,
+          31.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1012695",
+          "tgn:1002058",
+          "tgn:1000004",
+          "tgn:1000121",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008804"
+        ],
+        "id": 1012695,
+        "name:xx": "Al-Lisān"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65,
+          -69.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1012698",
+          "tgn:1000007",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008804"
+        ],
+        "id": 1012698,
+        "name:xx": "Antarctic Peninsula"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0167,
+          40.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1012699",
+          "tgn:7011438",
+          "tgn:1000004",
+          "tgn:7006646",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008804"
+        ],
+        "name:en": "Abseron Peninsula",
+        "id": 1012699
+      }
+    }
+  ]
+}

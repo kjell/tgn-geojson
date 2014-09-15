@@ -1,0 +1,177 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5,
+          42.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Andorra",
+        "hierarchy": [
+          "tgn:1000061",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "أهدورا",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387175",
+          "aat:300387134",
+          "aat:300235101"
+        ],
+        "name:fr": "Andorre",
+        "name:ca": "Andorra",
+        "name:ru": "Андорра",
+        "name:zh": "安道尔",
+        "id": 1000061,
+        "name:es": "Andorra"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3333,
+          47.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Austria",
+        "name:nl": "Oostenrijk",
+        "hierarchy": [
+          "tgn:1000062",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "ا نٍمسا",
+        "name:de": "Österreich",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128214",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300235088",
+          "aat:300235096",
+          "aat:300235098"
+        ],
+        "name:fr": "Autriche",
+        "name:ru": "Австрия",
+        "name:zh": "奥地利",
+        "id": 1000062,
+        "name:es": "Austria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          50.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Belgium",
+        "name:nl": "België",
+        "hierarchy": [
+          "tgn:1000063",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "ب جَكَا",
+        "name:de": "Belgien",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387053",
+          "aat:300387174",
+          "aat:300387189",
+          "aat:300235096"
+        ],
+        "name:fr": "Belgique",
+        "name:it": "Belgio",
+        "name:ru": "Бельгия",
+        "name:zh": "比利时",
+        "id": 1000063,
+        "name:es": "Bélgica"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10,
+          56
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Dänemark",
+        "name:nl": "Dinamarca",
+        "hierarchy": [
+          "tgn:1000066",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:da": "Denemarken",
+        "name:de": "Danmark",
+        "placetype": [
+          "aat:300387054",
+          "aat:300387347",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387189",
+          "aat:300235096"
+        ],
+        "name:fr": "Denmark",
+        "name:ar": "الدّانمرك",
+        "name:it": "Danimarca",
+        "name:ru": "Дания",
+        "name:zh": "丹麦",
+        "id": 1000066,
+        "name:es": "Danemark"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26,
+          64
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Finland",
+        "hierarchy": [
+          "tgn:1000069",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:fi": "Suomi",
+        "name:ar": "ف يٌَدا",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387184"
+        ],
+        "name:fr": "Finlande",
+        "name:ru": "Финляндия",
+        "name:sv": "Finland",
+        "name:zh": "芬兰",
+        "id": 1000069,
+        "name:es": "Finlandia"
+      }
+    }
+  ]
+}

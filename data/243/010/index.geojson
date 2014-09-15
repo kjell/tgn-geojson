@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.7667,
+          18.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2430100",
+          "tgn:7023902",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007249",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 2430100,
+        "name:xx": "Kahakahakea"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.25,
+          20.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2430106",
+          "tgn:1002648",
+          "tgn:1000001",
+          "tgn:7019158",
+          "tgn:7012149",
+          "tgn:7007249",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008761"
+        ],
+        "id": 2430106,
+        "name:xx": "Kahakapao Gulch"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.55,
+          21
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2430107",
+          "tgn:1002648",
+          "tgn:1000001",
+          "tgn:7019158",
+          "tgn:7012149",
+          "tgn:7007249",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132316"
+        ],
+        "id": 2430107,
+        "name:xx": "Kahakuloa Bay"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.5333,
+          21
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2430109",
+          "tgn:1002648",
+          "tgn:1000001",
+          "tgn:7019158",
+          "tgn:7012149",
+          "tgn:7007249",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 2430109,
+        "name:xx": "Kahakuloa Head"
+      }
+    }
+  ]
+}

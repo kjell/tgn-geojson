@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.05,
+          12.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003881",
+          "tgn:7004361",
+          "tgn:1000139",
+          "tgn:1000004",
+          "tgn:7000261",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387275",
+          "aat:300387219",
+          "aat:300387220",
+          "aat:300008375",
+          "aat:300120599"
+        ],
+        "id": 7003881,
+        "name:xx": "ʻAdan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7833,
+          23.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003882",
+          "tgn:7000678",
+          "tgn:7003866",
+          "tgn:1000004",
+          "tgn:1000137",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000835"
+        ],
+        "id": 7003882,
+        "name:xx": "Badr Ḥunayn"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42,
+          19
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003883",
+          "tgn:7003875",
+          "tgn:1000004",
+          "tgn:1000137",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300387172"
+        ],
+        "id": 7003883,
+        "name:xx": "ʻAsīr"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1333,
+          26.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003885",
+          "tgn:7000684",
+          "tgn:1000004",
+          "tgn:1111881",
+          "tgn:1000137",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000401",
+          "aat:300008375"
+        ],
+        "id": 7003885,
+        "name:xx": "Aẓ-Ẓahrān"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.25,
+          25.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003888",
+          "tgn:1000004",
+          "tgn:1000143",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300235104"
+        ],
+        "name:en": "Fujairah",
+        "id": 7003888
+      }
+    }
+  ]
+}

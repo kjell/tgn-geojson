@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.35,
+          44.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6003090",
+          "tgn:1000003",
+          "tgn:1003381",
+          "tgn:7006660",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300008746"
+        ],
+        "id": 6003090,
+        "name:xx": "Kiik-Koba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9167,
+          47.4333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6003095",
+          "tgn:1000001",
+          "tgn:2001569",
+          "tgn:7012149",
+          "tgn:7007705",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000835",
+          "aat:300008795"
+        ],
+        "id": 6003095,
+        "name:xx": "Killdeer Mountains"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5333,
+          -8.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6003097",
+          "tgn:7001242",
+          "tgn:1001697",
+          "tgn:1000203",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 6003097,
+        "name:xx": "Kilwa Kisiwani"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.15,
+          38.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1119136",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002114",
+          "tgn:7007827",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387087"
+        ],
+        "id": 1119136,
+        "name:xx": "Sevier Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21,
+          30.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1119138",
+          "tgn:7001242",
+          "tgn:7000604",
+          "tgn:1000172",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387087"
+        ],
+        "id": 1119138,
+        "name:xx": "Shunayn, Sabkhat"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8833,
+          43.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1119139",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001715",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387087"
+        ],
+        "id": 1119139,
+        "name:xx": "Silver Lake"
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.783333,
+          41.433333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030211",
+          "tgn:7002842",
+          "tgn:7001158",
+          "tgn:1000003",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7030211,
+        "name:xx": "Casillas de Berlanga"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.643,
+          13.716
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030212",
+          "tgn:1000139",
+          "tgn:7004362",
+          "tgn:1000004",
+          "tgn:7000261",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7030212,
+        "name:xx": "Sabir"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.135,
+          14.121
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030213",
+          "tgn:1000146",
+          "tgn:7004346",
+          "tgn:1000004",
+          "tgn:7000261",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7030213,
+        "name:xx": "Al Mudmin"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2,
+          42
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030216",
+          "tgn:1000003",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387178",
+          "aat:300237189",
+          "aat:300387064",
+          "aat:300387113",
+          "aat:300235101",
+          "aat:300237154"
+        ],
+        "name:en": "Catalonia",
+        "id": 7030216,
+        "name:ca": "Catalunya"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.271,
+          32.519
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030217",
+          "tgn:7016612",
+          "tgn:1000004",
+          "tgn:7000181",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7030217,
+        "name:xx": "Shkin"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.152,
+          32.533
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030218",
+          "tgn:7016612",
+          "tgn:1000004",
+          "tgn:7000181",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7030218,
+        "name:xx": "Bormal"
+      }
+    }
+  ]
+}

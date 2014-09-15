@@ -1,0 +1,186 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.367962,
+          22.862249
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001820",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:1001977",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Chandannagar",
+        "id": 7001820
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8833,
+          33.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001821",
+          "tgn:1000004",
+          "tgn:7005232",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300008375"
+        ],
+        "id": 7001821,
+        "name:xx": "Huaiyang"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.005,
+          26.268
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001822",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:7016788",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387264",
+          "aat:300387266",
+          "aat:300264742",
+          "aat:300008375",
+          "aat:300387270",
+          "aat:300387286"
+        ],
+        "name:en": "Jodhpur",
+        "id": 7001822
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1167,
+          33.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001823",
+          "tgn:1000004",
+          "tgn:1001261",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7001823,
+        "name:xx": "Huixian"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.466667,
+          -47.283333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001827",
+          "tgn:1009227",
+          "tgn:1000226",
+          "tgn:7016822",
+          "tgn:1000006",
+          "tgn:1009257",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "name:en": "South West Cape",
+        "id": 7001827
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.5,
+          -28.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001828",
+          "tgn:7000490",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300235115",
+          "aat:300387064",
+          "aat:300000776"
+        ],
+        "id": 7001828,
+        "name:xx": "New South Wales"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133,
+          -15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001829",
+          "tgn:7000490",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300237188",
+          "aat:300387064",
+          "aat:300135982"
+        ],
+        "id": 7001829,
+        "name:xx": "Northern Territory"
+      }
+    }
+  ]
+}

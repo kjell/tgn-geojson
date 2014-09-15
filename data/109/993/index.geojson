@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7167,
+          37.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1099934",
+          "tgn:7001393",
+          "tgn:7001387",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008057",
+          "aat:300007595"
+        ],
+        "id": 1099934,
+        "name:xx": "Hephaisteion"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.219444,
+          19.338889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1099937",
+          "tgn:1000001",
+          "tgn:7005598",
+          "tgn:7005560",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387007",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300008057"
+        ],
+        "id": 1099937,
+        "name:xx": "Tizatlán"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.4,
+          34.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1099938",
+          "tgn:7000895",
+          "tgn:1000004",
+          "tgn:1001031",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300167671"
+        ],
+        "id": 1099938,
+        "name:xx": "Toro-iseki"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7167,
+          57.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1099939",
+          "tgn:7003770",
+          "tgn:7003769",
+          "tgn:1000003",
+          "tgn:1000097",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006891",
+          "aat:300008057"
+        ],
+        "id": 1099939,
+        "name:xx": "Torsburgen"
+      }
+    }
+  ]
+}

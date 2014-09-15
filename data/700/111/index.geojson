@@ -1,0 +1,210 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.183683,
+          27.180956
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001111",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:1001114",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300387319",
+          "aat:300005135",
+          "aat:300264742",
+          "aat:300387512",
+          "aat:300387220"
+        ],
+        "id": 7001111,
+        "name:xx": "Asyūţ"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.907038,
+          24.093433
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001112",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:7000122",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387264",
+          "aat:300008389",
+          "aat:300387512",
+          "aat:300387220",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300387286"
+        ],
+        "name:en": "Aswan",
+        "id": 7001112
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9,
+          -2.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001113",
+          "tgn:7001242",
+          "tgn:7593777",
+          "tgn:1000169",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7001113,
+        "name:xx": "Lamu"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.0833,
+          -3.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001114",
+          "tgn:7001242",
+          "tgn:7593770",
+          "tgn:1000169",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7001114,
+        "name:xx": "Malindi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6667,
+          -4.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001115",
+          "tgn:7001242",
+          "tgn:7593784",
+          "tgn:1000169",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300387223",
+          "aat:300265612",
+          "aat:300008375",
+          "aat:300387302",
+          "aat:300387285",
+          "aat:300120599"
+        ],
+        "id": 7001115,
+        "name:xx": "Mombasa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8333,
+          -1.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001116",
+          "tgn:7001242",
+          "tgn:7593786",
+          "tgn:1000169",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300264742",
+          "aat:300387512",
+          "aat:300265612",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300387291",
+          "aat:300387286"
+        ],
+        "id": 7001116,
+        "name:xx": "Nairobi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3,
+          -6.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001117",
+          "tgn:1001660",
+          "tgn:7001242",
+          "tgn:1000203",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300264742",
+          "aat:300387220",
+          "aat:300387284",
+          "aat:300387302",
+          "aat:300120599"
+        ],
+        "id": 7001117,
+        "name:xx": "Dar es Salaam"
+      }
+    }
+  ]
+}

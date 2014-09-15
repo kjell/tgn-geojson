@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64,
+          -42.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1012974",
+          "tgn:7006477",
+          "tgn:1001203",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300263063",
+          "aat:300008804"
+        ],
+        "id": 1012974,
+        "name:xx": "Valdés, Península"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.85,
+          9.083
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1012975",
+          "tgn:7593354",
+          "tgn:1000001",
+          "tgn:7005565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008804"
+        ],
+        "id": 1012975,
+        "name:xx": "Valiente, Península"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74,
+          -50.666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1012978",
+          "tgn:1001702",
+          "tgn:1000049",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008804"
+        ],
+        "id": 1012978,
+        "name:xx": "Wilcock, Península"
+      }
+    }
+  ]
+}

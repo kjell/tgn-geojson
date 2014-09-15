@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.166,
+          19.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Plain of Jars",
+        "hierarchy": [
+          "tgn:7030171",
+          "tgn:1000004",
+          "tgn:7000853",
+          "tgn:1000125",
+          "tgn:7029392"
+        ],
+        "name:lo": "Thông Haihin",
+        "placetype": [
+          "aat:300000810",
+          "aat:300008805"
+        ],
+        "name:fr": "Plain des Jarres",
+        "id": 7030171
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.783333,
+          47.916667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030172",
+          "tgn:7003692",
+          "tgn:1000003",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7030172,
+        "name:xx": "Bollschweil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.135,
+          48.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030173",
+          "tgn:1000003",
+          "tgn:7002888",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7030173,
+        "name:xx": "Diarville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.254,
+          50.641
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030174",
+          "tgn:7593915",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7030174,
+        "name:xx": "Železný Brod"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.694,
+          -1.916
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030175",
+          "tgn:1001277",
+          "tgn:7002560",
+          "tgn:1000051",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7030175,
+        "name:xx": "Chacance"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.585,
+          -13.175
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030176",
+          "tgn:1000584",
+          "tgn:1000002",
+          "tgn:1000056",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300387315",
+          "aat:300017326"
+        ],
+        "id": 7030176,
+        "name:xx": "Llactapata"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.508,
+          50.033
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030178",
+          "tgn:7593918",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7030178,
+        "name:xx": "Letohrad"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.169,
+          49.333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7030179",
+          "tgn:7593917",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387347"
+        ],
+        "id": 7030179,
+        "name:xx": "Haná"
+      }
+    }
+  ]
+}

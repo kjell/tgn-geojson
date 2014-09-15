@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2333,
+          45.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005201",
+          "tgn:1003430",
+          "tgn:1000003",
+          "tgn:7003126",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7005201,
+        "name:xx": "Villeneuve"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4833,
+          45.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005202",
+          "tgn:1003430",
+          "tgn:1000003",
+          "tgn:7003126",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7005202,
+        "name:xx": "Fenis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.683333,
+          45.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005203",
+          "tgn:1003430",
+          "tgn:1000003",
+          "tgn:7003126",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7005203,
+        "name:xx": "Issogne"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3,
+          38.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005206",
+          "tgn:1000003",
+          "tgn:7003928",
+          "tgn:7003122",
+          "tgn:1001732",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387336"
+        ],
+        "id": 7005206,
+        "name:xx": "Boccadifalco"
+      }
+    }
+  ]
+}

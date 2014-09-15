@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.45,
+          38.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2117720",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002300",
+          "tgn:7013961",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2117720,
+        "name:xx": "Chapman"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5333,
+          38.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2117721",
+          "tgn:1000001",
+          "tgn:2002256",
+          "tgn:7012149",
+          "tgn:7013961",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2117721,
+        "name:xx": "Chapman"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.55,
+          40.2667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2117722",
+          "tgn:1000001",
+          "tgn:1002205",
+          "tgn:7012149",
+          "tgn:7013961",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2117722,
+        "name:xx": "Chapman Addition"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0167,
+          37.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2117723",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002273",
+          "tgn:7013961",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2117723,
+        "name:xx": "Chapmanville"
+      }
+    }
+  ]
+}

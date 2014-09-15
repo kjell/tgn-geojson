@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3333,
+          31.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001390",
+          "tgn:1000004",
+          "tgn:1000119",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387054",
+          "aat:300387130",
+          "aat:300387064",
+          "aat:300387139"
+        ],
+        "name:en": "Gaza Strip",
+        "id": 7001390,
+        "name:xx": "Reẕuʻat ʻAzza"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4667,
+          31.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001391",
+          "tgn:1000004",
+          "tgn:7001390",
+          "tgn:1000119",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387264",
+          "aat:300008389",
+          "aat:300387512",
+          "aat:300120599"
+        ],
+        "name:en": "Gaza City",
+        "id": 7001391
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.25,
+          31.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001392",
+          "tgn:1000004",
+          "tgn:7001390",
+          "tgn:1000119",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375",
+          "aat:300000833"
+        ],
+        "id": 7001392,
+        "name:xx": "Rafaḥ"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.733333,
+          37.983333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Athens",
+        "name:xx": "Athínai",
+        "hierarchy": [
+          "tgn:7001393",
+          "tgn:7001387",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "name:de": "Athen",
+        "placetype": [
+          "aat:300234611",
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300005135",
+          "aat:300387512",
+          "aat:300387270"
+        ],
+        "name:fr": "Athènes",
+        "name:it": "Atene",
+        "id": 7001393,
+        "name:es": "Atenas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.25,
+          39.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001399",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300236112"
+        ],
+        "name:en": "Thessaly",
+        "id": 7001399
+      }
+    }
+  ]
+}

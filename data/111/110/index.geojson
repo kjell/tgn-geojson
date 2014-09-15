@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5833,
+          31.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111105",
+          "tgn:1000861",
+          "tgn:1000004",
+          "tgn:1000119",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387091"
+        ],
+        "id": 1111105,
+        "name:xx": "Be'er Shevaʻ, Naẖal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0667,
+          37.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111106",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387091"
+        ],
+        "id": 1111106,
+        "name:xx": "Beaver Dam Wash"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.15,
+          31.8167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111107",
+          "tgn:7001242",
+          "tgn:7016752",
+          "tgn:7593701",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387091"
+        ],
+        "id": 1111107,
+        "name:xx": "Ber Remad, Oued"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3667,
+          31.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111108",
+          "tgn:1000004",
+          "tgn:1000119",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387091"
+        ],
+        "id": 1111108,
+        "name:xx": "Besor"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6833,
+          11
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111109",
+          "tgn:7001242",
+          "tgn:1001056",
+          "tgn:7441551",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387091"
+        ],
+        "id": 1111109,
+        "name:xx": "Bibban, Khawr"
+      }
+    }
+  ]
+}

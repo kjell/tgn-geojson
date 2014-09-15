@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.626,
+          40.861
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010980",
+          "tgn:7010608",
+          "tgn:1000003",
+          "tgn:1000090",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218"
+        ],
+        "id": 7010980,
+        "name:xx": "Ovar"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.763,
+          41.383
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010981",
+          "tgn:7003826",
+          "tgn:1000003",
+          "tgn:1000090",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7010981,
+        "name:xx": "Póvoa de Varzim"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4,
+          52.116667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010982",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008178",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Warmington",
+        "id": 7010982
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.943,
+          37.008
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010983",
+          "tgn:1000852",
+          "tgn:1000003",
+          "tgn:1000090",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7010983,
+        "name:xx": "Sagres"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.05,
+          52.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010984",
+          "tgn:7019030",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7029506",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387308",
+          "aat:300008375",
+          "aat:300387302"
+        ],
+        "name:en": "Halesowen",
+        "id": 7010984
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2,
+          52.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010985",
+          "tgn:7002445",
+          "tgn:7019029",
+          "tgn:1000003",
+          "tgn:7029506",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Smethwick",
+        "id": 7010985
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.083333,
+          52.516667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010986",
+          "tgn:7002445",
+          "tgn:7019029",
+          "tgn:1000003",
+          "tgn:7029506",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Tipton",
+        "id": 7010986
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.083333,
+          52.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010987",
+          "tgn:7019030",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7029506",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387305",
+          "aat:300387220",
+          "aat:300008375",
+          "aat:300387302"
+        ],
+        "name:en": "Dudley",
+        "id": 7010987
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2,
+          52.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010988",
+          "tgn:7002445",
+          "tgn:7019031",
+          "tgn:1000003",
+          "tgn:7029506",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387308",
+          "aat:300387305",
+          "aat:300387220",
+          "aat:300008375",
+          "aat:300387302"
+        ],
+        "name:en": "Walsall",
+        "id": 7010988
+      }
+    }
+  ]
+}

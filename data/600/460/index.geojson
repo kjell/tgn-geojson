@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.378258,
+          20.005265
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6004600",
+          "tgn:1000004",
+          "tgn:1002093",
+          "tgn:1000108",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300167671",
+          "aat:300387272",
+          "aat:300000833",
+          "aat:300386830"
+        ],
+        "id": 6004600,
+        "name:xx": "Peikthano"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.544,
+          31.041
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6004608",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:7001335",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300167671",
+          "aat:300000833"
+        ],
+        "id": 6004608,
+        "name:xx": "Pelusium"
+      }
+    }
+  ]
+}

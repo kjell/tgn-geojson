@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1167,
+          42.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015500",
+          "tgn:7017310",
+          "tgn:1000003",
+          "tgn:7006663",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008416",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300005135",
+          "aat:300387270",
+          "aat:300120599",
+          "aat:300263063",
+          "aat:300387288",
+          "aat:300387286"
+        ],
+        "id": 7015500,
+        "name:xx": "Dubrovnik"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.55,
+          41.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015501",
+          "tgn:1000003",
+          "tgn:7017379",
+          "tgn:7006667",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387273",
+          "aat:300387277",
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300387308",
+          "aat:300008375"
+        ],
+        "id": 7015501,
+        "name:xx": "Prilep"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3333,
+          36.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015506",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002956",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7015506,
+        "name:xx": "Tulare"
+      }
+    }
+  ]
+}

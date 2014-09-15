@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.15,
+          34.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7022241",
+          "tgn:1000001",
+          "tgn:2001740",
+          "tgn:7012149",
+          "tgn:7007712",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7022241,
+        "name:xx": "Pine Ridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8167,
+          38.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7022242",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002516",
+          "tgn:7007255",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7022242,
+        "name:xx": "Saint Dennis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4667,
+          32.7167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7022247",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008706"
+        ],
+        "id": 7022247,
+        "name:xx": "Quilby Creek"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5333,
+          35.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7022248",
+          "tgn:1000001",
+          "tgn:2001428",
+          "tgn:7012149",
+          "tgn:7007566",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000390"
+        ],
+        "id": 7022248,
+        "name:xx": "Quartz Mines"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4333,
+          36.8167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7022249",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002189",
+          "tgn:7007919",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008746"
+        ],
+        "id": 7022249,
+        "name:xx": "Quillen Caves"
+      }
+    }
+  ]
+}

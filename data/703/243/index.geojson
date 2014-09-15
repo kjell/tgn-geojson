@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.810515,
+          18.106183
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032431",
+          "tgn:7005578",
+          "tgn:1000001",
+          "tgn:7005560",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300017826",
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300008389",
+          "aat:300263063"
+        ],
+        "id": 7032431,
+        "name:xx": "Calakmul"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.610278,
+          12.397222
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032433",
+          "tgn:1018738",
+          "tgn:1000667",
+          "tgn:1000001",
+          "tgn:7005562",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300008077",
+          "aat:300167671",
+          "aat:300387231",
+          "aat:300263063"
+        ],
+        "id": 7032433,
+        "name:xx": "León Viejo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.406,
+          35.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032439",
+          "tgn:7001242",
+          "tgn:1000179",
+          "tgn:7593695",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671"
+        ],
+        "id": 7032439,
+        "name:xx": "Tamouda"
+      }
+    }
+  ]
+}

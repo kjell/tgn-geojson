@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8,
+          40.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2062460",
+          "tgn:1000001",
+          "tgn:2001349",
+          "tgn:7012149",
+          "tgn:7007525",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2062460,
+        "name:xx": "Odell"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.25,
+          40.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2062461",
+          "tgn:1000001",
+          "tgn:2001325",
+          "tgn:7012149",
+          "tgn:7007525",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2062461,
+        "name:xx": "Odessa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.45,
+          40.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2062467",
+          "tgn:1000001",
+          "tgn:2001345",
+          "tgn:7012149",
+          "tgn:7007525",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2062467,
+        "name:xx": "Ohiowa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9333,
+          41.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2062468",
+          "tgn:1000001",
+          "tgn:2001334",
+          "tgn:7012149",
+          "tgn:7007525",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2062468,
+        "name:xx": "Olean"
+      }
+    }
+  ]
+}

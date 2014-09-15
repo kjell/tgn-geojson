@@ -1,0 +1,216 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9833,
+          50.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011760",
+          "tgn:7593920",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7011760,
+        "name:xx": "Třebenice"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4,
+          51.183333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011761",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008175",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Abinger",
+        "id": 7011761
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5167,
+          51.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011762",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008175",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000835",
+          "aat:300008375"
+        ],
+        "id": 7011762,
+        "name:xx": "Blackheath"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.633333,
+          51.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011763",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008175",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Compton",
+        "id": 7011763
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.01,
+          51.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011764",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008175",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Crowhurst",
+        "id": 7011764
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5,
+          48.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Slovakia",
+        "name:nl": "Slowakije",
+        "name:xx": "Slovakije",
+        "hierarchy": [
+          "tgn:7011765",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "س وَفاه اَ",
+        "name:de": "Slowakei",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Slovaquie",
+        "name:ru": "Словакия",
+        "name:sk": "Slovensko",
+        "name:zh": "斯洛伐克",
+        "id": 7011765,
+        "name:es": "Eslovaquia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.633333,
+          51.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011767",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008175",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008372"
+        ],
+        "name:en": "Brookwood",
+        "id": 7011767
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.35,
+          51.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011768",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008175",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "East Molesey",
+        "id": 7011768
+      }
+    }
+  ]
+}

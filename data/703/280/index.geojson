@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.612,
+          32.76
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032802",
+          "tgn:1001120",
+          "tgn:1000004",
+          "tgn:1000118",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300008545",
+          "aat:300019840"
+        ],
+        "id": 7032802,
+        "name:xx": "Tell Ibrahim"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.85,
+          54.883333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032803",
+          "tgn:1000003",
+          "tgn:7006608",
+          "tgn:7006542",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300387218",
+          "aat:300008372"
+        ],
+        "id": 7032803,
+        "name:xx": "Kernavė"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.779,
+          32.717
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032804",
+          "tgn:1001120",
+          "tgn:1000004",
+          "tgn:1000118",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300019275"
+        ],
+        "id": 7032804,
+        "name:xx": "Jemdet Nasr"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5,
+          32.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032806",
+          "tgn:1001120",
+          "tgn:1000004",
+          "tgn:1000118",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300019726"
+        ],
+        "id": 7032806,
+        "name:xx": "Tell al-Deylam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.118,
+          31.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032809",
+          "tgn:7001242",
+          "tgn:1000179",
+          "tgn:7593686",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7032809,
+        "name:xx": "Aït Ben Haddou"
+      }
+    }
+  ]
+}

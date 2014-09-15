@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6167,
+          43.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2025913",
+          "tgn:1000001",
+          "tgn:2000465",
+          "tgn:7012149",
+          "tgn:7007250",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2025913,
+        "name:xx": "Moss"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.6833,
+          43.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2025914",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000471",
+          "tgn:7007250",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2025914,
+        "name:xx": "Mountain Home"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0667,
+          45.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2025917",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000476",
+          "tgn:7007250",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2025917,
+        "name:xx": "Mount Idaho"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1833,
+          48.7167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2025918",
+          "tgn:1000001",
+          "tgn:2000462",
+          "tgn:7012149",
+          "tgn:7007250",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2025918,
+        "name:xx": "Moyie Springs"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4667,
+          43.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2025919",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000477",
+          "tgn:7007250",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2025919,
+        "name:xx": "Mud Lake"
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.015556,
+          46.406389
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7033003",
+          "tgn:7002991",
+          "tgn:7003346",
+          "tgn:1000003",
+          "tgn:7002997",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 7033003,
+        "name:it": "Alleghe, Lago d'"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.766667,
+          54.933333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7033005",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008117",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Irthington",
+        "id": 7033005
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66,
+          17.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7033006",
+          "tgn:1000727",
+          "tgn:1000001",
+          "tgn:7005493",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008189",
+          "aat:300263063"
+        ],
+        "name:en": "Tikal National Park",
+        "id": 7033006,
+        "name:es": "Tikal, Parque Nacional"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.677,
+          -0.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7033008",
+          "tgn:7001242",
+          "tgn:1000164",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008189"
+        ],
+        "name:fr": "Lopé-Okanda, Réserve de",
+        "name:en": "Lopé-Okanda National Park",
+        "id": 7033008
+      }
+    }
+  ]
+}

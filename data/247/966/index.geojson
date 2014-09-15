@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.85,
+          42.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2479661",
+          "tgn:1000001",
+          "tgn:2000498",
+          "tgn:7012149",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2479661,
+        "name:xx": "Lake Carroll"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2667,
+          41.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2479664",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1003008",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "id": 2479664,
+        "name:xx": "Lake Cayuga"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.05,
+          42.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2479665",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000490",
+          "tgn:7007250",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008761"
+        ],
+        "id": 2479665,
+        "name:xx": "Lake Channelqcanyon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8667,
+          34.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2479667",
+          "tgn:1000001",
+          "tgn:2001099",
+          "tgn:7012149",
+          "tgn:7007522",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008905"
+        ],
+        "id": 2479667,
+        "name:xx": "Lake Charles"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8667,
+          34.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2479668",
+          "tgn:1000001",
+          "tgn:2001099",
+          "tgn:7012149",
+          "tgn:7007522",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2479668,
+        "name:xx": "Lake Charles Landing"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.05,
+          47.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2479669",
+          "tgn:1000001",
+          "tgn:1002260",
+          "tgn:7012149",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2479669,
+        "name:xx": "Lake Chelan Hills"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.458761,
+          40.572014
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024255",
+          "tgn:7000273",
+          "tgn:1000004",
+          "tgn:7000893",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387007",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300008372"
+        ],
+        "id": 7024255,
+        "name:xx": "Chōshichiyachi Kaizuka"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5667,
+          -8.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024257",
+          "tgn:7001242",
+          "tgn:1001697",
+          "tgn:1000203",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386846"
+        ],
+        "id": 7024257,
+        "name:xx": "Kilwa, Cape"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5,
+          -8.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024258",
+          "tgn:6003097",
+          "tgn:7001242",
+          "tgn:1001697",
+          "tgn:1000203",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300234611",
+          "aat:300008347",
+          "aat:300387238",
+          "aat:300008375",
+          "aat:300387291"
+        ],
+        "id": 7024258,
+        "name:xx": "Kilwa Kisiwani"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6667,
+          -9.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024259",
+          "tgn:7001242",
+          "tgn:1000209",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 7024259,
+        "name:xx": "Sokwe Island"
+      }
+    }
+  ]
+}

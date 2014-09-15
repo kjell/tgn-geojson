@@ -1,0 +1,249 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.677,
+          -2.333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032100",
+          "tgn:7001242",
+          "tgn:7001682",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "name:fr": "Sud, Province du",
+        "name:en": "Southern Province",
+        "id": 7032100
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.338,
+          -2.166
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032101",
+          "tgn:7001242",
+          "tgn:7001682",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "name:fr": "Ouest, Province de l'",
+        "name:en": "Western Province",
+        "id": 7032101
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.931,
+          -1.583
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032102",
+          "tgn:7001242",
+          "tgn:7001682",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "name:fr": "Nord, Province du",
+        "name:en": "Northern Province",
+        "id": 7032102
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.084,
+          -1.916
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032103",
+          "tgn:7001242",
+          "tgn:7001682",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "name:en": "Kigali City",
+        "id": 7032103
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.508,
+          -1.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032104",
+          "tgn:7001242",
+          "tgn:7001682",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "name:fr": "Est, Province de l'",
+        "name:en": "Eastern Province",
+        "id": 7032104
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.169,
+          -2.49
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032105",
+          "tgn:7001242",
+          "tgn:7001682",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008863"
+        ],
+        "id": 7032105,
+        "name:xx": "Nyungwe, Forêt Naturelle de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.508,
+          15.008
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032106",
+          "tgn:7001242",
+          "tgn:1000189",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300236112"
+        ],
+        "name:en": "Matam",
+        "id": 7032106
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.813,
+          -5.166
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032107",
+          "tgn:7001242",
+          "tgn:1000203",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 7032107,
+        "name:xx": "Pemba Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.762,
+          -5.333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032108",
+          "tgn:7001242",
+          "tgn:7032107",
+          "tgn:1000203",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300236112"
+        ],
+        "id": 7032108,
+        "name:xx": "Pemba South Region"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.813,
+          -5.083
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032109",
+          "tgn:7001242",
+          "tgn:7032107",
+          "tgn:1000203",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300236112"
+        ],
+        "name:en": "Pemba North",
+        "id": 7032109
+      }
+    }
+  ]
+}

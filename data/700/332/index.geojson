@@ -1,0 +1,227 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2833,
+          48.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003320",
+          "tgn:7003321",
+          "tgn:7003030",
+          "tgn:1000003",
+          "tgn:1000062",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000874"
+        ],
+        "id": 7003320,
+        "name:xx": "Neuwaldegg"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3667,
+          48.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Vienna",
+        "hierarchy": [
+          "tgn:7003321",
+          "tgn:7003030",
+          "tgn:1000003",
+          "tgn:1000062",
+          "tgn:7029392"
+        ],
+        "name:cs": "Videṉ",
+        "name:de": "Wien",
+        "placetype": [
+          "aat:300387256",
+          "aat:300008347",
+          "aat:300387240",
+          "aat:300387218",
+          "aat:300008394",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300005135",
+          "aat:300264742",
+          "aat:300387512",
+          "aat:300387320",
+          "aat:300387235",
+          "aat:300387221",
+          "aat:300164060",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300387291"
+        ],
+        "name:fr": "Vienne",
+        "name:hu": "Beç",
+        "id": 7003321
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3333,
+          48.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003322",
+          "tgn:7003321",
+          "tgn:7003030",
+          "tgn:1000003",
+          "tgn:1000062",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 7003322,
+        "name:xx": "Meidling"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.25,
+          48.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003323",
+          "tgn:7003321",
+          "tgn:7003030",
+          "tgn:1000003",
+          "tgn:1000062",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000874"
+        ],
+        "id": 7003323,
+        "name:xx": "Kalksburg"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.221389,
+          46.145
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003325",
+          "tgn:7002991",
+          "tgn:1000003",
+          "tgn:7002997",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387223",
+          "aat:300008375"
+        ],
+        "id": 7003325,
+        "name:xx": "Belluno"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4,
+          48.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003326",
+          "tgn:7003321",
+          "tgn:7003030",
+          "tgn:1000003",
+          "tgn:1000062",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000874"
+        ],
+        "id": 7003326,
+        "name:xx": "Oberlaa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.35,
+          48.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003327",
+          "tgn:7003321",
+          "tgn:7003030",
+          "tgn:1000003",
+          "tgn:1000062",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 7003327,
+        "name:xx": "Währing"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4833,
+          48.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7003329",
+          "tgn:7003321",
+          "tgn:7003030",
+          "tgn:1000003",
+          "tgn:1000062",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000835",
+          "aat:300000874"
+        ],
+        "id": 7003329,
+        "name:xx": "Aspern"
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.75,
+          45.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100720",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7005804",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000833"
+        ],
+        "id": 1100720,
+        "name:xx": "Sir Wilfrid Laurier's Birthplace National Historic Site"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.45,
+          46.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100723",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002251",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000833"
+        ],
+        "id": 1100723,
+        "name:xx": "Whitman Mission National Historic Site"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6833,
+          41.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100727",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002611",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000833"
+        ],
+        "id": 1100727,
+        "name:xx": "Fallen Timbers State Memorial"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0833,
+          39.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100728",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002987",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000833"
+        ],
+        "id": 1100728,
+        "name:xx": "Fort Ancient State Memorial"
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3333,
+          47.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2116741",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7018871",
+          "tgn:7014494",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2116741,
+        "name:xx": "North Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35,
+          47.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2116743",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7018871",
+          "tgn:7014494",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2116743,
+        "name:xx": "Queen Anne"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25,
+          47.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2116745",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7018871",
+          "tgn:7014494",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2116745,
+        "name:xx": "Rainier Beach"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3,
+          47.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2116748",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7018871",
+          "tgn:7014494",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2116748,
+        "name:xx": "South Park"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.6333,
+          35.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1135700",
+          "tgn:7000895",
+          "tgn:1000004",
+          "tgn:1001031",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008736"
+        ],
+        "id": 1135700,
+        "name:xx": "Shiraitono-taki"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.733333,
+          -44.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1135704",
+          "tgn:1009227",
+          "tgn:1000226",
+          "tgn:7016822",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008736"
+        ],
+        "name:en": "Sutherland Falls",
+        "id": 1135704
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4667,
+          51.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1135709",
+          "tgn:7005735",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008736"
+        ],
+        "id": 1135709,
+        "name:xx": "Takakkaw Falls"
+      }
+    }
+  ]
+}

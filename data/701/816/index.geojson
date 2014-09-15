@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.916667,
+          15.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018161",
+          "tgn:1000004",
+          "tgn:7018318",
+          "tgn:7000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300387511",
+          "aat:300387272",
+          "aat:300008375"
+        ],
+        "name:en": "Goa",
+        "id": 7018161
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0667,
+          37.066
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018163",
+          "tgn:7001242",
+          "tgn:1002070",
+          "tgn:1000205",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300235115",
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300387235",
+          "aat:300008375",
+          "aat:300120599"
+        ],
+        "id": 7018163,
+        "name:xx": "Utica"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1667,
+          14.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018167",
+          "tgn:1000577",
+          "tgn:1000001",
+          "tgn:7005554",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300017826",
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300008057",
+          "aat:300263063"
+        ],
+        "id": 7018167,
+        "name:xx": "Copán"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.833,
+          35.783
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018168",
+          "tgn:1002097",
+          "tgn:7001242",
+          "tgn:1000205",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300000835"
+        ],
+        "id": 7018168,
+        "name:xx": "Ruspinum"
+      }
+    }
+  ]
+}

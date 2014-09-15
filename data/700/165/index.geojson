@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5833,
+          -3.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001654",
+          "tgn:1000847",
+          "tgn:7006160",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7001654,
+        "name:xx": "Wewak"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.65,
+          -2.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001655",
+          "tgn:1000004",
+          "tgn:7003970",
+          "tgn:1000116",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387223",
+          "aat:300008375",
+          "aat:300120599"
+        ],
+        "id": 7001655,
+        "name:xx": "Jayapura"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.75,
+          10.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001657",
+          "tgn:7001242",
+          "tgn:1001266",
+          "tgn:7000489",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387220",
+          "aat:300008375"
+        ],
+        "id": 7001657,
+        "name:xx": "Debre Mark'os"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39,
+          15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Eritrea",
+        "name:xx": "Iritriyā",
+        "hierarchy": [
+          "tgn:7001658",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "إرًتريا",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300236112"
+        ],
+        "name:fr": "Érythrée",
+        "name:ti": "ኤርትራ",
+        "name:ru": "Эритрея",
+        "name:zh": "厄立特里亚",
+        "id": 7001658,
+        "name:es": "Iertra"
+      }
+    }
+  ]
+}

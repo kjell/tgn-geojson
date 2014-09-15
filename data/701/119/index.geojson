@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.916667,
+          37.433333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011190",
+          "tgn:7011270",
+          "tgn:7002674",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "name:en": "Syros",
+        "id": 7011190
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.114167,
+          37.608333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011191",
+          "tgn:7011270",
+          "tgn:7002674",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 7011191,
+        "name:xx": "Tínos, Nísos"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.083333,
+          51.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011192",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008132",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300264742",
+          "aat:300387285"
+        ],
+        "name:en": "Cheltenham",
+        "id": 7011192
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.505,
+          51.411389
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011196",
+          "tgn:7002445",
+          "tgn:7019021",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Keynsham",
+        "id": 7011196
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.365556,
+          51.379444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011197",
+          "tgn:7002445",
+          "tgn:7019021",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387235",
+          "aat:300387220",
+          "aat:300387292",
+          "aat:300387291",
+          "aat:300387286"
+        ],
+        "name:en": "Bath",
+        "id": 7011197
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.583333,
+          51.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011198",
+          "tgn:7002445",
+          "tgn:7019018",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008416",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300264742",
+          "aat:300387235",
+          "aat:300387220",
+          "aat:300000771",
+          "aat:300120599",
+          "aat:300387286"
+        ],
+        "id": 7011198,
+        "name:ang": "Bristou"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8167,
+          49.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011199",
+          "tgn:1000003",
+          "tgn:7002890",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7011199,
+        "name:xx": "Nanteuil-le-Haudouin"
+      }
+    }
+  ]
+}

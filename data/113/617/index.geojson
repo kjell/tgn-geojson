@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4667,
+          40.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1136170",
+          "tgn:1000001",
+          "tgn:1002666",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006178"
+        ],
+        "id": 1136170,
+        "name:xx": "Great Ditch"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4667,
+          42.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1136171",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1003005",
+          "tgn:7007520",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006178"
+        ],
+        "id": 1136171,
+        "name:xx": "Griggs Drain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82,
+          41.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1136174",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002607",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006178"
+        ],
+        "id": 1136174,
+        "name:xx": "Heider Ditch"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0333,
+          52.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1136176",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008157",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006178"
+        ],
+        "id": 1136176,
+        "name:xx": "Hobhole Drain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.233,
+          30.016
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1136177",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:1001083",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006075",
+          "aat:300006178"
+        ],
+        "name:en": "Tir'at al Jizah",
+        "id": 1136177
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0667,
+          41.4333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1136179",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002607",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006178"
+        ],
+        "id": 1136179,
+        "name:xx": "Jungbluth Ditch"
+      }
+    }
+  ]
+}

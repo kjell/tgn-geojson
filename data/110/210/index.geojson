@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.27,
+          33.227
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102100",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001437",
+          "tgn:7007566",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300007037"
+        ],
+        "name:en": "Gila Cliff Dwellings National Monument",
+        "id": 1102100
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.85,
+          43.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102105",
+          "tgn:1000001",
+          "tgn:2001786",
+          "tgn:7012149",
+          "tgn:7007713",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1102105,
+        "name:xx": "Jewel Cave National Monument"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5,
+          41.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102108",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:2000189",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006958"
+        ],
+        "id": 1102108,
+        "name:xx": "Lava Beds National Monument"
+      }
+    }
+  ]
+}

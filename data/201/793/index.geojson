@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.65,
+          39.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017932",
+          "tgn:7014201",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2017932,
+        "name:xx": "Highland West"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5,
+          39.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017933",
+          "tgn:7014201",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2017933,
+        "name:xx": "Hillcrest"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6833,
+          39.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017934",
+          "tgn:7014201",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2017934,
+        "name:xx": "Hillside Heights"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4833,
+          39.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017938",
+          "tgn:7014201",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2017938,
+        "name:xx": "Hilltop Manor"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45,
+          38.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017939",
+          "tgn:1002933",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2017939,
+        "name:xx": "Hitchens Crossroads"
+      }
+    }
+  ]
+}

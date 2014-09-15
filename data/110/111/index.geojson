@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5,
+          48.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101110",
+          "tgn:7005685",
+          "tgn:7005807",
+          "tgn:1000001",
+          "tgn:7005801",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006084"
+        ],
+        "id": 1101110,
+        "name:xx": "Exploits Dam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55,
+          42.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101112",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1003000",
+          "tgn:7007520",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006084"
+        ],
+        "id": 1101112,
+        "name:xx": "Ford Dam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7,
+          36.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101115",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006084"
+        ],
+        "id": 1101115,
+        "name:xx": "Friant Dam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0333,
+          36.8167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101116",
+          "tgn:1000980",
+          "tgn:1000004",
+          "tgn:7000894",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006084"
+        ],
+        "id": 1101116,
+        "name:xx": "Fujiwara-dam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9167,
+          51.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1101117",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7005805",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006084"
+        ],
+        "id": 1101117,
+        "name:xx": "Gardiner Dam"
+      }
+    }
+  ]
+}

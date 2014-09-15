@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.5833,
+          22.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111017",
+          "tgn:1000004",
+          "tgn:7031781",
+          "tgn:7000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386845"
+        ],
+        "id": 1111017,
+        "name:xx": "Hasdo-Rāmpur"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.95,
+          35.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111018",
+          "tgn:7000895",
+          "tgn:1000004",
+          "tgn:1001010",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386845"
+        ],
+        "id": 1111018,
+        "name:xx": "Ina-bonchi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88,
+          45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111019",
+          "tgn:1000004",
+          "tgn:7001745",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386845"
+        ],
+        "id": 1111019,
+        "name:xx": "Junggar Pendi"
+      }
+    }
+  ]
+}

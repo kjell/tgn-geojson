@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.525444,
+          41.934721
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6005081",
+          "tgn:7003138",
+          "tgn:1000003",
+          "tgn:7003080",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386972",
+          "aat:300000810",
+          "aat:300048808",
+          "aat:300391483",
+          "aat:300387247",
+          "aat:300387006"
+        ],
+        "id": 6005081,
+        "name:xx": "Saccopastore"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.161111,
+          12.531944
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6005087",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:7001797",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Sadras",
+        "id": 6005087
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8333,
+          28
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6005088",
+          "tgn:7000684",
+          "tgn:1000004",
+          "tgn:1111881",
+          "tgn:1000137",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000401"
+        ],
+        "id": 6005088,
+        "name:xx": "Safaniya"
+      }
+    }
+  ]
+}

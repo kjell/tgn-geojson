@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.77278,
+          42.08944
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015190",
+          "tgn:1000003",
+          "tgn:7006667",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300265612",
+          "aat:300387081"
+        ],
+        "id": 7015190,
+        "name:xx": "Kumanovo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21,
+          42.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015191",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387054",
+          "aat:300387175",
+          "aat:300387109",
+          "aat:300387142"
+        ],
+        "name:en": "Kosovo",
+        "id": 7015191
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3667,
+          34.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015196",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002867",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 7015196,
+        "name:xx": "San Miguel Island"
+      }
+    }
+  ]
+}

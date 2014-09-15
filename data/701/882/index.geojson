@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8333,
+          37.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018820",
+          "tgn:7016674",
+          "tgn:1000004",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831"
+        ],
+        "id": 7018820,
+        "name:xx": "Echigo-sammyaku"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8,
+          37.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018821",
+          "tgn:1000004",
+          "tgn:1001261",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7018821,
+        "name:xx": "Liangzhou"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5167,
+          46.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Reschen Scheideck Pass",
+        "hierarchy": [
+          "tgn:7018822",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:de": "Reschen Scheideck",
+        "placetype": [
+          "aat:300259572"
+        ],
+        "name:it": "Resia, Passo di",
+        "id": 7018822
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.35,
+          32.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018823",
+          "tgn:1002066",
+          "tgn:1000004",
+          "tgn:1000140",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7018823,
+        "name:xx": "Al Karak"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0167,
+          28.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018826",
+          "tgn:7000677",
+          "tgn:1000004",
+          "tgn:7003877",
+          "tgn:1000137",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7018826,
+        "name:xx": "Al-Bidʻ"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.35,
+          26.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018827",
+          "tgn:7000677",
+          "tgn:1000004",
+          "tgn:7003877",
+          "tgn:1000137",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 7018827,
+        "name:xx": "Rāyikhah"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.25,
+          49
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018829",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008777"
+        ],
+        "id": 7018829,
+        "name:xx": "Pembina Hills"
+      }
+    }
+  ]
+}

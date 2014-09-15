@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88,
+          30.4333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017443",
+          "tgn:7002659",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000835",
+          "aat:300132316"
+        ],
+        "id": 7017443,
+        "name:xx": "Mobile Bay"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0333,
+          30.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017444",
+          "tgn:7002659",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000048",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008416",
+          "aat:300387218",
+          "aat:300000835",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300387275",
+          "aat:300387511",
+          "aat:300264742",
+          "aat:300006909",
+          "aat:300387250",
+          "aat:300387302",
+          "aat:300387291",
+          "aat:300387286"
+        ],
+        "id": 7017444,
+        "name:xx": "Mobile"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.25,
+          35.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017446",
+          "tgn:7016612",
+          "tgn:1001131",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7017446,
+        "name:xx": "Andaráb"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1667,
+          51.4333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017447",
+          "tgn:1000003",
+          "tgn:7024122",
+          "tgn:7006366",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387225",
+          "aat:300008389",
+          "aat:300387223",
+          "aat:300387270",
+          "aat:300387302"
+        ],
+        "id": 7017447,
+        "name:xx": "Radom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.05,
+          51.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017449",
+          "tgn:1000003",
+          "tgn:7024128",
+          "tgn:7006366",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7017449,
+        "name:xx": "Ziemiany"
+      }
+    }
+  ]
+}

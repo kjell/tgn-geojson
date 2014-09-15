@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7667,
+          -34.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011060",
+          "tgn:7002650",
+          "tgn:1000002",
+          "tgn:1000058",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011060,
+        "name:xx": "Polonio, Cabo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.516667,
+          35.516667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011061",
+          "tgn:1007796",
+          "tgn:1001622",
+          "tgn:1000003",
+          "tgn:1010209",
+          "tgn:7003122",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850",
+          "aat:300386846"
+        ],
+        "id": 1011061,
+        "name:xx": "Ponente, Capo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2,
+          40.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011063",
+          "tgn:7003013",
+          "tgn:7003005",
+          "tgn:1000003",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011063,
+        "name:xx": "Posillipo, Capo di"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.616667,
+          38.588889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011066",
+          "tgn:7011330",
+          "tgn:7002674",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7011266",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850",
+          "aat:300386846"
+        ],
+        "id": 1011066,
+        "name:xx": "Prasonísi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.05,
+          13.566667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011068",
+          "tgn:1009838",
+          "tgn:7000204",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:1008372",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "name:en": "Price, Cape",
+        "id": 1011068
+      }
+    }
+  ]
+}

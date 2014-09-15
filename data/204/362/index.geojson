@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4333,
+          30.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2043621",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000892",
+          "tgn:7007256",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2043621,
+        "name:xx": "New Roads"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6333,
+          32.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2043624",
+          "tgn:1000001",
+          "tgn:7020680",
+          "tgn:7012149",
+          "tgn:7007256",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2043624,
+        "name:xx": "New Rockdale"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3833,
+          29.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2043625",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000898",
+          "tgn:7007256",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2043625,
+        "name:xx": "New Sarpy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.75,
+          31.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2043628",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000875",
+          "tgn:7007256",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2043628,
+        "name:xx": "New Verda"
+      }
+    }
+  ]
+}

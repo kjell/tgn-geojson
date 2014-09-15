@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0167,
+          49.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6003916",
+          "tgn:7593917",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:cs": "Mladeč",
+        "id": 6003916
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2667,
+          13.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6003917",
+          "tgn:1000004",
+          "tgn:7000824",
+          "tgn:1000109",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300019275",
+          "aat:300019267",
+          "aat:300008375"
+        ],
+        "id": 6003917,
+        "name:xx": "Mlu Prei"
+      }
+    }
+  ]
+}

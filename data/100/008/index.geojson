@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8333,
+          42.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Italy",
+        "name:nl": "Italië",
+        "hierarchy": [
+          "tgn:1000080",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "إ طًا اًَ",
+        "name:de": "Italien",
+        "placetype": [
+          "aat:300387054",
+          "aat:300387347",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387053",
+          "aat:300387174",
+          "aat:300055522",
+          "aat:300235096"
+        ],
+        "name:fr": "Italie",
+        "name:la": "Italia",
+        "name:it": "Italia",
+        "name:ru": "Италия",
+        "name:zh": "意大利",
+        "id": 1000080,
+        "name:es": "Italia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10,
+          62
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Norway",
+        "name:nl": "Noorwegen",
+        "name:nn": "Noreg",
+        "hierarchy": [
+          "tgn:1000088",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:nb": "Norge",
+        "name:ar": "انًرويج",
+        "name:de": "Norwegen",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387189"
+        ],
+        "name:fr": "Norvège",
+        "name:it": "Norvegia",
+        "name:ru": "Норвегия",
+        "name:zh": "挪威",
+        "id": 1000088,
+        "name:es": "Noruega"
+      }
+    }
+  ]
+}

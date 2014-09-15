@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5333,
+          13.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Barbados",
+        "hierarchy": [
+          "tgn:7004770",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "name:ar": "بربادوس",
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300387062",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Barbade",
+        "name:ru": "Барбадос",
+        "name:zh": "巴巴多斯",
+        "id": 7004770,
+        "name:es": "Barbados"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.6667,
+          12.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Grenada",
+        "hierarchy": [
+          "tgn:7004771",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "name:ar": "غرًياد",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Grenade",
+        "name:ru": "Гренада",
+        "name:zh": "格林纳达",
+        "id": 7004771,
+        "name:es": "Granada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9667,
+          13.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Saint Lucia",
+        "hierarchy": [
+          "tgn:7004772",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "name:ar": "ساهت وًس اَ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300387062",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Santa Lucía",
+        "name:ru": "Сент-Люсия",
+        "name:zh": "圣卢西亚",
+        "id": 7004772,
+        "name:es": "Sainte-Lucie"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2,
+          13.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:pt": "São Vicente e Granadinas",
+        "name:en": "Saint Vincent and the Grenadines",
+        "hierarchy": [
+          "tgn:7004773",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "name:ar": "ساهت ف سًتً وجزر غرًياد نٍ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Saint-Vincent-et-les-Grenadines",
+        "name:ru": "Сент-Винсент и Гренадины",
+        "name:zh": "圣文森特和格林纳丁斯",
+        "id": 7004773,
+        "name:es": "San Vicente y las Granadinas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61,
+          13
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004774",
+          "tgn:1010101",
+          "tgn:7004550",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386853"
+        ],
+        "id": 7004774,
+        "name:xx": "Windward Islands"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.75,
+          17.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004776",
+          "tgn:1000001",
+          "tgn:7005605",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300008791"
+        ],
+        "name:en": "Saint Kitts",
+        "id": 7004776
+      }
+    }
+  ]
+}

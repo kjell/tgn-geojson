@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          34.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2057650",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001121",
+          "tgn:7007522",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2057650,
+        "name:xx": "Tula"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3667,
+          34.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2057651",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001157",
+          "tgn:7007522",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008416"
+        ],
+        "id": 2057651,
+        "name:xx": "Tunica"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7,
+          34.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2057652",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001126",
+          "tgn:7007522",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008416"
+        ],
+        "id": 2057652,
+        "name:xx": "Tupelo"
+      }
+    }
+  ]
+}

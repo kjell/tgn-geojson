@@ -1,0 +1,270 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5,
+          50.916667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011440",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008129",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Battle",
+        "id": 7011440
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.25,
+          50.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011441",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008129",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375",
+          "aat:300387292"
+        ],
+        "name:en": "Eastbourne",
+        "id": 7011441
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.633333,
+          50.883333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011442",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008129",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Fairlight",
+        "id": 7011442
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6,
+          50.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011443",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008129",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000835",
+          "aat:300387308",
+          "aat:300008375",
+          "aat:300387302",
+          "aat:300387006",
+          "aat:300387292"
+        ],
+        "name:en": "Hastings",
+        "id": 7011443
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0167,
+          50.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011444",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008129",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387256",
+          "aat:300008347",
+          "aat:300008416",
+          "aat:300000835",
+          "aat:300005135",
+          "aat:300008375",
+          "aat:300387285"
+        ],
+        "id": 7011444,
+        "name:xx": "Lewes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.033333,
+          50.783333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011445",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008129",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Newhaven",
+        "id": 7011445
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.066667,
+          50.883333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011446",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008129",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Ringmer",
+        "id": 7011446
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1,
+          50.766667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011447",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008129",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Seaford",
+        "id": 7011447
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.65,
+          48.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Dolní Věstonice",
+        "hierarchy": [
+          "tgn:7011448",
+          "tgn:1003523",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "name:cs": "Dolní Věstonice",
+        "name:de": "Unter-Wisternitz",
+        "placetype": [
+          "aat:300008347",
+          "aat:300008372"
+        ],
+        "id": 7011448
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3,
+          49.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011449",
+          "tgn:7027130",
+          "tgn:1000003",
+          "tgn:7011765",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7011449,
+        "name:xx": "Dolný Kubín"
+      }
+    }
+  ]
+}

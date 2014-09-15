@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26,
+          59
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Estonia",
+        "hierarchy": [
+          "tgn:7006540",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "إس خوهاَ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Estonie",
+        "name:ru": "Эстония",
+        "name:et": "Eesti",
+        "name:zh": "爱沙尼亚",
+        "id": 7006540,
+        "name:es": "Estonia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25,
+          57
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Latvia",
+        "name:lv": "Latvija",
+        "name:xx": "Latviskaya",
+        "hierarchy": [
+          "tgn:7006541",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "لاثف اِ",
+        "name:de": "Lettland",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Lettonie",
+        "name:it": "Letonia",
+        "name:ru": "Латвия",
+        "name:zh": "拉脱维亚",
+        "id": 7006541,
+        "name:es": "Letonia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24,
+          56
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Lithuania",
+        "name:lt": "Lietuva",
+        "hierarchy": [
+          "tgn:7006542",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "خًَواه اَ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Lituanie",
+        "name:ru": "Литва",
+        "name:zh": "立陶宛",
+        "id": 7006542,
+        "name:es": "Lituania"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.483333,
+          43.816667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006544",
+          "tgn:7003163",
+          "tgn:1000003",
+          "tgn:7009760",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7006544,
+        "name:xx": "Rufina"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.316667,
+          43.633333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006549",
+          "tgn:1003429",
+          "tgn:1000003",
+          "tgn:7003240",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7006549,
+        "name:xx": "Montemarciano"
+      }
+    }
+  ]
+}

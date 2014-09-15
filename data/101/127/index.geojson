@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.316667,
+          54.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011270",
+          "tgn:1000003",
+          "tgn:7003688",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011270,
+        "name:xx": "Staberhuk"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.95,
+          -40.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011271",
+          "tgn:1009227",
+          "tgn:1000226",
+          "tgn:7016729",
+          "tgn:1000006",
+          "tgn:1006896",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "name:en": "Stephens, Cape",
+        "id": 1011271
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.433333,
+          -27.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011275",
+          "tgn:1001768",
+          "tgn:1000049",
+          "tgn:1000002",
+          "tgn:1008543",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850",
+          "aat:300386846"
+        ],
+        "id": 1011275,
+        "name:xx": "Sur, Cabo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.35,
+          37.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011277",
+          "tgn:7000895",
+          "tgn:1000004",
+          "tgn:1000988",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011277,
+        "name:xx": "Suzu-misaki"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5667,
+          71.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011279",
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:1008667",
+          "tgn:7024197",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011279,
+        "name:xx": "Swinburne, Cape"
+      }
+    }
+  ]
+}

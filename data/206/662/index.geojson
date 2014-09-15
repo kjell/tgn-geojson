@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6167,
+          35.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2066621",
+          "tgn:1000001",
+          "tgn:2001428",
+          "tgn:7012149",
+          "tgn:7007566",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2066621,
+        "name:xx": "Alameda"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9,
+          34.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2066622",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001456",
+          "tgn:7007566",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2066622,
+        "name:xx": "Alamillo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.95,
+          32.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2066624",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001447",
+          "tgn:7007566",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008416"
+        ],
+        "id": 2066624,
+        "name:xx": "Alamogordo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.85,
+          35.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2066626",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001439",
+          "tgn:7007566",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2066626,
+        "name:xx": "Albert"
+      }
+    }
+  ]
+}

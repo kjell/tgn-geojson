@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.2833,
+          -0.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002110",
+          "tgn:1000004",
+          "tgn:7003970",
+          "tgn:1000116",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7002110,
+        "name:xx": "Sorong"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.25,
+          27.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002111",
+          "tgn:1000004",
+          "tgn:7000228",
+          "tgn:7000231",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387223",
+          "aat:300008375",
+          "aat:300120599",
+          "aat:300387286"
+        ],
+        "id": 7002111,
+        "name:xx": "Bandar-e ʻAbbās"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3667,
+          36.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002112",
+          "tgn:1000004",
+          "tgn:1001528",
+          "tgn:7000231",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375",
+          "aat:300387270",
+          "aat:300387286"
+        ],
+        "id": 7002112,
+        "name:xx": "Dāmghān"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5833,
+          34.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002115",
+          "tgn:1000004",
+          "tgn:1001283",
+          "tgn:7000231",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300387223",
+          "aat:300343603",
+          "aat:300387286"
+        ],
+        "id": 7002115,
+        "name:xx": "Hamadān"
+      }
+    }
+  ]
+}

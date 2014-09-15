@@ -1,0 +1,237 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1,
+          10
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000580",
+          "tgn:7001242",
+          "tgn:7016577",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300236112"
+        ],
+        "id": 7000580,
+        "name:xx": "De la Kara"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1,
+          9.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000581",
+          "tgn:7001242",
+          "tgn:7016577",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300236112"
+        ],
+        "id": 7000581,
+        "name:xx": "Centrale, Région"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1,
+          7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000582",
+          "tgn:7001242",
+          "tgn:7016577",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300236112"
+        ],
+        "id": 7000582,
+        "name:xx": "Des Plateaux"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3333,
+          6.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000583",
+          "tgn:7001242",
+          "tgn:7016577",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300236112"
+        ],
+        "id": 7000583,
+        "name:xx": "Maritime Région"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1667,
+          11.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000584",
+          "tgn:7001242",
+          "tgn:7014974",
+          "tgn:7001644",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387254",
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387222",
+          "aat:300387219",
+          "aat:300387270"
+        ],
+        "id": 7000584,
+        "name:xx": "Djibouti"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.65,
+          13.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000585",
+          "tgn:7018284",
+          "tgn:7001242",
+          "tgn:1000165",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300387512",
+          "aat:300387270",
+          "aat:300120599",
+          "aat:300387291",
+          "aat:300387286"
+        ],
+        "id": 7000585,
+        "name:xx": "Banjul"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4833,
+          -4.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000587",
+          "tgn:7001703",
+          "tgn:7001242",
+          "tgn:1007978",
+          "tgn:1000190",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7000587,
+        "name:xx": "Cascade"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4833,
+          -4.7167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000588",
+          "tgn:7001703",
+          "tgn:7001242",
+          "tgn:1007978",
+          "tgn:1000190",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7000588,
+        "name:xx": "Anse Boileau"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5167,
+          -4.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000589",
+          "tgn:7001703",
+          "tgn:7001242",
+          "tgn:1007978",
+          "tgn:1000190",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7000589,
+        "name:xx": "Anse Royal"
+      }
+    }
+  ]
+}

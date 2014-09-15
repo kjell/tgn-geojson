@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41,
+          64.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114370",
+          "tgn:7593554",
+          "tgn:1000001",
+          "tgn:7024573",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008676"
+        ],
+        "id": 1114370,
+        "name:xx": "Gyldenløve Fjord"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.6667,
+          71.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114376",
+          "tgn:7593552",
+          "tgn:1000001",
+          "tgn:7024573",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008676"
+        ],
+        "id": 1114376,
+        "name:xx": "Karrat Fjord"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.674722,
+          69.969722
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114377",
+          "tgn:7003655",
+          "tgn:1000003",
+          "tgn:1000088",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008676"
+        ],
+        "id": 1114377,
+        "name:xx": "Kvænangen"
+      }
+    }
+  ]
+}

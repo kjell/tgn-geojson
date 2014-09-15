@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7,
+          39.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2120222",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002268",
+          "tgn:7013961",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2120222,
+        "name:xx": "Topins Grove"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8333,
+          38.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2120223",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002270",
+          "tgn:7013961",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2120223,
+        "name:xx": "Upper Falls"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1833,
+          37.8833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2120225",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002280",
+          "tgn:7013961",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2120225,
+        "name:xx": "Trace"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4,
+          37.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2120228",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002304",
+          "tgn:7013961",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2120228,
+        "name:xx": "Tralee"
+      }
+    }
+  ]
+}

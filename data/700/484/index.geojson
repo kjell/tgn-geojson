@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0833,
+          39.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004842",
+          "tgn:7000272",
+          "tgn:1000004",
+          "tgn:7000893",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300264742",
+          "aat:300387220",
+          "aat:300387302"
+        ],
+        "id": 7004842,
+        "name:xx": "Akita"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7333,
+          41.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004843",
+          "tgn:1000985",
+          "tgn:7016529",
+          "tgn:7016531",
+          "tgn:1000004",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387220",
+          "aat:300120599"
+        ],
+        "id": 7004843,
+        "name:xx": "Hakodate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.5333,
+          31.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004844",
+          "tgn:1000993",
+          "tgn:1000004",
+          "tgn:7000901",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387220",
+          "aat:300120599"
+        ],
+        "id": 7004844,
+        "name:xx": "Kagoshima"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.351,
+          44.507
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004847",
+          "tgn:7003127",
+          "tgn:1000003",
+          "tgn:7008516",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387277",
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300019470",
+          "aat:300008389",
+          "aat:300005135",
+          "aat:300387223",
+          "aat:300387235",
+          "aat:300387220",
+          "aat:300020471",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300020533",
+          "aat:300020531",
+          "aat:300387296"
+        ],
+        "id": 7004847,
+        "name:xx": "Bologna"
+      }
+    }
+  ]
+}

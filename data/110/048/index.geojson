@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.15,
+          38.7167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100481",
+          "tgn:1000882",
+          "tgn:1000003",
+          "tgn:7010978",
+          "tgn:1000090",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300005993"
+        ],
+        "id": 1100481,
+        "name:xx": "Assembleia Nacional, Palacio da"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1333,
+          38.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100483",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7014160",
+          "tgn:7007919",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300005993"
+        ],
+        "id": 1100483,
+        "name:xx": "Central Intelligence Agency"
+      }
+    }
+  ]
+}

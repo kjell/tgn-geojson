@@ -1,0 +1,188 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.484167,
+          23.945556
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7029391",
+          "tgn:7001242",
+          "tgn:7001311",
+          "tgn:7016833",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300120599"
+        ],
+        "name:en": "Berenike",
+        "id": 7029391
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.766667,
+          43.816667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7029393",
+          "tgn:7003163",
+          "tgn:1000003",
+          "tgn:7009760",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7029393,
+        "name:xx": "Anchiano"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.416,
+          48.516
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7029394",
+          "tgn:7002872",
+          "tgn:1000003",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7029394,
+        "name:xx": "Buré"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.457,
+          53.983
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7029395",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7019057",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300020756",
+          "aat:300008347",
+          "aat:300167671",
+          "aat:300008372"
+        ],
+        "id": 7029395,
+        "name:xx": "Sunderlandwick"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.316667,
+          53.783333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7029396",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7019056",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7029396,
+        "name:xx": "Sutton-on-Hull"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.916667,
+          53.916667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7029397",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7019057",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008372"
+        ],
+        "id": 7029397,
+        "name:xx": "Sutton-upon-Derwent"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.423,
+          54.101
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7029398",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7019057",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300020756",
+          "aat:300008347",
+          "aat:300167671",
+          "aat:300008372"
+        ],
+        "id": 7029398,
+        "name:xx": "Swaythorpe"
+      }
+    }
+  ]
+}

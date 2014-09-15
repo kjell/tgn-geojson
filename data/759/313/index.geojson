@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.834,
+          37.266
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593131",
+          "tgn:1001262",
+          "tgn:1000004",
+          "tgn:7018456",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006891"
+        ],
+        "id": 7593131,
+        "name:xx": "Rum Kalesi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.516,
+          -14.216
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593133",
+          "tgn:7000490",
+          "tgn:1000006",
+          "tgn:7001829",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000206"
+        ],
+        "id": 7593133,
+        "name:xx": "Wadeye"
+      }
+    }
+  ]
+}

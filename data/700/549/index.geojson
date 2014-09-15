@@ -1,0 +1,235 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9167,
+          15.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005490",
+          "tgn:1000001",
+          "tgn:7005493",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008631",
+          "aat:300387064",
+          "aat:300000772"
+        ],
+        "id": 7005490,
+        "name:xx": "Quiché"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.233333,
+          46.066667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005491",
+          "tgn:7003158",
+          "tgn:1000003",
+          "tgn:7003124",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375",
+          "aat:300387292"
+        ],
+        "id": 7005491,
+        "name:xx": "Pergine Valsugana"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.25,
+          15.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Guatemala",
+        "hierarchy": [
+          "tgn:7005493",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "name:ar": "غواثيمالا",
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Guatemala",
+        "name:ru": "Гватемала",
+        "name:zh": "危地马拉",
+        "id": 7005493,
+        "name:es": "Guatemala"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3333,
+          14.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005494",
+          "tgn:1000001",
+          "tgn:7005493",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008631",
+          "aat:300387064",
+          "aat:300000772"
+        ],
+        "id": 7005494,
+        "name:xx": "Suchitepéquez"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.254,
+          -19.043
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005495",
+          "tgn:1000571",
+          "tgn:1000046",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387277",
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300000797",
+          "aat:300008389",
+          "aat:300264742",
+          "aat:300387512",
+          "aat:300387220",
+          "aat:300387302"
+        ],
+        "id": 7005495,
+        "name:xx": "Sucre"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7333,
+          14.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005496",
+          "tgn:7006571",
+          "tgn:1000001",
+          "tgn:7005493",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300263063"
+        ],
+        "id": 7005496,
+        "name:xx": "Antigua Guatemala"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3667,
+          14.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005498",
+          "tgn:1000621",
+          "tgn:1000001",
+          "tgn:7005493",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387264",
+          "aat:300387218",
+          "aat:300387225",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300387512",
+          "aat:300387223",
+          "aat:300387302"
+        ],
+        "id": 7005498,
+        "name:xx": "Guatemala"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1667,
+          -16.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005499",
+          "tgn:1000662",
+          "tgn:1000046",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387264",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300264742",
+          "aat:300387220",
+          "aat:300387302",
+          "aat:300387286"
+        ],
+        "id": 7005499,
+        "name:xx": "La Paz"
+      }
+    }
+  ]
+}

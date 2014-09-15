@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.033,
+          8.566
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6001021",
+          "tgn:7001242",
+          "tgn:1001602",
+          "tgn:1000191",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791",
+          "aat:300006888",
+          "aat:300387286"
+        ],
+        "id": 6001021,
+        "name:xx": "Bunce Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.216667,
+          51.116667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6001025",
+          "tgn:1000003",
+          "tgn:7003678",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387235",
+          "aat:300008375"
+        ],
+        "id": 6001025,
+        "name:xx": "Ungedanken"
+      }
+    }
+  ]
+}

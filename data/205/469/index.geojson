@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5667,
+          43.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2054690",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001026",
+          "tgn:7007521",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2054690,
+        "name:xx": "Houston"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9667,
+          47.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2054691",
+          "tgn:1000001",
+          "tgn:2001014",
+          "tgn:7012149",
+          "tgn:7007521",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2054691,
+        "name:xx": "Hovland"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0667,
+          45.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2054694",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001084",
+          "tgn:7007521",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2054694,
+        "name:xx": "Howard Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1333,
+          47.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2054695",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001067",
+          "tgn:7007521",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2054695,
+        "name:xx": "Hoyt Lakes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3167,
+          -17.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000722",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 7000722,
+        "name:xx": "Chire, Rio"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34,
+          -13.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Malawi",
+        "hierarchy": [
+          "tgn:7000726",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "ملاوي",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300235119"
+        ],
+        "name:ny": "Malawi",
+        "name:fr": "Malaŵi",
+        "name:ru": "Малави",
+        "name:zh": "马拉维",
+        "id": 7000726,
+        "name:es": "Malawi"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.583,
+          33.083
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6001610",
+          "tgn:1000004",
+          "tgn:1001130",
+          "tgn:1000118",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387007",
+          "aat:300167671",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300387286"
+        ],
+        "id": 6001610,
+        "name:xx": "Al Madain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6,
+          18.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6001613",
+          "tgn:7005358",
+          "tgn:7005346",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387007",
+          "aat:300000810",
+          "aat:300000833"
+        ],
+        "id": 6001613,
+        "name:xx": "Cuello"
+      }
+    }
+  ]
+}

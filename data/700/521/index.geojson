@@ -1,0 +1,147 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.89225,
+          14.375139
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005211",
+          "tgn:7005192",
+          "tgn:1000004",
+          "tgn:7000966",
+          "tgn:1000142",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300386830"
+        ],
+        "id": 7005211,
+        "name:xx": "U Thong"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55,
+          14.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005216",
+          "tgn:7005192",
+          "tgn:1000004",
+          "tgn:7000948",
+          "tgn:1000142",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300387223"
+        ],
+        "id": 7005216,
+        "name:xx": "Phra Nakhon Si Ayutthaya"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.2167,
+          9.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005217",
+          "tgn:7005195",
+          "tgn:1000004",
+          "tgn:7000967",
+          "tgn:1000142",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810"
+        ],
+        "id": 7005217,
+        "name:xx": "Chaiya"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.0167,
+          13.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005218",
+          "tgn:7005192",
+          "tgn:1000004",
+          "tgn:7000930",
+          "tgn:1000142",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300387512",
+          "aat:300387223",
+          "aat:300008375",
+          "aat:300387270"
+        ],
+        "id": 7005218,
+        "name:xx": "Nakhon Pathom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.9833,
+          18.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005219",
+          "tgn:7000915",
+          "tgn:7005194",
+          "tgn:1000004",
+          "tgn:1000142",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300264742",
+          "aat:300387223",
+          "aat:300387270",
+          "aat:300387286"
+        ],
+        "id": 7005219,
+        "name:xx": "Chiang Mai"
+      }
+    }
+  ]
+}

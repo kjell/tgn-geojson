@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.372,
+          17.266
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032380",
+          "tgn:1000727",
+          "tgn:1000001",
+          "tgn:7005493",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000810",
+          "aat:300167671"
+        ],
+        "id": 7032380,
+        "name:xx": "El Perú"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.067,
+          17.133
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032381",
+          "tgn:7005357",
+          "tgn:7005346",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300017826",
+          "aat:300008347",
+          "aat:300387007",
+          "aat:300000810",
+          "aat:300167671"
+        ],
+        "id": 7032381,
+        "name:xx": "Cahal Pech"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.61,
+          53.579
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032385",
+          "tgn:7001199",
+          "tgn:7003492",
+          "tgn:1000003",
+          "tgn:1000078",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008777"
+        ],
+        "id": 7032385,
+        "name:xx": "Tara, Hill of"
+      }
+    }
+  ]
+}

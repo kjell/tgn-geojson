@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0833,
+          37.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100970",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7594201",
+          "tgn:7007919",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007836"
+        ],
+        "id": 1100970,
+        "name:xx": "Chesapeake Bay Bridge-Tunnel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4833,
+          25.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100972",
+          "tgn:1000004",
+          "tgn:1000454",
+          "tgn:1000141",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007836"
+        ],
+        "id": 1100972,
+        "name:xx": "Chung Hsing Bridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5167,
+          25.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100973",
+          "tgn:1000004",
+          "tgn:1000959",
+          "tgn:1000141",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007836"
+        ],
+        "id": 1100973,
+        "name:xx": "Chungshan Bridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5167,
+          39.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100978",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7594286",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007836"
+        ],
+        "id": 1100978,
+        "name:xx": "Delaware Memorial Bridges"
+      }
+    }
+  ]
+}

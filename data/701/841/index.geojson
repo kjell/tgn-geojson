@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8667,
+          30.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018412",
+          "tgn:7018396",
+          "tgn:1000004",
+          "tgn:1000121",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300007783"
+        ],
+        "id": 7018412,
+        "name:xx": "Maḩaţţat Jurf ad Darāwīsh"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.045,
+          32.015
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018415",
+          "tgn:1000004",
+          "tgn:7018395",
+          "tgn:1000121",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7018415,
+        "name:xx": "Ar Ruşayfah"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.416,
+          30.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018418",
+          "tgn:7001242",
+          "tgn:1000179",
+          "tgn:7593686",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300387145",
+          "aat:300000774"
+        ],
+        "id": 7018418,
+        "name:xx": "Taroudannt, Province de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.75,
+          33.315
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7018419",
+          "tgn:7001242",
+          "tgn:7593674",
+          "tgn:1000179",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300387145",
+          "aat:300000774"
+        ],
+        "id": 7018419,
+        "name:xx": "Sidi Kacem, Province de"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.333,
+          37.283
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6001602",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000719",
+          "tgn:7007254",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000835",
+          "aat:300000833"
+        ],
+        "id": 6001602,
+        "name:xx": "Crooked Creek"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0333,
+          -21.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6001603",
+          "tgn:1010860",
+          "tgn:7001242",
+          "tgn:7030583",
+          "tgn:1000198",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000810",
+          "aat:300387006"
+        ],
+        "id": 6001603,
+        "name:xx": "Cape Cross"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.135278,
+          51.677778
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6001608",
+          "tgn:7002443",
+          "tgn:7018959",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Crumlin",
+        "id": 6001608
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140,
+          -15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000216",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387054",
+          "aat:300387176",
+          "aat:300387120"
+        ],
+        "name:en": "French Polynesia",
+        "id": 1000216
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173,
+          1.416
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Kiribati",
+        "hierarchy": [
+          "tgn:1000217",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "name:ar": "نيرًبات",
+        "placetype": [
+          "aat:300387054",
+          "aat:300387062",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387136",
+          "aat:300235119"
+        ],
+        "name:fr": "Kiribati",
+        "name:gil": "Kiribati",
+        "name:ru": "Кирибати",
+        "name:zh": "基里巴斯",
+        "id": 1000217,
+        "name:es": "Kiribati"
+      }
+    }
+  ]
+}

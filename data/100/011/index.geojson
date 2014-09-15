@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81,
+          7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Sri Lanka",
+        "name:xx": "Sri Lanka",
+        "name:si": "ශ්රී  ලංකා",
+        "hierarchy": [
+          "tgn:1000110",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "سْي لاىكا",
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300387062",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387136"
+        ],
+        "name:fr": "Ilaṅkai",
+        "name:ru": "Шри-Ланка",
+        "name:ta": "இலங்கக",
+        "name:zh": "斯里兰卡",
+        "id": 1000110,
+        "name:es": "Sri Lanka"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105,
+          35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "China",
+        "name:xx": "Chung-hua",
+        "hierarchy": [
+          "tgn:1000111",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "اصًين",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128214",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Chine",
+        "name:ru": "Китай",
+        "name:zh": "中国",
+        "id": 1000111,
+        "name:es": "China"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33,
+          35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:el": "Κύπρος",
+        "name:en": "Kıbrıs",
+        "name:xx": "Kýpros",
+        "hierarchy": [
+          "tgn:1000112",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "كبرص",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Chypre",
+        "name:ru": "Кипр",
+        "name:zh": "塞浦路斯",
+        "id": 1000112,
+        "name:es": "Chipre"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.75,
+          35.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000113",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387139"
+        ],
+        "name:en": "Northern Cyprus",
+        "id": 1000113
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120,
+          -5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Indonesia",
+        "name:nl": "Indonesia",
+        "name:id": "Indonesia",
+        "hierarchy": [
+          "tgn:1000116",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "إهدوهسُ اَ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387136"
+        ],
+        "name:fr": "Indonésie",
+        "name:ru": "Индонезия",
+        "name:zh": "印度尼西亚",
+        "id": 1000116,
+        "name:es": "Indonesia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44,
+          33
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:pt": "Iraque",
+        "name:en": "Iraq",
+        "name:xx": "Al-ʻIrāq",
+        "hierarchy": [
+          "tgn:1000118",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "اَ عًِْرَاق",
+        "name:de": "Irak",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300235096",
+          "aat:300135982"
+        ],
+        "name:fr": "Iraq",
+        "name:ru": "Ирак",
+        "name:zh": "伊拉克",
+        "id": 1000118,
+        "name:es": "Iraq"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.75,
+          31.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Israel",
+        "name:ar": "إِسَْْائِ يَ",
+        "name:xx": "Isrā'īl",
+        "hierarchy": [
+          "tgn:1000119",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:he": "יִשְׂרָאֵל",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Israël",
+        "name:ru": "Израиль",
+        "name:zh": "以色列",
+        "id": 1000119,
+        "name:es": "Israel"
+      }
+    }
+  ]
+}

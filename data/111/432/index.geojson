@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.3333,
+          12.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114320",
+          "tgn:7001242",
+          "tgn:1000183",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266571"
+        ],
+        "id": 1114320,
+        "name:xx": "Cacheu"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5,
+          55.666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114321",
+          "tgn:7002444",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266571"
+        ],
+        "name:en": "Clyde, Firth of",
+        "id": 1114321
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.116667,
+          57.683333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114322",
+          "tgn:7002444",
+          "tgn:1000003",
+          "tgn:7008082",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266571"
+        ],
+        "name:en": "Cromarty Firth",
+        "id": 1114322
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9167,
+          46.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114323",
+          "tgn:1000003",
+          "tgn:7006660",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266571"
+        ],
+        "id": 1114323,
+        "name:xx": "Dneprovskiy Liman"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3333,
+          0.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114326",
+          "tgn:1001668",
+          "tgn:7001242",
+          "tgn:1000164",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266571"
+        ],
+        "id": 1114326,
+        "name:xx": "Gabon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.05,
+          45.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114327",
+          "tgn:7002878",
+          "tgn:1000003",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266571"
+        ],
+        "id": 1114327,
+        "name:xx": "Gironde"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2,
+          -30.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114328",
+          "tgn:1001941",
+          "tgn:1000047",
+          "tgn:7002458",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266571"
+        ],
+        "id": 1114328,
+        "name:xx": "Guaíba"
+      }
+    }
+  ]
+}

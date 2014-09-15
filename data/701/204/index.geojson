@@ -1,0 +1,178 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.626944,
+          39.704444
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012040",
+          "tgn:7002752",
+          "tgn:7001399",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7012040,
+        "name:xx": "Kalambáka"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.564167,
+          36.755
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012041",
+          "tgn:7002745",
+          "tgn:7017076",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375",
+          "aat:300120599"
+        ],
+        "id": 7012041,
+        "name:xx": "Yíthion"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.188611,
+          39.894722
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012042",
+          "tgn:7002750",
+          "tgn:7001399",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7012042,
+        "name:xx": "Elassón"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.033333,
+          53.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012043",
+          "tgn:7002445",
+          "tgn:1003666",
+          "tgn:1000003",
+          "tgn:7029504",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300120599",
+          "aat:300387286"
+        ],
+        "name:en": "Birkenhead",
+        "id": 7012043
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.083333,
+          51.266667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012044",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008153",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387236",
+          "aat:300008347",
+          "aat:300387007",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300387272",
+          "aat:300387285",
+          "aat:300008459",
+          "aat:300387291"
+        ],
+        "name:la": "Durovernum Cantiacorum",
+        "id": 7012044
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.916667,
+          53.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012045",
+          "tgn:7002445",
+          "tgn:7008114",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008416",
+          "aat:300008389",
+          "aat:300387512",
+          "aat:300387220",
+          "aat:300387302",
+          "aat:300120599"
+        ],
+        "id": 7012045,
+        "name:ang": "Cestre"
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2667,
+          43.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1026983",
+          "tgn:7018766",
+          "tgn:1000003",
+          "tgn:7006413",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1026983,
+        "name:xx": "Vetovo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.05,
+          42.2667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1026984",
+          "tgn:7593865",
+          "tgn:1000003",
+          "tgn:7006413",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1026984,
+        "name:xx": "Vetren"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55,
+          43.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1026986",
+          "tgn:7593877",
+          "tgn:1000003",
+          "tgn:7006413",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387223",
+          "aat:300008375",
+          "aat:300387270",
+          "aat:300387302"
+        ],
+        "name:bg": "Vratsa",
+        "id": 1026986
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8333,
+          44
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1026987",
+          "tgn:7593870",
+          "tgn:1000003",
+          "tgn:7006413",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1026987,
+        "name:xx": "Zafirovo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7167,
+          43.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1026988",
+          "tgn:7593868",
+          "tgn:1000003",
+          "tgn:7006413",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1026988,
+        "name:xx": "Zavet"
+      }
+    }
+  ]
+}

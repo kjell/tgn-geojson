@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.961,
+          36.06
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6004853",
+          "tgn:1000001",
+          "tgn:7017645",
+          "tgn:7012149",
+          "tgn:2001452",
+          "tgn:7007566",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000810",
+          "aat:300386958",
+          "aat:300016619"
+        ],
+        "id": 6004853,
+        "name:xx": "Pueblo Bonito"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.786111,
+          33.351111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6004859",
+          "tgn:1000004",
+          "tgn:1001130",
+          "tgn:1000118",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300167671",
+          "aat:300264742"
+        ],
+        "id": 6004859,
+        "name:xx": "Pumbedita"
+      }
+    }
+  ]
+}

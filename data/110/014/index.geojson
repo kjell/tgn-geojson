@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.35,
+          45.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100147",
+          "tgn:7003154",
+          "tgn:1000003",
+          "tgn:7003120",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000641"
+        ],
+        "id": 1100147,
+        "name:xx": "San Michele, Sacra di"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4667,
+          42.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100149",
+          "tgn:7015176",
+          "tgn:1000003",
+          "tgn:7006667",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000641"
+        ],
+        "id": 1100149,
+        "name:xx": "Sveti Arhandjel Mihajlo"
+      }
+    }
+  ]
+}

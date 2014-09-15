@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7833,
+          44.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2045780",
+          "tgn:1000001",
+          "tgn:2000922",
+          "tgn:7012149",
+          "tgn:7007515",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2045780,
+        "name:xx": "Verona"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9833,
+          44.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2045781",
+          "tgn:1000001",
+          "tgn:2000923",
+          "tgn:7012149",
+          "tgn:7007515",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2045781,
+        "name:xx": "Vienna"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6833,
+          45.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2045786",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7014589",
+          "tgn:7007515",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2045786,
+        "name:xx": "Waite"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0667,
+          44.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2045787",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000931",
+          "tgn:7007515",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2045787,
+        "name:xx": "Waldo"
+      }
+    }
+  ]
+}

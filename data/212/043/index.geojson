@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05,
+          39.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2120430",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002279",
+          "tgn:7013961",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2120430,
+        "name:xx": "West Virginia Central Junction"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.25,
+          37.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2120432",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002278",
+          "tgn:7013961",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2120432,
+        "name:xx": "Weyanoke"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.95,
+          37.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2120433",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002280",
+          "tgn:7013961",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2120433,
+        "name:xx": "Wharncliffe"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6667,
+          37.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2120434",
+          "tgn:1000001",
+          "tgn:2002255",
+          "tgn:7012149",
+          "tgn:7013961",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2120434,
+        "name:xx": "Wharton"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4,
+          38.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2120435",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002300",
+          "tgn:7013961",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2120435,
+        "name:xx": "Wheeler"
+      }
+    }
+  ]
+}

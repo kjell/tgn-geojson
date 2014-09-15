@@ -1,0 +1,144 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2167,
+          -22.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016830",
+          "tgn:1001942",
+          "tgn:1000047",
+          "tgn:7002457",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 7016830,
+        "name:xx": "Timbira"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103,
+          5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016831",
+          "tgn:7000317",
+          "tgn:1000004",
+          "tgn:1000128",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300235106",
+          "aat:300000776"
+        ],
+        "id": 7016831,
+        "name:xx": "Terengganu"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.7667,
+          -10.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016832",
+          "tgn:1001834",
+          "tgn:1000047",
+          "tgn:7002455",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7016832,
+        "name:xx": "Tucano"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30,
+          27
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Egypt",
+        "name:xx": "Miṣr",
+        "hierarchy": [
+          "tgn:7016833",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "مِصْ",
+        "name:de": "Ägypten",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387053",
+          "aat:300387174",
+          "aat:300387136",
+          "aat:300235119",
+          "aat:300235101"
+        ],
+        "name:fr": "Égypte",
+        "name:ru": "Египет",
+        "name:zh": "埃及",
+        "id": 7016833,
+        "name:es": "Egipto"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8333,
+          37.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016835",
+          "tgn:1001219",
+          "tgn:1000004",
+          "tgn:7018451",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300008375"
+        ],
+        "id": 7016835,
+        "name:xx": "Pamukkale"
+      }
+    }
+  ]
+}

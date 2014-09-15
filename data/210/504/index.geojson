@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4333,
+          29.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2105041",
+          "tgn:1000001",
+          "tgn:7013727",
+          "tgn:7012149",
+          "tgn:1002456",
+          "tgn:7007826",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2105041,
+        "name:xx": "River Oaks"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4667,
+          29.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2105043",
+          "tgn:1000001",
+          "tgn:7013727",
+          "tgn:7012149",
+          "tgn:1002456",
+          "tgn:7007826",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2105043,
+        "name:xx": "Rosslyn"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3,
+          29.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2105047",
+          "tgn:1000001",
+          "tgn:7013727",
+          "tgn:7012149",
+          "tgn:1002456",
+          "tgn:7007826",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2105047,
+        "name:xx": "Scenic Woods"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5167,
+          29.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2105049",
+          "tgn:1000001",
+          "tgn:7013727",
+          "tgn:7012149",
+          "tgn:1002456",
+          "tgn:7007826",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 2105049,
+        "name:xx": "Sharpstown"
+      }
+    }
+  ]
+}

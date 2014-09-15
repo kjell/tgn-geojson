@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5,
+          15.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:pt": "Iêmen",
+        "name:en": "Yemen",
+        "name:xx": "Al Yaman",
+        "hierarchy": [
+          "tgn:7000261",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "ا يٍمن",
+        "name:de": "Jemen",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387136"
+        ],
+        "name:fr": "Yémen",
+        "name:ru": "Йемен",
+        "name:zh": "也门",
+        "id": 7000261,
+        "name:es": "Yemen"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54,
+          23.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000264",
+          "tgn:1000004",
+          "tgn:1000143",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300235104",
+          "aat:300235105"
+        ],
+        "name:en": "Abu Dhabi",
+        "id": 7000264
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56,
+          25.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000267",
+          "tgn:1000004",
+          "tgn:1000143",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300235104",
+          "aat:300235105"
+        ],
+        "id": 7000267,
+        "name:xx": "Ra's al-Khaymah"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3667,
+          25.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000268",
+          "tgn:1000004",
+          "tgn:1000143",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300235104"
+        ],
+        "name:en": "Sharjah",
+        "id": 7000268
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.75,
+          25.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000269",
+          "tgn:1000004",
+          "tgn:1000143",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300235104"
+        ],
+        "id": 7000269,
+        "name:xx": "Umm al-Qaywayn"
+      }
+    }
+  ]
+}

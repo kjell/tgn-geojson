@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.55,
+          35.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1074240",
+          "tgn:7000837",
+          "tgn:1000004",
+          "tgn:1000112",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1074240,
+        "name:xx": "Athienou"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9667,
+          35.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1074242",
+          "tgn:7001283",
+          "tgn:1000004",
+          "tgn:1000112",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1074242,
+        "name:xx": "Dherinia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3167,
+          35.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1074244",
+          "tgn:7000836",
+          "tgn:1000004",
+          "tgn:1000112",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387222",
+          "aat:300008375",
+          "aat:300120599"
+        ],
+        "id": 1074244,
+        "name:xx": "Kirínia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5,
+          35.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1074245",
+          "tgn:7000839",
+          "tgn:1000004",
+          "tgn:1000112",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1074245,
+        "name:xx": "Kythrea"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8667,
+          35.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1074249",
+          "tgn:7000839",
+          "tgn:1000004",
+          "tgn:1000112",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1074249,
+        "name:xx": "Lefka"
+      }
+    }
+  ]
+}

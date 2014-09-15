@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6667,
+          45.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2055424",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001071",
+          "tgn:7007521",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2055424,
+        "name:xx": "Saint Martin"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.25,
+          46.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2055426",
+          "tgn:1000001",
+          "tgn:2001016",
+          "tgn:7012149",
+          "tgn:7007521",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2055426,
+        "name:xx": "Saint Mathias"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.65,
+          45.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2055427",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001084",
+          "tgn:7007521",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2055427,
+        "name:xx": "Saint Michael"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4333,
+          45.3667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2055428",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001071",
+          "tgn:7007521",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2055428,
+        "name:xx": "Saint Nicholas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5,
+          44.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2055429",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001068",
+          "tgn:7007521",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2055429,
+        "name:xx": "Saint Patrick"
+      }
+    }
+  ]
+}

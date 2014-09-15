@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.55,
+          40.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2093960",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002581",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2093960,
+        "name:xx": "Upper Lawn"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9,
+          41.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2093961",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002612",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2093961,
+        "name:xx": "Upper Lehigh"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.35,
+          40.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2093962",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002690",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2093962,
+        "name:xx": "Upper Merion Township"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3667,
+          40.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2093965",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2093962",
+          "tgn:1002690",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387331"
+        ],
+        "id": 2093965,
+        "name:xx": "Belmont Terrace"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3667,
+          40.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2093966",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2093962",
+          "tgn:1002690",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387331"
+        ],
+        "id": 2093966,
+        "name:xx": "Brandywine Village"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3667,
+          40.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2093967",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2093962",
+          "tgn:1002690",
+          "tgn:7007710",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006495"
+        ],
+        "id": 2093967,
+        "name:xx": "Candlebrook"
+      }
+    }
+  ]
+}

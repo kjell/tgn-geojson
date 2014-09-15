@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.186,
+          -14.471
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7033026",
+          "tgn:1000584",
+          "tgn:1000002",
+          "tgn:1000056",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300016619"
+        ],
+        "id": 7033026,
+        "name:xx": "Conchopata"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.833,
+          30.783
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7033027",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:1001113",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300020344",
+          "aat:300120599",
+          "aat:300385947"
+        ],
+        "id": 7033027,
+        "name:xx": "Tell el-Dab'a"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.835,
+          30.798
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7033028",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:1001113",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300343603",
+          "aat:300120599",
+          "aat:300385947"
+        ],
+        "id": 7033028,
+        "name:xx": "Khata'na-Qantir"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3333,
+          31.833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7033029",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387178"
+        ],
+        "id": 7033029,
+        "name:xx": "Holy Land"
+      }
+    }
+  ]
+}

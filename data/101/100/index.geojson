@@ -1,0 +1,99 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.4167,
+          -71.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011000",
+          "tgn:1000007",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011000,
+        "name:xx": "Norvegia Kapp"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.05,
+          20.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011001",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011001,
+        "name:xx": "Nouâdhibou, Râs"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.25,
+          -27.083333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011005",
+          "tgn:1001768",
+          "tgn:1000049",
+          "tgn:1000002",
+          "tgn:1008543",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850",
+          "aat:300386846"
+        ],
+        "id": 1011005,
+        "name:xx": "O'Higgins, Cabo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.861667,
+          21.893333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1011009",
+          "tgn:1000004",
+          "tgn:7492971",
+          "tgn:1000141",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 1011009,
+        "name:xx": "Ol-uan pi"
+      }
+    }
+  ]
+}

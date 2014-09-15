@@ -1,0 +1,168 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1833,
+          32.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000630",
+          "tgn:7001242",
+          "tgn:7000623",
+          "tgn:1000172",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300387223",
+          "aat:300120599"
+        ],
+        "name:en": "Tripoli",
+        "id": 7000630
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9833,
+          32.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000631",
+          "tgn:7001242",
+          "tgn:7000605",
+          "tgn:1000172",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300120599"
+        ],
+        "id": 7000631,
+        "name:xx": "Ṭubruq"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5333,
+          -5.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000633",
+          "tgn:1001144",
+          "tgn:7001242",
+          "tgn:1000159",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387220",
+          "aat:300008375"
+        ],
+        "id": 7000633,
+        "name:xx": "Matadi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.65,
+          32.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000637",
+          "tgn:7001242",
+          "tgn:7000605",
+          "tgn:1000172",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387223"
+        ],
+        "id": 7000637,
+        "name:xx": "Darnah"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9833,
+          35.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000638",
+          "tgn:7000606",
+          "tgn:7001242",
+          "tgn:1000172",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300387223",
+          "aat:300008375"
+        ],
+        "id": 7000638,
+        "name:xx": "Sūsah"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.85005,
+          32.830386
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000639",
+          "tgn:7000606",
+          "tgn:7001242",
+          "tgn:1000172",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300235115",
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300020072",
+          "aat:300387219",
+          "aat:300387223",
+          "aat:300008375"
+        ],
+        "name:en": "Cyrene",
+        "id": 7000639
+      }
+    }
+  ]
+}

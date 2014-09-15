@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0667,
+          31.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2056580",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001149",
+          "tgn:7007522",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2056580,
+        "name:xx": "Harrisville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9167,
+          31.3833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2056581",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001118",
+          "tgn:7007522",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2056581,
+        "name:xx": "Hathorn"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4167,
+          33.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2056582",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001133",
+          "tgn:7007522",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2056582,
+        "name:xx": "Hatley"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          30.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2056588",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001140",
+          "tgn:7007522",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2056588,
+        "name:xx": "Hawthorne"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.75,
+          34.4333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2056589",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001139",
+          "tgn:7007522",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2056589,
+        "name:xx": "Hayes Crossing"
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2833,
+          41.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2095000",
+          "tgn:1002716",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007711",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2095000,
+        "name:xx": "Melville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8167,
+          41.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2095004",
+          "tgn:1002996",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007711",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2095004,
+        "name:xx": "Misquamicut"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6167,
+          41.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2095005",
+          "tgn:1002808",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007711",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2095005,
+        "name:xx": "Mohegan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4833,
+          41.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2095006",
+          "tgn:1002996",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007711",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2095006,
+        "name:xx": "Mooresfield"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7333,
+          41.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2095008",
+          "tgn:1002996",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007711",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2095008,
+        "name:xx": "Moscow"
+      }
+    }
+  ]
+}

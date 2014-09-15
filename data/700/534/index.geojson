@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.383333,
+          44.416667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005340",
+          "tgn:1000003",
+          "tgn:7003142",
+          "tgn:7003236",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7005340,
+        "name:xx": "Borzonasca"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.316667,
+          44.316667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005341",
+          "tgn:1000003",
+          "tgn:7003142",
+          "tgn:7003236",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387308",
+          "aat:300005135",
+          "aat:300008375",
+          "aat:300387285",
+          "aat:300387291"
+        ],
+        "id": 7005341,
+        "name:xx": "Chiavari"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.983333,
+          43.883333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005345",
+          "tgn:1000003",
+          "tgn:7003141",
+          "tgn:7003236",
+          "tgn:1044940",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387339",
+          "aat:300387336"
+        ],
+        "id": 7005345,
+        "name:xx": "Caramagna Ligure"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.75,
+          17.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Belize",
+        "hierarchy": [
+          "tgn:7005346",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "name:ar": "ب يَز",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Belize",
+        "name:ru": "Белиз",
+        "name:zh": "伯利兹",
+        "id": 7005346,
+        "name:es": "Belice"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1667,
+          17.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005347",
+          "tgn:7005356",
+          "tgn:7005346",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387277",
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387222",
+          "aat:300387219",
+          "aat:300008678",
+          "aat:300387286"
+        ],
+        "id": 7005347,
+        "name:xx": "Belize City"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.016667,
+          43.866667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005348",
+          "tgn:1000003",
+          "tgn:7003141",
+          "tgn:7003236",
+          "tgn:1044940",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745",
+          "aat:300387330",
+          "aat:300387339"
+        ],
+        "id": 7005348,
+        "name:xx": "Porto Maurizio"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.716667,
+          43.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005349",
+          "tgn:1000003",
+          "tgn:7003141",
+          "tgn:7003236",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7005349,
+        "name:xx": "Ospedaletti"
+      }
+    }
+  ]
+}

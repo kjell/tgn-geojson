@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.333333,
+          50.666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011430",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008631",
+          "aat:300387064",
+          "aat:300387145",
+          "aat:300008791",
+          "aat:300387308",
+          "aat:300000771",
+          "aat:300387071"
+        ],
+        "name:en": "Isle of Wight",
+        "id": 7011430
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9167,
+          48.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011434",
+          "tgn:7011506",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7011434,
+        "name:xx": "Chlum"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          50.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Děčín",
+        "hierarchy": [
+          "tgn:7011435",
+          "tgn:7593920",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "name:cs": "Děčín",
+        "name:de": "Tetschen",
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387308"
+        ],
+        "id": 7011435
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.5,
+          39.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011436",
+          "tgn:1000004",
+          "tgn:7006646",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300387110"
+        ],
+        "id": 7011436,
+        "name:xx": "Naxçivan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7,
+          53.716667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011437",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707",
+          "aat:300008699"
+        ],
+        "name:en": "Ouse",
+        "id": 7011437
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48,
+          40.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011438",
+          "tgn:1000004",
+          "tgn:7006646",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300387082"
+        ],
+        "id": 7011438,
+        "name:xx": "central division"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95,
+          43.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011439",
+          "tgn:1003353",
+          "tgn:1000004",
+          "tgn:7014786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300005135",
+          "aat:300264742",
+          "aat:300387220",
+          "aat:300387302"
+        ],
+        "name:en": "Almaty",
+        "id": 7011439
+      }
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4,
+          46.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015590",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:de": "Umbrailpass",
+        "placetype": [
+          "aat:300259572"
+        ],
+        "name:fr": "Umbrail, Cuolm d'",
+        "name:it": "Santa Maria, Giogo di",
+        "id": 7015590
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6167,
+          45.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015591",
+          "tgn:1000003",
+          "tgn:1003508",
+          "tgn:7003237",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7015591,
+        "name:xx": "Cardano al Campo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7333,
+          33.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015593",
+          "tgn:1000001",
+          "tgn:7006451",
+          "tgn:7012149",
+          "tgn:2000101",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7015593,
+        "name:xx": "Sacaton"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.116667,
+          39.216667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015596",
+          "tgn:1001641",
+          "tgn:1000003",
+          "tgn:7003121",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387236",
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300387275",
+          "aat:300387223",
+          "aat:300387220",
+          "aat:300120599",
+          "aat:300387286"
+        ],
+        "id": 7015596,
+        "name:xx": "Cagliari"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9167,
+          46.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015597",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831"
+        ],
+        "name:en": "Ötztaler Alps",
+        "id": 7015597
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7333,
+          46.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015599",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008798"
+        ],
+        "name:de": "Weisskugel",
+        "id": 7015599,
+        "name:it": "Palla Bianca"
+      }
+    }
+  ]
+}

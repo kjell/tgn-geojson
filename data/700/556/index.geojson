@@ -1,0 +1,192 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102,
+          23
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Mexico",
+        "hierarchy": [
+          "tgn:7005560",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "name:ar": "المىس مَ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387053",
+          "aat:300387174"
+        ],
+        "name:fr": "Mexique",
+        "name:ru": "Мексика",
+        "name:zh": "墨西哥",
+        "id": 7005560,
+        "name:es": "México"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85,
+          13
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Nicaragua",
+        "hierarchy": [
+          "tgn:7005562",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "name:ar": "ه كَاراغوا",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Nicaragua",
+        "name:ru": "Никарагуа",
+        "name:zh": "尼加拉瓜",
+        "id": 7005562,
+        "name:es": "Nicaragua"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8833,
+          9.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005563",
+          "tgn:1000001",
+          "tgn:7005565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006075"
+        ],
+        "id": 7005563,
+        "name:xx": "Panama Canal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80,
+          9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Panama",
+        "hierarchy": [
+          "tgn:7005565",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "name:ar": "بنما",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Panama",
+        "name:ru": "Панама",
+        "name:zh": "巴拿马",
+        "id": 7005565,
+        "name:es": "Panamá"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13,
+          45.779167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005566",
+          "tgn:1003506",
+          "tgn:1000003",
+          "tgn:7002993",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7005566,
+        "name:xx": "Latisana"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.148056,
+          45.692222
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005567",
+          "tgn:1003506",
+          "tgn:1000003",
+          "tgn:7002993",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7005567,
+        "name:xx": "Lignano Sabbiadoro"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80,
+          9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005569",
+          "tgn:1000001",
+          "tgn:7005565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008794"
+        ],
+        "id": 7005569,
+        "name:xx": "Panama, Isthmus of"
+      }
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.955,
+          36.811
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031802",
+          "tgn:1002056",
+          "tgn:1000004",
+          "tgn:1000140",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300019273",
+          "aat:300008347",
+          "aat:300387007",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300008545",
+          "aat:300387308",
+          "aat:300387286"
+        ],
+        "id": 7031802,
+        "name:xx": "Tell Hamoukar"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.551,
+          22.118
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031804",
+          "tgn:1000004",
+          "tgn:7005019",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7031804,
+        "name:xx": "Coloane"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.556,
+          22.155
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031805",
+          "tgn:1000004",
+          "tgn:7005019",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7031805,
+        "name:xx": "Taipa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.55,
+          22.127
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031807",
+          "tgn:1000004",
+          "tgn:7005019",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132316"
+        ],
+        "id": 7031807,
+        "name:xx": "Tai Van, Baía de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.555,
+          22.141
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031808",
+          "tgn:1000004",
+          "tgn:7005019",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132316"
+        ],
+        "id": 7031808,
+        "name:xx": "Seac Pai Van, Baía de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.541,
+          22.186
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031809",
+          "tgn:1000004",
+          "tgn:7005019",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680",
+          "aat:300132316"
+        ],
+        "id": 7031809,
+        "name:xx": "Praia Grande, Baía da"
+      }
+    }
+  ]
+}

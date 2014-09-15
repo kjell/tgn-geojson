@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2167,
+          42.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017730",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001715",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000835",
+          "aat:300266556"
+        ],
+        "id": 7017730,
+        "name:xx": "Lake Albert"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4167,
+          37.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017732",
+          "tgn:1000001",
+          "tgn:7014456",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002859",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 7017732,
+        "name:xx": "Mission"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.15,
+          42.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017737",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001714",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008189"
+        ],
+        "id": 7017737,
+        "name:xx": "Crater Lake National Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3333,
+          45.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017739",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001720",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000835"
+        ],
+        "id": 7017739,
+        "name:xx": "Umatilla"
+      }
+    }
+  ]
+}

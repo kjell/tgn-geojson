@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.864,
+          41.037
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017890",
+          "tgn:1000004",
+          "tgn:7024038",
+          "tgn:7006651",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387220",
+          "aat:300008375"
+        ],
+        "name:en": "Ashots'k'",
+        "id": 7017890
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.271,
+          41.124
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017891",
+          "tgn:1000004",
+          "tgn:7024036",
+          "tgn:7006651",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387220",
+          "aat:300008375"
+        ],
+        "name:en": "Tashir",
+        "id": 7017891
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7833,
+          39.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017895",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007516",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008192"
+        ],
+        "id": 7017895,
+        "name:xx": "Patapsco State Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.881,
+          40.382
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017896",
+          "tgn:7017974",
+          "tgn:1000004",
+          "tgn:7006651",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387220",
+          "aat:300008375"
+        ],
+        "name:en": "T'alin",
+        "id": 7017896
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9167,
+          37.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017899",
+          "tgn:1002138",
+          "tgn:1000001",
+          "tgn:2011439",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745",
+          "aat:300008486"
+        ],
+        "id": 7017899,
+        "name:xx": "San Jose, Mission"
+      }
+    }
+  ]
+}

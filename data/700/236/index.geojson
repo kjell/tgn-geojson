@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8333,
+          35.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002363",
+          "tgn:1000004",
+          "tgn:1000113",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300387081"
+        ],
+        "id": 7002363,
+        "name:xx": "Gazimağusa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3333,
+          35.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002364",
+          "tgn:1000004",
+          "tgn:1000113",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300387081"
+        ],
+        "id": 7002364,
+        "name:xx": "Lefkoşa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.586,
+          37.277
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002369",
+          "tgn:1001438",
+          "tgn:1000004",
+          "tgn:7018451",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300235115",
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300008389",
+          "aat:300019275",
+          "aat:300020143"
+        ],
+        "id": 7002369,
+        "name:xx": "İasos"
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0833,
+          42.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2034980",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000654",
+          "tgn:7007253",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2034980,
+        "name:xx": "Industry"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4167,
+          43.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2034981",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000620",
+          "tgn:7007253",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2034981,
+        "name:xx": "Inwood"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.45,
+          43.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2034982",
+          "tgn:1000001",
+          "tgn:2000579",
+          "tgn:7012149",
+          "tgn:7007253",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2034982,
+        "name:xx": "Ionia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4,
+          41.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2034984",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000645",
+          "tgn:7007253",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2034984,
+        "name:xx": "Iowa Center"
+      }
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.9667,
+          8.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005230",
+          "tgn:7000934",
+          "tgn:7005195",
+          "tgn:1000004",
+          "tgn:1000142",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300387219",
+          "aat:300387223",
+          "aat:300008375",
+          "aat:300387270",
+          "aat:300120599"
+        ],
+        "id": 7005230,
+        "name:xx": "Nakhon Si Thammarat"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113,
+          23
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005232",
+          "tgn:1000004",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "name:en": "Canton",
+        "id": 7005232
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.35,
+          36.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Gibraltar",
+        "name:xx": "Jabal Ṭāriq",
+        "hierarchy": [
+          "tgn:7005233",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300387176",
+          "aat:300008804"
+        ],
+        "name:it": "Gibilterra",
+        "id": 7005233
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3167,
+          49.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005236",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386853"
+        ],
+        "id": 7005236,
+        "name:xx": "Channel Islands"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.333,
+          49.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005237",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387054",
+          "aat:300387176",
+          "aat:300387065"
+        ],
+        "name:en": "Guernsey",
+        "id": 7005237
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1167,
+          49.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005238",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387054",
+          "aat:300019258",
+          "aat:300019275",
+          "aat:300387176",
+          "aat:300387065"
+        ],
+        "name:en": "Jersey",
+        "id": 7005238
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1,
+          50
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005239",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008713"
+        ],
+        "name:fr": "La Manche",
+        "name:en": "English Channel",
+        "id": 7005239
+      }
+    }
+  ]
+}

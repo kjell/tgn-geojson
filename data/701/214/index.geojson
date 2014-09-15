@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5,
+          45.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012140",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300002469"
+        ],
+        "name:en": "Lower Trajan's Wall",
+        "id": 7012140
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.566667,
+          51.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012141",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7026518",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375",
+          "aat:300387302"
+        ],
+        "name:en": "Gillingham",
+        "id": 7012141
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1667,
+          47.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012144",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "name:ro": "Stînca-Costești, Lacul",
+        "id": 7012144
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.471111,
+          46.830556
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7012147",
+          "tgn:7017329",
+          "tgn:1000003",
+          "tgn:7006656",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389"
+        ],
+        "id": 7012147,
+        "name:xx": "Bender"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98,
+          38
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "United States",
+        "hierarchy": [
+          "tgn:7012149",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "name:ar": "ا وًلايات المخحدة الأمرٍى ةِ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "États-Unis d'Amérique",
+        "name:ru": "Соединенные Штаты Америки",
+        "name:zh": "美利坚合众国",
+        "id": 7012149,
+        "name:es": "Estados Unidos de América"
+      }
+    }
+  ]
+}

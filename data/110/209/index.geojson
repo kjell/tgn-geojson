@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9333,
+          32.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102093",
+          "tgn:1000001",
+          "tgn:2000316",
+          "tgn:7012149",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1102093,
+        "name:xx": "Fort Pulaski National Monument"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105,
+          35.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102095",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001446",
+          "tgn:7007566",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300167671",
+          "aat:300007037",
+          "aat:300006909",
+          "aat:300387286"
+        ],
+        "id": 1102095,
+        "name:xx": "Fort Union"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.05,
+          -3.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102097",
+          "tgn:7001242",
+          "tgn:7593770",
+          "tgn:1000169",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008189",
+          "aat:300006958"
+        ],
+        "id": 1102097,
+        "name:xx": "Gede National Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.35,
+          36.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102099",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001223",
+          "tgn:7007523",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008187"
+        ],
+        "id": 1102099,
+        "name:xx": "George Washington Carver National Monument"
+      }
+    }
+  ]
+}

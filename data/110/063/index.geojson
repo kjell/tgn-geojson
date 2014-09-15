@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0833,
+          51.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100630",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008153",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300005433"
+        ],
+        "id": 1100630,
+        "name:xx": "Quebec House"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5,
+          -20.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100632",
+          "tgn:7001242",
+          "tgn:1001423",
+          "tgn:1000185",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000833"
+        ],
+        "id": 1100632,
+        "name:xx": "Rhodes' Tomb"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.7333,
+          -13.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100636",
+          "tgn:1009572",
+          "tgn:1000239",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000833"
+        ],
+        "id": 1100636,
+        "name:xx": "Robert Louis Stevenson's Tomb"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5333,
+          -28.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100637",
+          "tgn:7001242",
+          "tgn:7016749",
+          "tgn:1000193",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000833"
+        ],
+        "id": 1100637,
+        "name:xx": "Rorke's Drift"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8167,
+          53.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100639",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008154",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300005768",
+          "aat:300000238"
+        ],
+        "id": 1100639,
+        "name:xx": "Rufford Old Hall"
+      }
+    }
+  ]
+}

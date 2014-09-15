@@ -1,0 +1,162 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.25,
+          17.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002160",
+          "tgn:1000004",
+          "tgn:1000108",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000776"
+        ],
+        "id": 7002160,
+        "name:xx": "Mon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96,
+          18
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002161",
+          "tgn:1000004",
+          "tgn:1000108",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300387082"
+        ],
+        "id": 7002161,
+        "name:xx": "Bago"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.65,
+          16.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002164",
+          "tgn:1000004",
+          "tgn:7002160",
+          "tgn:1000108",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387512",
+          "aat:300387221",
+          "aat:300120599",
+          "aat:300387286"
+        ],
+        "id": 7002164,
+        "name:xx": "Moulmein"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.3333,
+          16.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002165",
+          "tgn:1000004",
+          "tgn:7002160",
+          "tgn:1000108",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7002165,
+        "name:xx": "Thaton"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0167,
+          21.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002168",
+          "tgn:1000004",
+          "tgn:7002171",
+          "tgn:1000108",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387219",
+          "aat:300008375"
+        ],
+        "id": 7002168,
+        "name:xx": "Amarapura"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0667,
+          21.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002169",
+          "tgn:1000004",
+          "tgn:7002171",
+          "tgn:1000108",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387222",
+          "aat:300387219",
+          "aat:300387220",
+          "aat:300387272",
+          "aat:300387286"
+        ],
+        "id": 7002169,
+        "name:xx": "Mandalay"
+      }
+    }
+  ]
+}

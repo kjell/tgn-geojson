@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153,
+          71
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1112230",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008687"
+        ],
+        "id": 1112230,
+        "name:xx": "Arctic Ocean"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135,
+          -50
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1112234",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008687"
+        ],
+        "id": 1112234,
+        "name:xx": "Southern Ocean"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.6667,
+          34.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1112238",
+          "tgn:1000004",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008694"
+        ],
+        "id": 1112238,
+        "name:xx": "Aki-nada"
+      }
+    }
+  ]
+}

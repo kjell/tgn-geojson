@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3075,
+          35.890278
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001160",
+          "tgn:7001152",
+          "tgn:1000003",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387264",
+          "aat:300387512",
+          "aat:300164060",
+          "aat:300387270",
+          "aat:300120599",
+          "aat:300387291",
+          "aat:300387286"
+        ],
+        "id": 7001160,
+        "name:xx": "Ceuta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.526267,
+          29.973714
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001164",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:1001110",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387512",
+          "aat:300387220",
+          "aat:300387302",
+          "aat:300120599",
+          "aat:300387286"
+        ],
+        "name:en": "Suez",
+        "id": 7001164
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.833333,
+          39.333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001165",
+          "tgn:1000003",
+          "tgn:7002793",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000774"
+        ],
+        "id": 7001165,
+        "name:xx": "Valencia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.453,
+          41.903
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Holy See",
+        "hierarchy": [
+          "tgn:7001168",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "ا ىًرسي ا رًسولي",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Saint-Siège",
+        "name:it": "Santa Sede",
+        "name:ru": "Святой Престол",
+        "name:zh": "教廷",
+        "id": 7001168,
+        "name:es": "Santa Sede"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2667,
+          32
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001169",
+          "tgn:7001242",
+          "tgn:7016752",
+          "tgn:1000799",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008686",
+          "aat:300387225",
+          "aat:300008375"
+        ],
+        "id": 7001169,
+        "name:xx": "Wargla"
+      }
+    }
+  ]
+}

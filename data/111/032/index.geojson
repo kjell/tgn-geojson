@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1833,
+          43.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110320",
+          "tgn:1000003",
+          "tgn:7002885",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132339"
+        ],
+        "id": 1110320,
+        "name:xx": "Larzac"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81,
+          22.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110327",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:1001894",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132339"
+        ],
+        "id": 1110327,
+        "name:xx": "Maikala Plateau"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6667,
+          22.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1110328",
+          "tgn:1000488",
+          "tgn:7001242",
+          "tgn:1000181",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132339"
+        ],
+        "id": 1110328,
+        "name:xx": "Manguéni, Plateau du"
+      }
+    }
+  ]
+}

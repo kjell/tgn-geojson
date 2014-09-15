@@ -1,0 +1,151 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6833,
+          42.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118881",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002982",
+          "tgn:7007922",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 1118881,
+        "name:xx": "Whitewater Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.8833,
+          59.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118883",
+          "tgn:7006450",
+          "tgn:1000001",
+          "tgn:2000071",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 1118883,
+        "name:xx": "Wood River Lakes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6667,
+          50.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118886",
+          "tgn:1000004",
+          "tgn:7011457",
+          "tgn:7014786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266556"
+        ],
+        "id": 1118886,
+        "name:xx": "Shalkar, Ozero"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8333,
+          52.2667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118887",
+          "tgn:1000004",
+          "tgn:7011458",
+          "tgn:7014786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266556"
+        ],
+        "id": 1118887,
+        "name:xx": "Šureksor, ozero"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1667,
+          52.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118888",
+          "tgn:1000004",
+          "tgn:7011458",
+          "tgn:7014786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266556"
+        ],
+        "id": 1118888,
+        "name:xx": "Zhalauly, Ozero"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5,
+          49
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1118889",
+          "tgn:1000004",
+          "tgn:7012925",
+          "tgn:7014786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300266556"
+        ],
+        "id": 1118889,
+        "name:xx": "Zhamanakkol, Ozero"
+      }
+    }
+  ]
+}

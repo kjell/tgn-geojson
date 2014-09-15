@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6833,
+          48.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2061390",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001280",
+          "tgn:7007524",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2061390,
+        "name:xx": "Havre"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.6833,
+          47.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2061393",
+          "tgn:1000001",
+          "tgn:2001262",
+          "tgn:7012149",
+          "tgn:7007524",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2061393,
+        "name:xx": "Hays"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8333,
+          48.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2061394",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001296",
+          "tgn:7007524",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2061394,
+        "name:xx": "Heart Butte"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.25,
+          46.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2061395",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001273",
+          "tgn:7007524",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2061395,
+        "name:xx": "Heath"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5,
+          46.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2061396",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001313",
+          "tgn:7007524",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2061396,
+        "name:xx": "Hedgesville"
+      }
+    }
+  ]
+}

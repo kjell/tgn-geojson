@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5833,
+          39.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017980",
+          "tgn:7014201",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2017980,
+        "name:xx": "Lancaster Village"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6167,
+          39.7167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017983",
+          "tgn:7014201",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387016"
+        ],
+        "id": 2017983,
+        "name:xx": "Landenberg Junction"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5667,
+          38.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017984",
+          "tgn:1002933",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2017984,
+        "name:xx": "Laurel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5167,
+          39.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017987",
+          "tgn:1002538",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2017987,
+        "name:xx": "Leipsic"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1333,
+          38.7667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2017988",
+          "tgn:1002933",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007239",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2017988,
+        "name:xx": "Lewes"
+      }
+    }
+  ]
+}

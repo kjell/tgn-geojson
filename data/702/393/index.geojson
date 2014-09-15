@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.15,
+          16.733
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7023931",
+          "tgn:7023928",
+          "tgn:1000001",
+          "tgn:7004786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7023931,
+        "name:xx": "Bethel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.2,
+          16.783
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7023932",
+          "tgn:7023929",
+          "tgn:1000001",
+          "tgn:7004786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008375",
+          "aat:300120599"
+        ],
+        "id": 7023932,
+        "name:xx": "Saint John's"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.2,
+          16.69
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7023933",
+          "tgn:7023927",
+          "tgn:1000001",
+          "tgn:7004786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7023933,
+        "name:xx": "Saint Patrick's"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2,
+          16.783
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7023936",
+          "tgn:7023929",
+          "tgn:1000001",
+          "tgn:7004786",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7023936,
+        "name:xx": "Saint Peter"
+      }
+    }
+  ]
+}

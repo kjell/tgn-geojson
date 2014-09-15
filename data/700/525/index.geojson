@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.783333,
+          52.166667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005250",
+          "tgn:1000003",
+          "tgn:7003676",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7005250,
+        "name:xx": "Nord-stemmen"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6667,
+          52.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005251",
+          "tgn:1000003",
+          "tgn:7594165",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000771"
+        ],
+        "id": 7005251,
+        "name:xx": "Osnabrück"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.05,
+          52.266667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005252",
+          "tgn:1000003",
+          "tgn:7003676",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387255",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300264742",
+          "aat:300387235",
+          "aat:300387270"
+        ],
+        "id": 7005252,
+        "name:de": "Osnabrück"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.55,
+          52.166667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005253",
+          "tgn:1000003",
+          "tgn:7003676",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387240",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300264742"
+        ],
+        "id": 7005253,
+        "name:de": "Wolfenbüttel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1884,
+          49.1756
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005257",
+          "tgn:1000003",
+          "tgn:7005238",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300019258",
+          "aat:300386972",
+          "aat:300000810",
+          "aat:300048808",
+          "aat:300391483",
+          "aat:300387247",
+          "aat:300387006"
+        ],
+        "id": 7005257,
+        "name:xx": "La Cotte de St. Brelade"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          54.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Isle of Man",
+        "hierarchy": [
+          "tgn:7005258",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:de": "Insel Man",
+        "placetype": [
+          "aat:300387054",
+          "aat:300387176"
+        ],
+        "name:fr": "Île de Man",
+        "id": 7005258
+      }
+    }
+  ]
+}

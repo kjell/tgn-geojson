@@ -1,0 +1,118 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7,
+          36.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002390",
+          "tgn:1001102",
+          "tgn:7018452",
+          "tgn:1000004",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7002390,
+        "name:xx": "Belenli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35,
+          29.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002391",
+          "tgn:7029446",
+          "tgn:1000004",
+          "tgn:1000121",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375",
+          "aat:300164060",
+          "aat:300120599"
+        ],
+        "id": 7002391,
+        "name:xx": "Al-ʻAqabah"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9333,
+          31.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002392",
+          "tgn:1002055",
+          "tgn:1000004",
+          "tgn:1000121",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387264",
+          "aat:300387219",
+          "aat:300264742",
+          "aat:300387512",
+          "aat:300387220",
+          "aat:300008375",
+          "aat:300387284",
+          "aat:300387270",
+          "aat:300387286"
+        ],
+        "id": 7002392,
+        "name:xx": "ʻAmmān"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.56,
+          40.31
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Pontus",
+        "name:xx": "Pontus",
+        "hierarchy": [
+          "tgn:7002399",
+          "tgn:1000004",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387356",
+          "aat:300387179",
+          "aat:300235096"
+        ],
+        "name:la": "Pontus",
+        "id": 7002399
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5833,
+          38.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102453",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008192"
+        ],
+        "id": 1102453,
+        "name:xx": "Robert Louis Stevenson Memorial State Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.25,
+          40.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102454",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002924",
+          "tgn:7007568",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008192"
+        ],
+        "id": 1102454,
+        "name:xx": "Robert Moses State Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9667,
+          42.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102456",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1003030",
+          "tgn:7007251",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008192"
+        ],
+        "id": 1102456,
+        "name:xx": "Rock Cut State Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9167,
+          41.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102457",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002833",
+          "tgn:7007568",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008192"
+        ],
+        "id": 1102457,
+        "name:xx": "Rockland Lake State Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4667,
+          39.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1102458",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002476",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008192"
+        ],
+        "id": 1102458,
+        "name:xx": "Rocky Fork State Park"
+      }
+    }
+  ]
+}

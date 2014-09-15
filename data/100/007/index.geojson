@@ -1,0 +1,147 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2,
+          46
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:pt": "França",
+        "name:en": "France",
+        "name:nl": "Frankreich",
+        "hierarchy": [
+          "tgn:1000070",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "فروسا",
+        "name:de": "Francia",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128214",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300055529"
+        ],
+        "name:fr": "Frankrijk",
+        "name:it": "France",
+        "name:ru": "Франция",
+        "name:zh": "法国",
+        "id": 1000070,
+        "name:es": "Francia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22,
+          39
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:el": "Ελλάς",
+        "name:en": "Greece",
+        "name:nl": "Griekenland",
+        "name:xx": "Ellás",
+        "hierarchy": [
+          "tgn:1000074",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "ا وًَنان",
+        "name:de": "Griechenland",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387053",
+          "aat:300387174",
+          "aat:300387189"
+        ],
+        "name:fr": "Grèce",
+        "name:it": "Grecia",
+        "name:ru": "Греция",
+        "name:zh": "希腊",
+        "id": 1000074,
+        "name:es": "Grecia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18,
+          65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Iceland",
+        "name:nl": "IJsland",
+        "hierarchy": [
+          "tgn:1000077",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "آ سٌ يَدا",
+        "name:fr": "Islande",
+        "placetype": [
+          "aat:300387054",
+          "aat:300387062",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300235096"
+        ],
+        "name:is": "Ísland",
+        "name:la": "Islandia",
+        "name:it": "Islanda",
+        "name:ru": "Исландия",
+        "name:zh": "冰岛",
+        "id": 1000077,
+        "name:es": "Islandia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8,
+          53
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:ga": "Éire",
+        "name:en": "Ireland",
+        "name:nl": "Ierland",
+        "hierarchy": [
+          "tgn:1000078",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "آ رًٍيدا",
+        "name:de": "Irland",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387138",
+          "aat:300387174"
+        ],
+        "name:fr": "Irlande",
+        "name:ru": "Ирландия",
+        "name:zh": "爱尔兰",
+        "id": 1000078,
+        "name:es": "Irlanda"
+      }
+    }
+  ]
+}

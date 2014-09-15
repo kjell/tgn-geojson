@@ -1,0 +1,139 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1,
+          37.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017630",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000787",
+          "tgn:7007255",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008189",
+          "aat:300008746"
+        ],
+        "id": 7017630,
+        "name:xx": "Mammoth Cave"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1,
+          42.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017633",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001714",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "id": 7017633,
+        "name:xx": "Crater Lake"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05,
+          34.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017635",
+          "tgn:1000001",
+          "tgn:7016172",
+          "tgn:7012149",
+          "tgn:2000130",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008189"
+        ],
+        "id": 7017635,
+        "name:xx": "Hot Springs National Park"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.488,
+          37.183
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017636",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000233",
+          "tgn:7007158",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300016954",
+          "aat:300008347",
+          "aat:300008189",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300005662",
+          "aat:300008749",
+          "aat:300263063"
+        ],
+        "id": 7017636,
+        "name:xx": "Mesa Verde"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.95,
+          37.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7017637",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2002127",
+          "tgn:7007827",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008189",
+          "aat:300008763"
+        ],
+        "id": 7017637,
+        "name:xx": "Zion"
+      }
+    }
+  ]
+}

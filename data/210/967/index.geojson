@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.75,
+          44.5667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109670",
+          "tgn:1000001",
+          "tgn:1002361",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2109670,
+        "name:xx": "Granby"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2833,
+          44.7167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109671",
+          "tgn:1000001",
+          "tgn:1002415",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2109671,
+        "name:xx": "Grand Isle"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8333,
+          43.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109674",
+          "tgn:2002130",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2109674,
+        "name:xx": "Granville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2,
+          44.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109678",
+          "tgn:2002131",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2109678,
+        "name:xx": "Green Bay"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5167,
+          43.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109679",
+          "tgn:1000001",
+          "tgn:2002136",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2109679,
+        "name:xx": "Greenbush"
+      }
+    }
+  ]
+}

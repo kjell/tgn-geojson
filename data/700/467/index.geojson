@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.883333,
+          47.733333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004671",
+          "tgn:7003669",
+          "tgn:1000003",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7004671,
+        "name:xx": "Bad Reichenhall"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.65,
+          47.766667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004673",
+          "tgn:7003669",
+          "tgn:1000003",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7004673,
+        "name:xx": "Ruhpolding"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.733333,
+          47.933333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004674",
+          "tgn:7003669",
+          "tgn:1000003",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7004674,
+        "name:xx": "Waging am See"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.65,
+          47.883333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004676",
+          "tgn:7003669",
+          "tgn:1000003",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7004676,
+        "name:xx": "Traunstein"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.5,
+          18.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:pt": "Virgens Britânicas, Ilhas",
+        "name:en": "British Virgin Islands",
+        "hierarchy": [
+          "tgn:7004677",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "name:de": "Britischen Junferninseln",
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300387176"
+        ],
+        "name:fr": "Îles Vierges britanniques",
+        "id": 7004677,
+        "name:es": "Islas Vírgenes Británicas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64,
+          18
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004679",
+          "tgn:1000001",
+          "tgn:1010020",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386853"
+        ],
+        "id": 7004679,
+        "name:xx": "Virgin Islands"
+      }
+    }
+  ]
+}

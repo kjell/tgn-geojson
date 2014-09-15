@@ -1,0 +1,196 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69,
+          12.166
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593111",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387054",
+          "aat:300387176"
+        ],
+        "name:nl": "Land Curaĉao",
+        "id": 7593111
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.25,
+          12.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593113",
+          "tgn:7593112",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387213",
+          "aat:300387173"
+        ],
+        "name:en": "Bonaire",
+        "id": 7593113
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.866,
+          17.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593114",
+          "tgn:7593112",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387213",
+          "aat:300387173"
+        ],
+        "name:en": "Sint Eustatius",
+        "id": 7593114
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.233,
+          17.633
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593115",
+          "tgn:7593112",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387213",
+          "aat:300387173"
+        ],
+        "name:en": "Saba",
+        "id": 7593115
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.683,
+          -15.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593116",
+          "tgn:7005278",
+          "tgn:7001242",
+          "tgn:7005277",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7593116,
+        "name:xx": "Longwood"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.733,
+          -16.016
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593117",
+          "tgn:7005278",
+          "tgn:7001242",
+          "tgn:7005277",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 7593117,
+        "name:xx": "White Bird Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.716,
+          -15.916
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593118",
+          "tgn:7005278",
+          "tgn:7001242",
+          "tgn:7005277",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387007"
+        ],
+        "id": 7593118,
+        "name:xx": "Ruperts Battery"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.416,
+          -7.933
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593119",
+          "tgn:7014204",
+          "tgn:7001242",
+          "tgn:7005277",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7593119,
+        "name:xx": "Georgetown"
+      }
+    }
+  ]
+}

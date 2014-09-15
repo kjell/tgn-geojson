@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.444444,
+          22.771389
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7500710",
+          "tgn:7001004",
+          "tgn:1000004",
+          "tgn:1000141",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000202"
+        ],
+        "id": 7500710,
+        "name:xx": "Xuanhuashan Wenhuayuan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.436111,
+          22.798056
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7500712",
+          "tgn:7001004",
+          "tgn:1000004",
+          "tgn:1000141",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7500712,
+        "name:xx": "Shuangkeng"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.421111,
+          22.807222
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7500714",
+          "tgn:7001004",
+          "tgn:1000004",
+          "tgn:1000141",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008798"
+        ],
+        "id": 7500714,
+        "name:xx": "Nanzhongliao Shan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.54801,
+          24.085092
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7500716",
+          "tgn:1000004",
+          "tgn:7467799",
+          "tgn:1000141",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "id": 7500716,
+        "name:xx": "Wanbeizhuang"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.560243,
+          24.081548
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7500717",
+          "tgn:1000004",
+          "tgn:7467799",
+          "tgn:1000141",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006610"
+        ],
+        "id": 7500717,
+        "name:xx": "Zhanghua Shifan Daxue"
+      }
+    }
+  ]
+}

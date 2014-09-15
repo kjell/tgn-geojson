@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1,
+          39.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7013330",
+          "tgn:2001610",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7013330,
+        "name:xx": "Athens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3833,
+          33.7333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7013331",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000351",
+          "tgn:7007248",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008416",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300387275",
+          "aat:300005135",
+          "aat:300264742",
+          "aat:300387512",
+          "aat:300387221",
+          "aat:300006726",
+          "aat:300387284",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300387267",
+          "aat:300387291"
+        ],
+        "id": 7013331,
+        "name:xx": "Atlanta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4167,
+          39.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7013332",
+          "tgn:1002157",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300000547",
+          "aat:300387270",
+          "aat:300387291",
+          "aat:300387286"
+        ],
+        "id": 7013332,
+        "name:xx": "Atlantic City"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.733333,
+          48.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7013338",
+          "tgn:7003669",
+          "tgn:1000003",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300387235"
+        ],
+        "id": 7013338,
+        "name:de": "Freising"
+      }
+    }
+  ]
+}

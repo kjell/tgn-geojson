@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6667,
+          36.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000350",
+          "tgn:7001242",
+          "tgn:7016752",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000772"
+        ],
+        "id": 7000350,
+        "name:xx": "Constantine"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8,
+          31.8167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000354",
+          "tgn:7001242",
+          "tgn:7593677",
+          "tgn:1000179",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300387512",
+          "aat:300387223",
+          "aat:300343603",
+          "aat:300387272",
+          "aat:300387270",
+          "aat:300387291",
+          "aat:300387286"
+        ],
+        "name:en": "Marakesh",
+        "id": 7000354
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25,
+          -8.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000356",
+          "tgn:7001242",
+          "tgn:1000149",
+          "tgn:1000883",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387264",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300387223",
+          "aat:300120599"
+        ],
+        "id": 7000356,
+        "name:xx": "Luanda"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.15,
+          -7.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7000357",
+          "tgn:1000811",
+          "tgn:7001242",
+          "tgn:1000149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7000357,
+        "name:xx": "Ambriz"
+      }
+    }
+  ]
+}

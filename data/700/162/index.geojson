@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4833,
+          15.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001620",
+          "tgn:7001242",
+          "tgn:1001086",
+          "tgn:1000201",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300387512",
+          "aat:300008375",
+          "aat:300387285",
+          "aat:300387286"
+        ],
+        "id": 7001620,
+        "name:xx": "Umm Durmān"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.483,
+          22.333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001621",
+          "tgn:1001069",
+          "tgn:7001242",
+          "tgn:1000201",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008057"
+        ],
+        "id": 7001621,
+        "name:xx": "‘Aydhāb"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3667,
+          13.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001622",
+          "tgn:7001242",
+          "tgn:1000201",
+          "tgn:1001213",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387277",
+          "aat:300008347",
+          "aat:300387223",
+          "aat:300008375",
+          "aat:300387285"
+        ],
+        "id": 7001622,
+        "name:xx": "El Fasher"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.1167,
+          9.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001623",
+          "tgn:7001242",
+          "tgn:1001056",
+          "tgn:7441551",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7001623,
+        "name:xx": "Kodok"
+      }
+    }
+  ]
+}

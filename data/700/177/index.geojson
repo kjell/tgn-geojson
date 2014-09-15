@@ -1,0 +1,198 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.083333,
+          -39.066667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001770",
+          "tgn:1008380",
+          "tgn:1000226",
+          "tgn:7016827",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "New Plymouth",
+        "id": 7001770
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.25,
+          -38.925
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001771",
+          "tgn:1008380",
+          "tgn:1000226",
+          "tgn:7016827",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000835"
+        ],
+        "name:en": "Waitara",
+        "id": 7001771
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.916667,
+          -39.483333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001773",
+          "tgn:7016670",
+          "tgn:1008380",
+          "tgn:1000226",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300120599"
+        ],
+        "name:en": "Napier",
+        "id": 7001773
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.916667,
+          -41.216667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001774",
+          "tgn:1008380",
+          "tgn:1000226",
+          "tgn:7000512",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300005630"
+        ],
+        "name:en": "Lower Hutt",
+        "id": 7001774
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.783333,
+          -41.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001775",
+          "tgn:1008380",
+          "tgn:1000226",
+          "tgn:7000512",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300387511",
+          "aat:300387219",
+          "aat:300005135",
+          "aat:300387512",
+          "aat:300387270",
+          "aat:300387296"
+        ],
+        "name:en": "Wellington",
+        "id": 7001775
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3667,
+          36.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001776",
+          "tgn:1000004",
+          "tgn:7002085",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386994",
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387249",
+          "aat:300387302",
+          "aat:300120599"
+        ],
+        "id": 7001776,
+        "name:xx": "Qingdao"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.4333,
+          32.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001779",
+          "tgn:1000004",
+          "tgn:7002081",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300120599"
+        ],
+        "id": 7001779,
+        "name:xx": "Zhenjiang"
+      }
+    }
+  ]
+}

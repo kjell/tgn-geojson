@@ -1,0 +1,129 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65,
+          -17
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:pt": "Bolívia",
+        "name:en": "Bolivia",
+        "hierarchy": [
+          "tgn:1000046",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "name:ar": "بو فًَاِ",
+        "name:de": "Bolivien",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Bolivie",
+        "name:ru": "Боливия",
+        "name:zh": "玻利维亚",
+        "id": 1000046,
+        "name:es": "Bolivia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55,
+          -10
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:pt": "Brasil",
+        "name:en": "Brazil",
+        "name:nl": "Brazilië",
+        "hierarchy": [
+          "tgn:1000047",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "name:ar": "ابًرازًي",
+        "name:de": "Brasilien",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Brésil",
+        "name:it": "Brasile",
+        "name:ru": "Бразилия",
+        "name:zh": "巴西",
+        "id": 1000047,
+        "name:es": "Brasil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45,
+          -60
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000048",
+          "tgn:1000003",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300235115",
+          "aat:300387064"
+        ],
+        "id": 1000048,
+        "name:xx": "British Antarctic Territory"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71,
+          -30
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Chile",
+        "name:nl": "Chili",
+        "hierarchy": [
+          "tgn:1000049",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "name:ar": "ص لَي",
+        "name:de": "Chile",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387053",
+          "aat:300387174",
+          "aat:300387191"
+        ],
+        "name:fr": "Chili",
+        "name:ru": "Чили",
+        "name:zh": "智利",
+        "id": 1000049,
+        "name:es": "Chile"
+      }
+    }
+  ]
+}

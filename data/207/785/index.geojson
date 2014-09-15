@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3667,
+          48.2833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2077856",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001606",
+          "tgn:7007705",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2077856,
+        "name:xx": "Minto"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2833,
+          46.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2077857",
+          "tgn:2001564",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007705",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2077857,
+        "name:xx": "Moffit"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5,
+          48.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2077858",
+          "tgn:1000001",
+          "tgn:2001594",
+          "tgn:7012149",
+          "tgn:7007705",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2077858,
+        "name:xx": "Mohall"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5833,
+          46.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2077859",
+          "tgn:1000001",
+          "tgn:2001567",
+          "tgn:7012149",
+          "tgn:7007705",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2077859,
+        "name:xx": "Monango"
+      }
+    }
+  ]
+}

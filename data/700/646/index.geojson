@@ -1,0 +1,144 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6167,
+          9.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006460",
+          "tgn:1001208",
+          "tgn:1000001",
+          "tgn:7005565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7006460,
+        "name:xx": "Portobelo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9,
+          9.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006461",
+          "tgn:1001208",
+          "tgn:1000001",
+          "tgn:7005565",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7006461,
+        "name:xx": "Cristóbal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4333,
+          50.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006464",
+          "tgn:7593923",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300019258",
+          "aat:300008347",
+          "aat:300019470",
+          "aat:300008389",
+          "aat:300019267",
+          "aat:300387219",
+          "aat:300005135",
+          "aat:300264742",
+          "aat:300387512",
+          "aat:300343603",
+          "aat:300387235",
+          "aat:300387272",
+          "aat:300387270",
+          "aat:300387302"
+        ],
+        "name:en": "Prague",
+        "name:cs": "Praha",
+        "id": 7006464
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1667,
+          48.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006465",
+          "tgn:7027126",
+          "tgn:1000003",
+          "tgn:7011765",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300264742",
+          "aat:300387220",
+          "aat:300387302"
+        ],
+        "id": 7006465,
+        "name:xx": "Bratislava"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1667,
+          48.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006468",
+          "tgn:1000003",
+          "tgn:7011765",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387179",
+          "aat:300236112"
+        ],
+        "id": 7006468,
+        "name:xx": "Stredoslovenský Kraj"
+      }
+    }
+  ]
+}

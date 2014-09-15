@@ -1,0 +1,156 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1333,
+          21.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1019100",
+          "tgn:7005325",
+          "tgn:1010367",
+          "tgn:1000001",
+          "tgn:7004630",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008375"
+        ],
+        "id": 1019100,
+        "name:xx": "Grand Turk"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0667,
+          21.9167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1019101",
+          "tgn:1009905",
+          "tgn:1008375",
+          "tgn:1000001",
+          "tgn:7004630",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1019101,
+        "name:xx": "Kew"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.65,
+          18.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1019102",
+          "tgn:1009495",
+          "tgn:7004677",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008375",
+          "aat:300120599"
+        ],
+        "id": 1019102,
+        "name:xx": "Road Town"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6667,
+          18.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1019106",
+          "tgn:7005135",
+          "tgn:1000001",
+          "tgn:7005118",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1019106,
+        "name:xx": "East End"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7833,
+          17.7167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1019108",
+          "tgn:7005132",
+          "tgn:1000001",
+          "tgn:7005118",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1019108,
+        "name:xx": "Kingshill"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.8667,
+          18.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1019109",
+          "tgn:7005136",
+          "tgn:1000001",
+          "tgn:7005118",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1019109,
+        "name:xx": "Nadir"
+      }
+    }
+  ]
+}

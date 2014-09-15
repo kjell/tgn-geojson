@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.284,
+          39.717
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016610",
+          "tgn:7001285",
+          "tgn:1000004",
+          "tgn:7018450",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671"
+        ],
+        "id": 7016610,
+        "name:xx": "Neandria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65,
+          33
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:pt": "Afeganistão",
+        "name:en": "Afghanistan",
+        "name:xx": "Afghānistān, Jamhūrī-ye Islāmī-ye",
+        "hierarchy": [
+          "tgn:7016612",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387189",
+          "aat:300000774"
+        ],
+        "name:fr": "Afghanistan",
+        "name:ru": "Афганистан",
+        "name:zh": "阿富汗",
+        "id": 7016612,
+        "name:es": "Afganistán"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.732846,
+          26.794457
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016615",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:7016722",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Basti",
+        "id": 7016615
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.249,
+          52.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016616",
+          "tgn:1000003",
+          "tgn:7006657",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 7016616,
+        "name:xx": "Byarezina"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38,
+          42
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Black Sea",
+        "hierarchy": [
+          "tgn:7016619",
+          "tgn:7029392"
+        ],
+        "name:de": "Schwarzes Meer",
+        "placetype": [
+          "aat:300008694"
+        ],
+        "id": 7016619,
+        "name:es": "Negro, Mar"
+      }
+    }
+  ]
+}

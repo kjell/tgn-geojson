@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.589722,
+          59.346389
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114390",
+          "tgn:1000003",
+          "tgn:1000088",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008676"
+        ],
+        "id": 1114390,
+        "name:xx": "Oslofjorden"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1167,
+          66.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114394",
+          "tgn:7593553",
+          "tgn:1000001",
+          "tgn:7024573",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008676"
+        ],
+        "id": 1114394,
+        "name:xx": "Kangerlussuaq"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5,
+          67.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1114396",
+          "tgn:7593554",
+          "tgn:1000001",
+          "tgn:7024573",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008676"
+        ],
+        "id": 1114396,
+        "name:xx": "Sermilik"
+      }
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60,
+          -2.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024091",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386845"
+        ],
+        "name:en": "Amazon Basin",
+        "id": 7024091
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60,
+          -2.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024092",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008871"
+        ],
+        "name:en": "Amazon Rain Forest",
+        "id": 7024092
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20,
+          0.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024094",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386845"
+        ],
+        "id": 7024094,
+        "name:xx": "Congo Basin"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.6667,
+          37.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024095",
+          "tgn:1000004",
+          "tgn:7014835",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387179"
+        ],
+        "id": 7024095,
+        "name:xx": "Kurgan-Tyubinskaya Oblast'"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.85,
+          38.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024096",
+          "tgn:1000004",
+          "tgn:7014835",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387067"
+        ],
+        "id": 7024096,
+        "name:xx": "Dushanbe"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3333,
+          49.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Flanders",
+        "name:nl": "Flandern",
+        "name:xx": "Vlaanderen",
+        "hierarchy": [
+          "tgn:7024097",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:de": "Vlaanderen",
+        "placetype": [
+          "aat:300387356",
+          "aat:300387178",
+          "aat:300000771",
+          "aat:300235101"
+        ],
+        "name:fr": "Flandre",
+        "id": 7024097
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4667,
+          49.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024098",
+          "tgn:7593919",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7024098,
+        "name:xx": "Unetice"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3667,
+          50.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024099",
+          "tgn:1003530",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300019275",
+          "aat:300008372",
+          "aat:300391489"
+        ],
+        "name:en": "Unetice",
+        "name:cs": "Únětice",
+        "id": 7024099
+      }
+    }
+  ]
+}

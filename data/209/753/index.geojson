@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6167,
+          45.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2097530",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001824",
+          "tgn:7007713",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2097530,
+        "name:xx": "Shady Beach"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4667,
+          43.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2097531",
+          "tgn:1000001",
+          "tgn:2001819",
+          "tgn:7012149",
+          "tgn:7007713",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2097531,
+        "name:xx": "Sherman"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.55,
+          44.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2097532",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001821",
+          "tgn:7007713",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2097532,
+        "name:xx": "Silver City"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0333,
+          44.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2097533",
+          "tgn:1000001",
+          "tgn:2001775",
+          "tgn:7012149",
+          "tgn:7007713",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2097533,
+        "name:xx": "Sinai"
+      }
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25,
+          9.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Benin",
+        "hierarchy": [
+          "tgn:1000160",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "بنن",
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300235096",
+          "aat:300135982"
+        ],
+        "name:fr": "Benin",
+        "name:ru": "Бенин",
+        "name:zh": "贝宁",
+        "id": 1000160,
+        "name:es": "Bénin"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10,
+          2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:pt": "Guiné Equatorial",
+        "name:en": "Guinée équatoriale",
+        "hierarchy": [
+          "tgn:1000161",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "غ اًَِالاس خوائ ةَ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387136"
+        ],
+        "name:fr": "Guinea Ecuatorial",
+        "name:ru": "Экваториальная Гвинея",
+        "name:zh": "赤道几内亚",
+        "id": 1000161,
+        "name:es": "Equatorial Guinea"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.5,
+          -49.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000163",
+          "tgn:1000007",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387054",
+          "aat:300387120"
+        ],
+        "name:en": "French Southern and Antarctic Territories",
+        "id": 1000163
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.75,
+          -1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Gabon",
+        "hierarchy": [
+          "tgn:1000164",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "غابون",
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387136",
+          "aat:300135982"
+        ],
+        "name:fr": "Gabon",
+        "name:ru": "Габон",
+        "name:zh": "加蓬",
+        "id": 1000164,
+        "name:es": "Gabón"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.5,
+          13.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "The Gambia",
+        "hierarchy": [
+          "tgn:1000165",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "غامب اَ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Gambie",
+        "name:ru": "Гамбия",
+        "name:zh": "冈比亚",
+        "id": 1000165,
+        "name:es": "Gambia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2,
+          8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Ghana",
+        "hierarchy": [
+          "tgn:1000166",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "غانا",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387136"
+        ],
+        "name:fr": "Ghana",
+        "name:ru": "Гана",
+        "name:zh": "加纳",
+        "id": 1000166,
+        "name:es": "Ghana"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10,
+          11
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Guinea",
+        "hierarchy": [
+          "tgn:1000167",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "غ اًَِ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387136",
+          "aat:300235119",
+          "aat:300135982"
+        ],
+        "name:fr": "Guinea",
+        "name:ru": "Гвинея",
+        "name:zh": "几内亚",
+        "id": 1000167,
+        "name:es": "Guinée"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5,
+          8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Côte d'Ivoire",
+        "hierarchy": [
+          "tgn:1000168",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "هوت د فًوار",
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387136",
+          "aat:300235119",
+          "aat:300135982"
+        ],
+        "name:fr": "Côte d'Ivoire",
+        "name:ru": "Кот-д'Ивуар",
+        "name:zh": "科特迪瓦",
+        "id": 1000168,
+        "name:es": "Côte d'Ivoire"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38,
+          1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Kenya",
+        "hierarchy": [
+          "tgn:1000169",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "ه اًَِ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387136",
+          "aat:300235119"
+        ],
+        "name:fr": "Kenya",
+        "name:sw": "Kenya",
+        "name:ru": "Кения",
+        "name:zh": "肯尼亚",
+        "id": 1000169,
+        "name:es": "Kenya"
+      }
+    }
+  ]
+}

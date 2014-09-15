@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1,
+          34.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2008580",
+          "tgn:1000001",
+          "tgn:7016172",
+          "tgn:7012149",
+          "tgn:2000164",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2008580,
+        "name:xx": "Jacksonville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7,
+          35.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2008586",
+          "tgn:1000001",
+          "tgn:7016172",
+          "tgn:7012149",
+          "tgn:2000136",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2008586,
+        "name:xx": "Jamestown"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.45,
+          35.4333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2008587",
+          "tgn:1000001",
+          "tgn:7016172",
+          "tgn:7012149",
+          "tgn:2000140",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2008587,
+        "name:xx": "Jamestown"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8,
+          35.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2008588",
+          "tgn:1000001",
+          "tgn:7016172",
+          "tgn:7012149",
+          "tgn:2000148",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2008588,
+        "name:xx": "Japton"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1833,
+          36
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2008589",
+          "tgn:1000001",
+          "tgn:7016172",
+          "tgn:7012149",
+          "tgn:2000155",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2008589,
+        "name:xx": "Jasper"
+      }
+    }
+  ]
+}

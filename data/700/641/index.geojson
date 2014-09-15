@@ -1,0 +1,177 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25,
+          43
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Bulgaria",
+        "name:xx": "Bǎlgarija",
+        "hierarchy": [
+          "tgn:7006413",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "ب غَاريا",
+        "name:de": "Bulgarien",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Bulgarie",
+        "name:ru": "Болгария",
+        "name:bg": "България",
+        "name:zh": "保加利亚",
+        "id": 7006413,
+        "name:es": "Bulgaria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.15,
+          22.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006414",
+          "tgn:1001424",
+          "tgn:1000001",
+          "tgn:7004624",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300132316"
+        ],
+        "id": 7006414,
+        "name:xx": "Cochinos, Bahía de"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8167,
+          20
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006416",
+          "tgn:1001525",
+          "tgn:1000001",
+          "tgn:7004624",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300387223",
+          "aat:300387291"
+        ],
+        "id": 7006416,
+        "name:xx": "Santiago de Cuba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20,
+          41
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Albania",
+        "name:nl": "Albanië",
+        "hierarchy": [
+          "tgn:7006417",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "أ بًاه اَ",
+        "name:de": "Albanien",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Albanie",
+        "name:sq": "Shqipëria",
+        "name:ru": "Албания",
+        "name:zh": "阿尔巴尼亚",
+        "id": 7006417,
+        "name:es": "Albania"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0833,
+          42.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006418",
+          "tgn:7006434",
+          "tgn:1000003",
+          "tgn:7006417",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387223"
+        ],
+        "id": 7006418,
+        "name:xx": "Bajram Curri"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7667,
+          40.7167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7006419",
+          "tgn:7006424",
+          "tgn:1000003",
+          "tgn:7006417",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300008389",
+          "aat:300387238",
+          "aat:300387223",
+          "aat:300263063"
+        ],
+        "id": 7006419,
+        "name:xx": "Berat"
+      }
+    }
+  ]
+}

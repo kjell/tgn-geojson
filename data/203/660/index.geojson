@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7,
+          39.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2036608",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000740",
+          "tgn:7007254",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2036608,
+        "name:xx": "Keats"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2667,
+          37.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2036609",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000746",
+          "tgn:7007254",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2036609,
+        "name:xx": "Kechi"
+      }
+    }
+  ]
+}

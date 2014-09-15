@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159,
+          -8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Solomon Islands",
+        "hierarchy": [
+          "tgn:1000233",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "name:ar": "جزر س يَمان",
+        "placetype": [
+          "aat:300387054",
+          "aat:300387347",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300235117"
+        ],
+        "name:fr": "Islas Salomón",
+        "name:ru": "Соломоновы Острова",
+        "name:zh": "所罗门群岛",
+        "id": 1000233,
+        "name:es": "Îles Salomon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178,
+          -8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Tuvalu",
+        "name:tvl": "Tuvalu",
+        "hierarchy": [
+          "tgn:1000236",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "name:ar": "ثوفا وً",
+        "placetype": [
+          "aat:300387054",
+          "aat:300387062",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387189",
+          "aat:300235119"
+        ],
+        "name:fr": "Tuvalu",
+        "name:ru": "Тувалу",
+        "name:zh": "图瓦卢",
+        "id": 1000236,
+        "name:es": "Tuvalu"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.3333,
+          -13.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:sm": "Samoa",
+        "name:en": "Samoa",
+        "hierarchy": [
+          "tgn:1000239",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "name:ar": "ساموا",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387189",
+          "aat:300235117"
+        ],
+        "name:fr": "Samoa",
+        "name:ru": "Самоа",
+        "name:zh": "萨摩亚",
+        "id": 1000239,
+        "name:es": "Samoa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1833,
+          41.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103233",
+          "tgn:7002808",
+          "tgn:7030216",
+          "tgn:7007426",
+          "tgn:1000003",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007268"
+        ],
+        "id": 1103233,
+        "name:xx": "Plaza de Toros Monumental"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35,
+          52.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103234",
+          "tgn:7003712",
+          "tgn:1005101",
+          "tgn:7069166",
+          "tgn:7003670",
+          "tgn:1000003",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007268"
+        ],
+        "id": 1103234,
+        "name:xx": "Poststadion"
+      }
+    }
+  ]
+}

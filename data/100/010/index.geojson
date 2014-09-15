@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21,
+          44
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Serbia and Montenegro",
+        "name:sh": "Srbija-Crna Gora",
+        "hierarchy": [
+          "tgn:1000102",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:de": "Serbien und Montenegro",
+        "placetype": [
+          "aat:300387054",
+          "aat:300387356",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Serbie-et-Monténégro",
+        "id": 1000102,
+        "name:es": "Serbia y Montenegro"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90,
+          24
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Bangladesh",
+        "name:nl": "Bangla Desj",
+        "name:xx": "Bāṁlādesh",
+        "hierarchy": [
+          "tgn:1000105",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "بيغلادشٌ",
+        "name:fr": "Bangladesh",
+        "name:de": "Bangladesch",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300000774"
+        ],
+        "name:bn": "বাংলাদেশ",
+        "name:ru": "Бангладеш",
+        "name:zh": "孟加拉国",
+        "id": 1000105,
+        "name:es": "Bangladesh"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6667,
+          4.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Brunei Darussalam",
+        "name:ms": "Brunei",
+        "hierarchy": [
+          "tgn:1000107",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "بروني دار اسًلام",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387139",
+          "aat:300387189",
+          "aat:300235119",
+          "aat:300235106"
+        ],
+        "name:fr": "Brunéi Darussalam",
+        "name:ru": "Бруней-Даруссалам",
+        "name:zh": "文莱达鲁萨兰国",
+        "id": 1000107,
+        "name:es": "Brunei Darussalam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98,
+          22
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Myanmar",
+        "name:xx": "Myanmar",
+        "hierarchy": [
+          "tgn:1000108",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "م اِنمار",
+        "name:my": "မြန်ြာ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387136",
+          "aat:300235096",
+          "aat:300000774"
+        ],
+        "name:fr": "Myanmar",
+        "name:ru": "Мьянма",
+        "name:zh": "缅甸",
+        "id": 1000108,
+        "name:es": "Myanma"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105,
+          13
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Cambodia",
+        "name:xx": "Kâmpŭchéa",
+        "hierarchy": [
+          "tgn:1000109",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:km": "កម្ពុជា",
+        "name:ar": "كمبوديا",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300235119",
+          "aat:300387137",
+          "aat:300235096"
+        ],
+        "name:fr": "Cambodge",
+        "name:ru": "Камбоджа",
+        "name:zh": "柬埔寨",
+        "id": 1000109,
+        "name:es": "Camboya"
+      }
+    }
+  ]
+}

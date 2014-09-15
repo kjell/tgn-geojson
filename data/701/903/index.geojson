@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0833,
+          52.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7019030",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7029506",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000778",
+          "aat:300387071",
+          "aat:300387173"
+        ],
+        "name:en": "Dudley",
+        "id": 7019030
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2,
+          52.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7019031",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7029506",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000778",
+          "aat:300387071",
+          "aat:300387173"
+        ],
+        "name:en": "Walsall",
+        "id": 7019031
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1667,
+          52.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7019032",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7029506",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000778",
+          "aat:300387071",
+          "aat:300387173"
+        ],
+        "name:en": "Wolverhampton",
+        "id": 7019032
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.3667,
+          37.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7019036",
+          "tgn:1000976",
+          "tgn:1000004",
+          "tgn:7000893",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7019036,
+        "name:xx": "Tanagura"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5833,
+          53.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7019038",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7029507",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300387071",
+          "aat:300387337"
+        ],
+        "name:en": "Leeds",
+        "id": 7019038
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6667,
+          39.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7019039",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2000553",
+          "tgn:7007252",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7019039,
+        "name:xx": "Broad Park"
+      }
+    }
+  ]
+}

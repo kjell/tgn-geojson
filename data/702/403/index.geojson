@@ -1,0 +1,142 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6833,
+          37.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024030",
+          "tgn:1001438",
+          "tgn:1000004",
+          "tgn:7018451",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810"
+        ],
+        "id": 7024030,
+        "name:xx": "Karakuyu"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.033333,
+          50.983333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024031",
+          "tgn:1000003",
+          "tgn:7003689",
+          "tgn:7000084",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387275",
+          "aat:300264742",
+          "aat:300387512",
+          "aat:300387235",
+          "aat:300387220",
+          "aat:300387221",
+          "aat:300387272",
+          "aat:300387270",
+          "aat:300387302"
+        ],
+        "id": 7024031,
+        "name:xx": "Erfurt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.264,
+          36.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024032",
+          "tgn:7001242",
+          "tgn:7016752",
+          "tgn:7593699",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387277",
+          "aat:300008347",
+          "aat:300387320",
+          "aat:300387235",
+          "aat:300008375"
+        ],
+        "id": 7024032,
+        "name:xx": "Mila"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.321,
+          39.727
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024034",
+          "tgn:1000004",
+          "tgn:7024040",
+          "tgn:7006651",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008699"
+        ],
+        "name:en": "Yeghegis",
+        "id": 7024034,
+        "name:xx": "Elegis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.931,
+          40.848
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024038",
+          "tgn:1000004",
+          "tgn:7006651",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "name:en": "Shirak province",
+        "id": 7024038
+      }
+    }
+  ]
+}

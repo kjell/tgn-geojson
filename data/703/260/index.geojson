@@ -1,0 +1,166 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.233333,
+          59
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032604",
+          "tgn:7002444",
+          "tgn:1000003",
+          "tgn:7009907",
+          "tgn:1007984",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387007",
+          "aat:300000810",
+          "aat:300008057"
+        ],
+        "name:en": "Ring of Brodgar",
+        "id": 7032604
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.521,
+          52.968
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032605",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008160",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387007",
+          "aat:300000810",
+          "aat:300019275",
+          "aat:300387272"
+        ],
+        "id": 7032605,
+        "name:xx": "Seahenge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          51.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Rhine Valley",
+        "name:nl": "Rijn",
+        "hierarchy": [
+          "tgn:7032606",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:de": "Rhein",
+        "placetype": [
+          "aat:300008761"
+        ],
+        "name:fr": "Rhin",
+        "id": 7032606
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4,
+          44.333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032607",
+          "tgn:7005126",
+          "tgn:1000003",
+          "tgn:7003120",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000792"
+        ],
+        "id": 7032607,
+        "name:xx": "Gaiola"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.395,
+          18.402
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032608",
+          "tgn:7005361",
+          "tgn:7005346",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300017826",
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300387000"
+        ],
+        "id": 7032608,
+        "name:xx": "Santa Rita Corozal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.389,
+          13.806
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032609",
+          "tgn:7005455",
+          "tgn:1000001",
+          "tgn:7005441",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300167671",
+          "aat:300008057"
+        ],
+        "id": 7032609,
+        "name:xx": "San Andréas"
+      }
+    }
+  ]
+}

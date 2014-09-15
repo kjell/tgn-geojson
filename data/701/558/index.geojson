@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5833,
+          12.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015580",
+          "tgn:7001242",
+          "tgn:1000182",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000776"
+        ],
+        "id": 7015580,
+        "name:xx": "Katsina"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7833,
+          46.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015581",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7020792",
+          "tgn:7007524",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7015581,
+        "name:xx": "Warm Springs"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0333,
+          11.8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015582",
+          "tgn:7001242",
+          "tgn:7015045",
+          "tgn:1000182",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387221",
+          "aat:300008375"
+        ],
+        "id": 7015582,
+        "name:xx": "Dutsi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.466667,
+          44.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7015585",
+          "tgn:7003127",
+          "tgn:1000003",
+          "tgn:7008516",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300008375"
+        ],
+        "id": 7015585,
+        "name:xx": "Ozzano"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.35,
+          46.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Splügen Pass",
+        "hierarchy": [
+          "tgn:7015589",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:de": "Splügenpass",
+        "placetype": [
+          "aat:300259572"
+        ],
+        "name:it": "Spluga, Passo della",
+        "id": 7015589
+      }
+    }
+  ]
+}

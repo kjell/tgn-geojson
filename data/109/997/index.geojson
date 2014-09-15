@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.408333,
+          19.447222
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1099971",
+          "tgn:1000001",
+          "tgn:7005599",
+          "tgn:7005560",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387007",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300008057",
+          "aat:300008375",
+          "aat:300000833"
+        ],
+        "id": 1099971,
+        "name:xx": "Zempoala"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8167,
+          61.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1099973",
+          "tgn:7003653",
+          "tgn:1000003",
+          "tgn:1000088",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007466"
+        ],
+        "id": 1099973,
+        "name:xx": "Borgund"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5833,
+          40.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1099976",
+          "tgn:7006448",
+          "tgn:1000003",
+          "tgn:7006417",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007466"
+        ],
+        "id": 1099976,
+        "name:xx": "Dhërmiu"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.05,
+          47.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1099978",
+          "tgn:1000003",
+          "tgn:7002892",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 1099978,
+        "name:xx": "Fontevrault, Abbaye de"
+      }
+    }
+  ]
+}

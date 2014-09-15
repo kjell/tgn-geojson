@@ -1,0 +1,151 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2667,
+          44.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111411",
+          "tgn:1000003",
+          "tgn:7002885",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008767"
+        ],
+        "id": 1111411,
+        "name:xx": "Tarn, Gorges du"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.2667,
+          20.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111414",
+          "tgn:7001242",
+          "tgn:1001684",
+          "tgn:1000176",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008773"
+        ],
+        "id": 1111414,
+        "name:xx": "'Ogol, Khatt des"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6333,
+          30.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111416",
+          "tgn:1002058",
+          "tgn:1000004",
+          "tgn:1000121",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008773",
+          "aat:300379998"
+        ],
+        "id": 1111416,
+        "name:xx": "ʻAfrā', Wādī"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5667,
+          18.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111417",
+          "tgn:1001069",
+          "tgn:7001242",
+          "tgn:1000201",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008773"
+        ],
+        "id": 1111417,
+        "name:xx": "ʻAmūr, Wādī"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5833,
+          32.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111418",
+          "tgn:1000004",
+          "tgn:1002085",
+          "tgn:1000121",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008773"
+        ],
+        "id": 1111418,
+        "name:xx": "ʻArab, Wādī al-"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.584,
+          30.256
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1111419",
+          "tgn:1000004",
+          "tgn:1000121",
+          "tgn:1002092",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008773",
+          "aat:300379998"
+        ],
+        "id": 1111419,
+        "name:xx": "ʻArfā', Wādī al-"
+      }
+    }
+  ]
+}

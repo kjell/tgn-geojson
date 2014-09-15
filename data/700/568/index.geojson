@@ -1,0 +1,153 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63,
+          17.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005680",
+          "tgn:7004783",
+          "tgn:7593114",
+          "tgn:7593112",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "name:nl": "Oranjestad",
+        "id": 7005680
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96,
+          60
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Canada",
+        "hierarchy": [
+          "tgn:7005685",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "name:ar": "ويدا",
+        "name:de": "Kanada",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Canada",
+        "name:ru": "Канада",
+        "name:zh": "加拿大",
+        "id": 7005685,
+        "name:es": "Canadá"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.05,
+          45.566667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005686",
+          "tgn:7024833",
+          "tgn:1000003",
+          "tgn:7003120",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300005135",
+          "aat:300387223"
+        ],
+        "id": 7005686,
+        "name:xx": "Biella"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.666667,
+          45.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005688",
+          "tgn:7003154",
+          "tgn:1000003",
+          "tgn:7003120",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387236",
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300005135",
+          "aat:300387223",
+          "aat:300387320",
+          "aat:300387311",
+          "aat:300387220",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300008459",
+          "aat:300387296"
+        ],
+        "name:en": "Turin",
+        "id": 7005688
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766667,
+          45.366667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005689",
+          "tgn:7003154",
+          "tgn:1000003",
+          "tgn:7003120",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7005689,
+        "name:xx": "Agliè"
+      }
+    }
+  ]
+}

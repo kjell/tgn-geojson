@@ -1,0 +1,156 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.05,
+          44.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109841",
+          "tgn:1000001",
+          "tgn:2002134",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2109841,
+        "name:xx": "Newbury"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1333,
+          44.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109842",
+          "tgn:1000001",
+          "tgn:2002134",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2109842,
+        "name:xx": "Newbury Center"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.65,
+          42.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109843",
+          "tgn:1000001",
+          "tgn:1003029",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2109843,
+        "name:xx": "Newfane"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.15,
+          44.1167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109844",
+          "tgn:2002130",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2109844,
+        "name:xx": "New Haven"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1,
+          44.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109846",
+          "tgn:2002130",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2109846,
+        "name:xx": "New Haven Mills"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2,
+          44.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109847",
+          "tgn:1000001",
+          "tgn:1002753",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2109847,
+        "name:xx": "Newport"
+      }
+    }
+  ]
+}

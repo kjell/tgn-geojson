@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.05,
+          -8.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024260",
+          "tgn:7001242",
+          "tgn:7016706",
+          "tgn:1000159",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7024260,
+        "name:xx": "Kinwa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9167,
+          51.0667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024262",
+          "tgn:1000003",
+          "tgn:7024122",
+          "tgn:7006366",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7024262,
+        "name:xx": "Swidry"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.35,
+          51.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024263",
+          "tgn:1000003",
+          "tgn:7024128",
+          "tgn:7006366",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7024263,
+        "name:xx": "Swidry"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5,
+          48.1667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024265",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:de": "Elsass",
+        "placetype": [
+          "aat:300387178"
+        ],
+        "name:fr": "Alsace",
+        "name:la": "Alsatia",
+        "id": 7024265
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5833,
+          45.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024266",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387178"
+        ],
+        "name:fr": "Auvergne",
+        "id": 7024266
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3,
+          48
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Brittany",
+        "hierarchy": [
+          "tgn:7024267",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:br": "Breiz",
+        "placetype": [
+          "aat:300387178",
+          "aat:300310709",
+          "aat:300387137",
+          "aat:300000774"
+        ],
+        "name:fr": "Bretagne",
+        "name:la": "Britannia minor",
+        "id": 7024267
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4167,
+          49
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024269",
+          "tgn:1000003",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387178",
+          "aat:300000774"
+        ],
+        "id": 7024269,
+        "name:xx": "Île-de-France"
+      }
+    }
+  ]
+}

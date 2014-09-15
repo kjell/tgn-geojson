@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22,
+          21
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6000325",
+          "tgn:7001242",
+          "tgn:1000968",
+          "tgn:1000156",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387142"
+        ],
+        "id": 6000325,
+        "name:xx": "Aozou Strip"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.95,
+          35.016667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6000329",
+          "tgn:7002690",
+          "tgn:7012056",
+          "tgn:1000003",
+          "tgn:1000074",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671"
+        ],
+        "id": 6000329,
+        "name:xx": "Apesokari"
+      }
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.934,
+          32.71
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032990",
+          "tgn:1000808",
+          "tgn:1000004",
+          "tgn:1000119",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300391433",
+          "aat:300019267",
+          "aat:300229352"
+        ],
+        "id": 7032990,
+        "name:xx": "Atlit-Yam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.84,
+          17.937
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032991",
+          "tgn:7018589",
+          "tgn:7006662",
+          "tgn:7005559",
+          "tgn:1000001",
+          "tgn:7005556",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387241",
+          "aat:300000810",
+          "aat:300008057",
+          "aat:300229352"
+        ],
+        "name:en": "submerged port",
+        "id": 7032991
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.775,
+          31.363
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032992",
+          "tgn:1001053",
+          "tgn:1000004",
+          "tgn:7018451",
+          "tgn:1000144",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300020059",
+          "aat:300019276",
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300386958",
+          "aat:300229352"
+        ],
+        "id": 7032992,
+        "name:xx": "Liman Tepe"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9,
+          38.916
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032993",
+          "tgn:1006232",
+          "tgn:1000882",
+          "tgn:1000003",
+          "tgn:1000090",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:pt": "Alhandra",
+        "id": 7032993
+      }
+    }
+  ]
+}

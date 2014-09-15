@@ -1,0 +1,252 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38,
+          35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Syrian Arab Republic",
+        "name:xx": "Sūrīyah",
+        "hierarchy": [
+          "tgn:1000140",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "سورِ ةًَ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387136"
+        ],
+        "name:fr": "République arabe syrienne",
+        "name:ru": "Сирийская Арабская Республика",
+        "name:zh": "阿拉伯叙利亚共和国",
+        "id": 1000140,
+        "name:es": "República Árabe Siria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121,
+          23.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Taiwan",
+        "name:xx": "Chung-hua Min-kuo",
+        "hierarchy": [
+          "tgn:1000141",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387047",
+          "aat:300387136"
+        ],
+        "name:fr": "Taïwan",
+        "id": 1000141,
+        "name:es": "Taiwán"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100,
+          15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Thailand",
+        "name:xx": "Prathet Thai",
+        "hierarchy": [
+          "tgn:1000142",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "تا يًَد",
+        "name:fr": "Thaïlande",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387189",
+          "aat:300387136",
+          "aat:300235096"
+        ],
+        "name:th": "ประเทศไทย",
+        "name:ru": "Таиланд",
+        "name:zh": "泰国",
+        "id": 1000142,
+        "name:es": "Tailandia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54,
+          24
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "United Arab Emirates",
+        "name:xx": "Al Imārāt",
+        "hierarchy": [
+          "tgn:1000143",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "الإمارات ا عًرب ةَ المخحدة",
+        "name:de": "Vereinigte Arabische Emirate",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300232424"
+        ],
+        "name:fr": "Émirats arabes unis",
+        "name:ru": "Объединенные Арабские Эмираты",
+        "name:zh": "阿拉伯联合酋长国",
+        "id": 1000143,
+        "name:es": "Emiratos Árabes Unidos"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35,
+          39
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Turkey",
+        "name:xx": "Türkiye",
+        "hierarchy": [
+          "tgn:1000144",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "حره اَ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300235106"
+        ],
+        "name:fr": "Turquie",
+        "name:ru": "Турция",
+        "name:zh": "土耳其",
+        "id": 1000144,
+        "name:es": "Turquía"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106,
+          16
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Viet Nam",
+        "hierarchy": [
+          "tgn:1000145",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "ف تَِ نام",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Viet Nam",
+        "name:ru": "Вьетнам",
+        "name:vi": "Việt Nam",
+        "name:zh": "越南",
+        "id": 1000145,
+        "name:es": "Viet Nam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5,
+          15.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000146",
+          "tgn:1000004",
+          "tgn:7000261",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300128207",
+          "aat:300236112"
+        ],
+        "id": 1000146,
+        "name:xx": "North Yemen"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5,
+          -12.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:pt": "Angola",
+        "name:en": "Angola",
+        "hierarchy": [
+          "tgn:1000149",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "أهغولا",
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300000774"
+        ],
+        "name:fr": "Angola",
+        "name:it": "Angola",
+        "name:ru": "Ангола",
+        "name:zh": "安哥拉",
+        "id": 1000149,
+        "name:es": "Angola"
+      }
+    }
+  ]
+}

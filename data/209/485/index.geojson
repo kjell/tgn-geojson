@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15,
+          41.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2094850",
+          "tgn:1002716",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007711",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387247"
+        ],
+        "id": 2094850,
+        "name:xx": "Briggs Beach"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.25,
+          41.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2094857",
+          "tgn:1002716",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007711",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2094857,
+        "name:xx": "Bristol Ferry"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3833,
+          41.8167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2094858",
+          "tgn:1002808",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007711",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006610"
+        ],
+        "id": 2094858,
+        "name:xx": "Bryant College"
+      }
+    }
+  ]
+}

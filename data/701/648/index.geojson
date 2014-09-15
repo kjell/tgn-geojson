@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.35,
+          -1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016480",
+          "tgn:1000004",
+          "tgn:1001553",
+          "tgn:1000116",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387511",
+          "aat:300387223",
+          "aat:300387270",
+          "aat:300387296"
+        ],
+        "id": 7016480,
+        "name:xx": "Padang"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.75,
+          -2.9833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016481",
+          "tgn:1000004",
+          "tgn:1001554",
+          "tgn:1000116",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300264742",
+          "aat:300387223",
+          "aat:300120599"
+        ],
+        "id": 7016481,
+        "name:xx": "Palembang"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3333,
+          -0.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016482",
+          "tgn:1000004",
+          "tgn:1001553",
+          "tgn:1000116",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7016482,
+        "name:xx": "Bukittinggi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.45,
+          38.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016486",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007157",
+          "tgn:1002841",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7016486,
+        "name:xx": "Parkway"
+      }
+    }
+  ]
+}

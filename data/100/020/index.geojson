@@ -1,0 +1,230 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13,
+          24.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000200",
+          "tgn:7001242",
+          "tgn:1000179",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300387064",
+          "aat:300387139",
+          "aat:300387136",
+          "aat:300235119",
+          "aat:300000774"
+        ],
+        "name:en": "Western Sahara",
+        "id": 1000200
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30,
+          15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:pt": "Sudão",
+        "name:en": "As Sūdān",
+        "name:nl": "Soedan",
+        "name:xx": "Sudan",
+        "hierarchy": [
+          "tgn:1000201",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "اسًودان",
+        "placetype": [
+          "aat:300387054",
+          "aat:300235116",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387136"
+        ],
+        "name:fr": "Soudan",
+        "name:ru": "Судан",
+        "name:zh": "苏丹",
+        "id": 1000201,
+        "name:es": "Sudán"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35,
+          -6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Tanzania",
+        "hierarchy": [
+          "tgn:1000203",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "جُهور ةً ثنزاه اَ المخحدة",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "République-Unie de Tanzanie",
+        "name:sw": "Tanzania",
+        "name:ru": "Объединенная Республика Танзания",
+        "name:zh": "坦桑尼亚联合共和国",
+        "id": 1000203,
+        "name:es": "República Unida de Tanzanía"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9,
+          34
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Tunisia",
+        "name:xx": "Tūnis",
+        "hierarchy": [
+          "tgn:1000205",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "ثووس",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387189",
+          "aat:300387136",
+          "aat:300235119"
+        ],
+        "name:fr": "Tunisie",
+        "name:ru": "Тунис",
+        "name:zh": "突尼斯",
+        "id": 1000205,
+        "name:es": "Túnez"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33,
+          2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Uganda",
+        "hierarchy": [
+          "tgn:1000206",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "أوغيدا",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387136",
+          "aat:300235119"
+        ],
+        "name:fr": "Ouganda",
+        "name:ru": "Уганда",
+        "name:zh": "乌干达",
+        "id": 1000206,
+        "name:es": "Uganda"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2,
+          13
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Burkina Faso",
+        "hierarchy": [
+          "tgn:1000208",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "بوره يَا فاسو",
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300235119",
+          "aat:300387183",
+          "aat:300135982"
+        ],
+        "name:fr": "Burkina Faso",
+        "name:ru": "Буркина-Фасо",
+        "name:zh": "布基纳法索",
+        "id": 1000208,
+        "name:es": "Burkina"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30,
+          -15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Zambia",
+        "hierarchy": [
+          "tgn:1000209",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "زامب اَ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Zambie",
+        "name:ru": "Замбия",
+        "name:zh": "赞比亚",
+        "id": 1000209,
+        "name:es": "Zambia"
+      }
+    }
+  ]
+}

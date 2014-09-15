@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          27.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387175",
+          "aat:300387136",
+          "aat:300235096"
+        ],
+        "name:en": "Bhutan",
+        "name:xx": "Druk Yul",
+        "hierarchy": [
+          "tgn:7014831",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "بوتان",
+        "name:dz": "འབྲུག་ཡུལ་",
+        "name:fr": "Bhoutan",
+        "name:ru": "Бутан",
+        "name:zh": "不丹",
+        "id": 7014831,
+        "name:es": "Bhutān"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71,
+          39
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Tajikistan",
+        "name:xx": "Tojikiston",
+        "hierarchy": [
+          "tgn:7014835",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "طاج ىِسخان",
+        "name:tg": "Тоҷикистон",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207"
+        ],
+        "name:fr": "Tadjikistan",
+        "name:ru": "Таджикистан",
+        "name:zh": "塔吉克斯坦",
+        "id": 7014835,
+        "name:es": "Tayikistán"
+      }
+    }
+  ]
+}

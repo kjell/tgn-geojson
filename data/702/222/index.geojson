@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4333,
+          45.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7022222",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001719",
+          "tgn:7007708",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386994"
+        ],
+        "id": 7022222,
+        "name:xx": "Umatilla Ordinance Depot"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6167,
+          24.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7022223",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002676",
+          "tgn:7007240",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 7022223,
+        "name:xx": "Barracuda Keys"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.0833,
+          44.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7022225",
+          "tgn:1000001",
+          "tgn:2001816",
+          "tgn:7012149",
+          "tgn:7007713",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300164060"
+        ],
+        "id": 7022225,
+        "name:xx": "Ellsworth Air Force Base"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.85,
+          32.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7022229",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:1002315",
+          "tgn:7007826",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7022229,
+        "name:xx": "Glenn Heights"
+      }
+    }
+  ]
+}

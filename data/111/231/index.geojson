@@ -1,0 +1,99 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.6667,
+          12.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1112311",
+          "tgn:1000004",
+          "tgn:1000135",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008694"
+        ],
+        "id": 1112311,
+        "name:xx": "Sibuyan Sea"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120,
+          6.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1112315",
+          "tgn:1000004",
+          "tgn:1000135",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008694"
+        ],
+        "id": 1112315,
+        "name:xx": "Sulu Sea"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126,
+          -10.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1112318",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008694"
+        ],
+        "id": 1112318,
+        "name:xx": "Timor Sea"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12,
+          40
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Tyrrhenian Sea",
+        "name:nl": "Tyrrheense Zee",
+        "hierarchy": [
+          "tgn:1112319",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:de": "Tyrrhenisches Meer",
+        "placetype": [
+          "aat:300008694"
+        ],
+        "name:fr": "Tyrrhénienne, Mer",
+        "name:la": "Mare Tyrrhenum",
+        "name:it": "Tirreno, Mare",
+        "id": 1112319
+      }
+    }
+  ]
+}

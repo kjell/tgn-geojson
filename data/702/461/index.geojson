@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.321,
+          77.489
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024610",
+          "tgn:7593552",
+          "tgn:1000001",
+          "tgn:7024573",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "name:kl": "Qaanaaq",
+        "id": 7024610
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.711,
+          76.531
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024611",
+          "tgn:7593552",
+          "tgn:1000001",
+          "tgn:7024573",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000456",
+          "aat:300000681",
+          "aat:300008375"
+        ],
+        "name:en": "Thule Air Base",
+        "id": 7024611
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8833,
+          35.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024613",
+          "tgn:7001242",
+          "tgn:1000199",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387394"
+        ],
+        "id": 7024613,
+        "name:xx": "Alhucemas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.35,
+          35.1833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024614",
+          "tgn:7001242",
+          "tgn:1000199",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387394"
+        ],
+        "id": 7024614,
+        "name:xx": "Vélez de la Gomera"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.15,
+          47.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024618",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386831"
+        ],
+        "id": 7024618,
+        "name:xx": "Bitterroot Range"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6833,
+          48.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7024619",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:2001274",
+          "tgn:7007524",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680",
+          "aat:300006191"
+        ],
+        "id": 7024619,
+        "name:xx": "Little Bitterroot Lake"
+      }
+    }
+  ]
+}

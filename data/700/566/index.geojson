@@ -1,0 +1,201 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7,
+          46.066667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005660",
+          "tgn:7024835",
+          "tgn:1000003",
+          "tgn:7003120",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7005660,
+        "name:xx": "Cannobio"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.383333,
+          45.633333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005661",
+          "tgn:1003478",
+          "tgn:1000003",
+          "tgn:7003120",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7005661,
+        "name:xx": "Romagnano Sesia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.416667,
+          45.316667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005662",
+          "tgn:1003510",
+          "tgn:1000003",
+          "tgn:7003120",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387236",
+          "aat:300008347",
+          "aat:300008394",
+          "aat:300008389",
+          "aat:300387308",
+          "aat:300005135",
+          "aat:300387223",
+          "aat:300387270",
+          "aat:300387285"
+        ],
+        "id": 7005662,
+        "name:xx": "Vercelli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.3333,
+          46.8333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005663",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387054",
+          "aat:300386854",
+          "aat:300387176",
+          "aat:300387120"
+        ],
+        "name:en": "Saint Pierre and Miquelon",
+        "id": 7005663
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.25,
+          45.816667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7005664",
+          "tgn:1003510",
+          "tgn:1000003",
+          "tgn:7003120",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7005664,
+        "name:xx": "Varallo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.5,
+          -14.3167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:sm": "Amerika Sāmoa",
+        "name:en": "American Samoa",
+        "name:nl": "Amerikaans Samoa",
+        "hierarchy": [
+          "tgn:7005667",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "name:de": "Amerikanisch-Samoa",
+        "placetype": [
+          "aat:300387054",
+          "aat:300386853",
+          "aat:300387176"
+        ],
+        "name:fr": "Samoa américaines",
+        "id": 7005667,
+        "name:es": "Samoa Americana"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134,
+          6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Belau",
+        "hierarchy": [
+          "tgn:7005668",
+          "tgn:1000006",
+          "tgn:7029392"
+        ],
+        "name:ar": "بالاو",
+        "name:pau": "Palau",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387176",
+          "aat:300235117",
+          "aat:300387136",
+          "aat:300235120"
+        ],
+        "name:fr": "Palaos",
+        "name:ru": "Палау",
+        "name:zh": "帕劳",
+        "id": 7005668,
+        "name:es": "Palau"
+      }
+    }
+  ]
+}

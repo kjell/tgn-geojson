@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.5,
+          33.4167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001720",
+          "tgn:1000004",
+          "tgn:7002088",
+          "tgn:1000111",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008707"
+        ],
+        "id": 7001720,
+        "name:xx": "Tongtian He"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5,
+          -26.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Swaziland",
+        "hierarchy": [
+          "tgn:7001725",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:zh": "斯威士兰",
+        "name:ar": "سوازً يَد",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300235096"
+        ],
+        "name:fr": "Swaziland",
+        "name:ru": "Свазиленд",
+        "name:ss": "eSwatini",
+        "id": 7001725,
+        "name:es": "Swazilandia"
+      }
+    }
+  ]
+}

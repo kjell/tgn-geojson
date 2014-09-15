@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4167,
+          35.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002140",
+          "tgn:1000004",
+          "tgn:7002004",
+          "tgn:7000231",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387178",
+          "aat:300008347",
+          "aat:300387007",
+          "aat:300000810",
+          "aat:300343603",
+          "aat:300387272",
+          "aat:300008375"
+        ],
+        "id": 7002140,
+        "name:xx": "Rayy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6333,
+          31.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002144",
+          "tgn:1000004",
+          "tgn:7002147",
+          "tgn:7000231",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375"
+        ],
+        "id": 7002144,
+        "name:xx": "Rāmhormoz"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49,
+          31
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002147",
+          "tgn:1000004",
+          "tgn:7000231",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300000774"
+        ],
+        "id": 7002147,
+        "name:xx": "Khūzestān"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5667,
+          29.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002148",
+          "tgn:1000004",
+          "tgn:7001282",
+          "tgn:7000231",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300264742",
+          "aat:300387223",
+          "aat:300000833",
+          "aat:300387286"
+        ],
+        "id": 7002148,
+        "name:xx": "Shīrāz"
+      }
+    }
+  ]
+}

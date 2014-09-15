@@ -1,0 +1,225 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57,
+          21
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Oman",
+        "name:xx": "ʻUmān",
+        "hierarchy": [
+          "tgn:1000131",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "عمان",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387136",
+          "aat:300235106"
+        ],
+        "name:fr": "Oman",
+        "name:ru": "Оман",
+        "name:zh": "阿曼",
+        "id": 1000131,
+        "name:es": "Omán"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84,
+          28
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Nepal",
+        "name:xx": "Nepāl",
+        "hierarchy": [
+          "tgn:1000132",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "ه بُال",
+        "name:ne": "नेपाल",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387189",
+          "aat:300235096"
+        ],
+        "name:fr": "Népal",
+        "name:ru": "Непал",
+        "name:zh": "尼泊尔",
+        "id": 1000132,
+        "name:es": "Nepal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70,
+          30
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Pakistan",
+        "name:xx": "Pākistān",
+        "hierarchy": [
+          "tgn:1000133",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "باهس خان",
+        "name:ur": "پَاکِسْ خَان",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Pakistan",
+        "name:ru": "Пакистан",
+        "name:zh": "巴基斯坦",
+        "id": 1000133,
+        "name:es": "Pakistán"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122,
+          13
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Philippines",
+        "hierarchy": [
+          "tgn:1000135",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "ا فًبَين",
+        "name:fil": "Pilipinas",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300154236",
+          "aat:300387174",
+          "aat:300387136"
+        ],
+        "name:fr": "Philippines",
+        "name:ru": "Филиппины",
+        "name:zh": "菲律宾",
+        "id": 1000135,
+        "name:es": "Filipinas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.25,
+          25.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Qatar",
+        "name:xx": "Qaṭar",
+        "hierarchy": [
+          "tgn:1000136",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "كطر",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300235119",
+          "aat:300235105"
+        ],
+        "name:fr": "Qatar",
+        "name:ru": "Катар",
+        "name:zh": "卡塔尔",
+        "id": 1000136,
+        "name:es": "Qatar"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45,
+          25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Saudi Arabia",
+        "name:nl": "Saoedi Arabië",
+        "name:xx": "As Suʻūdīyyah",
+        "hierarchy": [
+          "tgn:1000137",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:de": "Saudi-Arabien",
+        "placetype": [
+          "aat:300387054",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300235096"
+        ],
+        "name:fr": "Arabie saoudite",
+        "name:it": "Arabia Saudita",
+        "name:ru": "Саудовская Аравия",
+        "name:zh": "沙特阿拉伯",
+        "id": 1000137,
+        "name:es": "Arabia Saudita"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5,
+          15.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000139",
+          "tgn:1000004",
+          "tgn:7000261",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300128207",
+          "aat:300236112"
+        ],
+        "id": 1000139,
+        "name:xx": "South Yemen"
+      }
+    }
+  ]
+}

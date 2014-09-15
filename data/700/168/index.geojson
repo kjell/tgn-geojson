@@ -1,0 +1,154 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5833,
+          -21.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001680",
+          "tgn:7001242",
+          "tgn:1000184",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 7001680,
+        "name:xx": "Réunion"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30,
+          -2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Rwanda",
+        "hierarchy": [
+          "tgn:7001682",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "name:ar": "رواهدا",
+        "name:kin": "Rwanda",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387136"
+        ],
+        "name:fr": "Rwanda",
+        "name:ru": "Руанда",
+        "name:zh": "卢旺达",
+        "id": 7001682,
+        "name:es": "Rwanda"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70,
+          24
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001685",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387346"
+        ],
+        "id": 7001685,
+        "name:xx": "Kachchh"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7,
+          16.833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001686",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:1001882",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Bijāpur",
+        "id": 7001686
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.583333,
+          18.85
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001687",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:7016694",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7001687,
+        "name:xx": "Jeypore"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.75,
+          21.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7001689",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:7016694",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300006191"
+        ],
+        "name:en": "Hīrākūd Reservoir",
+        "id": 7001689
+      }
+    }
+  ]
+}

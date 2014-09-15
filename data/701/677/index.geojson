@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5,
+          26
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Bahrain",
+        "name:xx": "Al Baḥrayn",
+        "hierarchy": [
+          "tgn:7016770",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "ا بًحرٍن",
+        "placetype": [
+          "aat:300387054",
+          "aat:300387062",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300387136"
+        ],
+        "name:fr": "Bahreïn",
+        "name:ru": "Бахрейн",
+        "name:zh": "巴林",
+        "id": 7016770,
+        "name:es": "Bahrein"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.7833,
+          25.4333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016771",
+          "tgn:7594193",
+          "tgn:1000004",
+          "tgn:1000136",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008375",
+          "aat:300387307"
+        ],
+        "id": 7016771,
+        "name:xx": "Dukhān"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.3,
+          29.2333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016772",
+          "tgn:1001124",
+          "tgn:1000004",
+          "tgn:7000231",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 7016772,
+        "name:xx": "Khārk, Jazīreh-ye"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134,
+          7.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016773",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008694"
+        ],
+        "id": 7016773,
+        "name:xx": "Philippine Sea"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0167,
+          54.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7016779",
+          "tgn:1000004",
+          "tgn:7011565",
+          "tgn:7018214",
+          "tgn:7002435",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7016779,
+        "name:xx": "Pravdinsk"
+      }
+    }
+  ]
+}

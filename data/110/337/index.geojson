@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7667,
+          29
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103371",
+          "tgn:7001242",
+          "tgn:1000519",
+          "tgn:7016752",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008916"
+        ],
+        "id": 1103371,
+        "name:xx": "Dra'a, Hamada du"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0167,
+          26.4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103372",
+          "tgn:7001242",
+          "tgn:1000519",
+          "tgn:7016752",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008916"
+        ],
+        "id": 1103372,
+        "name:xx": "El Eglab"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27,
+          27
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103375",
+          "tgn:7001242",
+          "tgn:7016833",
+          "tgn:7001334",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008916"
+        ],
+        "id": 1103375,
+        "name:xx": "Gharbīyah, Aş Şaḩrā' al"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.0833,
+          43.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103377",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008916"
+        ],
+        "id": 1103377,
+        "name:xx": "Gobi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          30.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103378",
+          "tgn:7001242",
+          "tgn:1000519",
+          "tgn:7016752",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008916"
+        ],
+        "id": 1103378,
+        "name:xx": "Grand Erg Occidental"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7,
+          30.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1103379",
+          "tgn:7001242",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008916"
+        ],
+        "id": 1103379,
+        "name:xx": "Grand Erg Oriental"
+      }
+    }
+  ]
+}

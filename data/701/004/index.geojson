@@ -1,0 +1,274 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1,
+          47.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010040",
+          "tgn:1000003",
+          "tgn:7002875",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7010040,
+        "name:xx": "Charny"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3167,
+          48.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010041",
+          "tgn:1000003",
+          "tgn:7002883",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387330",
+          "aat:300000874",
+          "aat:300008375",
+          "aat:300387302",
+          "aat:300387299"
+        ],
+        "id": 7010041,
+        "name:xx": "Clichy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3833,
+          51.0333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Dunkirk",
+        "name:nl": "Duinkerke",
+        "hierarchy": [
+          "tgn:7010042",
+          "tgn:1000003",
+          "tgn:7001097",
+          "tgn:1000070",
+          "tgn:7029392"
+        ],
+        "name:de": "Dunkirchen",
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300120599",
+          "aat:300387286"
+        ],
+        "name:fr": "Dunkerque",
+        "id": 7010042
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.216667,
+          37.3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010043",
+          "tgn:1001643",
+          "tgn:1000003",
+          "tgn:7003122",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7010043,
+        "name:xx": "Mazzarino"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3,
+          54.6
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010044",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7019067",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Billingham",
+        "id": 7010044
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2125,
+          54.686111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010045",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7019068",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387220",
+          "aat:300387302",
+          "aat:300120599"
+        ],
+        "name:en": "Hartlepool",
+        "id": 7010045
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.183333,
+          54.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010046",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7019065",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Ormesby",
+        "id": 7010046
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.976389,
+          54.584722
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010047",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7019065",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Saltburn-by-the-Sea",
+        "id": 7010047
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.983333,
+          54.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010048",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7019065",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "name:en": "Skelton",
+        "id": 7010048
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.416667,
+          54.583333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7010049",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7019067",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387264",
+          "aat:300008389",
+          "aat:300387220",
+          "aat:300387302",
+          "aat:300120599"
+        ],
+        "name:en": "Stockton-on-Tees",
+        "id": 7010049
+      }
+    }
+  ]
+}

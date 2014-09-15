@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72,
+          44.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109780",
+          "tgn:2002131",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2109780,
+        "name:xx": "Lyndon Center"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72,
+          44.5333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109783",
+          "tgn:2002131",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2109783,
+        "name:xx": "Lyndonville"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.05,
+          44.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109784",
+          "tgn:2002131",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 2109784,
+        "name:xx": "McIndoe Falls"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3667,
+          44.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:2109785",
+          "tgn:2002131",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7007828",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387210"
+        ],
+        "id": 2109785,
+        "name:xx": "Mackville"
+      }
+    }
+  ]
+}

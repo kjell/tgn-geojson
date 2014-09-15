@@ -1,0 +1,151 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0833,
+          42.3333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100952",
+          "tgn:1000001",
+          "tgn:7593927",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007836"
+        ],
+        "id": 1100952,
+        "name:xx": "Ambassador Bridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.85,
+          46.2167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100954",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7594286",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007836"
+        ],
+        "id": 1100954,
+        "name:xx": "Astoria Bridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.35,
+          22.65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100955",
+          "tgn:1000004",
+          "tgn:7000198",
+          "tgn:1074517",
+          "tgn:1001977",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007836"
+        ],
+        "id": 1100955,
+        "name:xx": "Bālly Bridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.35,
+          53.4667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100956",
+          "tgn:7002445",
+          "tgn:7010477",
+          "tgn:7027477",
+          "tgn:1000003",
+          "tgn:7026570",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007836"
+        ],
+        "id": 1100956,
+        "name:xx": "Barton Water Swing Bridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1333,
+          40.6333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100957",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7594286",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007836"
+        ],
+        "id": 1100957,
+        "name:xx": "Bayonne Bridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1333,
+          39.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100958",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007836"
+        ],
+        "id": 1100958,
+        "name:xx": "Benjamin Franklin Bridge"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.35,
+          31.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6004362",
+          "tgn:7000275",
+          "tgn:1000004",
+          "tgn:7000901",
+          "tgn:1000120",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 6004362,
+        "name:xx": "Obi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.151,
+          10.254
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:6004365",
+          "tgn:7001027",
+          "tgn:1000004",
+          "tgn:1000145",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000810",
+          "aat:300387272",
+          "aat:300000833",
+          "aat:300386830"
+        ],
+        "id": 6004365,
+        "name:xx": "Oc Eo"
+      }
+    }
+  ]
+}

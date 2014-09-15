@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1667,
+          16.7833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002152",
+          "tgn:1000004",
+          "tgn:1002108",
+          "tgn:1000108",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300387512",
+          "aat:300387220",
+          "aat:300387272",
+          "aat:300387302",
+          "aat:300120599",
+          "aat:300387296"
+        ],
+        "id": 7002152,
+        "name:xx": "Rangoon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.2833,
+          16.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002153",
+          "tgn:1000004",
+          "tgn:1002108",
+          "tgn:1000108",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7002153,
+        "name:xx": "Syriam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.4333,
+          18.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002155",
+          "tgn:7002161",
+          "tgn:1000004",
+          "tgn:1000108",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387219",
+          "aat:300008375"
+        ],
+        "id": 7002155,
+        "name:xx": "Toungoo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3,
+          38.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002156",
+          "tgn:7002108",
+          "tgn:1000004",
+          "tgn:7000231",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387218",
+          "aat:300008389",
+          "aat:300387512",
+          "aat:300387223",
+          "aat:300387302"
+        ],
+        "id": 7002156,
+        "name:xx": "Tabrīz"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4333,
+          35.6667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002157",
+          "tgn:1000004",
+          "tgn:7002004",
+          "tgn:7000231",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387178",
+          "aat:300008347",
+          "aat:300387264",
+          "aat:300000810",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300264742",
+          "aat:300387512",
+          "aat:300387223",
+          "aat:300343603",
+          "aat:300387270",
+          "aat:300387302"
+        ],
+        "name:en": "Tehran",
+        "id": 7002157
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.4667,
+          18.4833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002158",
+          "tgn:7002161",
+          "tgn:1000004",
+          "tgn:1000108",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7002158,
+        "name:xx": "Pyu"
+      }
+    }
+  ]
+}

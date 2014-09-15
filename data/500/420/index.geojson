@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.891,
+          35.158
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:5004201",
+          "tgn:7001283",
+          "tgn:1000004",
+          "tgn:1000112",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300019275",
+          "aat:300008372",
+          "aat:300387286"
+        ],
+        "id": 5004201,
+        "name:xx": "Enkomi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2333,
+          35.0167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:5004203",
+          "tgn:7000839",
+          "tgn:1000004",
+          "tgn:1000112",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300235115",
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300387305",
+          "aat:300387272",
+          "aat:300008372"
+        ],
+        "id": 5004203,
+        "name:xx": "Politiko"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6,
+          35.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:5004204",
+          "tgn:7001283",
+          "tgn:1000004",
+          "tgn:1000112",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300008372"
+        ],
+        "id": 5004204,
+        "name:xx": "Tremethousha"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3833,
+          35.2667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:5004205",
+          "tgn:7000839",
+          "tgn:1000004",
+          "tgn:1000112",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008372"
+        ],
+        "id": 5004205,
+        "name:xx": "Vounous"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.931668,
+          31.199673
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:5004209",
+          "tgn:7001242",
+          "tgn:7001188",
+          "tgn:7016833",
+          "tgn:1001079",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300000745"
+        ],
+        "name:en": "Al Ḩaḑrah",
+        "id": 5004209
+      }
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45,
+          40
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Armenia",
+        "name:xx": "Hayastan",
+        "hierarchy": [
+          "tgn:7006651",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "أرم يِاَ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207"
+        ],
+        "name:fr": "Arménie",
+        "name:hy": "Հայաստան",
+        "name:ru": "Армения",
+        "name:zh": "亚美尼亚",
+        "id": 7006651,
+        "name:es": "Armenia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.5,
+          42
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Georgia",
+        "name:xx": "Sakartvelo",
+        "name:ka": "საქართველო",
+        "hierarchy": [
+          "tgn:7006653",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "جورج اِ",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207"
+        ],
+        "name:fr": "Géorgie",
+        "name:ru": "Грузия",
+        "name:zh": "格鲁吉亚",
+        "id": 7006653,
+        "name:es": "Georgia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75,
+          41
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:kir": "Кыргызстан",
+        "name:en": "Kyrgyzstan",
+        "name:xx": "Kyrgyzstan",
+        "hierarchy": [
+          "tgn:7006655",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "كيرغيزس خان",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207"
+        ],
+        "name:fr": "Kirghizistan",
+        "name:ru": "Кыргызстан",
+        "name:zh": "吉尔吉斯斯坦",
+        "id": 7006655,
+        "name:es": "Kirguistán"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29,
+          47
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Moldova",
+        "name:nl": "Moldavië",
+        "name:xx": "Moldavskaya",
+        "hierarchy": [
+          "tgn:7006656",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:hr": "Moldavija",
+        "name:ar": "جُهور ةً مولدّوفا",
+        "name:de": "Moldau",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207"
+        ],
+        "name:fr": "Moldova",
+        "name:ro": "Moldova",
+        "name:ru": "Республика Молдова",
+        "name:hu": "Moldva",
+        "name:zh": "摩尔多瓦共和国",
+        "id": 7006656,
+        "name:es": "Moldova"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28,
+          53
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Belarus",
+        "name:xx": "Belarus'",
+        "hierarchy": [
+          "tgn:7006657",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "name:ar": "ب لَاروس",
+        "name:de": "Belorussland",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207"
+        ],
+        "name:fr": "Bélarus",
+        "name:be": "Беларусь",
+        "name:ru": "Беларусь",
+        "name:zh": "白俄罗斯",
+        "id": 7006657,
+        "name:es": "Belarús"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60,
+          40
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Turkmenistan",
+        "hierarchy": [
+          "tgn:7006659",
+          "tgn:1000004",
+          "tgn:7029392"
+        ],
+        "name:ar": "حرنماوس خان",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207"
+        ],
+        "name:fr": "Turkménistan",
+        "name:ru": "Туркменистан",
+        "name:zh": "土库曼斯坦",
+        "id": 7006659,
+        "name:es": "Turkmenistán"
+      }
+    }
+  ]
+}

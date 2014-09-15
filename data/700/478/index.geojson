@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.0833,
+          18.0833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004782",
+          "tgn:7004582",
+          "tgn:1010101",
+          "tgn:7004550",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 7004782,
+        "name:xx": "St. Martin"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63,
+          17.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004783",
+          "tgn:7593114",
+          "tgn:7593112",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791",
+          "aat:300387346"
+        ],
+        "name:en": "Sint Eustatius",
+        "id": 7004783
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3333,
+          12.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004784",
+          "tgn:1010101",
+          "tgn:7004774",
+          "tgn:7004550",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386853"
+        ],
+        "id": 7004784,
+        "name:xx": "Grenadine Islands"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2167,
+          14.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004785",
+          "tgn:7015035",
+          "tgn:1000001",
+          "tgn:7005870",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008850"
+        ],
+        "id": 7004785,
+        "name:xx": "Saint-Martin, Cap"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.2,
+          16.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004786",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300008791",
+          "aat:300128207",
+          "aat:300387176"
+        ],
+        "name:en": "Montserrat",
+        "id": 7004786
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61,
+          11
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Trinidad and Tobago",
+        "hierarchy": [
+          "tgn:7004787",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "name:ar": "حرً دًِاد وثوباغو",
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Trinité-et-Tobago",
+        "name:ru": "Тринидад и Тобаго",
+        "name:zh": "特立尼达和多巴哥",
+        "id": 7004787,
+        "name:es": "Trinidad y Tabago"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6667,
+          11.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004788",
+          "tgn:7593622",
+          "tgn:1000001",
+          "tgn:7004787",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "name:en": "Tobago",
+        "id": 7004788
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.25,
+          10.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7004789",
+          "tgn:1000001",
+          "tgn:7004787",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "name:en": "Trinidad",
+        "id": 7004789
+      }
+    }
+  ]
+}

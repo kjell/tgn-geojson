@@ -1,0 +1,176 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.483,
+          -37.383
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593120",
+          "tgn:7014205",
+          "tgn:7001242",
+          "tgn:7005277",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 7593120,
+        "name:xx": "Stoltenhoff Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.533,
+          -37.383
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593121",
+          "tgn:7014205",
+          "tgn:7001242",
+          "tgn:7005277",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008791"
+        ],
+        "id": 7593121,
+        "name:xx": "Middle Island"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.3,
+          -37.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593122",
+          "tgn:7014205",
+          "tgn:7001242",
+          "tgn:1009513",
+          "tgn:7005277",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7593122,
+        "name:xx": "Edinburgh"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.283,
+          -37.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593123",
+          "tgn:7014205",
+          "tgn:7001242",
+          "tgn:1009513",
+          "tgn:7005277",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008795",
+          "aat:300008798"
+        ],
+        "id": 7593123,
+        "name:xx": "Queen Mary's Peak"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.833,
+          17.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593124",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387054",
+          "aat:300235114"
+        ],
+        "id": 7593124,
+        "name:xx": "Saint Barthélemy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.85,
+          17.883
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593125",
+          "tgn:7016904",
+          "tgn:1000001",
+          "tgn:7593124",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7593125,
+        "name:xx": "Gustavia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.283,
+          12.2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7593126",
+          "tgn:7593113",
+          "tgn:7016620",
+          "tgn:7593112",
+          "tgn:1000001",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7593126,
+        "name:xx": "Santa Barbara"
+      }
+    }
+  ]
+}

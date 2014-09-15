@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5,
+          54.766667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7594041",
+          "tgn:1000003",
+          "tgn:7006542",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300265612"
+        ],
+        "id": 7594041,
+        "name:xx": "Kazlų Rūdos"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.152949,
+          55.714171
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7594044",
+          "tgn:1000003",
+          "tgn:7006542",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300265612"
+        ],
+        "id": 7594044,
+        "name:xx": "Klaipėdos Miestas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.483333,
+          55.716667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7594045",
+          "tgn:1000003",
+          "tgn:7006542",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387064",
+          "aat:300265612"
+        ],
+        "id": 7594045,
+        "name:xx": "Klaipėda"
+      }
+    }
+  ]
+}

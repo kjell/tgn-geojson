@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.593,
+          36.483
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032850",
+          "tgn:7001242",
+          "tgn:1002087",
+          "tgn:1000205",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671"
+        ],
+        "id": 7032850,
+        "name:xx": "Chemtou"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.585412,
+          48.530395
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032851",
+          "tgn:1000001",
+          "tgn:7012149",
+          "tgn:7014510",
+          "tgn:7007920",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008798"
+        ],
+        "id": 7032851,
+        "name:xx": "Bald Mountain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.087677,
+          36.944175
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032857",
+          "tgn:7001242",
+          "tgn:1002098",
+          "tgn:1000205",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300262964",
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300387205",
+          "aat:300263063"
+        ],
+        "id": 7032857,
+        "name:xx": "Kerkouane"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.133333,
+          36.333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7032858",
+          "tgn:7001242",
+          "tgn:1002067",
+          "tgn:1000205",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300000810",
+          "aat:300167671",
+          "aat:300008057",
+          "aat:300020533"
+        ],
+        "id": 7032858,
+        "name:xx": "Musti"
+      }
+    }
+  ]
+}

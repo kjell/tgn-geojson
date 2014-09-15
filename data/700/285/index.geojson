@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6,
+          41.75
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002850",
+          "tgn:7001158",
+          "tgn:1000003",
+          "tgn:1000095",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387145",
+          "aat:300000774"
+        ],
+        "id": 7002850,
+        "name:xx": "Zamora"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.203,
+          48.7
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002851",
+          "tgn:1000003",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387346"
+        ],
+        "name:fr": "Alsace-Lorraine",
+        "id": 7002851,
+        "name:de": "Elsass-Lothringen"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.1667,
+          -3.6833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002852",
+          "tgn:1006256",
+          "tgn:1000004",
+          "tgn:1001409",
+          "tgn:1000116",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387223",
+          "aat:300120599"
+        ],
+        "id": 7002852,
+        "name:xx": "Ambon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5667,
+          -6.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002853",
+          "tgn:1001321",
+          "tgn:1000004",
+          "tgn:1000116",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300264742",
+          "aat:300387223"
+        ],
+        "id": 7002853,
+        "name:xx": "Bandung"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.75,
+          -6.1333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002854",
+          "tgn:1001318",
+          "tgn:1000004",
+          "tgn:1000116",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387222",
+          "aat:300387219",
+          "aat:300264742",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300120599",
+          "aat:300387286"
+        ],
+        "id": 7002854,
+        "name:xx": "Jakarta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2,
+          34
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002856",
+          "tgn:1001073",
+          "tgn:1000004",
+          "tgn:1000126",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300235115",
+          "aat:300008347",
+          "aat:300000641",
+          "aat:300008372",
+          "aat:300263063"
+        ],
+        "id": 7002856,
+        "name:xx": "Baʻlabakk"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5,
+          33.8667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7002857",
+          "tgn:1001148",
+          "tgn:1000004",
+          "tgn:1000126",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387219",
+          "aat:300264742",
+          "aat:300387512",
+          "aat:300387220",
+          "aat:300387272",
+          "aat:300387321",
+          "aat:300387284",
+          "aat:300387270",
+          "aat:300120599",
+          "aat:300387286"
+        ],
+        "name:en": "Beirut",
+        "id": 7002857
+      }
+    }
+  ]
+}

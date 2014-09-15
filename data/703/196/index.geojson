@@ -1,0 +1,172 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.338,
+          -3.083
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031961",
+          "tgn:7001242",
+          "tgn:1001690",
+          "tgn:1000203",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008181"
+        ],
+        "id": 7031961,
+        "name:xx": "Kilimanjaro Game Reserve"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.423,
+          -3
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031962",
+          "tgn:1001627",
+          "tgn:7001242",
+          "tgn:1000203",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300386975"
+        ],
+        "id": 7031962,
+        "name:xx": "Ngorongoro Conservation Area"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.508,
+          -9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031963",
+          "tgn:7001242",
+          "tgn:1000203",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008181"
+        ],
+        "id": 7031963,
+        "name:xx": "Selous Game Reserve"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.643,
+          0.561
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031965",
+          "tgn:7001242",
+          "tgn:1000206",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008189",
+          "aat:300008863"
+        ],
+        "name:en": "Kibale Forest",
+        "id": 7031965
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30,
+          0.416
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031966",
+          "tgn:7001242",
+          "tgn:1000206",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008865"
+        ],
+        "name:en": "Ruwenzori Forest Reserve",
+        "id": 7031966
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.813,
+          -25.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031968",
+          "tgn:1001925",
+          "tgn:1000047",
+          "tgn:7002458",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008189"
+        ],
+        "id": 7031968,
+        "name:xx": "Iguaçu, Parque Nacional do"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.966667,
+          -46.666667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7031969",
+          "tgn:1001623",
+          "tgn:1000049",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008680"
+        ],
+        "name:en": "San Rafael, Laguna",
+        "id": 7031969
+      }
+    }
+  ]
+}

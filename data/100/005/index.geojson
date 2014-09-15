@@ -1,0 +1,247 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72,
+          4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:pt": "Colômbia",
+        "name:en": "Colombia",
+        "hierarchy": [
+          "tgn:1000050",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "name:ar": "هووًمب اَ",
+        "name:de": "Kolumbien",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Colombie",
+        "name:ru": "Колумбия",
+        "name:zh": "哥伦比亚",
+        "id": 1000050,
+        "name:es": "Colombia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5,
+          -2
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Ecuador",
+        "hierarchy": [
+          "tgn:1000051",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "name:ar": "إهوادور",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Équateur",
+        "name:ru": "Эквадор",
+        "name:zh": "厄瓜多尔",
+        "id": 1000051,
+        "name:es": "Ecuador"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53,
+          4
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1000053",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300387176",
+          "aat:300387121"
+        ],
+        "name:en": "French Guiana",
+        "id": 1000053
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59,
+          5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Guyana",
+        "hierarchy": [
+          "tgn:1000054",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "name:ar": "غ اَنا",
+        "placetype": [
+          "aat:300387054",
+          "aat:300235115",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Guyana",
+        "name:ru": "Гайана",
+        "name:zh": "圭亚那",
+        "id": 1000054,
+        "name:es": "Guyana"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58,
+          -23
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Paraguay",
+        "hierarchy": [
+          "tgn:1000055",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "name:ar": "باراغواي",
+        "name:gn": "Paraguay",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174",
+          "aat:300055522"
+        ],
+        "name:fr": "Paraguay",
+        "name:ru": "Парагвай",
+        "name:zh": "巴拉圭",
+        "id": 1000055,
+        "name:es": "Paraguay"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76,
+          -10
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Peru",
+        "name:xx": "Perú",
+        "name:qwe": "Perú",
+        "hierarchy": [
+          "tgn:1000056",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "name:ar": "بيرو",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Pérou",
+        "name:ru": "Перу",
+        "name:zh": "秘鲁",
+        "id": 1000056,
+        "name:es": "Perú"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56,
+          -33
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Uruguay",
+        "hierarchy": [
+          "tgn:1000058",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "name:ar": "أوروغواي",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Uruguay",
+        "name:ru": "Уругвай",
+        "name:zh": "乌拉圭",
+        "id": 1000058,
+        "name:es": "Uruguay"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66,
+          8
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name:en": "Venezuela",
+        "hierarchy": [
+          "tgn:1000059",
+          "tgn:1000002",
+          "tgn:7029392"
+        ],
+        "name:ar": "فنزو لًا",
+        "placetype": [
+          "aat:300387054",
+          "aat:300179493",
+          "aat:300128207",
+          "aat:300387174"
+        ],
+        "name:fr": "Venezuela",
+        "name:ru": "Венесуэла",
+        "name:zh": "委内瑞拉",
+        "id": 1000059,
+        "name:es": "Venezuela"
+      }
+    }
+  ]
+}

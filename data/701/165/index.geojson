@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.216667,
+          51.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011654",
+          "tgn:7002445",
+          "tgn:1000003",
+          "tgn:7008153",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300387308",
+          "aat:300008375",
+          "aat:300387302"
+        ],
+        "name:en": "Dartford",
+        "id": 7011654
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.25,
+          49.95
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011655",
+          "tgn:1003530",
+          "tgn:1000003",
+          "tgn:1001780",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347"
+        ],
+        "id": 7011655,
+        "name:xx": "Kutná Hora"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7667,
+          46.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011656",
+          "tgn:1000003",
+          "tgn:1003396",
+          "tgn:7006660",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387238",
+          "aat:300000467",
+          "aat:300387511",
+          "aat:300264742",
+          "aat:300387305",
+          "aat:300387320",
+          "aat:300387220",
+          "aat:300387249",
+          "aat:300387270",
+          "aat:300387302",
+          "aat:300387309",
+          "aat:300387288"
+        ],
+        "id": 7011656,
+        "name:xx": "Odessa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5833,
+          49.5833
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:7011657",
+          "tgn:1000003",
+          "tgn:7011666",
+          "tgn:7006660",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300008347",
+          "aat:300008389",
+          "aat:300387220"
+        ],
+        "id": 7011657,
+        "name:xx": "Poltava"
+      }
+    }
+  ]
+}

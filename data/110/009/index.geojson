@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2667,
+          51.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100091",
+          "tgn:7002443",
+          "tgn:1000003",
+          "tgn:7018993",
+          "tgn:7008839",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007501"
+        ],
+        "id": 1100091,
+        "name:xx": "Saint David's Cathedral"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.95,
+          58.9667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100092",
+          "tgn:7002444",
+          "tgn:1000003",
+          "tgn:7009907",
+          "tgn:1007984",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007501"
+        ],
+        "id": 1100092,
+        "name:xx": "Saint Magnus Cathedral"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1,
+          51.5167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100093",
+          "tgn:7002445",
+          "tgn:7011798",
+          "tgn:7011781",
+          "tgn:1000003",
+          "tgn:7008136",
+          "tgn:7008591",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007501",
+          "aat:300386960"
+        ],
+        "id": 1100093,
+        "name:xx": "Saint Paul's Cathedral"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3667,
+          48.9333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100094",
+          "tgn:1000003",
+          "tgn:7002883",
+          "tgn:1000070",
+          "tgn:7009706",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007501"
+        ],
+        "id": 1100094,
+        "name:xx": "Saint-Denis, Basilique"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4667,
+          41.9
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100097",
+          "tgn:1000003",
+          "tgn:7001168",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300387272"
+        ],
+        "id": 1100097,
+        "name:xx": "San Pietro in Vaticano"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1167,
+          46.6167
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "hierarchy": [
+          "tgn:1100098",
+          "tgn:1003440",
+          "tgn:1000003",
+          "tgn:7003124",
+          "tgn:1000080",
+          "tgn:7029392"
+        ],
+        "placetype": [
+          "aat:300007501"
+        ],
+        "id": 1100098,
+        "name:xx": "San Vigilio"
+      }
+    }
+  ]
+}
